@@ -1,0 +1,18 @@
+Transformed Features and CoefficientsPunak: degree=2, λ=0.0001                       Feature   Coefficient
+0                         Area  56010.112662
+1                         Room   4372.371427
+2                  Has_Parking    842.488552
+3                Has_Warehouse -21052.888510
+4                 Has_Elevator  15415.999846
+5                       Area^2   3716.108291
+6                    Area Room    -46.996568
+7             Area Has_Parking   4261.753086
+8           Area Has_Warehouse -14255.680162
+9            Area Has_Elevator  13226.635368
+10                      Room^2   1006.540137
+11            Room Has_Parking   7307.995765
+12          Room Has_Warehouse -13109.705697
+13           Room Has_Elevator  -3823.646826
+14   Has_Parking Has_Warehouse   -755.214778
+15    Has_Parking Has_Elevator  22965.599001
+16  Has_Warehouse Has_Elevator -17335.772834

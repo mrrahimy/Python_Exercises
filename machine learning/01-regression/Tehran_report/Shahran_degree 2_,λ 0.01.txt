@@ -1,0 +1,18 @@
+Transformed Features and CoefficientsShahran: degree=2, λ=0.01                       Feature   Coefficient
+0                         Area  25318.558035
+1                         Room   5283.250494
+2                  Has_Parking -16168.287264
+3                Has_Warehouse -23935.035400
+4                 Has_Elevator   7249.435810
+5                       Area^2   1433.470331
+6                    Area Room  10031.056997
+7             Area Has_Parking    202.798837
+8           Area Has_Warehouse  -5252.549198
+9            Area Has_Elevator   1506.531701
+10                      Room^2  -3308.736897
+11            Room Has_Parking    534.252143
+12          Room Has_Warehouse   4656.109268
+13           Room Has_Elevator   -548.861090
+14   Has_Parking Has_Warehouse  23316.893297
+15    Has_Parking Has_Elevator  -2687.893124
+16  Has_Warehouse Has_Elevator   5586.515222

@@ -1,0 +1,258 @@
+Transformed Features and CoefficientsPunak: degree=8, λ=0.01                                                  Feature   Coefficient
+0                                                    Area  56591.683251
+1                                                    Room    431.223886
+2                                             Has_Parking   7181.196126
+3                                           Has_Warehouse -35803.755938
+4                                            Has_Elevator   9758.513711
+5                                                  Area^2  10306.604712
+6                                               Area Room -12730.877187
+7                                        Area Has_Parking   5642.209645
+8                                      Area Has_Warehouse  -9682.617540
+9                                       Area Has_Elevator   6518.876565
+10                                                 Room^2   7005.755689
+11                                       Room Has_Parking  -4756.327197
+12                                     Room Has_Warehouse  -1036.688040
+13                                      Room Has_Elevator   -777.287836
+14                              Has_Parking Has_Warehouse   -302.135151
+15                               Has_Parking Has_Elevator  12278.547054
+16                             Has_Warehouse Has_Elevator  -9464.572351
+17                                                 Area^3   -955.921210
+18                                            Area^2 Room    738.217147
+19                                     Area^2 Has_Parking   2955.953584
+20                                   Area^2 Has_Warehouse   4635.325848
+21                                    Area^2 Has_Elevator  -8683.851929
+22                                            Area Room^2   1054.552434
+23                                  Area Room Has_Parking  -3751.984628
+24                                Area Room Has_Warehouse   -119.602284
+25                                 Area Room Has_Elevator    860.567935
+26                         Area Has_Parking Has_Warehouse   9472.925255
+27                          Area Has_Parking Has_Elevator  -4592.054154
+28                        Area Has_Warehouse Has_Elevator    595.027044
+29                                                 Room^3   -857.163999
+30                                     Room^2 Has_Parking   2071.600561
+31                                   Room^2 Has_Warehouse    968.092250
+32                                    Room^2 Has_Elevator    488.378285
+33                         Room Has_Parking Has_Warehouse    -85.740636
+34                          Room Has_Parking Has_Elevator   -373.401063
+35                        Room Has_Warehouse Has_Elevator  -1558.896527
+36                 Has_Parking Has_Warehouse Has_Elevator   7830.129082
+37                                                 Area^4      8.280910
+38                                            Area^3 Room   1227.799518
+39                                     Area^3 Has_Parking  -2289.394577
+40                                   Area^3 Has_Warehouse   -539.662839
+41                                    Area^3 Has_Elevator    585.684625
+42                                          Area^2 Room^2   1195.192697
+43                                Area^2 Room Has_Parking  -2250.498651
+44                              Area^2 Room Has_Warehouse     74.873027
+45                               Area^2 Room Has_Elevator   -482.205762
+46                       Area^2 Has_Parking Has_Warehouse   3117.801349
+47                        Area^2 Has_Parking Has_Elevator  -4273.588713
+48                      Area^2 Has_Warehouse Has_Elevator      9.850013
+49                                            Area Room^3   -639.543029
+50                                Area Room^2 Has_Parking   2795.283520
+51                              Area Room^2 Has_Warehouse   -267.579847
+52                               Area Room^2 Has_Elevator    -28.950146
+53                    Area Room Has_Parking Has_Warehouse  -5033.012410
+54                     Area Room Has_Parking Has_Elevator   -297.397650
+55                   Area Room Has_Warehouse Has_Elevator    722.725680
+56            Area Has_Parking Has_Warehouse Has_Elevator   6653.153765
+57                                                 Room^4    443.161881
+58                                     Room^3 Has_Parking   -519.959896
+59                                   Room^3 Has_Warehouse   -298.937592
+60                                    Room^3 Has_Elevator    -85.080294
+61                       Room^2 Has_Parking Has_Warehouse     58.242350
+62                        Room^2 Has_Parking Has_Elevator    246.696967
+63                      Room^2 Has_Warehouse Has_Elevator    871.274067
+64            Room Has_Parking Has_Warehouse Has_Elevator    682.844588
+65                                                 Area^5     -0.696773
+66                                            Area^4 Room    183.063103
+67                                     Area^4 Has_Parking   -290.079509
+68                                   Area^4 Has_Warehouse     54.077926
+69                                    Area^4 Has_Elevator    -50.293323
+70                                          Area^3 Room^2    292.883039
+71                                Area^3 Room Has_Parking    797.538869
+72                              Area^3 Room Has_Warehouse    -12.012833
+73                               Area^3 Room Has_Elevator     53.912986
+74                       Area^3 Has_Parking Has_Warehouse  -2439.417975
+75                        Area^3 Has_Parking Has_Elevator     55.714089
+76                      Area^3 Has_Warehouse Has_Elevator    -11.489445
+77                                          Area^2 Room^3    -22.568581
+78                              Area^2 Room^2 Has_Parking   1198.474994
+79                            Area^2 Room^2 Has_Warehouse     61.555736
+80                             Area^2 Room^2 Has_Elevator     22.979775
+81                  Area^2 Room Has_Parking Has_Warehouse  -2463.472484
+82                   Area^2 Room Has_Parking Has_Elevator   -299.200543
+83                 Area^2 Room Has_Warehouse Has_Elevator   -107.413007
+84          Area^2 Has_Parking Has_Warehouse Has_Elevator   -815.231520
+85                                            Area Room^4    308.403426
+86                                Area Room^3 Has_Parking  -1352.828380
+87                              Area Room^3 Has_Warehouse    135.137020
+88                               Area Room^3 Has_Elevator     56.764137
+89                  Area Room^2 Has_Parking Has_Warehouse   2018.458034
+90                   Area Room^2 Has_Parking Has_Elevator    -33.293264
+91                 Area Room^2 Has_Warehouse Has_Elevator   -225.735228
+92       Area Room Has_Parking Has_Warehouse Has_Elevator  -4048.768118
+93                                                 Room^5    470.761565
+94                                     Room^4 Has_Parking    668.713753
+95                                   Room^4 Has_Warehouse    239.145383
+96                                    Room^4 Has_Elevator     46.560577
+97                       Room^3 Has_Parking Has_Warehouse   -518.862317
+98                        Room^3 Has_Parking Has_Elevator   -107.583224
+99                      Room^3 Has_Warehouse Has_Elevator   -326.551394
+100         Room^2 Has_Parking Has_Warehouse Has_Elevator    307.252323
+101                                                Area^6    -15.274565
+102                                           Area^5 Room     86.931534
+103                                    Area^5 Has_Parking    -49.678229
+104                                  Area^5 Has_Warehouse     -4.458168
+105                                   Area^5 Has_Elevator      2.811598
+106                                         Area^4 Room^2    185.553947
+107                               Area^4 Room Has_Parking   -147.432199
+108                             Area^4 Room Has_Warehouse      1.090260
+109                              Area^4 Room Has_Elevator     -6.564050
+110                      Area^4 Has_Parking Has_Warehouse   -279.504007
+111                       Area^4 Has_Parking Has_Elevator      1.940614
+112                     Area^4 Has_Warehouse Has_Elevator      1.930557
+113                                         Area^3 Room^3    393.606246
+114                             Area^3 Room^2 Has_Parking   -376.501975
+115                           Area^3 Room^2 Has_Warehouse     -7.179351
+116                            Area^3 Room^2 Has_Elevator     -9.555530
+117                 Area^3 Room Has_Parking Has_Warehouse    794.237154
+118                  Area^3 Room Has_Parking Has_Elevator     28.853037
+119                Area^3 Room Has_Warehouse Has_Elevator     14.179655
+120         Area^3 Has_Parking Has_Warehouse Has_Elevator  -2342.679621
+121                                         Area^2 Room^4    302.675160
+122                             Area^2 Room^3 Has_Parking   -500.256735
+123                           Area^2 Room^3 Has_Warehouse    -20.624700
+124                            Area^2 Room^3 Has_Elevator    -23.673726
+125               Area^2 Room^2 Has_Parking Has_Warehouse   1121.279779
+126                Area^2 Room^2 Has_Parking Has_Elevator     39.660594
+127              Area^2 Room^2 Has_Warehouse Has_Elevator     49.386544
+128    Area^2 Room Has_Parking Has_Warehouse Has_Elevator  -2553.198572
+129                                           Area Room^5   -346.399460
+130                               Area Room^4 Has_Parking    674.791655
+131                             Area Room^4 Has_Warehouse    -53.571261
+132                              Area Room^4 Has_Elevator    -14.581532
+133                 Area Room^3 Has_Parking Has_Warehouse  -1430.307875
+134                  Area Room^3 Has_Parking Has_Elevator     29.565787
+135                Area Room^3 Has_Warehouse Has_Elevator    132.163717
+136    Area Room^2 Has_Parking Has_Warehouse Has_Elevator   2246.230126
+137                                                Room^6    -28.471170
+138                                    Room^5 Has_Parking     28.434781
+139                                  Room^5 Has_Warehouse    -77.946188
+140                                   Room^5 Has_Elevator    -11.694035
+141                      Room^4 Has_Parking Has_Warehouse   -127.563060
+142                       Room^4 Has_Parking Has_Elevator     25.897083
+143                     Room^4 Has_Warehouse Has_Elevator    224.397098
+144         Room^3 Has_Parking Has_Warehouse Has_Elevator    187.669912
+145                                                Area^7    -16.739535
+146                                           Area^6 Room     18.537779
+147                                    Area^6 Has_Parking     -2.889947
+148                                  Area^6 Has_Warehouse      0.337231
+149                                   Area^6 Has_Elevator     -0.146092
+150                                         Area^5 Room^2     42.157826
+151                               Area^5 Room Has_Parking     11.427029
+152                             Area^5 Room Has_Warehouse     -0.080008
+153                              Area^5 Room Has_Elevator      0.644704
+154                      Area^5 Has_Parking Has_Warehouse    -50.293156
+155                       Area^5 Has_Parking Has_Elevator     -1.401582
+156                     Area^5 Has_Warehouse Has_Elevator     -0.210675
+157                                         Area^4 Room^3     71.220401
+158                             Area^4 Room^2 Has_Parking     54.880589
+159                           Area^4 Room^2 Has_Warehouse      0.745392
+160                            Area^4 Room^2 Has_Elevator      1.563166
+161                 Area^4 Room Has_Parking Has_Warehouse   -148.527904
+162                  Area^4 Room Has_Parking Has_Elevator     -3.958496
+163                Area^4 Room Has_Warehouse Has_Elevator     -1.353263
+164         Area^4 Has_Parking Has_Warehouse Has_Elevator   -280.977947
+165                                         Area^3 Room^4    116.847333
+166                             Area^3 Room^3 Has_Parking    177.317715
+167                           Area^3 Room^3 Has_Warehouse      2.831396
+168                            Area^3 Room^3 Has_Elevator      4.763216
+169               Area^3 Room^2 Has_Parking Has_Warehouse   -381.991034
+170                Area^3 Room^2 Has_Parking Has_Elevator    -10.058068
+171              Area^3 Room^2 Has_Warehouse Has_Elevator     -5.876689
+172    Area^3 Room Has_Parking Has_Warehouse Has_Elevator    813.092495
+173                                         Area^2 Room^5   -359.546488
+174                             Area^2 Room^4 Has_Parking    244.224649
+175                           Area^2 Room^4 Has_Warehouse     10.519189
+176                            Area^2 Room^4 Has_Elevator      8.963054
+177               Area^2 Room^3 Has_Parking Has_Warehouse   -505.401757
+178                Area^2 Room^3 Has_Parking Has_Elevator    -21.333056
+179              Area^2 Room^3 Has_Warehouse Has_Elevator    -20.523135
+180  Area^2 Room^2 Has_Parking Has_Warehouse Has_Elevator   1124.301404
+181                                           Area Room^6   -299.714568
+182                               Area Room^5 Has_Parking   -383.160110
+183                             Area Room^5 Has_Warehouse     27.222566
+184                              Area Room^5 Has_Elevator     13.284633
+185                 Area Room^4 Has_Parking Has_Warehouse    653.097896
+186                  Area Room^4 Has_Parking Has_Elevator    -10.022336
+187                Area Room^4 Has_Warehouse Has_Elevator    -49.551934
+188    Area Room^3 Has_Parking Has_Warehouse Has_Elevator  -1388.412424
+189                                                Room^7    304.140013
+190                                    Room^6 Has_Parking     15.991487
+191                                  Room^6 Has_Warehouse     52.202272
+192                                   Room^6 Has_Elevator     -1.490110
+193                      Room^5 Has_Parking Has_Warehouse    -10.476461
+194                       Room^5 Has_Parking Has_Elevator      1.769574
+195                     Room^5 Has_Warehouse Has_Elevator    -79.172939
+196         Room^4 Has_Parking Has_Warehouse Has_Elevator    -61.431599
+197                                                Area^8     -7.349675
+198                                           Area^7 Room      3.838303
+199                                    Area^7 Has_Parking     -0.328520
+200                                  Area^7 Has_Warehouse     -0.024158
+201                                   Area^7 Has_Elevator      0.005402
+202                                         Area^6 Room^2     11.074979
+203                               Area^6 Room Has_Parking     -1.215302
+204                             Area^6 Room Has_Warehouse      0.004918
+205                              Area^6 Room Has_Elevator     -0.061460
+206                      Area^6 Has_Parking Has_Warehouse     -2.810963
+207                       Area^6 Has_Parking Has_Elevator      0.170230
+208                     Area^6 Has_Warehouse Has_Elevator      0.019470
+209                                         Area^5 Room^3     27.119807
+210                             Area^5 Room^2 Has_Parking     -5.838654
+211                           Area^5 Room^2 Has_Warehouse     -0.064465
+212                            Area^5 Room^2 Has_Elevator     -0.205805
+213                 Area^5 Room Has_Parking Has_Warehouse     11.646276
+214                  Area^5 Room Has_Parking Has_Elevator      0.438716
+215                Area^5 Room Has_Warehouse Has_Elevator      0.119489
+216         Area^5 Has_Parking Has_Warehouse Has_Elevator    -51.387512
+217                                         Area^4 Room^4     55.334907
+218                             Area^4 Room^3 Has_Parking    -25.917168
+219                           Area^4 Room^3 Has_Warehouse     -0.268832
+220                            Area^4 Room^3 Has_Elevator     -0.801557
+221               Area^4 Room^2 Has_Parking Has_Warehouse     55.521831
+222                Area^4 Room^2 Has_Parking Has_Elevator      1.680268
+223              Area^4 Room^2 Has_Warehouse Has_Elevator      0.592596
+224    Area^4 Room Has_Parking Has_Warehouse Has_Elevator   -150.853382
+225                                         Area^3 Room^5     63.071815
+226                             Area^3 Room^4 Has_Parking    -80.059793
+227                           Area^3 Room^4 Has_Warehouse     -1.226189
+228                            Area^3 Room^4 Has_Elevator     -2.233252
+229               Area^3 Room^3 Has_Parking Has_Warehouse    176.276572
+230                Area^3 Room^3 Has_Parking Has_Elevator      4.736345
+231              Area^3 Room^3 Has_Warehouse Has_Elevator      2.712749
+232  Area^3 Room^2 Has_Parking Has_Warehouse Has_Elevator   -381.983029
+233                                         Area^2 Room^6     -0.080399
+234                             Area^2 Room^5 Has_Parking   -111.445542
+235                           Area^2 Room^5 Has_Warehouse     -4.407567
+236                            Area^2 Room^5 Has_Elevator     -3.886105
+237               Area^2 Room^4 Has_Parking Has_Warehouse    249.270316
+238                Area^2 Room^4 Has_Parking Has_Elevator      8.197172
+239              Area^2 Room^4 Has_Warehouse Has_Elevator     10.141136
+240  Area^2 Room^3 Has_Parking Has_Warehouse Has_Elevator   -521.071383
+241                                           Area Room^7   -110.782208
+242                               Area Room^6 Has_Parking    128.379525
+243                             Area Room^6 Has_Warehouse    -11.546636
+244                              Area Room^6 Has_Elevator     -0.630174
+245                 Area Room^5 Has_Parking Has_Warehouse   -283.553653
+246                  Area Room^5 Has_Parking Has_Elevator      1.788718
+247                Area Room^5 Has_Warehouse Has_Elevator     27.509909
+248    Area Room^4 Has_Parking Has_Warehouse Has_Elevator    508.238187
+249                                                Room^8     45.175789
+250                                    Room^7 Has_Parking      4.940206
+251                                  Room^7 Has_Warehouse    -18.480996
+252                                   Room^7 Has_Elevator      1.062320
+253                      Room^6 Has_Parking Has_Warehouse    -24.964168
+254                       Room^6 Has_Parking Has_Elevator     -3.267587
+255                     Room^6 Has_Warehouse Has_Elevator     50.042297
+256         Room^5 Has_Parking Has_Warehouse Has_Elevator     47.396851

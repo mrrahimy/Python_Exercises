@@ -1,0 +1,38 @@
+Transformed Features and CoefficientsWest Ferdows Boulevard: degree=3, λ=100.0                                   Feature   Coefficient
+0                                     Area  1.472787e+04
+1                                     Room  0.000000e+00
+2                              Has_Parking  0.000000e+00
+3                            Has_Warehouse  0.000000e+00
+4                             Has_Elevator  1.133498e+04
+5                                   Area^2  3.852034e+02
+6                                Area Room -0.000000e+00
+7                         Area Has_Parking  0.000000e+00
+8                       Area Has_Warehouse  8.185762e+03
+9                        Area Has_Elevator  7.721964e+02
+10                                  Room^2 -2.128463e+01
+11                        Room Has_Parking  0.000000e+00
+12                      Room Has_Warehouse  0.000000e+00
+13                       Room Has_Elevator -0.000000e+00
+14               Has_Parking Has_Warehouse  0.000000e+00
+15                Has_Parking Has_Elevator  8.837869e+03
+16              Has_Warehouse Has_Elevator  1.086086e-12
+17                                  Area^3 -0.000000e+00
+18                             Area^2 Room  4.692998e+03
+19                      Area^2 Has_Parking  8.123123e+03
+20                    Area^2 Has_Warehouse  5.214530e+02
+21                     Area^2 Has_Elevator -6.753229e+03
+22                             Area Room^2 -1.258472e+02
+23                   Area Room Has_Parking -0.000000e+00
+24                 Area Room Has_Warehouse -0.000000e+00
+25                  Area Room Has_Elevator -5.040857e+03
+26          Area Has_Parking Has_Warehouse  0.000000e+00
+27           Area Has_Parking Has_Elevator  0.000000e+00
+28         Area Has_Warehouse Has_Elevator  0.000000e+00
+29                                  Room^3 -1.567431e+03
+30                      Room^2 Has_Parking -0.000000e+00
+31                    Room^2 Has_Warehouse -7.118009e+01
+32                     Room^2 Has_Elevator  0.000000e+00
+33          Room Has_Parking Has_Warehouse  0.000000e+00
+34           Room Has_Parking Has_Elevator -5.094136e+03
+35         Room Has_Warehouse Has_Elevator -6.656647e-14
+36  Has_Parking Has_Warehouse Has_Elevator  0.000000e+00

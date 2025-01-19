@@ -1,0 +1,18 @@
+Transformed Features and CoefficientsParand: degree=2, λ=1e-08                       Feature  Coefficient
+0                         Area  4026.199493
+1                         Room   -10.516403
+2                  Has_Parking  4627.576477
+3                Has_Warehouse  4319.067720
+4                 Has_Elevator  2924.581009
+5                       Area^2  1026.153026
+6                    Area Room  2684.405837
+7             Area Has_Parking   616.803286
+8           Area Has_Warehouse  -390.111814
+9            Area Has_Elevator  4724.842286
+10                      Room^2 -1142.283381
+11            Room Has_Parking  3231.304855
+12          Room Has_Warehouse -3205.743423
+13           Room Has_Elevator   896.838958
+14   Has_Parking Has_Warehouse  2266.531130
+15    Has_Parking Has_Elevator -3972.107814
+16  Has_Warehouse Has_Elevator -4681.014270

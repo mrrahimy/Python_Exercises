@@ -1,0 +1,18 @@
+Transformed Features and CoefficientsWest Ferdows Boulevard: degree=2, λ=0.01                       Feature   Coefficient
+0                         Area  14497.191200
+1                         Room  -2042.412545
+2                  Has_Parking  13272.477633
+3                Has_Warehouse  -7936.175752
+4                 Has_Elevator  23639.824908
+5                       Area^2   6847.122473
+6                    Area Room    757.792604
+7             Area Has_Parking   9850.086403
+8           Area Has_Warehouse   -194.392167
+9            Area Has_Elevator  -2491.204426
+10                      Room^2  -2216.579395
+11            Room Has_Parking  -1074.815089
+12          Room Has_Warehouse   2449.213608
+13           Room Has_Elevator   -743.430580
+14   Has_Parking Has_Warehouse   3401.772036
+15    Has_Parking Has_Elevator  -9354.591433
+16  Has_Warehouse Has_Elevator     -0.000000

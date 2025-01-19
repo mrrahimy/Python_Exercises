@@ -1,0 +1,38 @@
+Transformed Features and CoefficientsPardis: degree=3, λ=100.0                                   Feature   Coefficient
+0                                     Area   2238.217384
+1                                     Room     -0.000000
+2                              Has_Parking  10373.766944
+3                            Has_Warehouse      0.199196
+4                             Has_Elevator -20246.557152
+5                                   Area^2      0.000000
+6                                Area Room     -0.000000
+7                         Area Has_Parking      0.000000
+8                       Area Has_Warehouse      0.000000
+9                        Area Has_Elevator      0.000000
+10                                  Room^2   -158.494786
+11                        Room Has_Parking     -0.000000
+12                      Room Has_Warehouse     -0.000000
+13                       Room Has_Elevator     -0.000000
+14               Has_Parking Has_Warehouse   2536.681607
+15                Has_Parking Has_Elevator  -8352.663234
+16              Has_Warehouse Has_Elevator  -3910.691451
+17                                  Area^3    516.721293
+18                             Area^2 Room   -391.381585
+19                      Area^2 Has_Parking      0.000000
+20                    Area^2 Has_Warehouse    483.732427
+21                     Area^2 Has_Elevator      0.000000
+22                             Area Room^2     -0.000000
+23                   Area Room Has_Parking     -0.000000
+24                 Area Room Has_Warehouse     -0.000000
+25                  Area Room Has_Elevator     -0.000000
+26          Area Has_Parking Has_Warehouse      0.000000
+27           Area Has_Parking Has_Elevator      0.000000
+28         Area Has_Warehouse Has_Elevator      0.000000
+29                                  Room^3    -71.848092
+30                      Room^2 Has_Parking     -7.514165
+31                    Room^2 Has_Warehouse    -54.795378
+32                     Room^2 Has_Elevator    -20.049838
+33          Room Has_Parking Has_Warehouse     -0.000000
+34           Room Has_Parking Has_Elevator     -0.000000
+35         Room Has_Warehouse Has_Elevator     -0.000000
+36  Has_Parking Has_Warehouse Has_Elevator    -22.531950

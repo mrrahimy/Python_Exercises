@@ -1,0 +1,38 @@
+Transformed Features and CoefficientsShahran: degree=3, λ=0.0001                                   Feature   Coefficient
+0                                     Area  29675.310158
+1                                     Room  -6519.456108
+2                              Has_Parking  -5754.875689
+3                            Has_Warehouse -37085.274468
+4                             Has_Elevator   1028.314086
+5                                   Area^2   2521.754987
+6                                Area Room  -3140.433883
+7                         Area Has_Parking   6576.889313
+8                       Area Has_Warehouse  -3185.378929
+9                        Area Has_Elevator  -5292.755928
+10                                  Room^2   6331.987635
+11                        Room Has_Parking  -5747.015426
+12                      Room Has_Warehouse   8543.539919
+13                       Room Has_Elevator   8138.633322
+14               Has_Parking Has_Warehouse  30335.287460
+15                Has_Parking Has_Elevator -11168.915602
+16              Has_Warehouse Has_Elevator   6859.432373
+17                                  Area^3  -3587.337159
+18                             Area^2 Room   4345.611407
+19                      Area^2 Has_Parking -10559.392769
+20                    Area^2 Has_Warehouse  11373.329079
+21                     Area^2 Has_Elevator   3103.993865
+22                             Area Room^2    402.426969
+23                   Area Room Has_Parking  -4010.269706
+24                 Area Room Has_Warehouse  -3743.089207
+25                  Area Room Has_Elevator  14416.874640
+26          Area Has_Parking Has_Warehouse   5460.257712
+27           Area Has_Parking Has_Elevator -10498.731067
+28         Area Has_Warehouse Has_Elevator   1254.556628
+29                                  Room^3  -2185.931994
+30                      Room^2 Has_Parking   3616.418288
+31                    Room^2 Has_Warehouse  -4470.524892
+32                     Room^2 Has_Elevator  -4885.212638
+33          Room Has_Parking Has_Warehouse  -9647.936227
+34           Room Has_Parking Has_Elevator  16564.754632
+35         Room Has_Warehouse Has_Elevator   2005.050730
+36  Has_Parking Has_Warehouse Has_Elevator   1188.641960

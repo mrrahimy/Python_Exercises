@@ -1,0 +1,844 @@
+{
+    "examples": [
+        {
+            "word": "equivocate",
+            "examples": [
+                {
+                    "english": "The politician tried to equivocate when asked about his stance on the controversial issue.",
+                    "persian": "این سیاست‌مدار وقتی درباره موضعش در مورد موضوع بحث‌برانگیز سوال شد، سعی کرد با زبان مبهم پاسخ دهد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Don't equivocate—just give me a straight answer!",
+                    "persian": "طفره نرو—فقط یک جواب مستقیم به من بده!",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "She equivocated during the interview, avoiding any clear commitment to the project.",
+                    "persian": "او در طول مصاحبه طفره رفت و از هر گونه تعهد واضح به پروژه اجتناب کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The CEO's tendency to equivocate made it difficult for employees to understand the company's direction.",
+                    "persian": "تمایل مدیرعامل به استفاده از زبان مبهم باعث شد کارمندان درک جهت‌گیری شرکت را دشوار پیدا کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "When pressed for details, he began to equivocate, leaving everyone more confused than before.",
+                    "persian": "وقتی برای جزئیات تحت فشار قرار گرفت، شروع به استفاده از زبان مبهم کرد و همه را بیشتر از قبل سردرگم کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "enervate",
+            "examples": [
+                {
+                    "english": "The scorching heat of the desert can enervate even the strongest travelers.",
+                    "persian": "گرمای سوزان صحرا می‌تواند حتی قوی‌ترین مسافران را ضعیف و بی‌حال کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The constant stress of his job enervated him, leaving him exhausted every evening.",
+                    "persian": "استرس مداوم شغلش او را ضعیف کرد و هر شب خسته و بی‌حال به خانه می‌آمد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The long and tedious meeting enervated everyone in the room.",
+                    "persian": "جلسه طولانی و خسته‌کننده همه افراد حاضر در اتاق را ضعیف و بی‌حال کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The illness enervated her so much that she could barely get out of bed.",
+                    "persian": "بیماری آنقدر او را ضعیف کرد که به سختی می‌توانست از تخت بلند شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The emotional toll of the argument enervated both of them, leaving them silent and drained.",
+                    "persian": "فشار عاطفی ناشی از بحث هر دو را ضعیف کرد و آن‌ها را ساکت و بی‌حال رها کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "auspicious",
+            "examples": [
+                {
+                    "english": "The clear sky on the morning of the wedding was an auspicious sign.",
+                    "persian": "آسمان آبی و صاف در صبح روز عروسی نشانه‌ای خوش‌یمن بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The team's victory in their first game was an auspicious start to the season.",
+                    "persian": "پیروزی تیم در اولین بازی‌شان شروع خوش‌یمنی برای فصل بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The discovery of the new vaccine was an auspicious moment in the fight against the disease.",
+                    "persian": "کشف واکسن جدید لحظه‌ای خوش‌یمن در مبارزه با بیماری بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The CEO's speech on the first day of the new year set an auspicious tone for the company's future.",
+                    "persian": "سخنرانی مدیرعامل در اولین روز سال جدید، حال و هوای خوش‌یمنی برای آینده شرکت ایجاد کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The ancient Romans believed that seeing an eagle before a battle was an auspicious omen.",
+                    "persian": "رومیان باستان معتقد بودند که دیدن یک عقاب قبل از نبرد، نشانه‌ای خوش‌یمن است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "ambivalent",
+            "examples": [
+                {
+                    "english": "She felt ambivalent about accepting the job offer, as it required moving to another city.",
+                    "persian": "او درباره پذیرفتن پیشنهاد شغل احساس دوگانه داشت، چون نیاز به نقل مکان به شهر دیگری بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "His ambivalent attitude toward the project made it hard for the team to proceed.",
+                    "persian": "نگرش دوگانه او نسبت به پروژه، ادامه کار را برای تیم دشوار کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "I'm ambivalent about the new policy—it has both advantages and disadvantages.",
+                    "persian": "من درباره سیاست جدید احساس دوگانه دارم—هم مزایا و هم معایبی دارد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The audience was ambivalent about the movie; some loved it, while others hated it.",
+                    "persian": "واکنش تماشاگران به فیلم دوگانه بود؛ برخی آن را دوست داشتند، در حالی که دیگران از آن متنفر بودند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "He was ambivalent about attending the party, torn between wanting to go and needing to rest.",
+                    "persian": "او درباره رفتن به مهمانی احساس دوگانه داشت، بین تمایل به رفتن و نیاز به استراحت گیر کرده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "checkered",
+            "examples": [
+                {
+                    "english": "The city has a checkered history, filled with periods of prosperity and times of conflict.",
+                    "persian": "این شهر تاریخی پر فراز و نشیب دارد، مملو از دوره‌های رونق و زمان‌های درگیری.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Her checkered past made it difficult for her to find a stable job.",
+                    "persian": "گذشته پر فراز و نشیب او باعث شد پیدا کردن شغل ثابت برایش دشوار باشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The team's performance has been checkered this season, with both wins and unexpected losses.",
+                    "persian": "عملکرد تیم این فصل پر فراز و نشیب بوده، با ترکیبی از بردها و باخت‌های غیرمنتظره.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The politician's checkered reputation made it hard for him to gain public trust.",
+                    "persian": "شهرت پر فراز و نشیب این سیاست‌مدار باعث شد کسب اعتماد عمومی برایش دشوار باشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The company has a checkered record, with some groundbreaking innovations and a few legal controversies.",
+                    "persian": "این شرکت سابقه‌ای پر فراز و نشیب دارد، با برخی نوآوری‌های پیشگامانه و چند جنجال حقوقی.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "pugnacious",
+            "examples": [
+                {
+                    "english": "The pugnacious student always seemed to be looking for a fight.",
+                    "persian": "دانش‌آموز جنگ‌طلب همیشه به نظر می‌رسید که در حال دنبال کردن یک دعواست.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "His pugnacious attitude made it difficult for him to keep friends.",
+                    "persian": "رفتار جنگ‌طلبانه او باعث می‌شد حفظ دوستان برایش دشوار باشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The politician's pugnacious speech stirred up controversy among the audience.",
+                    "persian": "سخنرانی جنجالی سیاست‌مدار باعث ایجاد بحث و جدل در میان حضار شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The boxer's pugnacious nature made him a formidable opponent in the ring.",
+                    "persian": "طبیعت جنگ‌طلب بوکسور او را به حریفی شکست‌ناپذیر در رینگ تبدیل کرده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Despite his small size, the pugnacious little dog would bark at anyone who came near.",
+                    "persian": "با وجود جثه کوچکش، سگ کوچک جنگ‌طلب به هر کسی که نزدیک می‌شد پارس می‌کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "disparate",
+            "examples": [
+                {
+                    "english": "The group was made up of disparate individuals with very different backgrounds.",
+                    "persian": "گروه از افراد کاملاً متفاوت با پیشینه‌های بسیار مختلف تشکیل شده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The novel weaves together disparate storylines into a cohesive narrative.",
+                    "persian": "رمان داستان‌های کاملاً متفاوت را در یک روایت منسجم به هم می‌بافد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The committee struggled to reconcile the disparate opinions of its members.",
+                    "persian": "کمیته برای هماهنگ کردن نظرات کاملاً متفاوت اعضای خود تلاش زیادی کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The artist's work combines disparate elements to create something entirely new.",
+                    "persian": "کار هنرمند عناصر کاملاً متفاوت را ترکیب می‌کند تا چیزی کاملاً جدید خلق کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The two theories, though disparate, both offer valuable insights into the problem.",
+                    "persian": "این دو نظریه، اگرچه کاملاً متفاوت هستند، هر دو بینش‌های ارزشمندی درباره مشکل ارائه می‌دهند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "egregious",
+            "examples": [
+                {
+                    "english": "The company was fined for its egregious violation of environmental laws.",
+                    "persian": "شرکت به دلیل نقض فاحش قوانین محیط زیست جریمه شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The politician's egregious lies were exposed by the media.",
+                    "persian": "دروغ‌های فاحش سیاست‌مدار توسط رسانه‌ها افشا شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "It was an egregious error to overlook such an important detail in the report.",
+                    "persian": "نادیده گرفتن چنین جزئیات مهمی در گزارش یک اشتباه فاحش بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The teacher was shocked by the student's egregious lack of effort.",
+                    "persian": "معلم از بی‌تلاشی فاحش دانش‌آموز شوکه شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The film was criticized for its egregious use of stereotypes.",
+                    "persian": "فیلم به دلیل استفاده فاحش از کلیشه‌ها مورد انتقاد قرار گرفت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "innocuous",
+            "examples": [
+                {
+                    "english": "The spider looked scary but was completely innocuous.",
+                    "persian": "عنکبوت ترسناک به نظر می‌رسید اما کاملاً بی‌ضرر بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Her comment seemed innocuous, but it actually offended some people.",
+                    "persian": "نظر او به نظر بی‌ضرر می‌رسید، اما در واقع برخی را ناراحت کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The substance was tested and found to be innocuous to humans.",
+                    "persian": "این ماده آزمایش شد و مشخص شد که برای انسان‌ها بی‌ضرر است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "He made an innocuous joke to lighten the mood in the room.",
+                    "persian": "او یک شوخی بی‌ضرر کرد تا جو اتاق را شادتر کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The changes to the policy were minor and largely innocuous.",
+                    "persian": "تغییرات در سیاست جزئی و عمدتاً بی‌ضرر بودند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "candid",
+            "examples": [
+                {
+                    "english": "She gave a candid answer, even though it wasn't what people wanted to hear.",
+                    "persian": "او پاسخ صادقانه‌ای داد، حتی اگر چیزی نبود که مردم می‌خواستند بشنوند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The politician's candid remarks about the challenges ahead surprised everyone.",
+                    "persian": "اظهارات صادقانه سیاست‌مدار درباره چالش‌های پیش رو همه را شگفت‌زده کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-23 23:29:17"
+                },
+                {
+                    "english": "I appreciate your candid feedback—it helps me improve.",
+                    "persian": "از بازخورد صادقانه‌ات قدردانم—به من کمک می‌کند تا بهتر شوم.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The documentary offers a candid look at the lives of the workers.",
+                    "persian": "این مستند نگاهی صادقانه به زندگی کارگران ارائه می‌دهد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "He was candid about his mistakes and promised to do better.",
+                    "persian": "او درباره اشتباهاتش صادق بود و قول داد بهتر عمل کند.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-23 23:35:50"
+                }
+            ]
+        },
+        {
+            "word": "erratic",
+            "examples": [
+                {
+                    "english": "The weather has been erratic lately, with sudden rainstorms and heatwaves.",
+                    "persian": "آب‌وهوا اخیراً غیرقابل پیش‌بینی بوده، با باران‌های ناگهانی و موج‌های گرما.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "His erratic driving made everyone in the car nervous.",
+                    "persian": "رانندگی غیرقابل پیش‌بینی او همه سرنشینان ماشین را عصبی کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The team's performance has been erratic this season, with both wins and unexpected losses.",
+                    "persian": "عملکرد تیم این فصل غیرقابل پیش‌بینی بوده، با ترکیبی از بردها و باخت‌های غیرمنتظره.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Her erratic behavior at work raised concerns among her colleagues.",
+                    "persian": "رفتار غیرقابل پیش‌بینی او در محل کار باعث نگرانی همکارانش شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The stock market has been erratic, with prices fluctuating wildly every day.",
+                    "persian": "بازار سهام غیرقابل پیش‌بینی بوده، با قیمت‌هایی که هر روز به شدت در نوسان هستند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "bleak",
+            "examples": [
+                {
+                    "english": "The landscape was bleak, with no trees or signs of life in sight.",
+                    "persian": "چشم‌انداز غم‌انگیز بود، بدون درخت یا نشانه‌ای از زندگی در اطراف.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The future looks bleak for the small business after the economic downturn.",
+                    "persian": "آینده برای کسب‌وکار کوچک پس از رکود اقتصادی ناامیدکننده به نظر می‌رسد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "She gave a bleak assessment of the situation, saying there was little chance of success.",
+                    "persian": "او ارزیابی ناامیدکننده‌ای از وضعیت ارائه داد و گفت شانس موفقیت بسیار کم است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The movie painted a bleak picture of life in the post-apocalyptic world.",
+                    "persian": "فیلم تصویری غم‌انگیز از زندگی در دنیای پسا-آخرالزمانی ارائه داد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "His expression was bleak as he delivered the bad news.",
+                    "persian": "چهره‌اش غم‌انگیز بود وقتی خبر بد را اعلام کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "profuse",
+            "examples": [
+                {
+                    "english": "She offered profuse apologies for being late to the meeting.",
+                    "persian": "او عذرخواهی‌های زیادی برای دیر رسیدن به جلسه ارائه داد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The wound was bleeding profusely, and they rushed to stop it.",
+                    "persian": "زخم به شدت خونریزی می‌کرد، و آن‌ها سریع اقدام به بند آوردن آن کردند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "He was profuse in his thanks, grateful for all the help he had received.",
+                    "persian": "او بسیار سپاسگزار بود و برای تمام کمک‌هایی که دریافت کرده بود تشکرهای زیادی کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The garden was filled with profuse blooms of colorful flowers.",
+                    "persian": "باغ پر از گل‌های رنگارنگ و فراوان بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "After the accident, the driver was profusely sweating and visibly shaken.",
+                    "persian": "پس از حادثه، راننده به شدت عرق کرده بود و به وضوح دست‌پاچه به نظر می‌رسید.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "extant",
+            "examples": [
+                {
+                    "english": "This manuscript is one of the few extant copies of the ancient text.",
+                    "persian": "این نسخه خطی یکی از معدود نسخه‌های باقی‌مانده از متن باستانی است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The museum houses several extant artifacts from the Roman Empire.",
+                    "persian": "موزه چندین اثر باقی‌مانده از امپراتوری روم را در خود جای داده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-23 23:32:30"
+                },
+                {
+                    "english": "The extant records from that period provide valuable insights into daily life.",
+                    "persian": "سوابق باقی‌مانده از آن دوره، بینش‌های ارزشمندی درباره زندگی روزمره ارائه می‌دهند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Only a handful of extant buildings from the medieval era still stand in the city.",
+                    "persian": "تنها تعداد انگشت‌شماری از ساختمان‌های باقی‌مانده از دوران قرون وسطی هنوز در شهر پابرجا هستند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The extant letters of the famous author reveal much about her personal life.",
+                    "persian": "نامه‌های باقی‌مانده از نویسنده مشهور، اطلاعات زیادی درباره زندگی شخصی او آشکار می‌کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "contentious",
+            "examples": [
+                {
+                    "english": "The new policy has become a contentious issue among employees.",
+                    "persian": "سیاست جدید به موضوعی بحث‌برانگیز میان کارمندان تبدیل شده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The debate over climate change remains highly contentious.",
+                    "persian": "بحث درباره تغییرات آب‌وهوایی همچنان بسیار جنجالی است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The decision to close the school was met with contentious reactions from parents.",
+                    "persian": "تصمیم به تعطیلی مدرسه با واکنش‌های جنجالی از سوی والدین مواجه شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The contentious relationship between the two leaders made negotiations difficult.",
+                    "persian": "رابطه جنجالی بین دو رهبر مذاکرات را دشوار کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The book's contentious claims sparked a heated debate among scholars.",
+                    "persian": "ادعاهای جنجالی کتاب بحث‌های داغی میان محققان به راه انداخت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "veracity",
+            "examples": [
+                {
+                    "english": "The veracity of his statement was confirmed by multiple witnesses.",
+                    "persian": "درستی گفته‌های او توسط چندین شاهد تأیید شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Journalists must always verify the veracity of their sources before publishing a story.",
+                    "persian": "روزنامه‌نگاران باید همیشه درستی منابع خود را قبل از انتشار یک خبر بررسی کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The veracity of the historical document was questioned by experts.",
+                    "persian": "درستی سند تاریخی توسط کارشناسان مورد تردید قرار گرفت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "She doubted the veracity of the rumors circulating about her colleague.",
+                    "persian": "او به درستی شایعاتی که درباره همکارش می‌گشت شک داشت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The scientist emphasized the importance of data veracity in research.",
+                    "persian": "دانشمند بر اهمیت درستی داده‌ها در تحقیقات تأکید کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "paucity",
+            "examples": [
+                {
+                    "english": "The project failed due to a paucity of resources.",
+                    "persian": "پروژه به دلیل کمبود منابع شکست خورد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "There is a paucity of evidence to support his claims.",
+                    "persian": "شواهد کافی برای حمایت از ادعاهای او وجود ندارد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The paucity of fresh water in the region has become a major concern.",
+                    "persian": "کبود آب شیرین در این منطقه به یک نگرانی بزرگ تبدیل شده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Despite the paucity of time, they managed to complete the task.",
+                    "persian": "با وجود کمبود زمان، آن‌ها موفق شدند کار را به پایان برسانند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The paucity of skilled workers is slowing down the company's growth.",
+                    "persian": "کبود کارگران ماهر رشد شرکت را کند کرده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "contrite",
+            "examples": [
+                {
+                    "english": "He looked contrite after realizing the harm his words had caused.",
+                    "persian": "او پس از فهمیدن آسیبی که حرف‌هایش وارد کرده بود، پشیمان به نظر می‌رسید.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "She wrote a contrite letter apologizing for her mistake.",
+                    "persian": "او نامه‌ای پشیمان‌گونه نوشت و برای اشتباهش عذرخواهی کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The contrite child promised never to break the rules again.",
+                    "persian": "کودک پشیمان قول داد که دیگر قوانین را زیر پا نگذارد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "His contrite expression showed that he truly regretted his actions.",
+                    "persian": "چهره پشیمان‌ش نشان می‌داد که او واقعاً از کارهایش پشیمان است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The judge was moved by the defendant's contrite apology.",
+                    "persian": "قاضی از عذرخواهی پشیمان‌وار متهم تحت تأثیر قرار گرفت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "laconic",
+            "examples": [
+                {
+                    "english": "His laconic reply, 'Not now,' left everyone wondering what he meant.",
+                    "persian": "پاسخ کوتاه و مختصر او، «الان نه»، همه را به فکر فرو برد که منظورش چیست.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "She gave a laconic nod and walked away without saying a word.",
+                    "persian": "او با یک اشاره کوتاه سر تأیید کرد و بدون گفتن کلمه‌ای دور شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The soldier's laconic report summarized the mission in just three sentences.",
+                    "persian": "گزارش مختصر سرباز مأموریت را فقط در سه جمله خلاصه کرده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "His laconic sense of humor often left people unsure whether he was joking or serious.",
+                    "persian": "حس طنز مختصر و مفید او اغلب باعث می‌شد مردم مطمئن نباشند که شوخی می‌کند یا جدی است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The manager was known for his laconic style of communication.",
+                    "persian": "مدیر به سبک مختصر و مفیدش در ارتباطات معروف بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "raft",
+            "examples": [
+                {
+                    "english": "The company received a raft of complaints after the product launch.",
+                    "persian": "شرکت پس از عرضه محصول، با انبوهی از شکایات مواجه شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "She has a raft of ideas for improving the project.",
+                    "persian": "او انبوهی از ایده‌ها برای بهبود پروژه دارد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The new policy brought a raft of changes to the organization.",
+                    "persian": "سیاست جدید انبوهی از تغییرات را برای سازمان به همراه آورد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The report highlighted a raft of issues that need immediate attention.",
+                    "persian": "این گزارش انبوهی از مسائل را که نیاز به توجه فوری دارند، برجسته کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The team faced a raft of challenges during the first phase of the project.",
+                    "persian": "تیم در مرحله اول پروژه با انبوهی از چالش‌ها مواجه شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "check",
+            "examples": [
+                {
+                    "english": "The government implemented new policies to check the spread of the disease.",
+                    "persian": "دولت سیاست‌های جدیدی برای جلوگیری از گسترش بیماری اجرا کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Regular pruning helps to check the overgrowth of plants in the garden.",
+                    "persian": "هرس منظم به کنترل رشد بیش از حد گیاهان در باغ کمک می‌کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The firefighters worked tirelessly to check the flames from spreading to nearby buildings.",
+                    "persian": "آتش‌نشان‌ها بی‌وقفه کار کردند تا از گسترش شعله‌ها به ساختمان‌های مجاور جلوگیری کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Early intervention can help check the development of bad habits in children.",
+                    "persian": "مداخله زودهنگام می‌تواند به جلوگیری از شکل‌گیری عادات بد در کودکان کمک کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The new regulations aim to check the rapid expansion of urban areas into natural habitats.",
+                    "persian": "مقررات جدید هدفشان کنترل گسترش سریع مناطق شهری به زیستگاه‌های طبیعی است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "stem",
+            "examples": [
+                {
+                    "english": "The government is taking measures to stem the rise in unemployment.",
+                    "persian": "دولت در حال اتخاذ اقداماتی برای جلوگیری از افزایش بیکاری است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Efforts to stem the spread of the virus have been largely successful.",
+                    "persian": "تلاش‌ها برای جلوگیری از گسترش ویروس تا حد زیادی موفقیت‌آمیز بوده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The new policy aims to stem the flow of illegal drugs into the country.",
+                    "persian": "سیاست جدید هدفش جلوگیری از ورود مواد مخدر غیرقانونی به کشور است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Planting trees can help stem soil erosion in vulnerable areas.",
+                    "persian": "کاشت درختان می‌تواند به جلوگیری از فرسایش خاک در مناطق آسیب‌پذیر کمک کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The company introduced new rules to stem the loss of valuable employees.",
+                    "persian": "شرکت قوانین جدیدی معرفی کرد تا از خروج کارمندان ارزشمند جلوگیری کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        },
+        {
+            "word": "alacrity",
+            "examples": [
+                {
+                    "english": "She accepted the invitation with alacrity, excited to attend the event.",
+                    "persian": "او دعوت را با اشتیاق پذیرفت و برای حضور در آن رویداد هیجان‌زده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The team completed the project with alacrity, impressing their manager.",
+                    "persian": "تیم پروژه را با سرعت و اشتیاق به پایان رساند و مدیر خود را تحت تأثیر قرار داد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "He responded to the challenge with alacrity, eager to prove his skills.",
+                    "persian": "او با اشتیاق به چالش پاسخ داد و مشتاق بود مهارت‌هایش را ثابت کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The volunteers worked with alacrity to prepare the venue for the festival.",
+                    "persian": "داوطلبان با اشتیاق و سرعت محل برگزاری جشنواره را آماده کردند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Her alacrity in learning new skills made her a valuable member of the team.",
+                    "persian": "اشتیاق او در یادگیری مهارت‌های جدید، او را به عضوی ارزشمند در تیم تبدیل کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-23 18:40:47"
+                }
+            ]
+        },
+        {
+            "word": "prosaic",
+            "examples": [
+                {
+                    "english": "His writing style is often criticized as being too prosaic and uninspiring.",
+                    "persian": "سبک نوشتار او اغلب به خاطر معمولی و غیرالهام‌بخش بودن مورد انتقاد قرار می‌گیرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The meeting was disappointingly prosaic, with no new ideas discussed.",
+                    "persian": "جلسه به طرز ناامیدکننده‌ای معمولی بود و هیچ ایده جدیدی مطرح نشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "She longed for adventure, tired of her prosaic daily routine.",
+                    "persian": "او خسته از برنامه روزانه معمولی‌اش، مشتاق ماجراجویی بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "The film's plot was rather prosaic, failing to capture the audience's imagination.",
+                    "persian": "طرح داستان فیلم نسبتاً معمولی بود و نتوانست تخیل مخاطبان را جلب کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                },
+                {
+                    "english": "Despite the beautiful setting, the speech was prosaic and uninspiring.",
+                    "persian": "با وجود محیط زیبا، سخنرانی معمولی و غیرالهام‌بخش بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-23 16:54:38"
+                }
+            ]
+        }
+    ]
+}

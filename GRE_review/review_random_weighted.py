@@ -29,7 +29,6 @@ def save_data(data):
 
 # %%
 data = load_data()
-# print(data)
 # Add 'difficulty' and 'last_time_reviewed' fields to each example if they don't exist
 for file_name, content in data.items():
     for example in content['examples']:
@@ -79,10 +78,10 @@ class ReviewApp:
         
         self.example_label = tk.Label(root, text="", font=self.font_example, wraplength=500)
         self.example_label.pack(pady=10)
-
+        
         self.difficulty_label = tk.Label(root, text="", font=self.font_difficulty, wraplength=500)
         self.difficulty_label.pack(pady=5)
-        
+
         self.meaning_label = tk.Label(root, text="", font=self.font_meaning, wraplength=500, fg="black")  # متن فارسی مشکی
         self.meaning_label.pack(pady=10)
         
@@ -131,20 +130,8 @@ class ReviewApp:
         weights = []
         for example in all_examples:
             sub_example = example['example']
-            
-            # وزن بر اساس difficulty (هرچه difficulty بیشتر، وزن بیشتر)
             difficulty_weight = sub_example.get('difficulty', 1)  # پیش‌فرض: 1
-            
-            # وزن بر اساس last_time_reviewed (هرچه قدیمی‌تر، وزن بیشتر)
             time_weight = 1  # پیش‌فرض: 1
-            last_reviewed = sub_example.get('last_time_reviewed')
-            # print(last_reviewed)
-            if last_reviewed:
-                last_reviewed = datetime.strptime(last_reviewed, r"%Y-%m-%d %H:%M:%S")
-                days_since_reviewed = (datetime.now() - last_reviewed).days
-                time_weight = max(1, days_since_reviewed)  # حداقل وزن: 1
-            
-            # وزن نهایی = difficulty_weight * time_weight
             weights.append(difficulty_weight * time_weight)
         
         # انتخاب یک مثال با وزن‌دهی

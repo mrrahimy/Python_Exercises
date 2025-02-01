@@ -1,0 +1,515 @@
+{
+  "examples": [
+    {
+      "word": "anomalous",
+      "pronunciation": {"british": "/əˈnɒm.ə.ləs/", "USA": "/əˈnɑː.mə.ləs/"},
+      "meaning": "not normal, out of the ordinary",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The anomalous results, which contradict previous findings, have prompted scientists to revisit their hypotheses.",
+          "persian": "نتایج غیرعادی، که با یافته‌های قبلی در تضاد هستند، دانشمندان را وادار کرده‌اند تا فرضیه‌های خود را بازبینی کنند."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the data appears anomalous, researchers must investigate further to determine whether it is an error or a genuine discovery.",
+          "persian": "اگر داده‌ها غیرعادی به نظر برسند، محققان باید بیشتر بررسی کنند تا مشخص شود که آیا این یک خطا است یا یک کشف واقعی."
+        },
+        {
+          "grammar": ["future continuous", "passive voice", "adjective clause"],
+          "english": "The anomalous phenomenon will be closely monitored, as it could provide insights into previously unknown natural processes.",
+          "persian": "پدیده غیرعادی به دقت تحت نظر قرار خواهد گرفت، زیرا ممکن است بینش‌هایی در مورد فرآیندهای طبیعی ناشناخته قبلی ارائه دهد."
+        },
+        {
+          "grammar": ["past perfect", "indirect speech", "connective relative clause"],
+          "english": "He mentioned that the anomalous behavior had been observed in the lab, which raised questions about the experiment's validity.",
+          "persian": "او اشاره کرد که رفتار غیرعادی در آزمایشگاه مشاهده شده بود، که سؤالاتی درباره اعتبار آزمایش مطرح کرد."
+        },
+        {
+          "grammar": ["present perfect continuous", "conditional type 2 (reverse)", "adverb clause"],
+          "english": "If the results were not so anomalous, the scientific community would have accepted them without hesitation.",
+          "persian": "اگر نتایج اینقدر غیرعادی نبودند، جامعه علمی بدون تردید آنها را می‌پذیرفت."
+        }
+      ]
+    },
+    {
+      "word": "acrimony",
+      "pronunciation": {"british": "/ˈæk.rɪ.mə.ni/", "USA": "/ˈæk.rɪ.moʊ.ni/"},
+      "meaning": "bitterness and ill will",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (non-definitive)", "adverb clause"],
+          "english": "The acrimony between the two parties, which has been escalating for months, threatens to derail the negotiations entirely.",
+          "persian": "دشمنی بین دو طرف، که ماه‌ها در حال افزایش بوده است، تهدید می‌کند که مذاکرات را به طور کامل مختل کند."
+        },
+        {
+          "grammar": ["conditional type 0", "modals", "noun clause"],
+          "english": "If acrimony persists in the workplace, employee morale will inevitably suffer, leading to decreased productivity.",
+          "persian": "اگر دشمنی در محیط کار ادامه یابد، روحیه کارکنان به طور اجتناب‌ناپذیری آسیب می‌بیند و منجر به کاهش بهره‌وری می‌شود."
+        },
+        {
+          "grammar": ["future perfect", "passive voice", "adjective clause"],
+          "english": "By the end of the year, the acrimony will have been resolved through mediation, allowing the team to focus on their goals.",
+          "persian": "تا پایان سال، دشمنی از طریق میانجی‌گری حل خواهد شد و به تیم اجازه می‌دهد روی اهداف خود تمرکز کنند."
+        },
+        {
+          "grammar": ["past simple", "direct speech", "connective relative clause"],
+          "english": "She said, 'The acrimony during the meeting was unbearable, which made it impossible to reach a consensus.'",
+          "persian": "او گفت: 'دشمنی در طول جلسه غیرقابل تحمل بود، که رسیدن به اجماع را غیرممکن کرد.'"
+        },
+        {
+          "grammar": ["present perfect", "conditional type 3", "adverb clause"],
+          "english": "If the acrimony had been addressed earlier, the partnership would not have dissolved so abruptly.",
+          "persian": "اگر دشمنی زودتر مورد توجه قرار می‌گرفت، مشارکت به این سرعت منحل نمی‌شد."
+        }
+      ]
+    },
+    {
+      "word": "aberration",
+      "pronunciation": {"british": "/ˌæb.əˈreɪ.ʃən/", "USA": "/ˌæb.əˈreɪ.ʃən/"},
+      "meaning": "deviation from the norm",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The sudden spike in temperature is an aberration, which scientists attribute to unprecedented climate change patterns.",
+          "persian": "افزایش ناگهانی دما یک انحراف است، که دانشمندان آن را به الگوهای بی‌سابقه تغییرات آب‌وهوایی نسبت می‌دهند."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the aberration in the data is confirmed, it could lead to a paradigm shift in our understanding of the phenomenon.",
+          "persian": "اگر انحراف در داده‌ها تأیید شود، می‌تواند منجر به تغییر پارادایم در درک ما از این پدیده شود."
+        },
+        {
+          "grammar": ["future continuous", "passive voice", "adjective clause"],
+          "english": "The aberration will be closely studied, as it may reveal underlying flaws in the current theoretical framework.",
+          "persian": "انحراف به دقت مطالعه خواهد شد، زیرا ممکن است نقایص اساسی در چارچوب نظری فعلی را آشکار کند."
+        },
+        {
+          "grammar": ["past perfect", "indirect speech", "connective relative clause"],
+          "english": "He mentioned that the aberration had been detected during the experiment, which prompted a thorough review of the methodology.",
+          "persian": "او اشاره کرد که انحراف در طول آزمایش شناسایی شده بود، که باعث بررسی دقیق روش‌شناسی شد."
+        },
+        {
+          "grammar": ["present perfect continuous", "conditional type 2 (reverse)", "adverb clause"],
+          "english": "If the results were not so aberrant, the scientific community would have accepted them without question.",
+          "persian": "اگر نتایج اینقدر غیرعادی نبودند، جامعه علمی بدون سؤال آنها را می‌پذیرفت."
+        }
+      ]
+    },
+    {
+      "word": "ambiguous",
+      "pronunciation": {"british": "/æmˈbɪɡ.ju.əs/", "USA": "/æmˈbɪɡ.ju.əs/"},
+      "meaning": "open to more than one interpretation, unclear",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (non-definitive)", "adverb clause"],
+          "english": "The ambiguous statement, which has been widely debated, leaves room for multiple interpretations among scholars.",
+          "persian": "بیان مبهم، که به طور گسترده مورد بحث قرار گرفته است، فضایی برای تفسیرهای مختلف در میان محققان باقی می‌گذارد."
+        },
+        {
+          "grammar": ["conditional type 0", "modals", "noun clause"],
+          "english": "If the instructions are ambiguous, the team will struggle to complete the task efficiently, leading to potential errors.",
+          "persian": "اگر دستورالعمل‌ها مبهم باشند، تیم برای انجام کار به طور مؤثر تلاش خواهد کرد و منجر به خطاهای احتمالی می‌شود."
+        },
+        {
+          "grammar": ["future perfect", "passive voice", "adjective clause"],
+          "english": "By next week, the ambiguous clauses in the contract will have been clarified, ensuring all parties are in agreement.",
+          "persian": "تا هفته آینده، بندهای مبهم در قرارداد روشن خواهد شد و اطمینان حاصل می‌کند که همه طرف‌ها توافق دارند."
+        },
+        {
+          "grammar": ["past simple", "direct speech", "connective relative clause"],
+          "english": "She said, 'The ambiguous wording in the report caused confusion, which delayed the decision-making process.'",
+          "persian": "او گفت: 'عبارات مبهم در گزارش باعث سردرگمی شد، که روند تصمیم‌گیری را به تأخیر انداخت.'"
+        },
+        {
+          "grammar": ["present perfect", "conditional type 3", "adverb clause"],
+          "english": "If the message had not been so ambiguous, the misunderstanding could have been avoided entirely.",
+          "persian": "اگر پیام اینقدر مبهم نبود، سوءتفاهم به طور کامل قابل اجتناب بود."
+        }
+      ]
+    },
+    {
+      "word": "amorphous",
+      "pronunciation": {"british": "/əˈmɔː.fəs/", "USA": "/əˈmɔːr.fəs/"},
+      "meaning": "shapeless; lacking organization",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The amorphous structure of the organization, which lacks clear hierarchy, often leads to inefficiencies and confusion.",
+          "persian": "ساختار بی‌شکل سازمان، که فاقد سلسله مراتب واضح است، اغلب منجر به ناکارآمدی و سردرگمی می‌شود."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the plan remains amorphous, it will be difficult to implement, as no one knows their specific responsibilities.",
+          "persian": "اگر برنامه بی‌شکل باقی بماند، اجرای آن دشوار خواهد بود، زیرا هیچ کس مسئولیت‌های خاص خود را نمی‌داند."
+        },
+        {
+          "grammar": ["future continuous", "passive voice", "adjective clause"],
+          "english": "The amorphous nature of the project will be addressed, ensuring that each team member has a clear role and objective.",
+          "persian": "بی‌شکلی پروژه مورد توجه قرار خواهد گرفت و اطمینان حاصل می‌کند که هر عضو تیم نقش و هدف مشخصی دارد."
+        },
+        {
+          "grammar": ["past perfect", "indirect speech", "connective relative clause"],
+          "english": "He mentioned that the amorphous strategy had been revised, which improved the team's overall performance significantly.",
+          "persian": "او اشاره کرد که استراتژی بی‌شکل بازبینی شده بود، که عملکرد کلی تیم را به طور قابل توجهی بهبود بخشید."
+        },
+        {
+          "grammar": ["present perfect continuous", "conditional type 2 (reverse)", "adverb clause"],
+          "english": "If the structure were not so amorphous, the team would have achieved their goals much sooner.",
+          "persian": "اگر ساختار اینقدر بی‌شکل نبود، تیم اهداف خود را خیلی زودتر محقق می‌کرد."
+        }
+      ]
+    }
+    ,
+    {
+      "word": "conciliate",
+      "pronunciation": {
+        "british": "/kənˈsɪl.i.eɪt/",
+        "USA": "/kənˈsɪl.i.eɪt/"
+      },
+      "meaning": "to make peace with",
+      "examples": [
+        {
+          "grammar": ["present perfect continuous", "adverb clause", "relative clause (non-definitive)"],
+          "english": "The diplomat has been conciliating between the warring factions, which have been in conflict for decades, to establish a lasting peace.",
+          "persian": "دیپلمات بین جناح‌های درگیر، که دهه‌ها درگیری داشته‌اند، در حال میانجی‌گری است تا صلح پایدار برقرار کند."
+        },
+        {
+          "grammar": ["conditional type 2 (reverse)", "modals", "noun clause"],
+          "english": "Were the government to conciliate the opposition, it might gain the support of the public, which is crucial for passing the reforms.",
+          "persian": "اگر دولت با مخالفان مصالحه کند، ممکن است حمایت عمومی را به دست آورد، که برای تصویب اصلاحات ضروری است."
+        },
+        {
+          "grammar": ["future perfect", "passive voice", "connective relative clause"],
+          "english": "By next year, the dispute will have been conciliated, which will allow both parties to focus on economic development.",
+          "persian": "تا سال آینده، اختلاف مصالحه خواهد شد، که به هر دو طرف اجازه می‌دهد بر توسعه اقتصادی تمرکز کنند."
+        },
+        {
+          "grammar": ["past perfect", "direct speech", "adjective clause"],
+          "english": "She had conciliated the angry crowd before she declared, 'We must move forward together, leaving our grievances behind.'",
+          "persian": "او قبل از اینکه اعلام کند، 'ما باید با هم به جلو حرکت کنیم و شکایات خود را پشت سر بگذاریم'، جمعیت عصبانی را آرام کرده بود."
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "The mediator conciliates so effectively that even the most contentious parties find common ground and resolve their disputes.",
+          "persian": "میانجی آن‌قدر مؤثر مصالحه می‌کند که حتی بحث‌برانگیزترین طرف‌ها نیز نقاط مشترک پیدا کرده و اختلافات خود را حل می‌کنند."
+        }
+      ]
+    },
+    {
+      "word": "corroborate",
+      "pronunciation": {
+        "british": "/kəˈrɒb.ə.reɪt/",
+        "USA": "/kəˈrɑː.bə.reɪt/"
+      },
+      "meaning": "to confirm or lend support to an idea or claim",
+      "examples": [
+        {
+          "grammar": ["present perfect", "relative clause (definitive)", "adverb clause"],
+          "english": "The scientist has corroborated the hypothesis, which was initially met with skepticism, through extensive experimentation and data analysis.",
+          "persian": "دانشمند فرضیه‌ای را که در ابتدا با شک مواجه شد، از طریق آزمایش‌های گسترده و تحلیل داده‌ها تأیید کرده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the new evidence corroborates the theory, it could revolutionize our understanding of quantum mechanics.",
+          "persian": "اگر شواهد جدید این نظریه را تأیید کند، می‌تواند درک ما از مکانیک کوانتومی را متحول کند."
+        },
+        {
+          "grammar": ["future continuous", "passive voice", "connective relative clause"],
+          "english": "The findings will be being corroborated by independent researchers, who are expected to publish their results next month.",
+          "persian": "یافته‌ها توسط محققان مستقل تأیید خواهند شد، که انتظار می‌رود نتایج خود را ماه آینده منتشر کنند."
+        },
+        {
+          "grammar": ["past simple", "direct speech", "adjective clause"],
+          "english": "The witness corroborated the account, stating, 'I saw the incident unfold exactly as described in the report.'",
+          "persian": "شاهد روایت را تأیید کرد و گفت: 'من دیدم که این حادثه دقیقاً همان‌طور که در گزارش توصیف شده بود، اتفاق افتاد.'"
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "The data corroborates the theory so convincingly that even the most skeptical scientists have accepted its validity.",
+          "persian": "داده‌ها این نظریه را آن‌قدر متقاعدکننده تأیید می‌کنند که حتی شک‌آورترین دانشمندان نیز اعتبار آن را پذیرفته‌اند."
+        }
+      ]
+    },
+    {
+      "word": "calumny",
+      "pronunciation": {
+        "british": "/ˈkæl.əm.ni/",
+        "USA": "/ˈkæl.əm.ni/"
+      },
+      "meaning": "a lie designed to injure a person's reputation",
+      "examples": [
+        {
+          "grammar": ["present perfect", "relative clause (non-definitive)", "adverb clause"],
+          "english": "The politician has been spreading calumny about his opponent, which has significantly damaged the latter's public image.",
+          "persian": "سیاستمدار در مورد رقیب خود تهمت‌هایی پخش کرده است، که به طور قابل توجهی به تصویر عمومی او آسیب زده است."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If the journalist had not published the calumny, the celebrity's reputation might not have been tarnished so severely.",
+          "persian": "اگر روزنامه‌نگار این تهمت را منتشر نکرده بود، ممکن بود شهرت این سلبریتی به این شدت لکه‌دار نشود."
+        },
+        {
+          "grammar": ["future perfect", "passive voice", "connective relative clause"],
+          "english": "By the end of the trial, the calumny will have been exposed, which will restore the defendant's credibility.",
+          "persian": "تا پایان دادگاه، این تهمت افشا خواهد شد، که اعتبار متهم را بازگرداند."
+        },
+        {
+          "grammar": ["past continuous", "direct speech", "adjective clause"],
+          "english": "She was defending herself against the calumny, shouting, 'These accusations are baseless and malicious!'",
+          "persian": "او در حال دفاع از خود در برابر این تهمت بود و فریاد زد: 'این اتهامات بی‌اساس و بدخواهانه هستند!'"
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "The calumny spreads so quickly that it can ruin a person's career before they have a chance to defend themselves.",
+          "persian": "تهمت آن‌قدر سریع پخش می‌شود که می‌تواند قبل از اینکه فرد فرصت دفاع از خود را داشته باشد، حرفه‌اش را نابود کند."
+        }
+      ]
+    },
+    {
+      "word": "commensurate",
+      "pronunciation": {
+        "british": "/kəˈmen.sjʊ.rət/",
+        "USA": "/kəˈmen.sjʊ.rət/"
+      },
+      "meaning": "to be in proportion or corresponding in degree or amount",
+      "examples": [
+        {
+          "grammar": ["present perfect", "relative clause (definitive)", "adverb clause"],
+          "english": "The salary increase has been commensurate with the employee's performance, which has motivated others to work harder.",
+          "persian": "افزایش حقوق متناسب با عملکرد کارمند بوده است، که دیگران را به سخت‌کوشی بیشتر ترغیب کرده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the punishment is commensurate with the crime, it will deter others from committing similar offenses.",
+          "persian": "اگر مجازات متناسب با جرم باشد، دیگران را از ارتکاب جرایم مشابه بازمی‌دارد."
+        },
+        {
+          "grammar": ["future continuous", "passive voice", "connective relative clause"],
+          "english": "The benefits will be being adjusted to be commensurate with the cost of living, which is expected to rise next year.",
+          "persian": "مزایا به گونه‌ای تنظیم خواهند شد که متناسب با هزینه زندگی باشند، که انتظار می‌رود سال آینده افزایش یابد."
+        },
+        {
+          "grammar": ["past simple", "direct speech", "adjective clause"],
+          "english": "The judge ruled that the penalty was commensurate with the severity of the crime, stating, 'Justice has been served.'",
+          "persian": "قاضی حکم داد که مجازات متناسب با شدت جرم است و گفت: 'عدالت اجرا شده است.'"
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "The rewards are so commensurate with the effort that employees feel valued and motivated to excel.",
+          "persian": "پاداش‌ها آن‌قدر متناسب با تلاش هستند که کارمندان احساس ارزشمندی کرده و برای تعالی انگیزه پیدا می‌کنند."
+        }
+      ]
+    },
+    {
+      "word": "churlish",
+      "pronunciation": {
+        "british": "/ˈtʃɜː.lɪʃ/",
+        "USA": "/ˈtʃɝː.lɪʃ/"
+      },
+      "meaning": "lacking manners or refinement",
+      "examples": [
+        {
+          "grammar": ["present perfect", "relative clause (non-definitive)", "adverb clause"],
+          "english": "The guest has been churlish throughout the event, which has made the host regret inviting him.",
+          "persian": "مهمان در طول مراسم بی‌ادب بوده است، که باعث شده میزبان از دعوت او پشیمان شود."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If he were not so churlish, he might have been offered the promotion he has been seeking.",
+          "persian": "اگر او این‌قدر بی‌ادب نبود، ممکن بود ترفیعی که به دنبال آن بود به او پیشنهاد شود."
+        },
+        {
+          "grammar": ["future perfect", "passive voice", "connective relative clause"],
+          "english": "By the end of the meeting, his churlish behavior will have been noted, which could affect his career prospects.",
+          "persian": "تا پایان جلسه، رفتار بی‌ادبانه او ثبت خواهد شد، که ممکن است بر چشم‌اندازهای شغلی او تأثیر بگذارد."
+        },
+        {
+          "grammar": ["past continuous", "direct speech", "adjective clause"],
+          "english": "She was reprimanded for her churlish remarks, which included saying, 'I don’t care about anyone else’s opinion.'",
+          "persian": "او به دلیل اظهارات بی‌ادبانه‌اش توبیخ شد، که شامل گفتن این جمله بود: 'من به نظر هیچ کس دیگر اهمیت نمی‌دهم.'"
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "His churlish attitude is so off-putting that even his closest friends avoid spending time with him.",
+          "persian": "نگرش بی‌ادبانه او آن‌قدر ناخوشایند است که حتی نزدیک‌ترین دوستانش از گذراندن وقت با او اجتناب می‌کنند."
+        }
+      ]
+    },
+    {
+      "word": "castigate",
+      "pronunciation": {
+        "british": "/ˈkæs.tɪ.ɡeɪt/",
+        "USA": "/ˈkæs.tɪ.ɡeɪt/"
+      },
+      "meaning": "to reprimand harshly",
+      "examples": [
+        {
+          "grammar": ["present perfect", "relative clause (definitive)", "adverb clause"],
+          "english": "The manager has castigated the team for their poor performance, which has led to a significant drop in morale.",
+          "persian": "مدیر تیم را به دلیل عملکرد ضعیف‌شان شدیداً سرزنش کرده است، که منجر به کاهش قابل توجه روحیه شده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the teacher castigates the student publicly, it could damage their self-esteem and hinder their academic progress.",
+          "persian": "اگر معلم دانش‌آموز را به طور عمومی سرزنش کند، ممکن است به عزت نفس او آسیب زده و پیشرفت تحصیلی‌اش را مختل کند."
+        },
+        {
+          "grammar": ["future continuous", "passive voice", "connective relative clause"],
+          "english": "The CEO will be castigating the executives during the meeting, which is expected to last several hours.",
+          "persian": "مدیرعامل در طول جلسه مدیران را سرزنش خواهد کرد، که انتظار می‌رود چندین ساعت طول بکشد."
+        },
+        {
+          "grammar": ["past simple", "direct speech", "adjective clause"],
+          "english": "He castigated the employee, saying, 'Your negligence has cost the company millions, and it is unacceptable.'",
+          "persian": "او کارمند را سرزنش کرد و گفت: 'بی‌دقتی شما میلیون‌ها به شرکت ضرر زده است، و این غیرقابل قبول است.'"
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "The coach castigates the players so harshly that some of them have considered quitting the team.",
+          "persian": "مربی بازیکنان را آن‌قدر شدید سرزنش می‌کند که برخی از آن‌ها به ترک تیم فکر کرده‌اند."
+        }
+      ]
+    },
+    {
+      "word": "chastise",
+      "pronunciation": {
+        "british": "/tʃæsˈtaɪz/",
+        "USA": "/tʃæsˈtaɪz/"
+      },
+      "meaning": "to reprimand harshly",
+      "examples": [
+        {
+          "grammar": ["present perfect", "relative clause (non-definitive)", "adverb clause"],
+          "english": "The teacher has chastised the student for cheating, which has made the entire class more cautious.",
+          "persian": "معلم دانش‌آموز را به دلیل تقلب سرزنش کرده است، که باعث شده کل کلاس محتاط‌تر شوند."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If the parent had not chastised the child so severely, the child might not have developed such low self-esteem.",
+          "persian": "اگر والدین کودک را این‌قدر شدید سرزنش نکرده بودند، ممکن بود کودک چنین عزت نفس پایینی پیدا نکند."
+        },
+        {
+          "grammar": ["future perfect", "passive voice", "connective relative clause"],
+          "english": "By the end of the investigation, the employee will have been chastised for their misconduct, which will serve as a warning to others.",
+          "persian": "تا پایان بررسی، کارمند به دلیل سوء رفتارش سرزنش خواهد شد، که به دیگران هشدار خواهد داد."
+        },
+        {
+          "grammar": ["past continuous", "direct speech", "adjective clause"],
+          "english": "She was chastising her colleague, saying, 'Your lack of attention to detail is jeopardizing the entire project.'",
+          "persian": "او همکارش را سرزنش می‌کرد و می‌گفت: 'بی‌توجهی تو به جزئیات کل پروژه را به خطر انداخته است.'"
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "The manager chastises the team so frequently that they have become desensitized to his criticism.",
+          "persian": "مدیر آن‌قدر مکرر تیم را سرزنش می‌کند که آن‌ها به انتقادهای او بی‌تفاوت شده‌اند."
+        }
+      ]
+    },
+    {
+      "word": "cogent",
+      "pronunciation": {
+        "british": "/ˈkəʊ.dʒənt/",
+        "USA": "/ˈkoʊ.dʒənt/"
+      },
+      "meaning": "logically clear and persuasive",
+      "examples": [
+        {
+          "grammar": ["present perfect", "relative clause (definitive)", "adverb clause"],
+          "english": "The lawyer has presented a cogent argument, which has convinced the jury of the defendant's innocence.",
+          "persian": "وکیل استدلال قوی و متقاعدکننده‌ای ارائه کرده است، که هیئت منصفه را از بی‌گناهی متهم متقاعد کرده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the proposal is cogent enough, it might persuade the board to approve the new project.",
+          "persian": "اگر پیشنهاد به اندازه کافی قوی و متقاعدکننده باشد، ممکن است هیئت مدیره را متقاعد کند که پروژه جدید را تأیید کند."
+        },
+        {
+          "grammar": ["future continuous", "passive voice", "connective relative clause"],
+          "english": "The theory will be being supported by cogent evidence, which will make it difficult for critics to refute.",
+          "persian": "این نظریه توسط شواهد قوی و متقاعدکننده حمایت خواهد شد، که رد کردن آن را برای منتقدان دشوار می‌کند."
+        },
+        {
+          "grammar": ["past simple", "direct speech", "adjective clause"],
+          "english": "The professor delivered a cogent lecture, stating, 'The evidence overwhelmingly supports this conclusion.'",
+          "persian": "استاد سخنرانی قوی و متقاعدکننده‌ای ارائه کرد و گفت: 'شواهد به طور قاطع از این نتیجه‌گیری حمایت می‌کنند.'"
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "Her explanation is so cogent that even the most skeptical audience members are convinced of her point.",
+          "persian": "توضیح او آن‌قدر قوی و متقاعدکننده است که حتی شک‌آورترین اعضای مخاطب نیز از نظر او متقاعد شده‌اند."
+        }
+      ]
+    },
+    {
+      "word": "contentious",
+      "pronunciation": {
+        "british": "/kənˈten.ʃəs/",
+        "USA": "/kənˈten.ʃəs/"
+      },
+      "meaning": "controversial (in terms of an issue); inclined to arguing (in terms of a person)",
+      "examples": [
+        {
+          "grammar": ["present perfect", "relative clause (non-definitive)", "adverb clause"],
+          "english": "The politician has been involved in several contentious debates, which have polarized public opinion.",
+          "persian": "سیاستمارد در چندین بحث جنجالی شرکت کرده است، که باعث قطبی شدن افکار عمومی شده است."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If the issue were less contentious, it might be easier to reach a consensus among the stakeholders.",
+          "persian": "اگر موضوع کمتر جنجالی بود، ممکن بود رسیدن به اجماع بین ذینفعان آسان‌تر باشد."
+        },
+        {
+          "grammar": ["future perfect", "passive voice", "connective relative clause"],
+          "english": "By the end of the year, the contentious policy will have been revised, which will address many of the public's concerns.",
+          "persian": "تا پایان سال، سیاست جنجالی بازنگری خواهد شد، که بسیاری از نگرانی‌های عمومی را برطرف خواهد کرد."
+        },
+        {
+          "grammar": ["past continuous", "direct speech", "adjective clause"],
+          "english": "She was defending her contentious stance, saying, 'I believe this is the only way to achieve real change.'",
+          "persian": "او از موضع جنجالی خود دفاع می‌کرد و می‌گفت: 'من معتقدم این تنها راه برای دستیابی به تغییر واقعی است.'"
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "The topic is so contentious that it has sparked heated debates in academic circles worldwide.",
+          "persian": "این موضوع آن‌قدر جنجالی است که بحث‌های داغی در محافل علمی سراسر جهان برانگیخته است."
+        }
+      ]
+    },
+    {
+      "word": "chary",
+      "pronunciation": {
+        "british": "/ˈtʃeə.ri/",
+        "USA": "/ˈtʃer.i/"
+      },
+      "meaning": "cautious; wary",
+      "examples": [
+        {
+          "grammar": ["present perfect", "relative clause (definitive)", "adverb clause"],
+          "english": "The investor has been chary of risky ventures, which has allowed him to maintain a stable portfolio.",
+          "persian": "سرمایه‌گذار از سرمایه‌گذاری‌های پرخطر محتاط بوده است، که به او اجازه داده است سبدی پایدار حفظ کند."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the company is chary about expanding too quickly, it might avoid the pitfalls that have plagued its competitors.",
+          "persian": "اگر شرکت در مورد گسترش سریع محتاط باشد، ممکن است از مشکلاتی که رقبای آن را درگیر کرده است، اجتناب کند."
+        },
+        {
+          "grammar": ["future continuous", "passive voice", "connective relative clause"],
+          "english": "The government will be being chary about implementing new policies, which could delay necessary reforms.",
+          "persian": "دولت در اجرای سیاست‌های جدید محتاط خواهد بود، که ممکن است اصلاحات لازم را به تأخیر بیندازد."
+        },
+        {
+          "grammar": ["past simple", "direct speech", "adjective clause"],
+          "english": "She was chary of accepting the offer, stating, 'I need to carefully consider all the implications before making a decision.'",
+          "persian": "او در پذیرش پیشنهاد محتاط بود و گفت: 'من باید تمام پیامدها را به دقت بررسی کنم قبل از اینکه تصمیمی بگیرم.'"
+        },
+        {
+          "grammar": ["present simple", "so...that structure", "adverb clause"],
+          "english": "He is so chary of making mistakes that he often misses out on valuable opportunities.",
+          "persian": "او آن‌قدر از اشتباه کردن محتاط است که اغلب فرصت‌های ارزشمند را از دست می‌دهد."
+        }
+      ]
+    }
+  ]
+}

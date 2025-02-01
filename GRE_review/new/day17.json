@@ -1,0 +1,452 @@
+{
+    "examples": [
+      {
+        "word": "belie",
+        "pronunciation": {"british": "/bɪˈlaɪ/", "USA": "/bɪˈlaɪ/"},
+        "meaning": "to fail to justify something",
+        "examples": [
+          {
+            "grammar": ["present perfect", "passive voice", "adverb clause"],
+            "english": "The evidence has belied the initial assumptions, which were based on incomplete data, revealing a more complex reality.",
+            "persian": "شواهد فرضیات اولیه را که بر اساس داده‌های ناقص بودند، نقض کرده و واقعیتی پیچیده‌تر را آشکار کرده‌اند."
+          },
+          {
+            "grammar": ["conditional type 2", "modals", "noun clause"],
+            "english": "If the results were to belie the hypothesis, it would necessitate a complete revision of the theoretical framework.",
+            "persian": "اگر نتایج فرضیه را نقض کنند، بازنگری کامل چارچوب نظری ضروری خواهد بود."
+          },
+          {
+            "grammar": ["past continuous", "relative clause (non-definitive)", "connective relative clause"],
+            "english": "The data, which was being analyzed meticulously, belied the simplistic conclusions that had been drawn earlier.",
+            "persian": "داده‌ها، که با دقت تحلیل می‌شدند، نتایج ساده‌انگارانه‌ای که قبلاً گرفته شده بود را نقض کردند."
+          },
+          {
+            "grammar": ["future perfect", "adjective clause", "adverb clause"],
+            "english": "By next year, the ongoing research will have belied the outdated theories, paving the way for groundbreaking discoveries.",
+            "persian": "تا سال آینده، تحقیقات جاری نظریه‌های منسوخ را نقض خواهند کرد و راه را برای اکتشافات انقلابی هموار خواهند کرد."
+          },
+          {
+            "grammar": ["present simple", "direct speech", "adverb clause"],
+            "english": "The scientist stated, 'These findings belie the conventional wisdom,' emphasizing the need for a paradigm shift.",
+            "persian": "دانشمند اعلام کرد: 'این یافته‌ها خرد متعارف را نقض می‌کنند' و بر نیاز به تغییر پارادایم تأکید کرد."
+          }
+        ]
+      },
+      {
+        "word": "disinterested",
+        "pronunciation": {"british": "/dɪsˈɪntrɪstɪd/", "USA": "/dɪsˈɪntrɪstɪd/"},
+        "meaning": "unbiased, neutral",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+            "english": "A disinterested mediator, who has no stake in the outcome, is essential for resolving conflicts impartially.",
+            "persian": "یک میانجی بی‌طرف، که هیچ سهمی در نتیجه ندارد، برای حل بی‌طرفانه اختلافات ضروری است."
+          },
+          {
+            "grammar": ["conditional type 0", "modals", "noun clause"],
+            "english": "If the judge remains disinterested, the verdict will reflect true justice, unaffected by external pressures.",
+            "persian": "اگر قاضی بی‌طرف بماند، حکم منعکس‌کننده عدالت واقعی خواهد بود و تحت تأثیر فشارهای خارجی قرار نخواهد گرفت."
+          },
+          {
+            "grammar": ["past perfect", "passive voice", "adjective clause"],
+            "english": "The decision had been made by a disinterested committee, which ensured that no bias influenced the outcome.",
+            "persian": "تصمیم توسط یک کمیته بی‌طرف گرفته شده بود، که اطمینان می‌داد هیچ تعصبی بر نتیجه تأثیر نگذارد."
+          },
+          {
+            "grammar": ["future continuous", "connective relative clause", "adverb clause"],
+            "english": "The panel will be reviewing the case disinterestedly, ensuring that all perspectives are considered without prejudice.",
+            "persian": "پنل به صورت بی‌طرفانه پرونده را بررسی خواهد کرد و اطمینان می‌دهد که تمام دیدگاه‌ها بدون پیش‌داوری در نظر گرفته شوند."
+          },
+          {
+            "grammar": ["present perfect", "indirect speech", "adverb clause"],
+            "english": "She has always maintained that a disinterested approach is crucial for achieving fairness in any judicial process.",
+            "persian": "او همیشه تأکید کرده است که یک رویکرد بی‌طرف برای دستیابی به عدالت در هر فرآیند قضایی ضروری است."
+          }
+        ]
+      },
+      {
+        "word": "equivocal",
+        "pronunciation": {"british": "/ɪˈkwɪvək(ə)l/", "USA": "/ɪˈkwɪvək(ə)l/"},
+        "meaning": "uncertain or having a double meaning; vague",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (non-definitive)", "adverb clause"],
+            "english": "The politician's equivocal statements, which often leave room for interpretation, have caused widespread confusion among the public.",
+            "persian": "اظهارات مبهم سیاستمدار، که اغلب جای تفسیر باقی می‌گذارد، باعث سردرگمی گسترده در میان عموم شده است."
+          },
+          {
+            "grammar": ["conditional type 1", "modals", "noun clause"],
+            "english": "If the report remains equivocal, it may lead to misinterpretations that could harm the organization's reputation.",
+            "persian": "اگر گزارش مبهم باقی بماند، ممکن است منجر به سوءتفاهم‌هایی شود که به اعتبار سازمان آسیب برساند."
+          },
+          {
+            "grammar": ["past continuous", "adjective clause", "adverb clause"],
+            "english": "The scientist was giving an equivocal explanation, which left the audience uncertain about the implications of the findings.",
+            "persian": "دانشمند توضیحی مبهم ارائه می‌داد، که باعث شد حضار در مورد پیامدهای یافته‌ها نامطمئن بمانند."
+          },
+          {
+            "grammar": ["future perfect", "connective relative clause", "adverb clause"],
+            "english": "By the end of the investigation, the evidence will have clarified the equivocal statements made during the initial inquiry.",
+            "persian": "تا پایان تحقیق، شواهد اظهارات مبهمی که در جریان تحقیق اولیه مطرح شده بود را روشن خواهند کرد."
+          },
+          {
+            "grammar": ["present perfect", "direct speech", "adverb clause"],
+            "english": "The CEO stated, 'Our position remains equivocal,' highlighting the complexity of the situation and the need for further analysis.",
+            "persian": "مدیرعامل اعلام کرد: 'موضع ما همچنان مبهم است' و بر پیچیدگی وضعیت و نیاز به تحلیل بیشتر تأکید کرد."
+          }
+        ]
+      },
+      {
+        "word": "undermine",
+        "pronunciation": {"british": "/ˌʌndəˈmaɪn/", "USA": "/ˌʌndərˈmaɪn/"},
+        "meaning": "to weaken",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+            "english": "The constant criticism, which undermines the team's morale, has led to a decline in productivity and innovation.",
+            "persian": "انتقادهای مداوم، که روحیه تیم را تضعیف می‌کند، منجر به کاهش بهره‌وری و نوآوری شده است."
+          },
+          {
+            "grammar": ["conditional type 2", "modals", "noun clause"],
+            "english": "If the government were to undermine the judiciary's independence, it would erode public trust in the legal system.",
+            "persian": "اگر دولت استقلال قوه قضائیه را تضعیف کند، اعتماد عمومی به سیستم حقوقی را از بین خواهد برد."
+          },
+          {
+            "grammar": ["past perfect", "passive voice", "adjective clause"],
+            "english": "The foundation of the building had been undermined by years of neglect, making it unsafe for habitation.",
+            "persian": "پی‌سازی ساختمان پس از سال‌ها بی‌توجهی تضعیف شده بود و آن را برای سکونت ناامن کرده بود."
+          },
+          {
+            "grammar": ["future continuous", "connective relative clause", "adverb clause"],
+            "english": "The ongoing leaks will be undermining the integrity of the investigation, jeopardizing the chances of a fair trial.",
+            "persian": "نشت‌های مداوم در حال تضعیف یکپارچگی تحقیق خواهند بود و شانس یک محاکمه عادلانه را به خطر می‌اندازند."
+          },
+          {
+            "grammar": ["present perfect", "indirect speech", "adverb clause"],
+            "english": "The expert has warned that the new policies could undermine the progress made in environmental conservation over the past decade.",
+            "persian": "کارشناس هشدار داده است که سیاست‌های جدید ممکن است پیشرفت‌های حاصل‌شده در حفاظت از محیط زیست در دهه گذشته را تضعیف کنند."
+          }
+        ]
+      },
+      {
+        "word": "sententious",
+        "pronunciation": {"british": "/sɛnˈtɛnʃəs/", "USA": "/sɛnˈtɛnʃəs/"},
+        "meaning": "to be moralizing in a pompous sense",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (non-definitive)", "adverb clause"],
+            "english": "The professor's sententious remarks, which often come across as condescending, have alienated many students in the class.",
+            "persian": "اظهارات موعظه‌وار استاد، که اغلب تحقیرآمیز به نظر می‌رسد، بسیاری از دانشجویان کلاس را از خود دور کرده است."
+          },
+          {
+            "grammar": ["conditional type 1", "modals", "noun clause"],
+            "english": "If the speaker continues to be sententious, the audience may lose interest and dismiss the message as insincere.",
+            "persian": "اگر سخنران به موعظه‌گویی ادامه دهد، ممکن است مخاطبان علاقه خود را از دست بدهند و پیام را به عنوان غیرصادقانه رد کنند."
+          },
+          {
+            "grammar": ["past continuous", "adjective clause", "adverb clause"],
+            "english": "The politician was delivering a sententious speech, which many perceived as an attempt to mask the lack of substantive policies.",
+            "persian": "سیاستمدار در حال ایراد یک سخنرانی موعظه‌وار بود، که بسیاری آن را تلاشی برای پنهان کردن کمبود سیاست‌های اساسی می‌دانستند."
+          },
+          {
+            "grammar": ["future perfect", "connective relative clause", "adverb clause"],
+            "english": "By the end of the debate, the candidate's sententious tone will have undermined their credibility among undecided voters.",
+            "persian": "تا پایان مناظره، لحن موعظه‌وار نامزد اعتبار خود را در میان رأی‌دهندگان مردد تضعیف خواهد کرد."
+          },
+          {
+            "grammar": ["present perfect", "direct speech", "adverb clause"],
+            "english": "The critic remarked, 'His sententious style detracts from the substance of his arguments,' highlighting the need for authenticity.",
+            "persian": "منتقد اظهار کرد: 'سبک موعظه‌وار او از محتوای استدلال‌هایش می‌کاهد' و بر نیاز به اصالت تأکید کرد."
+          }
+        ]
+      },
+      {
+        "word": "propitiate",
+        "pronunciation": {"british": "/prəˈpɪʃɪeɪt/", "USA": "/prəˈpɪʃɪeɪt/"},
+        "meaning": "to placate or appease someone or something",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+            "english": "The leader's attempts to propitiate the opposition, which has been vocal in its criticism, have so far been unsuccessful.",
+            "persian": "تلاش‌های رهبر برای آرام‌کردن مخالفان، که در انتقادات خود صریح بوده‌اند، تاکنون بی‌نتیجه مانده است."
+          },
+          {
+            "grammar": ["conditional type 0", "modals", "noun clause"],
+            "english": "If the company fails to propitiate its customers, it risks losing their loyalty and damaging its reputation.",
+            "persian": "اگر شرکت نتواند مشتریان خود را آرام کند، خطر از دست دادن وفاداری آن‌ها و آسیب به اعتبار خود را دارد."
+          },
+          {
+            "grammar": ["past perfect", "passive voice", "adjective clause"],
+            "english": "The sacrifices had been made to propitiate the gods, who were believed to control the fate of the harvest.",
+            "persian": "قربانی‌هایی برای آرام‌کردن خدایان انجام شده بود، که اعتقاد بر این بود که سرنوشت محصول را کنترل می‌کنند."
+          },
+          {
+            "grammar": ["future continuous", "connective relative clause", "adverb clause"],
+            "english": "The diplomats will be working tirelessly to propitiate the conflicting parties, hoping to broker a lasting peace agreement.",
+            "persian": "دیپلمات‌ها به طور خستگی‌ناپذیری برای آرام‌کردن طرف‌های متعارض کار خواهند کرد و امیدوارند که یک توافق صلح پایدار برقرار کنند."
+          },
+          {
+            "grammar": ["present perfect", "indirect speech", "adverb clause"],
+            "english": "The priest has explained that the rituals are performed to propitiate the spirits, ensuring harmony within the community.",
+            "persian": "کشیش توضیح داده است که آیین‌ها برای آرام‌کردن ارواح انجام می‌شوند و هماهنگی در جامعه را تضمین می‌کنند."
+          }
+        ]
+      },
+      {
+        "word": "feckless",
+        "pronunciation": {"british": "/ˈfɛkləs/", "USA": "/ˈfɛkləs/"},
+        "meaning": "lazy and irresponsible",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (non-definitive)", "adverb clause"],
+            "english": "The feckless employee, who rarely meets deadlines, has become a liability for the team's overall productivity.",
+            "persian": "کارمند بی‌مسئولیت، که به ندرت به مهلت‌ها پایبند است، به یک بار برای بهره‌وری کلی تیم تبدیل شده است."
+          },
+          {
+            "grammar": ["conditional type 2", "modals", "noun clause"],
+            "english": "If the management were to ignore the feckless behavior, it would set a dangerous precedent for the rest of the staff.",
+            "persian": "اگر مدیریت رفتار بی‌مسئولیت را نادیده بگیرد، این کار یک پیش‌زمینه خطرناک برای بقیه کارکنان ایجاد خواهد کرد."
+          },
+          {
+            "grammar": ["past continuous", "adjective clause", "adverb clause"],
+            "english": "The feckless student was skipping classes regularly, which ultimately led to his academic probation and loss of scholarship.",
+            "persian": "دانش‌آموز بی‌مسئولیت به طور مرتب از کلاس‌ها غیبت می‌کرد، که در نهایت منجر به تعلیق تحصیلی و از دست دادن بورسیه او شد."
+          },
+          {
+            "grammar": ["future perfect", "connective relative clause", "adverb clause"],
+            "english": "By the end of the quarter, the feckless approach will have cost the company significant revenue and client trust.",
+            "persian": "تا پایان فصل، رویکرد بی‌مسئولیت باعث از دست دادن درآمد قابل توجه و اعتماد مشتریان شرکت خواهد شد."
+          },
+          {
+            "grammar": ["present perfect", "direct speech", "adverb clause"],
+            "english": "The manager stated, 'His feckless attitude is unacceptable,' emphasizing the need for accountability in the workplace.",
+            "persian": "مدیر اعلام کرد: 'نگرش بی‌مسئولیت او غیرقابل قبول است' و بر نیاز به پاسخگویی در محیط کار تأکید کرد."
+          }
+        ]
+      },
+      {
+        "word": "tendentious",
+        "pronunciation": {"british": "/tɛnˈdɛnʃəs/", "USA": "/tɛnˈdɛnʃəs/"},
+        "meaning": "biased; showing marked tendencies",
+        "examples": [
+          {
+            "grammar": ["present perfect", "relative clause (non-definitive)", "adverb clause"],
+            "english": "The tendentious article, which has been widely criticized, subtly promotes a political agenda while pretending to be impartial.",
+            "persian": "مقاله جانب‌دارانه، که به طور گسترده مورد انتقاد قرار گرفته است، به طور ظریفی یک دستور کار سیاسی را ترویج می‌کند در حالی که ادعای بی‌طرفی دارد."
+          },
+          {
+            "grammar": ["conditional type 2", "modals", "noun clause"],
+            "english": "If the author were less tendentious, the arguments might be more persuasive, but the bias undermines credibility.",
+            "persian": "اگر نویسنده کمتر جانب‌دارانه عمل می‌کرد، استدلال‌ها ممکن بود قانع‌کننده‌تر باشند، اما تعصب اعتبار را تضعیف می‌کند."
+          },
+          {
+            "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+            "english": "The tendentious claims, which were made without evidence, have been dismissed by scholars, who demand more rigorous analysis.",
+            "persian": "ادعاهای جانب‌دارانه، که بدون شواهد ارائه شده‌اند، توسط محققان رد شده‌اند، کسانی که خواستار تحلیل دقیق‌تری هستند."
+          },
+          {
+            "grammar": ["future continuous", "adverb clause", "so that"],
+            "english": "The media will be scrutinizing the tendentious report so that any hidden agendas can be exposed to the public.",
+            "persian": "رسانه‌ها گزارش جانب‌دارانه را زیر ذره‌بین خواهند برد تا هر گونه دستور کار پنهانی برای عموم افشا شود."
+          },
+          {
+            "grammar": ["present simple", "though", "participle clause"],
+            "english": "Though the author claims neutrality, the tendentious tone of the text, revealing a clear bias, cannot be ignored.",
+            "persian": "اگرچه نویسنده ادعای بی‌طرفی دارد، اما لحن جانب‌دارانه متن، که یک تعصب واضح را نشان می‌دهد، قابل چشم‌پوشی نیست."
+          }
+        ]
+      },
+      {
+        "word": "limpid",
+        "pronunciation": {"british": "/ˈlɪmpɪd/", "USA": "/ˈlɪmpɪd/"},
+        "meaning": "clear, easy to understand (referring to prose or music); see-through",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+            "english": "The limpid prose, which flows effortlessly, captivates readers, making even complex ideas seem accessible.",
+            "persian": "نثر شفاف، که به راحتی جریان دارد، خوانندگان را مجذوب می‌کند و حتی ایده‌های پیچیده را قابل درک می‌نماید."
+          },
+          {
+            "grammar": ["conditional type 0", "modals", "noun clause"],
+            "english": "If the explanation is limpid, it ensures that everyone understands the concept without confusion.",
+            "persian": "اگر توضیح شفاف باشد، اطمینان حاصل می‌کند که همه مفهوم را بدون سردرگمی درک کنند."
+          },
+          {
+            "grammar": ["past perfect", "adjective clause", "despite"],
+            "english": "Despite the limpid clarity of the instructions, which had been meticulously written, some students still struggled to follow them.",
+            "persian": "علیرغم وضوح شفاف دستورالعمل‌ها، که با دقت نوشته شده بودند، برخی از دانش‌آموزان هنوز در پیروی از آنها مشکل داشتند."
+          },
+          {
+            "grammar": ["future simple", "adverb clause", "so that"],
+            "english": "The author will write in a limpid style so that even laypeople can grasp the scientific concepts.",
+            "persian": "نویسنده به سبکی شفاف خواهد نوشت تا حتی افراد غیرمتخصص نیز بتوانند مفاهیم علمی را درک کنند."
+          },
+          {
+            "grammar": ["present continuous", "though", "participle clause"],
+            "english": "Though the water appears limpid, reflecting the sunlight, it is actually contaminated with microscopic pollutants.",
+            "persian": "اگرچه آب شفاف به نظر می‌رسد و نور خورشید را منعکس می‌کند، اما در واقع آلوده به آلاینده‌های میکروسکوپی است."
+          }
+        ]
+      },
+      {
+        "word": "betray",
+        "pronunciation": {"british": "/bɪˈtreɪ/", "USA": "/bɪˈtreɪ/"},
+        "meaning": "to reveal or make known something",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (non-definitive)", "adverb clause"],
+            "english": "The subtle gestures, which betray his nervousness, reveal more than his words ever could.",
+            "persian": "حرکات ظریف، که اضطراب او را نشان می‌دهند، بیشتر از آنچه کلماتش می‌توانند بیان کنند، آشکار می‌کنند."
+          },
+          {
+            "grammar": ["conditional type 1", "modals", "noun clause"],
+            "english": "If the data betrays any anomalies, we must investigate further to ensure the integrity of the research.",
+            "persian": "اگر داده‌ها هر گونه ناهنجاری را نشان دهند، باید بیشتر بررسی کنیم تا از صحت تحقیق اطمینان حاصل کنیم."
+          },
+          {
+            "grammar": ["past simple", "adjective clause", "in spite of"],
+            "english": "In spite of his calm demeanor, which betrayed no emotion, his trembling hands revealed his true feelings.",
+            "persian": "علیرغم رفتار آرام او، که هیچ احساسی را نشان نمی‌داد، دستان لرزانش احساسات واقعی او را آشکار کرد."
+          },
+          {
+            "grammar": ["future perfect", "adverb clause", "so that"],
+            "english": "By the time the investigation concludes, the evidence will have betrayed the true culprit, ensuring justice is served.",
+            "persian": "تا زمانی که تحقیق به پایان برسد، شواهد مقصر واقعی را نشان خواهند داد و اطمینان حاصل می‌کنند که عدالت اجرا شود."
+          },
+          {
+            "grammar": ["present perfect continuous", "though", "participle clause"],
+            "english": "Though he has been betraying his colleagues' trust for months, they remain unaware of his deceitful actions.",
+            "persian": "اگرچه او برای ماه‌ها اعتماد همکارانش را خیانت کرده است، اما آنها از اقدامات فریبکارانه‌اش بی‌خبر هستند."
+          }
+        ]
+      },
+      {
+        "word": "remiss",
+        "pronunciation": {"british": "/rɪˈmɪs/", "USA": "/rɪˈmɪs/"},
+        "meaning": "to be negligent in one's duty",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+            "english": "The manager, who is often remiss in his responsibilities, has caused delays that affect the entire team.",
+            "persian": "مدیری که اغلب در انجام مسئولیت‌هایش کوتاهی می‌کند، باعث تاخیرهایی شده است که کل تیم را تحت تاثیر قرار می‌دهد."
+          },
+          {
+            "grammar": ["conditional type 2", "modals", "noun clause"],
+            "english": "If the government were not so remiss in addressing environmental issues, the planet might be in a better state.",
+            "persian": "اگر دولت در رسیدگی به مسائل زیست‌محیطی این‌قدر کوتاهی نمی‌کرد، ممکن بود وضعیت سیاره بهتر باشد."
+          },
+          {
+            "grammar": ["past perfect", "adjective clause", "despite"],
+            "english": "Despite being remiss in his duties, which had caused significant problems, he was given another chance to prove himself.",
+            "persian": "علیرغم کوتاهی در وظایفش، که مشکلات قابل توجهی ایجاد کرده بود، به او فرصت دیگری داده شد تا خود را ثابت کند."
+          },
+          {
+            "grammar": ["future simple", "adverb clause", "so that"],
+            "english": "The company will implement stricter policies so that employees who are remiss in their tasks face consequences.",
+            "persian": "شرکت سیاست‌های سخت‌گیرانه‌تری اجرا خواهد کرد تا کارمندانی که در انجام وظایف خود کوتاهی می‌کنند، با پیامدهایی مواجه شوند."
+          },
+          {
+            "grammar": ["present continuous", "though", "participle clause"],
+            "english": "Though the supervisor is being remiss in monitoring the project, the team continues to work diligently to meet deadlines.",
+            "persian": "اگرچه سرپرست در نظارت بر پروژه کوتاهی می‌کند، تیم به تلاش خود برای رعایت مهلت‌ها ادامه می‌دهد."
+          }
+        ]
+      },
+      {
+        "word": "restive",
+        "pronunciation": {"british": "/ˈrɛstɪv/", "USA": "/ˈrɛstɪv/"},
+        "meaning": "restless",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (non-definitive)", "adverb clause"],
+            "english": "The restive crowd, which has been waiting for hours, grows increasingly impatient as the event delays continue.",
+            "persian": "جمعیت بی‌قرار، که ساعتها منتظر بوده‌اند، با ادامه تاخیرهای رویداد، بیش از پیش بی‌تاب می‌شوند."
+          },
+          {
+            "grammar": ["conditional type 1", "modals", "noun clause"],
+            "english": "If the employees remain restive, the management might need to address their concerns to prevent a decline in productivity.",
+            "persian": "اگر کارمندان بی‌قرار باقی بمانند، مدیریت ممکن است نیاز داشته باشد به نگرانی‌های آنها رسیدگی کند تا از کاهش بهره‌وری جلوگیری شود."
+          },
+          {
+            "grammar": ["past simple", "adjective clause", "in spite of"],
+            "english": "In spite of the restive atmosphere, which made negotiations difficult, the diplomats managed to reach a tentative agreement.",
+            "persian": "علیرغم جو بی‌قرار، که مذاکرات را دشوار می‌کرد، دیپلمات‌ها توانستند به یک توافق اولیه برسند."
+          },
+          {
+            "grammar": ["future continuous", "adverb clause", "so that"],
+            "english": "The government will be monitoring the restive regions so that any potential unrest can be swiftly contained.",
+            "persian": "دولت مناطق بی‌قرار را زیر نظر خواهد داشت تا هر گونه ناآرامی احتمالی به سرعت مهار شود."
+          },
+          {
+            "grammar": ["present perfect", "though", "participle clause"],
+            "english": "Though the situation has been restive for weeks, the authorities have yet to propose a viable solution to calm the public.",
+            "persian": "اگرچه وضعیت برای هفته‌ها بی‌قرار بوده است، مقامات هنوز راه‌حل عملی‌ای برای آرام کردن مردم ارائه نکرده‌اند."
+          }
+        ]
+      },
+      {
+        "word": "repine",
+        "pronunciation": {"british": "/rɪˈpaɪn/", "USA": "/rɪˈpaɪn/"},
+        "meaning": "to complain or fret over something",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+            "english": "The workers, who constantly repine about their wages, have yet to propose a constructive solution to the management.",
+            "persian": "کارگرانی که دائماً در مورد دستمزدهایشان گله می‌کنند، هنوز راه‌حل سازنده‌ای به مدیریت پیشنهاد نکرده‌اند."
+          },
+          {
+            "grammar": ["conditional type 2", "modals", "noun clause"],
+            "english": "If she did not repine so much about her circumstances, she might find the motivation to improve her situation.",
+            "persian": "اگر او این‌قدر در مورد شرایطش گله نمی‌کرد، ممکن بود انگیزه بهبود وضعیت خود را پیدا کند."
+          },
+          {
+            "grammar": ["past perfect", "adjective clause", "despite"],
+            "english": "Despite repining about the lack of resources, which had been a recurring issue, the team completed the project on time.",
+            "persian": "علیرغم گله‌کردن در مورد کمبود منابع، که مسئله‌ای تکراری بود، تیم پروژه را به موقع به پایان رساند."
+          },
+          {
+            "grammar": ["future simple", "adverb clause", "so that"],
+            "english": "The employees will repine less so that the workplace atmosphere becomes more positive and productive.",
+            "persian": "کارمندان کمتر گله خواهند کرد تا جو محیط کار مثبت‌تر و مولدتر شود."
+          },
+          {
+            "grammar": ["present continuous", "though", "participle clause"],
+            "english": "Though he is repining about the unfair treatment, he has not taken any steps to address the issue formally.",
+            "persian": "اگرچه او در مورد رفتار ناعادلانه گله می‌کند، اما هیچ اقدامی برای رسیدگی رسمی به این موضوع انجام نداده است."
+          }
+        ]
+      },
+      {
+        "word": "remonstrate",
+        "pronunciation": {"british": "/ˈrɛmənstreɪt/", "USA": "/ˈrɛmənstreɪt/"},
+        "meaning": "to make objections while pleading",
+        "examples": [
+          {
+            "grammar": ["present simple", "relative clause (non-definitive)", "adverb clause"],
+            "english": "The lawyer, who often remonstrates with the judge, is known for his passionate defense of his clients.",
+            "persian": "وکیلی که اغلب با قاضی اعتراض می‌کند، به دلیل دفاع پرشور از موکلانش شناخته شده است."
+          },
+          {
+            "grammar": ["conditional type 1", "modals", "noun clause"],
+            "english": "If the citizens remonstrate against the new policy, the government might reconsider its implementation.",
+            "persian": "اگر شهروندان علیه سیاست جدید اعتراض کنند، دولت ممکن است اجرای آن را بازنگری کند."
+          },
+          {
+            "grammar": ["past simple", "adjective clause", "in spite of"],
+            "english": "In spite of remonstrating with the authorities, which had been ongoing for weeks, the activists saw no change in policy.",
+            "persian": "علیرغم اعتراض به مقامات، که برای هفته‌ها ادامه داشت، فعالان هیچ تغییری در سیاست مشاهده نکردند."
+          },
+          {
+            "grammar": ["future continuous", "adverb clause", "so that"],
+            "english": "The protesters will be remonstrating so that their voices are heard and their demands are met.",
+            "persian": "معترضان اعتراض خواهند کرد تا صدایشان شنیده شود و خواسته‌هایشان برآورده شود."
+          },
+          {
+            "grammar": ["present perfect", "though", "participle clause"],
+            "english": "Though they have remonstrated repeatedly, the officials have yet to address the concerns raised by the community.",
+            "persian": "اگرچه آنها بارها اعتراض کرده‌اند، مقامات هنوز به نگرانی‌های مطرح شده توسط جامعه رسیدگی نکرده‌اند."
+          }
+        ]
+      }
+    ]
+  }

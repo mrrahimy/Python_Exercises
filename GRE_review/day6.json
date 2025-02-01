@@ -1,0 +1,616 @@
+{
+    "examples": [
+        {
+            "word": "lagniappe",
+            "meaning": "an unexpected gift",
+            "examples": [
+                {
+                    "english": "The boutique owner, with a penchant for philanthropy, offered a lagniappe—a handcrafted silk scarf—to each customer, a gesture that epitomized her magnanimity.",
+                    "persian": "فروشنده بوتیک، با علاقه به انسان دوستی، به هر مشتری یک هدیه غیرمنتظره—یک شال ابریشمی دست ساز—داد، حرکتی که سخاوت او را نشان می داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 23:23:28"
+                },
+                {
+                    "english": "Amidst the transaction of rare botanical specimens, the seller included a lagniappe—a vial of essential oil—derived from an obscure species of orchid.",
+                    "persian": "در میان معامله نمونه های نادر گیاهی، فروشنده یک هدیه غیرمنتظره—یک ویال از روغن ضروری—که از گونه ای نادر از ارکیده استخراج شده بود، اضافه کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 20:03:47"
+                },
+                {
+                    "english": "The professor, known for his erudition, concluded his lecture with a lagniappe—an unpublished manuscript on quantum entanglement—leaving the audience in awe.",
+                    "persian": "استاد، که به دانش وسیعش معروف بود، سخنرانی خود را با یک هدیه غیرمنتظره—یک نسخه خطی منتشر نشده درباره درهم تنیدگی کوانتومی—به پایان رساند و حضار را مبهوت کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 20:05:36"
+                },
+                {
+                    "english": "As a lagniappe, the chef, renowned for his molecular gastronomy, presented a deconstructed dessert, a fusion of flavors that defied conventional culinary paradigms.",
+                    "persian": "به عنوان یک هدیه غیرمنتظره، سرآشپز، که به خاطر آشپزی مولکولی اش مشهور بود، یک دسر تجزیه شده ارائه داد، ترکیبی از طعم ها که پارادایم های آشپزی متعارف را به چالش می کشید.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 20:21:44"
+                },
+                {
+                    "english": "The philanthropist, with an affinity for serendipity, distributed lagniappes—personalized leather-bound journals—to the attendees of the symposium on cognitive neuroscience.",
+                    "persian": "خیرخواه، با علاقه به اتفاق های خوشایند، به شرکت کنندگان سمپوزیم علوم اعصاب شناختی هدایای غیرمنتظره—دفترچه های چرمی شخصی سازی شده—اعطا کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 23:25:30"
+                }
+            ]
+        },
+        {
+            "word": "picayune",
+            "meaning": "a coin or amount of little value; trivial",
+            "examples": [
+                {
+                    "english": "The debate over the picayune details of the contract—such as font size and margin width—seemed inconsequential compared to the overarching legal implications.",
+                    "persian": "بحث درباره جزئیات بی اهمیت قرارداد—مانند اندازه فونت و عرض حاشیه—در مقایسه با پیامدهای کلی حقوقی آن، بی اهمیت به نظر می رسید.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 20:14:04"
+                },
+                {
+                    "english": "Despite the scientist’s groundbreaking discovery, her colleagues often dismissed her work as picayune, focusing instead on more grandiose but less substantiated theories.",
+                    "persian": "با وجود کشف انقلابی دانشمند، همکارانش اغلب کار او را بی اهمیت می دانستند و به جای آن بر نظریه های پرطمطراق اما کم پایه تر تمرکز می کردند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-27 07:03:11"
+                },
+                {
+                    "english": "The collector, known for his obsession with rare artifacts, scoffed at the picayune trinkets displayed at the flea market, deeming them unworthy of his attention.",
+                    "persian": "کلکسیونر، که به وسواسش برای آثار نادر معروف بود، به جواهرات بی ارزش نمایش داده شده در بازار مکاره خندید و آنها را لایق توجه خود ندانست.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 00:15:39"
+                },
+                {
+                    "english": "In the grand scheme of the project, the picayune discrepancies in the data were negligible, yet they consumed an inordinate amount of the team’s time and resources.",
+                    "persian": "در طرح کلی پروژه، اختلافات بی اهمیت در داده ها ناچیز بود، اما زمان و منابع تیم را به میزان زیادی مصرف می کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-27 07:07:39"
+                },
+                {
+                    "english": "The critic’s picayune complaints about the film—such as the protagonist’s choice of footwear—detracted from the profound themes and cinematic brilliance it otherwise showcased.",
+                    "persian": "شکایات بی اهمیت منتقد درباره فیلم—مانند انتخاب کفش شخصیت اصلی—از موضوعات عمیق و جلوه های سینمایی درخشان آن کم می کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 08:44:01"
+                }
+            ]
+        },
+        {
+            "word": "nabob",
+            "meaning": "a wealthy influential person",
+            "examples": [
+                {
+                    "english": "The industrial nabob, whose empire spanned continents, wielded unparalleled influence in global markets, yet his philanthropic endeavors often went unnoticed.",
+                    "persian": "سرمایه دار بزرگ، که امپراتوری اش قاره ها را در بر می گرفت، نفوذ بی نظیری در بازارهای جهانی داشت، اما اقدامات بشردوستانه او اغلب نادیده گرفته می شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 20:10:16"
+                },
+                {
+                    "english": "At the gala, the nabob of the tech world captivated the audience with his visionary ideas, though his ostentatious display of wealth drew quiet criticism.",
+                    "persian": "در ضیافت، سرمایه دار بزرگ دنیای فناوری با ایده های آینده نگرانه خود حضار را مجذوب کرد، اگرچه نمایش پرزرق و برق ثروت او انتقادات پنهانی را برانگیخت.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-01-31 16:51:27"
+                },
+                {
+                    "english": "The political nabob, with his vast network of connections, orchestrated the passage of the controversial bill, leaving many to question the integrity of the legislative process.",
+                    "persian": "سرمایه دار سیاسی، با شبکه وسیع ارتباطاتش، تصویب لایحه جنجالی را هدایت کرد و باعث شد بسیاری به صداقت فرآیند قانونگذاری شک کنند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-28 22:24:47"
+                },
+                {
+                    "english": "Though the literary nabob’s novels were celebrated for their intricate prose, critics argued that his wealth and status overshadowed the merit of his work.",
+                    "persian": "اگرچه رمان های سرمایه دار ادبی به خاطر نثر پیچیده اش تحسین می شدند، منتقدان استدلال می کردند که ثروت و جایگاه او ارزش کارش را تحت الشعاع قرار داده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 19:59:02"
+                },
+                {
+                    "english": "The environmental summit was dominated by discussions led by a green energy nabob, whose innovative solutions promised to revolutionize sustainable practices worldwide.",
+                    "persian": "اجلاس محیط زیست تحت سلطه بحث هایی بود که توسط یک سرمایه دار بزرگ انرژی سبز رهبری می شد، کسی که راهکارهای نوآورانه اش وعده تحول در شیوه های پایدار جهانی را می داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 00:02:03"
+                }
+            ]
+        },
+        {
+            "word": "eponym",
+            "meaning": "name-source for a particular person, place, thing or era",
+            "examples": [
+                {
+                    "english": "The term *sandwich* is an eponym derived from John Montagu, the 4th Earl of Sandwich, whose penchant for eating meat between slices of bread immortalized his name in culinary history.",
+                    "persian": "واژه *ساندویچ* یک نام‌واژه است که از جان مونتاگو، چهارمین ارل ساندویچ گرفته شده است، کسی که علاقه‌اش به خوردن گوشت بین دو نان، نامش را در تاریخ آشپزی جاودان کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 20:44:21"
+                },
+                {
+                    "english": "Alzheimer’s disease, an eponym for the German psychiatrist Alois Alzheimer, serves as a somber reminder of the complexities of neurodegenerative disorders.",
+                    "persian": "بیماری آلزایمر، یک نام‌واژه برای روانپزشک آلمانی آلوئیس آلزایمر، یادآوری تلخ از پیچیدگی‌های اختلالات تخریب عصبی است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 00:08:59"
+                },
+                {
+                    "english": "The city of Alexandria, an eponym for Alexander the Great, stands as a testament to the enduring legacy of one of history’s most formidable conquerors.",
+                    "persian": "شهر اسکندریه، یک نام‌واژه برای اسکندر کبیر، گواهی بر میراث ماندگار یکی از فاتحان بزرگ تاریخ است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 20:43:29"
+                },
+                {
+                    "english": "The scientific community often honors pioneers by assigning eponyms, such as the *Newton*, a unit of force named after Sir Isaac Newton, whose laws of motion revolutionized physics.",
+                    "persian": "جامعه علمی اغلب پیشگامان را با اختصاص نام‌واژه‌ها گرامی می‌دارد، مانند *نیوتن*، واحد نیرو که به نام سر ایزاک نیوتن نام‌گذاری شده است، کسی که قوانین حرکتش فیزیک را متحول کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "english": "The Victorian era, an eponym for Queen Victoria, evokes images of industrial progress and cultural refinement, despite the social inequalities that characterized the period.",
+                    "persian": "دوران ویکتوریا، یک نام‌واژه برای ملکه ویکتوریا، تصاویری از پیشرفت صنعتی و ظرافت فرهنگی را برمی‌انگیزد، علیرغم نابرابری‌های اجتماعی که این دوره را مشخص می‌کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 20:14:39"
+                }
+            ]
+        },
+        {
+            "word": "kafkaesque",
+            "meaning": "the absurdity dealt with while living in a faceless bureaucracy",
+            "examples": [
+                {
+                    "english": "The protagonist found himself trapped in a Kafkaesque nightmare, where every attempt to resolve his visa issue led to increasingly convoluted and nonsensical bureaucratic hurdles.",
+                    "persian": "شخصیت اصلی در یک کابوس کافکایی گرفتار شد، جایی که هر تلاش برای حل مشکل ویزایش به موانع اداری پیچیده‌تر و بی‌معناتری منجر می‌شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 21:52:56"
+                },
+                {
+                    "english": "The Kafkaesque nature of the tax system became apparent when citizens were required to submit forms that no office seemed capable of processing or acknowledging.",
+                    "persian": "ماهیت کافکایی سیستم مالیاتی زمانی آشکار شد که از شهروندان خواسته شد فرم‌هایی را ارائه دهند که به نظر می‌رسید هیچ اداره‌ای قادر به پردازش یا تأیید آنها نیست.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:41:54"
+                },
+                {
+                    "english": "In a Kafkaesque twist, the applicant was told her documents were incomplete, yet no one could specify which documents were missing or how to obtain them.",
+                    "persian": "در یک پیچ‌و‌تاب کافکایی، به متقاضی گفته شد که مدارک او ناقص است، اما هیچ‌کس نمی‌توانست مشخص کند کدام مدارک گم‌شده‌اند یا چگونه می‌توان آنها را به دست آورد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 20:28:47"
+                },
+                {
+                    "english": "The Kafkaesque bureaucracy of the healthcare system left patients wandering endless corridors, filling out redundant forms, and receiving contradictory instructions.",
+                    "persian": "بوروکراسی کافکایی سیستم بهداشتی، بیماران را در راهروهای بی‌پایان سرگردان کرد، در حالی که فرم‌های تکراری پر می‌کردند و دستورالعمل‌های متناقض دریافت می‌کردند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 08:35:01"
+                },
+                {
+                    "english": "The Kafkaesque ordeal of appealing a parking ticket involved navigating a labyrinth of departments, each redirecting the complainant to another with no resolution in sight.",
+                    "persian": "مصیبت کافکایی اعتراض به جریمه پارکینگ شامل پیمودن هزارتوی ادارات بود، جایی که هر کدام شاکی را به دیگری ارجاع می‌دادند بدون هیچ راه‌حلی در چشم‌انداز.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 16:42:53"
+                }
+            ]
+        },
+        {
+            "word": "mesmerize",
+            "meaning": "to hypnotize, entrance; to fascinate, enthrall, bewitch",
+            "examples": [
+                {
+                    "english": "The orator’s eloquent speech mesmerized the audience, leaving them in a state of rapt attention, as if time itself had momentarily ceased to exist.",
+                    "persian": "سخنرانی فصیح سخنران، حضار را مسحور کرد و آنها را در حالت توجه کامل قرار داد، گویی زمان برای لحظه‌ای متوقف شده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "english": "The shimmering aurora borealis, with its ethereal dance of colors across the night sky, had the power to mesmerize even the most jaded of travelers.",
+                    "persian": "شفق قطبی درخشان، با رقص اثیری رنگ‌هایش در آسمان شب، این قدرت را داشت که حتی مسافران خسته‌ترین را هم مسحور کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:21:30"
+                },
+                {
+                    "english": "The virtuoso violinist’s performance was so captivating that it seemed to mesmerize the entire concert hall, as if the very air had been enchanted by the melody.",
+                    "persian": "اجرای نوازنده چیره‌دست ویولن آن‌قدر جذاب بود که به نظر می‌رسید کل سالن کنسرت را مسحور کرده است، گویی هوا با ملودی افسون شده بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-29 08:50:15"
+                },
+                {
+                    "english": "The intricate patterns of the mandala, with their hypnotic symmetry and vibrant hues, had the ability to mesmerize anyone who gazed upon them for too long.",
+                    "persian": "الگوهای پیچیده ماندالا، با تقارن هیپنوتیزم‌کننده و رنگ‌های زنده‌اش، این توانایی را داشت که هر کسی را که برای مدت طولانی به آن خیره می‌شد، مسحور کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 23:52:40"
+                },
+                {
+                    "english": "The storyteller’s voice, rich and melodic, seemed to mesmerize the children, transporting them to a world where dragons soared and castles touched the clouds.",
+                    "persian": "صدای قصه‌گو، غنی و آهنگین، به نظر می‌رسید بچه‌ها را مسحور کرده است، آنها را به دنیایی می‌برد که اژدهاها پرواز می‌کردند و قلعه‌ها به ابرها می‌رسیدند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 14:35:39"
+                }
+            ]
+        },
+        {
+            "word": "maudlin",
+            "meaning": "tearfully sentimental (negative connotation)",
+            "examples": [
+                {
+                    "english": "The film’s maudlin attempt to evoke sympathy through excessive scenes of weeping and melodramatic music left the audience rolling their eyes rather than reaching for tissues.",
+                    "persian": "تلاش ناشیانه فیلم برای برانگیختن همدردی با صحنه‌های گریه‌آور بیش از حد و موسیقی ملودراماتیک، باعث شد تماشاگران به جای دستمال، چشمانشان را بچرخانند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-01 08:25:23"
+                },
+                {
+                    "english": "His maudlin reminiscences about his childhood, filled with exaggerated tales of hardship and self-pity, quickly grew tiresome at the dinner party.",
+                    "persian": "یادآوری‌های احساساتی و اغراق‌آمیز او درباره دوران کودکی‌اش، پر از داستان‌های سخت‌گیری و ترحم به خود، به سرعت در مهمانی شام خسته‌کننده شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-31 18:59:17"
+                },
+                {
+                    "english": "The politician’s maudlin speech, dripping with insincere tears and hollow promises, failed to convince the skeptical crowd of his genuine intentions.",
+                    "persian": "سخنرانی احساساتی و ناشیانه سیاستمدار، پر از اشک‌های غیرصادقانه و وعده‌های پوچ، نتوانست جمعیت شک‌آلود را از نیت واقعی‌اش متقاعد کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:09:09"
+                },
+                {
+                    "english": "She dismissed the novel as maudlin drivel, criticizing its reliance on clichéd tragedies and saccharine sentimentality to manipulate readers’ emotions.",
+                    "persian": "او رمان را به عنوان یک نوشته احساساتی و بی‌مایه رد کرد و به استفاده‌اش از تراژدی‌های کلیشه‌ای و احساسات شیرین و مصنوعی برای دستکاری احساسات خوانندگان انتقاد کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 20:39:04"
+                },
+                {
+                    "english": "The maudlin tone of the farewell party, with its endless toasts and tearful embraces, made him feel more uncomfortable than touched by the display of affection.",
+                    "persian": "لحن احساساتی و ناشیانه مهمانی خداحافظی، با نثارهای بی‌پایان و آغوش‌های اشک‌آلود، باعث شد او بیشتر از اینکه تحت تأثیر نمایش محبت قرار بگیرد، احساس ناراحتی کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 18:47:43"
+                }
+            ]
+        },
+        {
+            "word": "gerrymander",
+            "meaning": "the manipulation of voting boundaries to favor a political group",
+            "examples": [
+                {
+                    "english": "The incumbent party’s decision to gerrymander the district maps was a blatant attempt to consolidate power, diluting the opposition’s votes across multiple constituencies.",
+                    "persian": "تصمیم حزب حاکم برای دستکاری مرزهای حوزه‌های انتخاباتی، تلاشی آشکار برای تحکیم قدرت بود، که آرای مخالفان را در چندین حوزه پراکنده می‌کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 23:40:42"
+                },
+                {
+                    "english": "Critics accused the legislature of using sophisticated algorithms to gerrymander the state, creating bizarrely shaped districts that favored their electoral prospects.",
+                    "persian": "منتقدان، مجلس را متهم کردند که از الگوریتم‌های پیچیده برای دستکاری مرزهای ایالتی استفاده کرده‌اند و حوزه‌هایی با شکل‌های عجیب ایجاد کرده‌اند که به نفع چشم‌اندازهای انتخاباتی آنهاست.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "english": "The practice of gerrymandering has long been a contentious issue, as it undermines the principle of fair representation and distorts the democratic process.",
+                    "persian": "عمل دستکاری مرزهای انتخاباتی مدتهاست که یک موضوع بحث‌برانگیز بوده است، زیرا اصل نمایندگی عادلانه را تضعیف می‌کند و فرآیند دموکراتیک را تحریف می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:14:42"
+                },
+                {
+                    "english": "In a blatant act of gerrymandering, the newly drawn district snaked through urban and rural areas, strategically splitting communities to ensure a partisan advantage.",
+                    "persian": "در یک اقدام آشکار دستکاری مرزهای انتخاباتی، حوزه تازه ترسیم‌شده از مناطق شهری و روستایی عبور می‌کرد و به طور استراتژیک جوامع را تقسیم می‌کرد تا مزیت حزبی را تضمین کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 20:24:40"
+                },
+                {
+                    "english": "The Supreme Court’s ruling on gerrymandering cases has sparked nationwide debate about whether judicial intervention is necessary to preserve electoral integrity.",
+                    "persian": "حکم دادگاه عالی درباره پرونده‌های دستکاری مرزهای انتخاباتی، بحث‌های ملی را برانگیخته است که آیا مداخله قضایی برای حفظ یکپارچگی انتخابات ضروری است یا خیر.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 00:24:45"
+                }
+            ]
+        },
+        {
+            "word": "panglossian",
+            "meaning": "blind optimism (negative connotation)",
+            "examples": [
+                {
+                    "english": "Despite the mounting evidence of climate catastrophe, his Panglossian insistence that 'everything will work out fine' struck many as dangerously naive.",
+                    "persian": "با وجود شواهد فزاینده فاجعه آب‌وهوایی، اصرار خوش‌بینانه او که «همه‌چیز درست می‌شود» از نظر بسیاری ساده‌لوحانه و خطرناک به نظر می‌رسید.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 14:58:35"
+                },
+                {
+                    "english": "The CEO’s Panglossian outlook on the company’s future, ignoring the glaring financial losses, left employees skeptical and anxious about their job security.",
+                    "persian": "دیدگاه خوش‌بینانه مدیرعامل درباره آینده شرکت، که ضررهای مالی آشکار را نادیده می‌گرفت، باعث شد کارمندان نسبت به امنیت شغلی‌شان شک‌آلود و مضطرب شوند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 08:29:01"
+                },
+                {
+                    "english": "Her Panglossian belief that technology alone could solve all societal problems overlooked the complex interplay of economic, cultural, and political factors.",
+                    "persian": "باور خوش‌بینانه او که فناوری به تنهایی می‌تواند تمام مشکلات جامعه را حل کند، تعامل پیچیده عوامل اقتصادی، فرهنگی و سیاسی را نادیده می‌گرفت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:49:40"
+                },
+                {
+                    "english": "The politician’s Panglossian rhetoric, filled with promises of utopia without any concrete plans, failed to resonate with voters weary of empty platitudes.",
+                    "persian": "سخنان خوش‌بینانه سیاستمدار، پر از وعده‌های آرمان‌شهر بدون هیچ برنامه مشخصی، نتوانست با رأی‌دهندگانی که از حرف‌های توخالی خسته شده‌بودند، ارتباط برقرار کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "english": "In the face of a global pandemic, his Panglossian attitude—dismissing the severity of the crisis—was not only unhelpful but also potentially harmful to public health efforts.",
+                    "persian": "در مواجهه با یک بیماری همه‌گیر جهانی، نگرش خوش‌بینانه او—که شدت بحران را نادیده می‌گرفت—نه تنها بی‌فایده بود، بلکه به طور بالقوه برای تلاش‌های بهداشت عمومی مضر بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 00:02:21"
+                }
+            ]
+        },
+        {
+            "word": "malapropism",
+            "meaning": "humorous misuse of a word or phrase; a word that is confused with another similar sounding word",
+            "examples": [
+                {
+                    "english": "In her speech, the politician’s malapropism left the audience chuckling when she declared, 'We must fight for the prostate rights of all citizens!' instead of 'protest rights.'",
+                    "persian": "در سخنرانی‌اش، استفاده نابجای سیاستمدار از کلمه باعث خنده حضار شد وقتی اعلام کرد: «ما باید برای حقوق پروستات همه شهروندان بجنگیم!» به جای «حقوق اعتراض.»",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 16:19:38"
+                },
+                {
+                    "english": "The teacher gently corrected the student’s malapropism when he referred to the 'Alaska Triangle' as the 'Bermuda Rectangle,' causing a ripple of laughter in the classroom.",
+                    "persian": "معلم به آرامی اشتباه دانش‌آموز را تصحیح کرد وقتی او به «مثلث برمودا» به عنوان «مستطیل برمودا» اشاره کرد و باعث خنده‌ای در کلاس شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:32:57"
+                },
+                {
+                    "english": "His frequent malapropisms, such as calling a 'metaphor' a 'meatloaf,' made him the unintentional comedian of the office, though he never quite understood why everyone was laughing.",
+                    "persian": "استفاده‌های مکرر او از کلمات نابجا، مانند اینکه به «استعاره» می‌گفت «کوفته»، او را به کمدین ناخواسته دفتر تبدیل کرده بود، هرچند او هرگز دقیقاً نمی‌فهمید چرا همه می‌خندند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-27 07:06:11"
+                },
+                {
+                    "english": "The play’s humor relied heavily on the character’s malapropisms, such as when he exclaimed, 'I’m not the dessert spoon, I’m the main course!' instead of 'I’m not the subordinate, I’m the supervisor!'",
+                    "persian": "طنز نمایشنامه به شدت به استفاده نابجای شخصیت از کلمات وابسته بود، مانند وقتی که فریاد زد: «من قاشق دسر نیستم، من غذای اصلی هستم!» به جای «من زیردست نیستم، من سرپرست هستم!»",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-01-31 16:43:41"
+                },
+                {
+                    "english": "Her malapropism during the presentation—'We need to avoid the elephant in the womb!' instead of 'elephant in the room'—left the audience struggling to stifle their laughter.",
+                    "persian": "استفاده نابجای او در طول ارائه—«ما باید از فیل در رحم اجتناب کنیم!» به جای «فیل در اتاق»—باعث شد حضار به سختی جلوی خنده‌هایشان را بگیرند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-31 22:26:50"
+                }
+            ]
+        },
+        {
+            "word": "hector",
+            "meaning": "to bully or intimidate",
+            "examples": [
+                {
+                    "english": "The manager’s tendency to hector his employees over minor mistakes created a toxic work environment, stifling creativity and morale.",
+                    "persian": "تمایل مدیر به زورگویی و ارعاب کارمندانش درباره اشتباهات جزئی، محیط کاری سمی ایجاد کرد و خلاقیت و روحیه را خفه کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-31 18:50:50"
+                },
+                {
+                    "english": "Despite his attempts to hector her into changing her opinion, she stood her ground, refusing to be intimidated by his aggressive tactics.",
+                    "persian": "علیرغم تلاش‌های او برای ارعاب او و تغییر نظرش، او ایستادگی کرد و از تاکتیک‌های تهاجمی‌اش نترسید.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:46:49"
+                },
+                {
+                    "english": "The older siblings would often hector the youngest, teasing and pressuring him until he gave in to their demands, a dynamic that left him feeling powerless.",
+                    "persian": "خواهر و برادرهای بزرگتر اغلب کوچک‌ترین را زورگویی می‌کردند، او را مسخره کرده و تحت فشار قرار می‌دادند تا اینکه تسلیم خواسته‌هایشان شود، پویایی‌ای که باعث می‌شد او احساس ناتوانی کند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-01-30 15:09:35"
+                },
+                {
+                    "english": "In the debate, the candidate chose to hector his opponent rather than address the issues, a strategy that backfired as the audience grew weary of his hostility.",
+                    "persian": "در مناظره، نامزد به جای پرداختن به مسائل، تصمیم گرفت به حریفش زورگویی کند، استراتژی‌ای که نتیجه معکوس داشت زیرا حضار از خصومت او خسته شدند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 11:56:57"
+                },
+                {
+                    "english": "The coach’s habit of hectoring the players during practice, shouting and criticizing relentlessly, did little to improve their performance and instead bred resentment.",
+                    "persian": "عادت مربی به زورگویی و ارعاب بازیکنان در طول تمرین، با فریاد زدن و انتقاد بی‌امان، کمکی به بهبود عملکردشان نکرد و در عوض باعث ایجاد نارضایتی شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:30:50"
+                }
+            ]
+        },
+        {
+            "word": "quisling",
+            "meaning": "a traitor",
+            "examples": [
+                {
+                    "english": "Were it not for the quisling within their ranks, the resistance movement might have successfully thwarted the invasion, but his betrayal sealed their fate.",
+                    "persian": "اگر خائن در صفوف آنها نبود، جنبش مقاومت ممکن بود با موفقیت از حمله جلوگیری کند، اما خیانت او سرنوشت‌شان را مهر و موم کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 22:07:21"
+                },
+                {
+                    "english": "Had the general suspected that his trusted advisor was a quisling, he would never have divulged the strategic plans that ultimately led to their defeat.",
+                    "persian": "اگر ژنرال شک می‌کرد که مشاور مورد اعتمادش یک خائن است، هرگز طرح‌های استراتژیکی را فاش نمی‌کرد که در نهایت به شکست‌شان منجر شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:45:06"
+                },
+                {
+                    "english": "The nation’s history is marred by the actions of quislings who, driven by greed or fear, collaborated with the enemy, undermining the sovereignty of their own people.",
+                    "persian": "تاریخ این کشور با اقدامات خائنان‌ای لکه‌دار شده است که، با انگیزه طمع یا ترس، با دشمن همکاری کردند و حاکمیت مردم خود را تضعیف کردند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 22:34:00"
+                },
+                {
+                    "english": "Should a quisling ever rise to power again, the consequences would be catastrophic, as their allegiance would lie not with the nation but with their own self-interest.",
+                    "persian": "اگر خائنی دوباره به قدرت برسد، عواقب آن فاجعه‌بار خواهد بود، زیرا وفاداری‌شان نه به ملت، بلکه به منافع شخصی خودشان خواهد بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 22:48:31"
+                },
+                {
+                    "english": "The journalist’s exposé revealed that the politician, long regarded as a patriot, was in fact a quisling who had been leaking classified information for years.",
+                    "persian": "گزارش روزنامه‌نگار فاش کرد که سیاستمدار، که مدتها به عنوان میهن‌پرست شناخته می‌شد، در واقع یک خائن بود که سال‌ها اطلاعات طبقه‌بندی‌شده را درز می‌داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 11:52:33"
+                }
+            ]
+        },
+        {
+            "word": "pollyannaish",
+            "meaning": "extremely optimistic",
+            "examples": [
+                {
+                    "english": "Her pollyannaish outlook on the failing project—insisting that 'everything will turn around soon'—only frustrated her teammates, who were grappling with harsh realities.",
+                    "persian": "نگرش خوش‌بینانه افراطی او درباره پروژه شکست‌خورده—با اصرار بر اینکه «همه‌چیز به زودی درست می‌شود»—فقط هم‌تیمی‌هایش را ناامید کرد، کسانی که با واقعیت‌های سخت دست و پنجه نرم می‌کردند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 19:24:10"
+                },
+                {
+                    "english": "The CEO’s pollyannaish declaration that 'every challenge is an opportunity' rang hollow to employees facing layoffs and budget cuts.",
+                    "persian": "اعلامیه خوش‌بینانه افراطی مدیرعامل که «هر چالشی یک فرصت است» برای کارمندانی که با اخراج و کاهش بودجه مواجه بودند، پوچ به نظر می‌رسید.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 21:19:54"
+                },
+                {
+                    "english": "Despite the economic downturn, his pollyannaish belief that 'the market will fix itself' prevented him from taking any proactive measures to protect his business.",
+                    "persian": "علیرغم رکود اقتصادی، باور خوش‌بینانه افراطی او که «بازار خودش را درست می‌کند» مانع از آن شد که هرگونه اقدام پیشگیرانه‌ای برای محافظت از کسب‌وکارش انجام دهد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 11:29:53"
+                },
+                {
+                    "english": "The politician’s pollyannaish promises of a 'perfect future' were met with skepticism by voters who had heard similar empty assurances before.",
+                    "persian": "وعده‌های خوش‌بینانه افراطی سیاستمدار درباره یک «آینده کامل» با شک‌و‌تردید رأی‌دهندگانی مواجه شد که قبلاً وعده‌های پوچ مشابهی شنیده بودند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 21:14:00"
+                },
+                {
+                    "english": "Her pollyannaish refusal to acknowledge the severity of the crisis only deepened the frustration of those who were desperately seeking solutions.",
+                    "persian": "امتناع خوش‌بینانه افراطی او از پذیرش شدت بحران، فقط ناامیدی کسانی را که به دنبال راه‌حل بودند، عمیق‌تر کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 22:31:56"
+                }
+            ]
+        },
+        {
+            "word": "byzantine",
+            "meaning": "something intricate and complex",
+            "examples": [
+                {
+                    "english": "The byzantine regulations governing the approval process for new medications often delay life-saving treatments, leaving patients and researchers frustrated.",
+                    "persian": "مقررات پیچیده و دشواری که فرآیند تأیید داروهای جدید را کنترل می‌کنند، اغلب درمان‌های نجات‌بخش را به تأخیر می‌اندازند و بیماران و محققان را ناامید می‌کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 20:27:19"
+                },
+                {
+                    "english": "Navigating the byzantine bureaucracy of the immigration system can feel like an insurmountable challenge, even for those familiar with its intricacies.",
+                    "persian": "حرکت در بوروکراسی پیچیده و دشوار سیستم مهاجرت می‌تواند مانند یک چالش غیرقابل عبور به نظر برسد، حتی برای کسانی که با پیچیدگی‌های آن آشنا هستند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:28:23"
+                },
+                {
+                    "english": "The novel’s byzantine plot, filled with twists, subplots, and unreliable narrators, demands the reader’s full attention to unravel its many layers.",
+                    "persian": "طرح داستانی پیچیده و دشوار رمان، پر از پیچ‌و‌خم، زیرطرح‌ها و راویان غیرقابل اعتماد، توجه کامل خواننده را می‌طلبد تا لایه‌های متعدد آن را باز کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 14:59:37"
+                },
+                {
+                    "english": "The byzantine structure of the tax code, with its countless exemptions and loopholes, often benefits the wealthy while burdening the average taxpayer.",
+                    "persian": "ساختار پیچیده و دشوار قانون مالیات، با معافیت‌ها و راه‌های فرار بی‌شمارش، اغلب به نفع ثروتمندان عمل می‌کند و بار آن بر دوش مالیات‌دهنده متوسط است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 11:43:24"
+                },
+                {
+                    "english": "The byzantine negotiations between the two countries, involving dozens of stakeholders and conflicting interests, dragged on for years without a resolution.",
+                    "persian": "مذاکرات پیچیده و دشوار بین دو کشور، با حضور ده‌ها ذینفع و منافع متضاد، سال‌ها بدون نتیجه ادامه یافت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 23:03:33"
+                }
+            ]
+        },
+        {
+            "word": "chauvinist",
+            "meaning": "anyone who thinks their group is better than anyone else's group",
+            "examples": [
+                {
+                    "english": "The chauvinist’s unwavering belief in the superiority of his nation blinded him to the rich cultural contributions of other societies around the world.",
+                    "persian": "باور راسخ فرد خودبرتربین به برتری ملت‌اش، او را نسبت به مشارکت‌های فرهنگی غنی سایر جوامع در سراسر جهان کور کرده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:58:19"
+                },
+                {
+                    "english": "Her chauvinistic attitude toward her alma mater led her to dismiss graduates of other universities as less competent, despite their proven achievements.",
+                    "persian": "نگرش خودبرتربینانه او نسبت به دانشگاه محل تحصیل‌اش باعث شد فارغ‌التحصیلان سایر دانشگاه‌ها را با وجود دستاوردهای اثبات‌شده‌شان، کمتر شایسته بداند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-01-30 20:42:55"
+                },
+                {
+                    "english": "The team’s chauvinist coach insisted that their strategy was unbeatable, refusing to adapt even when faced with clear evidence of its shortcomings.",
+                    "persian": "مربی خودبرتربین تیم اصرار داشت که استراتژی‌شان شکست‌ناپذیر است و حتی زمانی که با شواهد واضحی از کاستی‌های آن مواجه شد، از تطبیق دادن خودداری کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 22:01:17"
+                },
+                {
+                    "english": "His chauvinistic remarks about gender roles during the meeting not only offended his colleagues but also revealed his outdated and narrow-minded worldview.",
+                    "persian": "اظهارات خودبرتربینانه او درباره نقش‌های جنسیتی در طول جلسه نه تنها همکارانش را آزرده کرد، بلکه جهان‌بینی قدیمی و تنگ‌نظرانه‌اش را نیز آشکار کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:36:06"
+                },
+                {
+                    "english": "The chauvinist’s claim that his cultural heritage was inherently superior to others sparked a heated debate about the dangers of ethnocentrism.",
+                    "persian": "ادعای خودبرتربینانه فرد مبنی بر اینکه میراث فرهنگی‌اش ذاتاً برتر از دیگران است، بحث داغی درباره خطرات قوم‌مداری برانگیخت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "pyrrhic",
+            "meaning": "win that comes at so great a cost that it is not worth winning",
+            "examples": [
+                {
+                    "english": "The company’s pyrrhic victory in the lawsuit left it financially crippled, with legal fees far exceeding the damages it was awarded.",
+                    "persian": "پیروزی پرهزینه شرکت در دادگاه، آن را از نظر مالی فلج کرد، به طوری که هزینه‌های حقوقی بسیار بیشتر از خساراتی بود که به آن تعلق گرفت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:39:12"
+                },
+                {
+                    "english": "Though they emerged victorious, the battle was a pyrrhic one, as the army lost so many soldiers that it could no longer defend its borders effectively.",
+                    "persian": "اگرچه پیروز شدند، نبرد یک پیروزی پرهزینه بود، زیرا ارتش آن‌قدر سرباز از دست داد که دیگر نمی‌توانست به طور مؤثر از مرزهایش دفاع کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 00:04:15"
+                },
+                {
+                    "english": "Winning the election at the cost of alienating key allies and damaging his reputation felt like a pyrrhic achievement to the politician.",
+                    "persian": "برنده شدن در انتخابات به بهای دور کردن متحدان کلیدی و آسیب به شهرت‌اش، برای سیاستمدار مانند یک دستاورد پرهزینه احساس می‌شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 21:26:52"
+                },
+                {
+                    "english": "The artist’s pyrrhic triumph in the copyright case came with a heavy price: the legal battle drained her creativity and left her emotionally exhausted.",
+                    "persian": "پیروزی پرهزینه هنرمند در پرونده حق تکثیر با هزینه سنگینی همراه بود: نبرد حقوقی خلاقیت‌اش را تحلیل برد و او را از نظر عاطفی خسته کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:40:24"
+                },
+                {
+                    "english": "Achieving the sales target by overworking the team to the point of burnout was a pyrrhic victory, as the company soon faced a wave of resignations.",
+                    "persian": "دستیابی به هدف فروش با وادار کردن تیم به کار بیش از حد تا حد فرسودگی، یک پیروزی پرهزینه بود، زیرا شرکت به زودی با موجی از استعفاها مواجه شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 14:52:44"
+                }
+            ]
+        },
+        {
+            "word": "quixotic",
+            "meaning": "wildly idealistic",
+            "examples": [
+                {
+                    "english": "His quixotic dream of eradicating poverty through a single, sweeping policy was met with skepticism by economists who understood the complexity of the issue.",
+                    "persian": "رویای خیال‌پردازانه او برای ریشه‌کن کردن فقر از طریق یک سیاست واحد و گسترده، با شک‌و‌تردید اقتصاددانانی مواجه شد که پیچیدگی این موضوع را درک می‌کردند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 20:44:03"
+                },
+                {
+                    "english": "The quixotic entrepreneur poured all his resources into developing a perpetual motion machine, undeterred by the laws of physics that made it impossible.",
+                    "persian": "کارآفرین خیال‌پرداز تمام منابع خود را صرف توسعه یک ماشین حرکت دائمی کرد، بدون توجه به قوانین فیزیکی که آن را غیرممکن می‌کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 20:01:13"
+                },
+                {
+                    "english": "Her quixotic campaign to plant a million trees in a single year inspired many, though few believed such an ambitious goal could be achieved.",
+                    "persian": "کمپین خیال‌پردازانه او برای کاشت یک میلیون درخت در یک سال، بسیاری را الهام بخشید، اگرچه تعداد کمی باور داشتند که چنین هدف بلندپروازانه‌ای قابل دستیابی است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-31 22:16:30"
+                },
+                {
+                    "english": "The scientist’s quixotic pursuit of a cure for aging captivated the public’s imagination, even as his peers dismissed it as a futile endeavor.",
+                    "persian": "تلاش خیال‌پردازانه دانشمند برای یافتن درمان پیری، تخیل عمومی را مجذوب خود کرد، حتی اگر همکارانش آن را به عنوان تلاشی بی‌ثمر رد کردند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-29 23:27:19"
+                },
+                {
+                    "english": "Despite the odds, the quixotic leader rallied his followers with visions of a utopian society, though many doubted such a world could ever exist.",
+                    "persian": "علیرغم شانس کم، رهبر خیال‌پرداز پیروانش را با دیدگاه‌هایی از یک جامعه آرمان‌شهر گرد هم آورد، اگرچه بسیاری شک داشتند که چنین دنیایی هرگز وجود داشته باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 21:23:58"
+                }
+            ]
+        }
+    ]
+}

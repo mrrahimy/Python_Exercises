@@ -1,0 +1,407 @@
+{
+  "examples": [
+    {
+      "word": "bellicose",
+      "meaning": "warlike and inclined to quarrel",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The bellicose leader, who thrives on conflict, has escalated tensions with neighboring countries, risking a full-scale war.",
+          "persian": "رهبر جنگ‌طلب، که از درگیری لذت می‌برد، تنش‌ها با کشورهای همسایه را تشدید کرده و خطر جنگ تمام‌عیار را به وجود آورده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the bellicose rhetoric is not toned down, it may provoke an armed confrontation that could have devastating consequences.",
+          "persian": "اگر سخنان جنگ‌طلبانه تعدیل نشود، ممکن است باعث درگیری مسلحانه شود که عواقب ویرانگری داشته باشد."
+        },
+        {
+          "grammar": ["past perfect", "passive voice", "adjective clause"],
+          "english": "The bellicose policies that had been pursued by the previous administration were eventually abandoned in favor of diplomatic solutions.",
+          "persian": "سیاست‌های جنگ‌طلبانه‌ای که توسط دولت قبلی دنبال می‌شد، در نهایت به نفع راه‌حل‌های دیپلماتیک کنار گذاشته شد."
+        },
+        {
+          "grammar": ["direct speech", "conditional type 2", "connective relative clause"],
+          "english": "She said, 'If the bellicose attitude had been avoided, we might have achieved peace and stability much sooner.'",
+          "persian": "او گفت: 'اگر از نگرش جنگ‌طلبانه اجتناب شده بود، ممکن بود خیلی زودتر به صلح و ثبات دست یابیم.'"
+        },
+        {
+          "grammar": ["although", "present perfect", "participle clause"],
+          "english": "Although the nation has a bellicose history, recent efforts have been made to foster a culture of peace and cooperation.",
+          "persian": "اگرچه این کشور سابقه جنگ‌طلبی دارد، اخیراً تلاش‌هایی برای ترویج فرهنگ صلح و همکاری انجام شده است."
+        }
+      ]
+    },
+    {
+      "word": "truculent",
+      "meaning": "having a fierce and savage nature",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The truculent behavior of the protestors, who refuse to engage in dialogue, has made it difficult to reach a peaceful resolution.",
+          "persian": "رفتار خشن معترضان، که از گفت‌وگو امتناع می‌کنند، دستیابی به یک راه‌حل صلح‌آمیز را دشوار کرده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the truculent attitude of the opposition persists, it will hinder any progress toward compromise and mutual understanding.",
+          "persian": "اگر نگرش خشن مخالفان ادامه یابد، هرگونه پیشرفت به سمت مصالحه و درک متقابل را مختل خواهد کرد."
+        },
+        {
+          "grammar": ["past perfect", "passive voice", "adjective clause"],
+          "english": "The truculent remarks that had been made during the debate only served to deepen the divide between the two parties.",
+          "persian": "اظهارات خشن‌ای که در طول بحث بیان شده بود، فقط به عمیق‌تر شدن شکاف بین دو طرف کمک کرد."
+        },
+        {
+          "grammar": ["direct speech", "conditional type 2", "connective relative clause"],
+          "english": "He said, 'If the truculent tone had been avoided, the negotiations might have resulted in a more favorable outcome.'",
+          "persian": "او گفت: 'اگر از لحن خشن اجتناب شده بود، مذاکرات ممکن بود به نتیجه مطلوب‌تری منجر شود.'"
+        },
+        {
+          "grammar": ["although", "present perfect", "participle clause"],
+          "english": "Although the leader is known for his truculent demeanor, he has shown moments of diplomacy when necessary.",
+          "persian": "اگرچه رهبر به خاطر رفتار خشنش شناخته شده است، در مواقع لازم لحظاتی از دیپلماسی نشان داده است."
+        }
+      ]
+    },
+    {
+      "word": "pugnacious",
+      "meaning": "inclined to fight and be combative",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The pugnacious boxer, who thrives on competition, has earned a reputation for his aggressive style and relentless determination.",
+          "persian": "بوکسور جنگ‌جو، که از رقابت لذت می‌برد، به خاطر سبک تهاجمی و اراده بی‌وقفه‌اش شهرت پیدا کرده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the pugnacious tendencies of the team are not controlled, they may lead to unnecessary penalties and a loss of focus.",
+          "persian": "اگر تمایلات جنگ‌جویانه تیم کنترل نشود، ممکن است منجر به جریمه‌های غیرضروری و از دست دادن تمرکز شود."
+        },
+        {
+          "grammar": ["past perfect", "passive voice", "adjective clause"],
+          "english": "The pugnacious strategy that had been employed by the coach was eventually abandoned in favor of a more collaborative approach.",
+          "persian": "استراتژی جنگ‌جویانه‌ای که توسط مربی به کار گرفته شده بود، در نهایت به نفع یک رویکرد مشارکتی‌تر کنار گذاشته شد."
+        },
+        {
+          "grammar": ["direct speech", "conditional type 2", "connective relative clause"],
+          "english": "She said, 'If the pugnacious attitude had been tempered, the team might have achieved better results in the tournament.'",
+          "persian": "او گفت: 'اگر نگرش جنگ‌جویانه تعدیل شده بود، تیم ممکن بود نتایج بهتری در مسابقات به دست آورد.'"
+        },
+        {
+          "grammar": ["although", "present perfect", "participle clause"],
+          "english": "Although the athlete is naturally pugnacious, he has learned to channel his aggression into productive and strategic actions.",
+          "persian": "اگرچه ورزشکار به طور طبیعی جنگ‌جو است، یاد گرفته است که خشونت خود را به اقدامات سازنده و استراتژیک هدایت کند."
+        }
+      ]
+    },
+    {
+      "word": "contentious",
+      "meaning": "prone to argue",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The contentious politician, who thrives on debate, has become a polarizing figure in the national political landscape.",
+          "persian": "سیاستمدار جنجالی، که از بحث لذت می‌برد، به یک شخصیت قطبی‌کننده در صحنه سیاسی ملی تبدیل شده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the contentious issues are not addressed, they may escalate into conflicts that could destabilize the entire region.",
+          "persian": "اگر مسائل جنجالی مورد توجه قرار نگیرند، ممکن است به درگیری‌هایی تبدیل شوند که کل منطقه را بی‌ثبات کنند."
+        },
+        {
+          "grammar": ["past perfect", "passive voice", "adjective clause"],
+          "english": "The contentious debate that had been avoided for years finally came to the forefront, exposing deep divisions within the community.",
+          "persian": "بحث جنجالی‌ای که سال‌ها از آن اجتناب شده بود، بالاخره به جلو صحنه آمد و شکاف‌های عمیق درون جامعه را آشکار کرد."
+        },
+        {
+          "grammar": ["direct speech", "conditional type 2", "connective relative clause"],
+          "english": "He said, 'If the contentious tone had been avoided, the meeting might have resulted in a more productive outcome.'",
+          "persian": "او گفت: 'اگر از لحن جنجالی اجتناب شده بود، جلسه ممکن بود به نتیجه سازنده‌تری منجر شود.'"
+        },
+        {
+          "grammar": ["although", "present perfect", "participle clause"],
+          "english": "Although the topic is highly contentious, the committee has managed to find common ground and move forward with the proposal.",
+          "persian": "اگرچه موضوع بسیار جنجالی است، کمیته توانسته است زمینه مشترکی پیدا کند و با پیشنهاد پیش برود."
+        }
+      ]
+    },
+    {
+      "word": "badger",
+      "meaning": "to pester repeatedly",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The journalist, who badgers public figures with relentless questions, is known for her tenacity and refusal to back down.",
+          "persian": "روزنامه‌نگاری که چهره‌های عمومی را با سوالات بی‌امان آزار می‌دهد، به خاطر سرسختی و امتناع از عقب‌نشینی شناخته شده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If you continue to badger him about the issue, he may become defensive and less willing to cooperate in the future.",
+          "persian": "اگر به آزار دادن او در مورد این موضوع ادامه دهید، ممکن است حالت دفاعی بگیرد و در آینده کمتر تمایل به همکاری داشته باشد."
+        },
+        {
+          "grammar": ["past perfect", "passive voice", "adjective clause"],
+          "english": "The employee, who had been badgered by his supervisor for weeks, finally decided to file a formal complaint with HR.",
+          "persian": "کارمندی که هفته‌ها توسط سرپرستش آزار دیده بود، بالاخره تصمیم گرفت یک شکایت رسمی به منابع انسانی ارائه دهد."
+        },
+        {
+          "grammar": ["direct speech", "conditional type 2", "connective relative clause"],
+          "english": "She said, 'If I had not badgered him for answers, we might never have uncovered the truth behind the scandal.'",
+          "persian": "او گفت: 'اگر او را برای پاسخ‌ها آزار نداده بودم، ممکن بود هرگز حقیقت پشت این رسوایی را کشف نکرده باشیم.'"
+        },
+        {
+          "grammar": ["although", "present perfect", "participle clause"],
+          "english": "Although the child badgers his parents for toys, they remain firm in their decision to teach him the value of patience and restraint.",
+          "persian": "اگرچه کودک والدینش را برای اسباب‌بازی‌ها آزار می‌دهد، آن‌ها در تصمیم خود برای آموزش ارزش صبر و خودداری به او محکم هستند."
+        }
+      ]
+    },
+    {
+      "word": "hound",
+      "meaning": "to pursue relentlessly (starts with h)",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The paparazzi, who hound celebrities for sensational stories, often invade their privacy and cause significant distress.",
+          "persian": "پاپاراتزی‌ها، که به دنبال داستان‌های جنجالی ستارگان هستند، اغلب حریم خصوصی آن‌ها را نقض می‌کنند و باعث ناراحتی قابل توجهی می‌شوند."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the authorities continue to hound the suspect without evidence, they risk violating his rights and undermining the justice system.",
+          "persian": "اگر مقامات به تعقیب بی‌امان مظنون بدون شواهد ادامه دهند، خطر نقض حقوق او و تضعیف سیستم عدالت را دارند."
+        },
+        {
+          "grammar": ["past perfect", "passive voice", "adjective clause"],
+          "english": "The activist, who had been hounded by the government for years, finally sought asylum in a more tolerant country.",
+          "persian": "فعالی که سال‌ها توسط دولت تحت تعقیب بود، بالاخره در کشوری بردبارتر پناهندگی گرفت."
+        },
+        {
+          "grammar": ["direct speech", "conditional type 2", "connective relative clause"],
+          "english": "He said, 'If I had not been hounded by the media, I might have been able to focus on my work and personal life.'",
+          "persian": "او گفت: 'اگر توسط رسانه‌ها تحت تعقیب نبودم، ممکن بود بتوانم روی کار و زندگی شخصی‌ام تمرکز کنم.'"
+        },
+        {
+          "grammar": ["although", "present perfect", "participle clause"],
+          "english": "Although the company has been hounded by lawsuits, it continues to innovate and maintain its position as an industry leader.",
+          "persian": "اگرچه شرکت تحت تعقیب دعاوی قرار گرفته است، همچنان به نوآوری و حفظ موقعیت خود به عنوان یک رهبر صنعتی ادامه می‌دهد."
+        }
+      ]
+    },
+    {
+      "word": "dog",
+      "meaning": "to pursue relentlessly (starts with d)",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The detective, who dogs suspects with unwavering determination, is known for solving even the most complex cases.",
+          "persian": "کارآگاهی که با تعقیب بی‌امان مظنونان با اراده‌ای قوی شناخته می‌شود، به حل حتی پیچیده‌ترین پرونده‌ها معروف است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the rumors continue to dog the politician, they may damage his reputation and hinder his chances of re-election.",
+          "persian": "اگر شایعات به تعقیب بی‌امان سیاستمدار ادامه دهند، ممکن است اعتبار او را لکه‌دار کرده و شانس او برای انتخاب مجدد را مختل کنند."
+        },
+        {
+          "grammar": ["past perfect", "passive voice", "adjective clause"],
+          "english": "The scandal that had dogged the company for years was finally resolved, allowing it to rebuild its public image.",
+          "persian": "رسوایی که سال‌ها شرکت را تحت تعقیب قرار داده بود، بالاخره حل شد و به آن اجازه داد تا تصویر عمومی خود را بازسازی کند."
+        },
+        {
+          "grammar": ["direct speech", "conditional type 2", "connective relative clause"],
+          "english": "She said, 'If the allegations had not dogged my career, I might have achieved even greater success in my field.'",
+          "persian": "او گفت: 'اگر اتهامات حرفه‌ام را تحت تعقیب قرار نمی‌داد، ممکن بود موفقیت‌های حتی بزرگتری در حوزه‌ام به دست آورده باشم.'"
+        },
+        {
+          "grammar": ["although", "present perfect", "participle clause"],
+          "english": "Although the issue has dogged the organization for years, it remains committed to transparency and accountability.",
+          "persian": "اگرچه این موضوع سال‌ها سازمان را تحت تعقیب قرار داده است، همچنان به شفافیت و پاسخگویی متعهد است."
+        }
+      ]
+    },
+    {
+      "word": "cow",
+      "meaning": "to use intimidation to make someone give in",
+      "examples": [
+        {
+          "grammar": "Present perfect continuous, passive voice, modals",
+          "english": "The manager has been cowing the employees into submission, which might have led to a decline in their morale.",
+          "persian": "مدیر به طور مداوم کارمندان را مرعوب کرده است، که ممکن است به کاهش روحیه آنها منجر شده باشد."
+        },
+        {
+          "grammar": "Future perfect, conditional type 2, relative clause",
+          "english": "By next year, the dictator will have cowed the population so thoroughly that no one would dare to oppose him.",
+          "persian": "تا سال آینده، دیکتاتور جمعیت را به طور کامل مرعوب خواهد کرد، به طوری که هیچ کس جرأت مخالفت با او را نخواهد داشت."
+        },
+        {
+          "grammar": "Past perfect, indirect speech, adverb clause",
+          "english": "She had cowed her opponents so effectively that they admitted they had no choice but to comply.",
+          "persian": "او مخالفان خود را به قدری مؤثر مرعوب کرده بود که آنها اعتراف کردند چاره‌ای جز تسلیم ندارند."
+        },
+        {
+          "grammar": "Present simple, connective relative clause, so that",
+          "english": "The teacher cows the students so that they remain silent during the lecture, which ensures complete focus.",
+          "persian": "معلم دانش‌آموزان را مرعوب می‌کند تا در طول سخنرانی ساکت بمانند، که تمرکز کامل را تضمین می‌کند."
+        },
+        {
+          "grammar": "Past continuous, despite, noun clause",
+          "english": "Despite knowing the consequences, the boss was cowing the team into working overtime, which caused resentment.",
+          "persian": "علیرغم آگاهی از عواقب، رئیس تیم را مجبور به اضافه کاری می‌کرد، که باعث نارضایتی شد."
+        }
+      ]
+    },
+    {
+      "word": "ferret",
+      "meaning": "to search for something persistently",
+      "examples": [
+        {
+          "grammar": "Present perfect, modals, wh-words",
+          "english": "She has ferreted through the archives for hours, yet she still cannot find what she is looking for.",
+          "persian": "او ساعت‌ها در آرشیو جستجو کرده است، اما هنوز نمی‌تواند آنچه را که به دنبال آن است پیدا کند."
+        },
+        {
+          "grammar": "Future continuous, conditional type 1, relative clause",
+          "english": "If you keep ferreting through the data, you will eventually uncover the hidden patterns that explain the anomaly.",
+          "persian": "اگر به جستجو در داده‌ها ادامه دهید، در نهایت الگوهای پنهانی را کشف خواهید کرد که ناهنجاری را توضیح می‌دهند."
+        },
+        {
+          "grammar": "Past perfect continuous, indirect speech, adverb clause",
+          "english": "He had been ferreting through the documents for days before he realized that the evidence was misplaced.",
+          "persian": "او روزها در اسناد جستجو کرده بود قبل از اینکه متوجه شود شواهد گم شده‌اند."
+        },
+        {
+          "grammar": "Present simple, connective relative clause, so that",
+          "english": "The detective ferrets through every clue so that no detail is overlooked in the investigation.",
+          "persian": "کارآگاه هر سرنخ را به دقت بررسی می‌کند تا هیچ جزئیاتی در تحقیقات نادیده گرفته نشود."
+        },
+        {
+          "grammar": "Past simple, despite, noun clause",
+          "english": "Despite ferreting through the entire library, he could not find the rare manuscript he was seeking.",
+          "persian": "علیرغم جستجو در تمام کتابخانه، او نتوانست نسخه خطی نادری را که به دنبال آن بود پیدا کند."
+        }
+      ]
+    },
+    {
+      "word": "mellifluous",
+      "meaning": "pleasant to hear",
+      "examples": [
+        {
+          "grammar": "Present perfect, passive voice, modals",
+          "english": "The mellifluous tones of the violin have been admired by audiences, who might consider it the highlight of the concert.",
+          "persian": "نوای دلنشین ویولن توسط مخاطبان تحسین شده است، که ممکن است آن را نقطه اوج کنسرت بدانند."
+        },
+        {
+          "grammar": "Future perfect, conditional type 2, relative clause",
+          "english": "By the end of the performance, her mellifluous voice will have captivated everyone, even those who were initially skeptical.",
+          "persian": "تا پایان اجرا، صدای دلنشین او همه را مجذوب خود خواهد کرد، حتی کسانی که در ابتدا شکاک بودند."
+        },
+        {
+          "grammar": "Past perfect, indirect speech, adverb clause",
+          "english": "He had spoken in such a mellifluous manner that the audience felt as though they were listening to a symphony.",
+          "persian": "او به گونه‌ای دلنشین صحبت کرده بود که مخاطبان احساس می‌کردند در حال گوش دادن به یک سمفونی هستند."
+        },
+        {
+          "grammar": "Present simple, connective relative clause, so that",
+          "english": "The poet’s mellifluous words flow so effortlessly that they seem to paint vivid images in the listener’s mind.",
+          "persian": "کلمات دلنشین شاعر به قدری روان جاری می‌شوند که به نظر می‌رسد تصاویر زنده‌ای در ذهن شنونده ترسیم می‌کنند."
+        },
+        {
+          "grammar": "Past continuous, despite, noun clause",
+          "english": "Despite the noise, her mellifluous laughter could still be heard, bringing joy to everyone around her.",
+          "persian": "علیرغم سر و صدا، خنده دلنشین او هنوز شنیده می‌شد و به همه اطرافیانش شادی می‌بخشید."
+        }
+      ]
+    },
+    {
+      "word": "palimpsest",
+      "meaning": "a piece of paper that is reused and the original writing can still be seen",
+      "examples": [
+        {
+          "grammar": "Present perfect, passive voice, modals",
+          "english": "The ancient manuscript, a palimpsest, has been studied for decades, yet its original text might never be fully deciphered.",
+          "persian": "نسخه خطی باستانی، یک پالیمپسست، برای دهه‌ها مورد مطالعه قرار گرفته است، اما متن اصلی آن ممکن است هرگز به طور کامل رمزگشایی نشود."
+        },
+        {
+          "grammar": "Future perfect, conditional type 1, relative clause",
+          "english": "If researchers continue their work, they will have uncovered the hidden layers of the palimpsest by the end of the decade.",
+          "persian": "اگر محققان کار خود را ادامه دهند، تا پایان این دهه لایه‌های پنهان پالیمپسست را کشف خواهند کرد."
+        },
+        {
+          "grammar": "Past perfect, indirect speech, adverb clause",
+          "english": "The historian had examined the palimpsest so thoroughly that he concluded it contained lost works of a famous philosopher.",
+          "persian": "تاریخ‌دان پالیمپسست را به قدری دقیق بررسی کرده بود که نتیجه گرفت حاوی آثار گمشده یک فیلسوف مشهور است."
+        },
+        {
+          "grammar": "Present simple, connective relative clause, so that",
+          "english": "The palimpsest reveals multiple layers of text, which allows scholars to trace the evolution of writing over centuries.",
+          "persian": "پالیمپسست چندین لایه متن را آشکار می‌کند، که به محققان اجازه می‌دهد تحول نوشتار را در طول قرن‌ها ردیابی کنند."
+        },
+        {
+          "grammar": "Past continuous, despite, noun clause",
+          "english": "Despite being a palimpsest, the document still provided invaluable insights into the cultural practices of the ancient civilization.",
+          "persian": "علیرغم اینکه یک پالیمپسست بود، این سند همچنان بینش‌های ارزشمندی در مورد شیوه‌های فرهنگی تمدن باستانی ارائه می‌داد."
+        }
+      ]
+    },
+    {
+      "word": "serendipity",
+      "meaning": "the occurrence of events by chance in a happy or beneficial way",
+      "examples": [
+        {
+          "grammar": "Present perfect, passive voice, modals",
+          "english": "The discovery of the new drug has been attributed to serendipity, which might revolutionize the field of medicine.",
+          "persian": "کشف داروی جدید به شانس خوش‌یمن نسبت داده شده است، که ممکن است انقلابی در زمینه پزشکی ایجاد کند."
+        },
+        {
+          "grammar": "Future perfect, conditional type 2, relative clause",
+          "english": "By the time the project concludes, serendipity will have played a crucial role in shaping its unexpected success.",
+          "persian": "تا زمان پایان پروژه، شانس خوش‌یمن نقش مهمی در شکل‌گیری موفقیت غیرمنتظره آن ایفا خواهد کرد."
+        },
+        {
+          "grammar": "Past perfect, indirect speech, adverb clause",
+          "english": "She had stumbled upon the solution through serendipity, which she later described as a stroke of pure luck.",
+          "persian": "او به طور تصادفی به راه‌حل رسیده بود، که بعدها آن را به عنوان یک بخت خالص توصیف کرد."
+        },
+        {
+          "grammar": "Present simple, connective relative clause, so that",
+          "english": "Serendipity often leads to groundbreaking discoveries, which is why scientists remain open to unexpected outcomes.",
+          "persian": "شانس خوش‌یمن اغلب منجر به اکتشافات انقلابی می‌شود، به همین دلیل دانشمندان به نتایج غیرمنتظره باز می‌مانند."
+        },
+        {
+          "grammar": "Past continuous, despite, noun clause",
+          "english": "Despite their meticulous planning, it was serendipity that ultimately brought them the success they had been striving for.",
+          "persian": "علیرغم برنامه‌ریزی دقیق آنها، این شانس خوش‌یمن بود که در نهایت موفقیتی را که به دنبال آن بودند برای آنها به ارمغان آورد."
+        }
+      ]
+    },
+    {
+      "word": "defenestrate",
+      "meaning": "the act of throwing someone out of a window",
+      "examples": [
+        {
+          "grammar": "Present perfect, passive voice, modals",
+          "english": "The historical figure has been defenestrated multiple times in literature, which might symbolize his fall from power.",
+          "persian": "این شخصیت تاریخی بارها در ادبیات از پنجره به بیرون پرتاب شده است، که ممکن است سقوط او از قدرت را نمادین کند."
+        },
+        {
+          "grammar": "Future perfect, conditional type 1, relative clause",
+          "english": "If the revolution succeeds, the corrupt leader will have been defenestrated by the angry mob, ending his tyranny.",
+          "persian": "اگر انقلاب موفق شود، رهبر فاسد توسط جمعیت خشمگین از پنجره به بیرون پرتاب خواهد شد و ظلم او پایان خواهد یافت."
+        },
+        {
+          "grammar": "Past perfect, indirect speech, adverb clause",
+          "english": "The traitor had been defenestrated so swiftly that no one could intervene, which shocked the entire court.",
+          "persian": "خائن به قدری سریع از پنجره به بیرون پرتاب شده بود که هیچ کس نمی‌توانست مداخله کند، که کل دادگاه را شوکه کرد."
+        },
+        {
+          "grammar": "Present simple, connective relative clause, so that",
+          "english": "The act of defenestration is often used in political dramas to symbolize the abrupt end of a leader’s reign.",
+          "persian": "عمل پرتاب از پنجره اغلب در درام‌های سیاسی برای نمادین کردن پایان ناگهانی سلطنت یک رهبر استفاده می‌شود."
+        },
+        {
+          "grammar": "Past continuous, despite, noun clause",
+          "english": "Despite the chaos, the king ordered his guards to defenestrate the conspirators, ensuring his immediate safety.",
+          "persian": "علیرغم هرج و مرج، پادشاه به محافظان خود دستور داد توطئه‌گران را از پنجره به بیرون پرتاب کنند، که ایمنی فوری او را تضمین کرد."
+        }
+      ]
+    }
+  ]
+}

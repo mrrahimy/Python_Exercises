@@ -1,0 +1,678 @@
+{
+    "examples": [
+        {
+            "word": "cardinal",
+            "meaning": "of primary importance",
+            "examples": [
+                {
+                    "grammar": "Present perfect continuous, passive voice, relative clause (definitive)",
+                    "english": "The cardinal principles of quantum mechanics, which have been being studied for decades, are still not fully understood by many scientists.",
+                    "persian": "اصول اصلی مکانیک کوانتوم، که برای دهه‌ها مورد مطالعه قرار گرفته‌اند، هنوز توسط بسیاری از دانشمندان به طور کامل درک نشده‌اند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 21:13:01"
+                },
+                {
+                    "grammar": "Future perfect, conditional (type 1), noun clause",
+                    "english": "If the cardinal rules of diplomacy are not adhered to by next year, the negotiations will have failed completely.",
+                    "persian": "اگر قوانین اصلی دیپلماسی تا سال آینده رعایت نشوند، مذاکرات به طور کامل شکست خواهند خورد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 20:46:16"
+                },
+                {
+                    "grammar": "Past perfect, indirect speech, adverb clause",
+                    "english": "She had mentioned that the cardinal objective of the project, though challenging, was achievable if everyone collaborated efficiently.",
+                    "persian": "او اشاره کرده بود که هدف اصلی پروژه، اگرچه چالش‌برانگیز بود، در صورت همکاری موثر همه قابل دستیابی بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:15:12"
+                },
+                {
+                    "grammar": "Present simple, connective relative clause, so...that structure",
+                    "english": "The cardinal rule in biology is so fundamental that it underpins every major theory in the field.",
+                    "persian": "قانون اصلی در زیست‌شناسی آنقدر اساسی است که زیربنای هر نظریه مهم در این زمینه است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:13:34"
+                },
+                {
+                    "grammar": "Conditional (type 2 reverse), adjective clause, despite",
+                    "english": "Despite its complexity, the cardinal concept would be easier to grasp if more practical examples were provided.",
+                    "persian": "علیرغم پیچیدگی‌اش، مفهوم اصلی اگر مثال‌های عملی بیشتری ارائه شود، آسان‌تر درک خواهد شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:58:34"
+                }
+            ]
+        },
+        {
+            "word": "syncretic",
+            "meaning": "something that is a combination of different religions or schools of thought",
+            "examples": [
+                {
+                    "grammar": "Present perfect, passive voice, relative clause (non-definitive)",
+                    "english": "The syncretic traditions, which have been influenced by multiple cultures, are often celebrated for their inclusivity and diversity.",
+                    "persian": "آیین‌های التقاطی، که تحت تأثیر فرهنگ‌های متعدد قرار گرفته‌اند، اغلب به دلیل فراگیر بودن و تنوعشان مورد تحسین قرار می‌گیرند.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-30 20:24:21"
+                },
+                {
+                    "grammar": "Future continuous, conditional (type 0), noun clause",
+                    "english": "If scholars continue to study syncretic practices, they will be uncovering new layers of cultural interconnectedness.",
+                    "persian": "اگر محققان به مطالعه روش‌های التقاطی ادامه دهند، لایه‌های جدیدی از ارتباطات فرهنگی را کشف خواهند کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:36:58"
+                },
+                {
+                    "grammar": "Past simple, indirect speech, adverb clause",
+                    "english": "He explained that the syncretic philosophy, though controversial, had profoundly shaped the region's spiritual landscape.",
+                    "persian": "او توضیح داد که فلسفه التقاطی، اگرچه بحث‌برانگیز بود، به طور عمیقی چهره معنوی منطقه را شکل داده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:41:14"
+                },
+                {
+                    "grammar": "Present simple, connective relative clause, such...that structure",
+                    "english": "Syncretic art forms are such a unique blend of styles that they often defy traditional categorization.",
+                    "persian": "فرم‌های هنری التقاطی ترکیبی آنقدر منحصر به فرد از سبک‌ها هستند که اغلب از دسته‌بندی‌های سنتی فراتر می‌روند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:26:39"
+                },
+                {
+                    "grammar": "Conditional (type 2), adjective clause, in spite of",
+                    "english": "In spite of its complexity, the syncretic approach would be more widely accepted if its benefits were better understood.",
+                    "persian": "علیرغم پیچیدگی‌اش، رویکرد التقاطی اگر مزایای آن بهتر درک شود، مورد پذیرش گسترده‌تری قرار خواهد گرفت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-31 16:19:59"
+                }
+            ]
+        },
+        {
+            "word": "parochial",
+            "meaning": "to be narrow-minded in view",
+            "examples": [
+                {
+                    "grammar": "Present perfect continuous, passive voice, relative clause (definitive)",
+                    "english": "The parochial attitudes that have been being perpetuated in the community are hindering progress and inclusivity.",
+                    "persian": "نگرش‌های محدودیتی که در جامعه تداوم یافته‌اند، مانع پیشرفت و فراگیر شدن هستند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": "Future perfect, conditional (type 1), noun clause",
+                    "english": "If parochial thinking is not challenged, it will have stifled innovation and creativity in the organization.",
+                    "persian": "اگر تفکر محدودیت‌آور به چالش کشیده نشود، نوآوری و خلاقیت در سازمان را خفه خواهد کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 20:29:53"
+                },
+                {
+                    "grammar": "Past perfect, indirect speech, adverb clause",
+                    "english": "She had mentioned that the parochial mindset, though deeply ingrained, could be overcome through education and exposure.",
+                    "persian": "او اشاره کرده بود که ذهنیت محدود، اگرچه عمیقاً ریشه دار است، می‌تواند از طریق آموزش و آگاهی برطرف شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 16:55:32"
+                },
+                {
+                    "grammar": "Present simple, connective relative clause, so...that structure",
+                    "english": "The parochial views of the group are so restrictive that they prevent any meaningful dialogue or collaboration.",
+                    "persian": "دیدگاه‌های محدود گروه آنقدر محدودکننده هستند که مانع هرگونه گفت‌وگوی معنادار یا همکاری می‌شوند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": "Conditional (type 2 reverse), adjective clause, despite",
+                    "english": "Despite its prevalence, the parochial outlook would be less harmful if people were more open to diverse perspectives.",
+                    "persian": "علیرغم شیوع آن، دیدگاه محدود اگر مردم نسبت به دیدگاه‌های متنوع بازتر بودند، کمتر مضر بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:30:05"
+                }
+            ]
+        },
+        {
+            "word": "catholic",
+            "meaning": "universal; embracing everything",
+            "examples": [
+                {
+                    "grammar": "Present perfect continuous, passive voice, relative clause (definitive)",
+                    "english": "The catholic nature of the program, which has been being developed for years, ensures it appeals to a global audience.",
+                    "persian": "طبیعت جهانی برنامه، که برای سال‌ها در حال توسعه بوده است، تضمین می‌کند که برای مخاطبان جهانی جذاب باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 15:07:07"
+                },
+                {
+                    "grammar": "Future perfect, conditional (type 1), noun clause",
+                    "english": "If the catholic approach to education is adopted, it will have transformed the way students perceive diverse cultures.",
+                    "persian": "اگر رویکرد جهانی به آموزش اتخاذ شود، نحوه درک دانش‌آموزان از فرهنگ‌های متنوع را متحول خواهد کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": "Past perfect, indirect speech, adverb clause",
+                    "english": "He had explained that the catholic vision of the project, though ambitious, was essential for its long-term success.",
+                    "persian": "او توضیح داده بود که دیدگاه جهانی پروژه، اگرچه بلندپروازانه بود، برای موفقیت بلندمدت آن ضروری است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:20:32"
+                },
+                {
+                    "grammar": "Present simple, connective relative clause, such...that structure",
+                    "english": "The catholic appeal of the festival is such that it attracts participants from every corner of the world.",
+                    "persian": "جذابیت جهانی جشنواره به گونه‌ای است که شرکت‌کنندگان از هر گوشه جهان را به خود جذب می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:51:42"
+                },
+                {
+                    "grammar": "Conditional (type 2), adjective clause, despite",
+                    "english": "Despite its challenges, the catholic perspective would be more widely embraced if its benefits were better communicated.",
+                    "persian": "علیرغم چالش‌های آن، دیدگاه جهانی اگر مزایای آن بهتر بیان شود، مورد پذیرش گسترده‌تری قرار خواهد گرفت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:02:25"
+                }
+            ]
+        },
+        {
+            "word": "anathema",
+            "meaning": "the source of someone's hate",
+            "examples": [
+                {
+                    "grammar": "Present perfect, passive voice, relative clause (definitive)",
+                    "english": "The politician's policies have become anathema to the public, who have been protesting against them for months.",
+                    "persian": "سیاست‌های سیاستمدار به منفور عمومی تبدیل شده‌اند، که برای ماه‌ها علیه آن‌ها اعتراض کرده‌اند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:44:26"
+                },
+                {
+                    "grammar": "Future continuous, conditional (type 0), noun clause",
+                    "english": "If such actions continue, they will be anathema to the principles of justice and equality.",
+                    "persian": "اگر چنین اقداماتی ادامه یابد، به اصول عدالت و برابری منفور خواهند بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 08:22:23"
+                },
+                {
+                    "grammar": "Past simple, indirect speech, adverb clause",
+                    "english": "She said that the idea was anathema to her, though she understood why others might support it.",
+                    "persian": "او گفت که این ایده برایش منفور بود، اگرچه می‌دانست چرا دیگران ممکن است از آن حمایت کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:38:58"
+                },
+                {
+                    "grammar": "Present simple, connective relative clause, so...that structure",
+                    "english": "The proposal is so anathema to the community that it has sparked widespread outrage and resistance.",
+                    "persian": "این پیشنهاد آنقدر برای جامعه منفور است که خشم و مقاومت گسترده‌ای را برانگیخته است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 08:22:03"
+                },
+                {
+                    "grammar": "Conditional (type 2), adjective clause, despite",
+                    "english": "Despite its practicality, the plan would remain anathema to those who value tradition over innovation.",
+                    "persian": "علیرغم عملی بودن، این طرح برای کسانی که سنت را بیش از نوآوری ارزش‌مند می‌دانند، منفور باقی می‌ماند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:13:05"
+                }
+            ]
+        },
+        {
+            "word": "desecrate",
+            "meaning": "to violate or destroy a sacred place",
+            "examples": [
+                {
+                    "grammar": "Present perfect continuous, passive voice, relative clause (non-definitive)",
+                    "english": "The ancient temple, which has been being desecrated by vandals, is now under strict protection.",
+                    "persian": "معبد باستانی، که توسط خرابکاران مورد بی‌حرمتی قرار گرفته است، اکنون تحت حفاظت شدید است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:17:18"
+                },
+                {
+                    "grammar": "Future perfect, conditional (type 1), noun clause",
+                    "english": "If the site is desecrated further, it will have lost its historical and spiritual significance forever.",
+                    "persian": "اگر این مکان بیشتر مورد بی‌حرمتی قرار گیرد، اهمیت تاریخی و معنوی خود را برای همیشه از دست خواهد داد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": "Past perfect, indirect speech, adverb clause",
+                    "english": "He had warned that desecrating the shrine, though tempting to some, would lead to severe consequences.",
+                    "persian": "او هشدار داده بود که بی‌حرمتی به زیارتگاه، اگرچه برای برخی وسوسه‌انگیز است، عواقب شدیدی در پی خواهد داشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 16:20:41"
+                },
+                {
+                    "grammar": "Present simple, connective relative clause, such...that structure",
+                    "english": "The act of desecration is such a grave offense that it has united the community in outrage.",
+                    "persian": "عمل بی‌حرمتی آنقدر جرم سنگینی است که جامعه را در خشم متحد کرده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:07:09"
+                },
+                {
+                    "grammar": "Conditional (type 2 reverse), adjective clause, despite",
+                    "english": "Despite its remote location, the sacred site would be desecrated if proper measures were not taken.",
+                    "persian": "علیرغم موقعیت دورافتاده‌اش، مکان مقدس اگر اقدامات مناسب انجام نشود، مورد بی‌حرمتی قرار خواهد گرفت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 08:31:12"
+                }
+            ]
+        },
+        {
+            "word": "apostasy",
+            "meaning": "someone who turns against their beliefs and renounces them",
+            "examples": [
+                {
+                    "grammar": "Present perfect, passive voice, relative clause (definitive)",
+                    "english": "The act of apostasy, which has been condemned by the community, is seen as a betrayal of shared values.",
+                    "persian": "عمل ارتداد، که توسط جامعه محکوم شده است، به عنوان خیانت به ارزش‌های مشترک دیده می‌شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-30 15:12:08"
+                },
+                {
+                    "grammar": "Future continuous, conditional (type 0), noun clause",
+                    "english": "If apostasy continues to rise, it will be challenging for the institution to maintain its influence.",
+                    "persian": "اگر ارتداد همچنان افزایش یابد، برای نهاد حفظ نفوذش چالش‌برانگیز خواهد بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": "Past simple, indirect speech, adverb clause",
+                    "english": "She said that apostasy, though painful for the community, was sometimes necessary for personal growth.",
+                    "persian": "او گفت که ارتداد، اگرچه برای جامعه دردناک است، گاهی برای رشد شخصی ضروری است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 16:43:17"
+                },
+                {
+                    "grammar": "Present simple, connective relative clause, so...that structure",
+                    "english": "The consequences of apostasy are so severe that many fear openly expressing their doubts.",
+                    "persian": "عواقب ارتداد آنقدر شدید است که بسیاری از بیان شک‌های خود به طور آشکار می‌ترسند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:19:14"
+                },
+                {
+                    "grammar": "Conditional (type 2), adjective clause, despite",
+                    "english": "Despite its stigma, apostasy would be more accepted if society valued individual freedom over conformity.",
+                    "persian": "علیرغم ننگ آن، ارتداد اگر جامعه آزادی فردی را بیش از هم‌رنگی ارزش‌مند بداند، بیشتر پذیرفته می‌شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 12:59:59"
+                }
+            ]
+        },
+        {
+            "word": "sanctimonious",
+            "meaning": "faking righteousness; holier-than-thou",
+            "examples": [
+                {
+                    "grammar": "Present perfect continuous, passive voice, relative clause (non-definitive)",
+                    "english": "The sanctimonious attitude, which has been being displayed by the leader, is alienating many followers.",
+                    "persian": "نگرش خودپسندانه‌ای که توسط رهبر نشان داده می‌شود، بسیاری از پیروان را دور می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 20:14:23"
+                },
+                {
+                    "grammar": "Future perfect, conditional (type 1), noun clause",
+                    "english": "If the sanctimonious behavior continues, it will have eroded the trust of the entire community.",
+                    "persian": "اگر رفتار خودپسندانه ادامه یابد، اعتماد کل جامعه را از بین خواهد برد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:44:10"
+                },
+                {
+                    "grammar": "Past perfect, indirect speech, adverb clause",
+                    "english": "He had admitted that his sanctimonious remarks, though intended to inspire, had instead caused resentment.",
+                    "persian": "او اعتراف کرده بود که اظهارات خودپسندانه‌اش، اگرچه با هدف الهام بخشیدن بود، در عوض باعث ناراحتی شده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": "Present simple, connective relative clause, such...that structure",
+                    "english": "The sanctimonious tone of the speech is such that it has turned even supporters against the speaker.",
+                    "persian": "لحن خودپسندانه سخنرانی به گونه‌ای است که حتی حامیان را نیز علیه گوینده برانگیخته است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": "Conditional (type 2 reverse), adjective clause, despite",
+                    "english": "Despite its apparent piety, the sanctimonious approach would be less effective if people saw through its hypocrisy.",
+                    "persian": "علیرغم تقوای ظاهری، رویکرد خودپسندانه اگر مردم به دورویی آن پی ببرند، کمتر مؤثر خواهد بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:38:23"
+                }
+            ]
+        },
+        {
+            "word": "iconoclast",
+            "meaning": "one who destroys idols or attacks institutions",
+            "examples": [
+                {
+                    "grammar": "Present perfect, passive voice, relative clause (definitive)",
+                    "english": "The iconoclast, who has been challenging traditional norms, is both celebrated and criticized for their radical views.",
+                    "persian": "شخصیت مخالف سنت‌ها، که هنجارهای سنتی را به چالش کشیده است، هم مورد تحسین و هم مورد انتقاد قرار گرفته است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:35:06"
+                },
+                {
+                    "grammar": "Future continuous, conditional (type 0), noun clause",
+                    "english": "If the iconoclast continues to question authority, they will be reshaping the cultural landscape of the society.",
+                    "persian": "اگر مخالف سنت‌ها به زیر سوال بردن قدرت ادامه دهد، چهره فرهنگی جامعه را تغییر خواهد داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:33:52"
+                },
+                {
+                    "grammar": "Past simple, indirect speech, adverb clause",
+                    "english": "She said that the iconoclast, though controversial, had inspired a new wave of critical thinking.",
+                    "persian": "او گفت که مخالف سنت‌ها، اگرچه بحث‌برانگیز بود، موج جدیدی از تفکر انتقادی را الهام بخشیده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": "Present simple, connective relative clause, so...that structure",
+                    "english": "The iconoclast's ideas are so revolutionary that they have sparked both admiration and fierce opposition.",
+                    "persian": "ایده‌های مخالف سنت‌ها آنقدر انقلابی هستند که هم تحسین و هم مخالفت شدیدی را برانگیخته‌اند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 20:18:02"
+                },
+                {
+                    "grammar": "Conditional (type 2), adjective clause, despite",
+                    "english": "Despite their boldness, the iconoclast would face less resistance if their methods were more diplomatic.",
+                    "persian": "علیرغم جسارتشان، مخالف سنت‌ها اگر روش‌های دیپلماتیک‌تری داشتند، با مقاومت کمتری مواجه می‌شدند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:10:12"
+                }
+            ]
+        },
+        {
+            "word": "malfeasance",
+            "meaning": "wrongdoing, especially by a public official",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect continuous",
+                        "passive voice",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "The senator, who has been being investigated for months, is now facing allegations of malfeasance in office, which could tarnish his political legacy.",
+                    "persian": "سناتور، که برای ماه‌ها تحت بررسی بوده، اکنون با اتهامات سوءرفتار در دفتر مواجه است، که ممکن است میراث سیاسی او را لکه‌دار کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:41:57"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the governor were to admit to malfeasance, it would be a scandal of such magnitude that it might destabilize the entire administration.",
+                    "persian": "اگر فرماندار به سوءرفتار اعتراف کند، این یک رسوایی با چنان عظمتی خواهد بود که ممکن است کل دولت را بی‌ثبات کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "connective relative clause"
+                    ],
+                    "english": "By the time the investigation concludes, the public will have already formed opinions about the malfeasance, which could influence the upcoming elections.",
+                    "persian": "تا زمانی که تحقیقات به پایان برسد، عموم مردم قبلاً در مورد سوءرفتار نظر داده‌اند، که ممکن است بر انتخابات آینده تأثیر بگذارد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 19:39:58"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 0",
+                        "adjective clause"
+                    ],
+                    "english": "The journalist declared, 'If evidence of malfeasance is uncovered, it will inevitably lead to legal repercussions for those involved.'",
+                    "persian": "روزنامه‌نگار اعلام کرد: 'اگر شواهدی از سوءرفتار کشف شود، این به طور حتم منجر به عواقب قانونی برای افراد درگیر خواهد شد.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "in spite of",
+                        "past perfect",
+                        "participle clause"
+                    ],
+                    "english": "In spite of having been warned about the potential malfeasance, the committee proceeded with the controversial decision, ignoring the ethical implications.",
+                    "persian": "علیرغم هشدار در مورد سوءرفتار احتمالی، کمیته با تصمیم جنجالی پیش رفت و پیامدهای اخلاقی را نادیده گرفت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-31 22:02:00"
+                }
+            ]
+        },
+        {
+            "word": "lascivious",
+            "meaning": "feeling or revealing an overt and often offensive sexual desire",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The artist, who is currently exhibiting his work, is being criticized for the lascivious undertones in his paintings, which some find distasteful.",
+                    "persian": "هنرمند، که در حال حاضر آثارش را به نمایش گذاشته، به دلیل زیرلایه‌های شهوانی در نقاشی‌هایش مورد انتقاد قرار گرفته، که برخی آن را ناخوشایند می‌دانند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:17:15"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the film continues to portray such lascivious behavior, it may face censorship or even a ban in conservative regions.",
+                    "persian": "اگر فیلم به تصویر کشیدن چنین رفتار شهوانی ادامه دهد، ممکن است در مناطق محافظه‌کار با سانسور یا حتی ممنوعیت مواجه شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The novel had been banned for its lascivious content long before the author gained recognition for his literary genius.",
+                    "persian": "رمان به دلیل محتوای شهوانی‌اش مدتها قبل از اینکه نویسنده به خاطر نبوغ ادبی‌اش شناخته شود، ممنوع شده بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-31 18:58:12"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She remarked, 'If the director had avoided such lascivious scenes, the film might have been more widely accepted by audiences.'",
+                    "persian": "او اظهار کرد: 'اگر کارگردان از چنین صحنه‌های شهوانی اجتناب می‌کرد، فیلم ممکن بود مورد پذیرش گسترده‌تری از سوی مخاطبان قرار گیرد.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:35:50"
+                },
+                {
+                    "grammar": [
+                        "despite",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Despite having been warned about the lascivious nature of the script, the producer decided to greenlight the project, risking public backlash.",
+                    "persian": "علیرغم هشدار در مورد ماهیت شهوانی فیلمنامه، تهیه‌کننده تصمیم گرفت پروژه را تأیید کند و خطر واکنش عمومی را بپذیرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:22:50"
+                }
+            ]
+        },
+        {
+            "word": "embroiled",
+            "meaning": "involved deeply in a situation",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The company, which has been embroiled in a legal battle for years, is now struggling to maintain its reputation in the market.",
+                    "persian": "شرکتی که سال‌ها درگیر یک نبرد حقوقی بوده، اکنون برای حفظ اعتبار خود در بازار تلاش می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 20:18:31"
+                },
+                {
+                    "grammar": [
+                        "conditional type 3",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the politician had not become embroiled in the scandal, his career might have flourished instead of ending in disgrace.",
+                    "persian": "اگر سیاستمدار درگیر این رسوایی نمی‌شد، ممکن بود حرفه‌اش به جای پایان خفت‌بار، شکوفا شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 15:09:06"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The organization was being embroiled in controversy at the time when its leader decided to step down, leaving many questions unanswered.",
+                    "persian": "سازمان در زمانی که رهبرش تصمیم به کناره‌گیری گرفت، درگیر جنجال بود و بسیاری از سوالات بی‌پاسخ ماند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 0",
+                        "connective relative clause"
+                    ],
+                    "english": "He stated, 'If you become embroiled in such conflicts, it will inevitably damage your professional relationships and credibility.'",
+                    "persian": "او اظهار کرد: 'اگر در چنین درگیری‌هایی درگیر شوید، این به طور حتم روابط حرفه‌ای و اعتبار شما را آسیب خواهد زد.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 08:25:41"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "past perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the CEO had been embroiled in numerous disputes, he managed to steer the company toward unprecedented growth and success.",
+                    "persian": "اگرچه مدیرعامل درگیر اختلافات زیادی بود، توانست شرکت را به سمت رشد و موفقیتی بی‌سابقه هدایت کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "venality",
+            "meaning": "corruption",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The system, which is often criticized for its venality, fails to address the needs of the most vulnerable members of society.",
+                    "persian": "سیستمی که اغلب به دلیل فسادش مورد انتقاد قرار می‌گیرد، از پاسخگویی به نیازهای آسیب‌پذیرترین اعضای جامعه باز می‌ماند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:49:50"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the government does not tackle the issue of venality, it will lose the trust of its citizens and face widespread protests.",
+                    "persian": "اگر دولت مسئله فساد را حل نکند، اعتماد شهروندان خود را از دست خواهد داد و با اعتراضات گسترده مواجه خواهد شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The official had been accused of venality long before the evidence was made public, leading to his eventual resignation.",
+                    "persian": "مقام مورد اتهام فساد مدتها قبل از اینکه شواهد عمومی شود، به استعفای نهایی او منجر شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:14:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She argued, 'If the judiciary were free from venality, the legal system would be far more just and equitable.'",
+                    "persian": "او استدلال کرد: 'اگر قوه قضائیه از فساد آزاد بود، سیستم حقوقی بسیار عادلانه‌تر و منصفانه‌تر می‌شد.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 14:49:03"
+                },
+                {
+                    "grammar": [
+                        "despite",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Despite having been exposed for his venality, the politician continues to deny any wrongdoing, further eroding public trust.",
+                    "persian": "علیرغم افشای فسادش، سیاستمدار همچنان هرگونه خطا را انکار می‌کند و اعتماد عمومی را بیشتر از بین می‌برد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "turpitude",
+            "meaning": "depravity; wickedness",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The novel, which explores themes of moral turpitude, challenges readers to reflect on the darker aspects of human nature.",
+                    "persian": "رمانی که موضوعات مربوط به فساد اخلاقی را بررسی می‌کند، خوانندگان را به تفکر در مورد جنبه‌های تاریک طبیعت انسان وادار می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 12:17:53"
+                },
+                {
+                    "grammar": [
+                        "conditional type 3",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the leader had not succumbed to turpitude, his legacy might have been one of honor rather than infamy.",
+                    "persian": "اگر رهبر به فساد اخلاقی تسلیم نمی‌شد، میراث او ممکن بود به جای بدنامی، افتخارآمیز باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 13:26:53"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The organization was being scrutinized for its turpitude at the time when it claimed to be advocating for ethical reforms.",
+                    "persian": "سازمان در زمانی که ادعا می‌کرد از اصلاحات اخلاقی حمایت می‌کند، به دلیل فساد اخلاقی تحت بررسی بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 22:16:14"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 0",
+                        "connective relative clause"
+                    ],
+                    "english": "He declared, 'If turpitude is allowed to flourish unchecked, it will inevitably lead to the collapse of societal values.'",
+                    "persian": "او اعلام کرد: 'اگر فساد اخلاقی بدون کنترل رشد کند، این به طور حتم منجر به فروپاشی ارزش‌های اجتماعی خواهد شد.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 21:12:39"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "past perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the community had been aware of his turpitude, they chose to remain silent, fearing the consequences of speaking out.",
+                    "persian": "اگرچه جامعه از فساد اخلاقی او آگاه بود، سکوت را انتخاب کرد، زیرا از عواقب صحبت کردن می‌ترسید.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 08:21:15"
+                }
+            ]
+        }
+    ]
+}

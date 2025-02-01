@@ -1,0 +1,420 @@
+{
+  "examples": [
+    {
+      "word": "fractious",
+      "pronunciation": {"british": "/ˈfrakʃəs/", "USA": "/ˈfrækʃəs/"},
+      "meaning": "irritable and likely to cause disruption",
+      "examples": [
+        {
+          "grammar": ["present continuous", "adverb clause", "relative clause (definitive)"],
+          "english": "The fractious child, who has been crying incessantly, is disrupting the entire classroom, making it impossible to focus.",
+          "persian": "کودک ناآرام، که بی‌وقفه گریه می‌کند، کل کلاس را به هم ریخته و تمرکز را غیرممکن کرده است."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If the fractious employee were more cooperative, the team might achieve its goals without unnecessary delays.",
+          "persian": "اگر کارمند ناآرام همکاری بیشتری می‌کرد، تیم ممکن بود بدون تأخیرهای غیرضروری به اهدافش برسد."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The meeting was adjourned early, which was a relief to everyone, as the fractious arguments had drained all energy.",
+          "persian": "جلسه زودتر تعطیل شد، که برای همه یک آرامش بود، زیرا بحث‌های ناآرام تمام انرژی را تخلیه کرده بود."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The fractious atmosphere has persisted for weeks, so that even the most patient individuals are now losing their composure.",
+          "persian": "جو ناآرام برای هفته‌ها ادامه داشته است، به طوری که حتی صبورترین افراد نیز اکنون آرامش خود را از دست می‌دهند."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the fractious nature of the negotiations, a resolution will likely be reached by the end of the month.",
+          "persian": "با وجود ماهیت ناآرام مذاکرات، احتمالاً تا پایان ماه به یک راه‌حل خواهیم رسید."
+        }
+      ]
+    },
+    {
+      "word": "factitious",
+      "pronunciation": {"british": "/fakˈtɪʃəs/", "USA": "/fækˈtɪʃəs/"},
+      "meaning": "artificial; not natural",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (non-definitive)", "adverb clause"],
+          "english": "The factitious smile she wore, which seemed almost robotic, failed to conceal her true feelings of disappointment.",
+          "persian": "لبخند مصنوعی‌ای که به چهره داشت، که تقریباً رباتیک به نظر می‌رسید، نتوانست احساسات واقعی ناامیدی او را پنهان کند."
+        },
+        {
+          "grammar": ["conditional type 0", "modals", "noun clause"],
+          "english": "If the results appear factitious, it usually means that the data has been manipulated to fit a preconceived narrative.",
+          "persian": "اگر نتایج مصنوعی به نظر برسند، معمولاً به این معنی است که داده‌ها برای تطبیق با یک روایت از پیش تعیین شده دستکاری شده‌اند."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The factitious nature of the evidence was revealed during the trial, which led to the case being dismissed.",
+          "persian": "ماهیت مصنوعی شواهد در طول دادگاه آشکار شد، که منجر به رد پرونده شد."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The factitious enthusiasm of the audience has been so exaggerated that it became obvious they were merely pretending to be interested.",
+          "persian": "اشتیاق مصنوعی حضار آن‌قدر اغراق‌آمیز بوده است که مشخص شد آنها فقط تظاهر به علاقه‌مند بودن می‌کنند."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the factitious charm of the advertisement, consumers will likely see through the deception and reject the product.",
+          "persian": "با وجود جذابیت مصنوعی تبلیغات، احتمالاً مصرف‌کنندگان فریب را تشخیص داده و محصول را رد خواهند کرد."
+        }
+      ]
+    },
+    {
+      "word": "factious",
+      "pronunciation": {"british": "/ˈfakʃəs/", "USA": "/ˈfækʃəs/"},
+      "meaning": "likely to cause fractions (in a group)",
+      "examples": [
+        {
+          "grammar": ["present continuous", "adverb clause", "relative clause (definitive)"],
+          "english": "The factious debates within the committee are causing delays, as members are unable to reach a consensus on critical issues.",
+          "persian": "بحث‌های تفرقه‌انگیز درون کمیته باعث تأخیر شده است، زیرا اعضا نمی‌توانند در مورد مسائل حیاتی به توافق برسند."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the factious behavior continues, it may lead to the dissolution of the group, as trust among members is eroding.",
+          "persian": "اگر رفتار تفرقه‌انگیز ادامه یابد، ممکن است منجر به انحلال گروه شود، زیرا اعتماد بین اعضا در حال از بین رفتن است."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The factious remarks were quickly dismissed by the chairperson, who emphasized the importance of unity in achieving their goals.",
+          "persian": "اظهارات تفرقه‌انگیز به سرعت توسط رئیس جلسه رد شد، که بر اهمیت وحدت در دستیابی به اهداف تأکید کرد."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The factious attitudes have persisted for so long that the team’s productivity has significantly declined, jeopardizing the project.",
+          "persian": "نگرش‌های تفرقه‌انگیز آن‌قدر طولانی ادامه یافته است که بهره‌وری تیم به طور قابل توجهی کاهش یافته و پروژه را به خطر انداخته است."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the factious tendencies of some members, the organization will likely survive if they focus on their shared mission.",
+          "persian": "با وجود تمایلات تفرقه‌انگیز برخی از اعضا، سازمان احتمالاً زنده خواهد ماند اگر آنها بر مأموریت مشترک خود تمرکز کنند."
+        }
+      ]
+    },
+    {
+      "word": "vindictive",
+      "pronunciation": {"british": "/vɪnˈdɪktɪv/", "USA": "/vɪnˈdɪktɪv/"},
+      "meaning": "having a strong desire for revenge",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The vindictive rival, who never forgives a slight, has been plotting revenge against his opponent for years.",
+          "persian": "رقیب کینه‌توز، که هرگز بی‌احترامی را نمی‌بخشد، سال‌هاست که در حال برنامه‌ریزی برای انتقام از حریف خود است."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If the vindictive leader were to step down, the political climate might improve, as his grudges have fueled endless conflicts.",
+          "persian": "اگر رهبر کینه‌توز کنار برود، فضای سیاسی ممکن است بهبود یابد، زیرا کینه‌های او باعث درگیری‌های بی‌پایان شده است."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The vindictive actions were condemned by the public, which demanded accountability and an end to the cycle of retaliation.",
+          "persian": "اقدامات کینه‌توزانه توسط عموم محکوم شد، که خواستار پاسخگویی و پایان دادن به چرخه انتقام‌جویی شدند."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The vindictive behavior has escalated so much that it has become a major obstacle to achieving peace in the region.",
+          "persian": "رفتار کینه‌توزانه آن‌قدر تشدید شده است که به یک مانع بزرگ برای دستیابی به صلح در منطقه تبدیل شده است."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the vindictive nature of the accusations, the truth will eventually emerge, clearing the names of the innocent.",
+          "persian": "با وجود ماهیت کینه‌توزانه اتهامات، حقیقت سرانجام آشکار خواهد شد و نام بی‌گناهان را پاک خواهد کرد."
+        }
+      ]
+    },
+    {
+      "word": "vindicate",
+      "pronunciation": {"british": "/ˈvɪndɪkeɪt/", "USA": "/ˈvɪndɪkeɪt/"},
+      "meaning": "prove true, clear from accusation",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The evidence presented in court vindicates the defendant, who has been wrongfully accused of the crime for months.",
+          "persian": "شواهد ارائه شده در دادگاه متهم را تبرئه می‌کند، که ماه‌ها به اشتباه به این جرم متهم شده بود."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the investigation vindicates the scientist, it will restore her reputation, which has been tarnished by false allegations.",
+          "persian": "اگر تحقیقات دانشمند را تبرئه کند، اعتبار او را بازگرداند، که توسط اتهامات دروغین لکه‌دار شده است."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The vindicated theory, which was once dismissed as absurd, is now widely accepted as a groundbreaking discovery.",
+          "persian": "نظریه تبرئه شده، که زمانی به عنوان امری پوچ رد می‌شد، اکنون به عنوان یک کشف انقلابی به طور گسترده پذیرفته شده است."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The findings have vindicated the researcher so thoroughly that his critics have been forced to retract their earlier statements.",
+          "persian": "یافته‌ها محقق را آن‌قدر کامل تبرئه کرده است که منتقدانش مجبور شده‌اند اظهارات قبلی خود را پس بگیرند."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the initial skepticism, the new data will vindicate the hypothesis, proving its validity beyond doubt.",
+          "persian": "با وجود شک اولیه، داده‌های جدید فرضیه را تبرئه خواهند کرد و اعتبار آن را بدون شک اثبات خواهند کرد."
+        }
+      ]
+    },
+    {
+      "word": "vicarious",
+      "pronunciation": {"british": "/vɪˈkɛːrɪəs/", "USA": "/vaɪˈkɛriəs/"},
+      "meaning": "experienced in the imagination through the actions of another person",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The vicarious thrill she feels while watching extreme sports is almost as intense as if she were participating herself.",
+          "persian": "هیجان غیرمستقیمی که او هنگام تماشای ورزش‌های شدید احساس می‌کند، تقریباً به اندازه‌ای شدید است که گویی خودش در آن شرکت کرده است."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If he were more adventurous, he might not rely so heavily on vicarious experiences to satisfy his craving for excitement.",
+          "persian": "اگر او ماجراجوتر بود، ممکن است این‌قدر به تجربیات غیرمستقیم برای ارضای میل خود به هیجان تکیه نکند."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The vicarious joy experienced by the audience, who were deeply moved by the performance, was palpable throughout the theater.",
+          "persian": "شادی غیرمستقیمی که توسط حضار تجربه شد، که عمیقاً تحت تأثیر اجرا قرار گرفته بودند، در سراسر سالن تئاتر محسوس بود."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The vicarious satisfaction she has derived from her friend’s achievements has been so profound that it has inspired her to pursue her own goals.",
+          "persian": "رضایت غیرمستقیمی که او از دستاوردهای دوستش به دست آورده است، آن‌قدر عمیق بوده است که او را به دنبال کردن اهداف خودش الهام داده است."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite her lack of travel experience, she will likely gain vicarious knowledge of the world through her son’s adventurous journeys.",
+          "persian": "با وجود کمبود تجربه سفر، او احتمالاً دانش غیرمستقیمی از جهان از طریق سفرهای ماجراجویانه پسرش به دست خواهد آورد."
+        }
+      ]
+    },
+    {
+      "word": "vicissitude",
+      "pronunciation": {"british": "/vɪˈsɪsɪtjuːd/", "USA": "/vɪˈsɪsɪtuːd/"},
+      "meaning": "change of fortune, usually towards the negative",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The vicissitudes of life, which can bring both joy and sorrow, are often unpredictable and beyond our control.",
+          "persian": "فراز و نشیب‌های زندگی، که می‌توانند هم شادی و هم غم به همراه داشته باشند، اغلب غیرقابل پیش‌بینی و خارج از کنترل ما هستند."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If we prepare for the vicissitudes of the market, we might mitigate the financial risks associated with sudden economic downturns.",
+          "persian": "اگر برای فراز و نشیب‌های بازار آماده شویم، ممکن است خطرات مالی مرتبط با رکودهای ناگهانی اقتصادی را کاهش دهیم."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The vicissitudes faced by the company were so severe that they led to a complete restructuring of its operations.",
+          "persian": "فراز و نشیب‌هایی که شرکت با آن‌ها مواجه شد، آن‌قدر شدید بود که منجر به بازسازی کامل عملیات آن شد."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The vicissitudes of the political landscape have changed so rapidly that even seasoned analysts struggle to predict the next move.",
+          "persian": "فراز و نشیب‌های صحنه سیاسی آن‌قدر سریع تغییر کرده است که حتی تحلیلگران باتجربه نیز برای پیش‌بینی حرکت بعدی مشکل دارند."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the vicissitudes of the industry, the company will likely adapt and thrive, thanks to its innovative approach.",
+          "persian": "با وجود فراز و نشیب‌های صنعت، شرکت احتمالاً سازگار شده و رشد خواهد کرد، به لطف رویکرد نوآورانه‌اش."
+        }
+      ]
+    },
+    {
+      "word": "venal",
+      "pronunciation": {"british": "/ˈviːn(ə)l/", "USA": "/ˈviːnəl/"},
+      "meaning": "corrupt",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The venal politician, who accepts bribes without hesitation, has undermined public trust in the government.",
+          "persian": "سیاستمدار فاسد، که بدون تردید رشوه می‌پذیرد، اعتماد عمومی به دولت را تضعیف کرده است."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If the venal practices were exposed, it might lead to widespread reforms, as citizens demand transparency and accountability.",
+          "persian": "اگر اقدامات فاسد افشا شود، ممکن است منجر به اصلاحات گسترده شود، زیرا شهروندان خواستار شفافیت و پاسخگویی هستند."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The venal behavior was condemned by the judiciary, which imposed strict penalties to deter future corruption.",
+          "persian": "رفتار فاسد توسط قوه قضائیه محکوم شد، که مجازات‌های سختی برای جلوگیری از فساد آینده اعمال کرد."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The venal actions of the officials have been so blatant that they have sparked nationwide protests against corruption.",
+          "persian": "اقدامات فاسد مقامات آن‌قدر آشکار بوده است که باعث اعتراضات سراسری علیه فساد شده است."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the venal tendencies of some leaders, the country will likely overcome corruption if systemic changes are implemented.",
+          "persian": "با وجود تمایلات فاسد برخی از رهبران، کشور احتمالاً بر فساد غلبه خواهد کرد اگر تغییرات سیستماتیک اجرا شود."
+        }
+      ]
+    },
+    {
+      "word": "venial",
+      "pronunciation": {"british": "/ˈviːnɪəl/", "USA": "/ˈviːniəl/"},
+      "meaning": "something that is minor, in terms of sin or offense",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The venial mistakes made by the intern, which are common among beginners, were quickly corrected by the supervisor.",
+          "persian": "اشتباهات جزئی که کارآموز مرتکب شد، که در میان مبتدیان رایج است، به سرعت توسط سرپرست اصلاح شد."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the offense is considered venial, it might not result in severe consequences, as it is deemed insignificant in the grand scheme.",
+          "persian": "اگر جرم جزئی در نظر گرفته شود، ممکن است منجر به عواقب شدید نشود، زیرا در طرح کلی ناچیز تلقی می‌شود."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The venial nature of the error was acknowledged by the committee, which decided not to penalize the individual involved.",
+          "persian": "ماهیت جزئی خطا توسط کمیته تأیید شد، که تصمیم گرفت فرد مربوطه را جریمه نکند."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The venial oversights have been so minor that they have not affected the overall success of the project.",
+          "persian": "بی‌دقتی‌های جزئی آن‌قدر ناچیز بوده است که بر موفقیت کلی پروژه تأثیر نگذاشته است."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the venial nature of the mistake, it will likely be addressed in the next revision to ensure perfection.",
+          "persian": "با وجود ماهیت جزئی اشتباه، احتمالاً در بازنگری بعدی به آن پرداخته خواهد شد تا کمال تضمین شود."
+        }
+      ]
+    },
+    {
+      "word": "veracious",
+      "pronunciation": {"british": "/vəˈreɪʃəs/", "USA": "/vəˈreɪʃəs/"},
+      "meaning": "truthful",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The veracious journalist, who never compromises on facts, has earned the respect of readers worldwide.",
+          "persian": "روزنامه‌نگار راستگو، که هرگز در مورد واقعیت‌ها سازش نمی‌کند، احترام خوانندگان در سراسر جهان را به دست آورده است."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If the witness were more veracious, the trial might conclude sooner, as the truth would be easier to ascertain.",
+          "persian": "اگر شاهد راستگوتر بود، ممکن است دادگاه زودتر به نتیجه برسد، زیرا حقیقت راحت‌تر مشخص می‌شد."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The veracious account of the event was praised by historians, who emphasized its importance in understanding the past.",
+          "persian": "روایت راستگویانه رویداد توسط مورخان تحسین شد، که بر اهمیت آن در درک گذشته تأکید کردند."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The veracious reporting has been so consistent that the publication has become a trusted source of information globally.",
+          "persian": "گزارش‌های راستگو آن‌قدر سازگار بوده است که این نشریه به منبع قابل اعتمادی از اطلاعات در سطح جهانی تبدیل شده است."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the challenges, the veracious nature of the investigation will likely lead to the uncovering of the truth.",
+          "persian": "با وجود چالش‌ها، ماهیت راستگویانه تحقیق احتمالاً منجر به کشف حقیقت خواهد شد."
+        }
+      ]
+    },
+    {
+      "word": "voracious",
+      "pronunciation": {"british": "/vəˈreɪʃəs/", "USA": "/vəˈreɪʃəs/"},
+      "meaning": "devouring great quantities of food",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The voracious eater, who consumes meals twice the size of an average person’s, has become a local legend.",
+          "persian": "خورنده پراشتها، که وعده‌های غذایی دو برابر اندازه یک فرد معمولی مصرف می‌کند، به یک افسانه محلی تبدیل شده است."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the voracious appetite continues, it might lead to health complications, as overeating can strain the digestive system.",
+          "persian": "اگر اشتهای سیری‌ناپذیر ادامه یابد، ممکن است منجر به عوارض سلامتی شود، زیرا پرخوری می‌تواند سیستم گوارشی را تحت فشار قرار دهد."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The voracious consumption of resources was criticized by environmentalists, who warned of the long-term consequences for the planet.",
+          "persian": "مصرف سیری‌ناپذیر منابع توسط محیط‌بانان مورد انتقاد قرار گرفت، که از عواقب بلندمدت آن برای سیاره هشدار دادند."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The voracious reading habits of the scholar have been so extensive that she has become an authority in her field.",
+          "persian": "عادت‌های مطالعه سیری‌ناپذیر محقق آن‌قدر گسترده بوده است که او به یک مرجع در زمینه خود تبدیل شده است."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the voracious demand for the product, the company will likely meet it by increasing production capacity.",
+          "persian": "با وجود تقاضای سیری‌ناپذیر برای محصول، شرکت احتمالاً با افزایش ظرفیت تولید آن را برآورده خواهد کرد."
+        }
+      ]
+    },
+    {
+      "word": "venerate",
+      "pronunciation": {"british": "/ˈvɛnəreɪt/", "USA": "/ˈvɛnəreɪt/"},
+      "meaning": "to respect someone deeply",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The venerated leader, who has dedicated his life to public service, is celebrated by people from all walks of life.",
+          "persian": "رهبر محترمی که زندگی خود را به خدمت عمومی اختصاص داده است، توسط مردم از همه اقشار جامعه گرامی داشته می‌شود."
+        },
+        {
+          "grammar": ["conditional type 2", "modals", "noun clause"],
+          "english": "If the ancient traditions were not venerated, they might be forgotten, as younger generations often prioritize modernity over heritage.",
+          "persian": "اگر سنت‌های باستانی مورد احترام نباشند، ممکن است فراموش شوند، زیرا نسل‌های جوان اغلب مدرنیته را بر میراث ترجیح می‌دهند."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The venerated artifacts were carefully preserved in the museum, which ensured their protection for future generations.",
+          "persian": "اشیاء محترم با دقت در موزه نگهداری شدند، که حفاظت از آن‌ها را برای نسل‌های آینده تضمین کرد."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The venerated teacher has been so influential that her students continue to seek her guidance even decades later.",
+          "persian": "معلم محترم آن‌قدر تأثیرگذار بوده است که دانش‌آموزانش حتی دهه‌ها بعد همچنان به دنبال راهنمایی او هستند."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the changing times, the venerated customs will likely endure, as they hold deep cultural significance.",
+          "persian": "با وجود تغییر زمانه، آداب و رسوم محترم احتمالاً پایدار خواهند ماند، زیرا از اهمیت فرهنگی عمیقی برخوردار هستند."
+        }
+      ]
+    },
+    {
+      "word": "enervate",
+      "pronunciation": {"british": "/ˈɛnəveɪt/", "USA": "/ˈɛnərveɪt/"},
+      "meaning": "make weaker; to sap energy from",
+      "examples": [
+        {
+          "grammar": ["present simple", "relative clause (definitive)", "adverb clause"],
+          "english": "The enervating heat of the desert, which drains all energy, makes it nearly impossible to work during the day.",
+          "persian": "گرمای خسته‌کننده بیابان، که تمام انرژی را تخلیه می‌کند، کار کردن در طول روز را تقریباً غیرممکن می‌کند."
+        },
+        {
+          "grammar": ["conditional type 1", "modals", "noun clause"],
+          "english": "If the enervating workload continues, it might lead to burnout, as employees are already showing signs of exhaustion.",
+          "persian": "اگر حجم کار خسته‌کننده ادامه یابد، ممکن است منجر به فرسودگی شغلی شود، زیرا کارمندان در حال حاضر نشانه‌های خستگی را نشان می‌دهند."
+        },
+        {
+          "grammar": ["passive voice", "adjective clause", "connective relative clause"],
+          "english": "The enervated team was given a day off, which allowed them to recover and return to work with renewed vigor.",
+          "persian": "به تیم خسته‌شده یک روز مرخصی داده شد، که به آن‌ها اجازه داد تا بهبود یابند و با انرژی تازه به کار بازگردند."
+        },
+        {
+          "grammar": ["present perfect", "adverb clause", "so that"],
+          "english": "The enervating effects of the illness have been so severe that the patient has been unable to perform even simple tasks.",
+          "persian": "اثرات خسته‌کننده بیماری آن‌قدر شدید بوده است که بیمار حتی قادر به انجام کارهای ساده نبوده است."
+        },
+        {
+          "grammar": ["future simple", "despite", "participle clause"],
+          "english": "Despite the enervating challenges, the team will likely persevere, as their determination remains unshaken.",
+          "persian": "با وجود چالش‌های خسته‌کننده، تیم احتمالاً پشتکار خواهد داشت، زیرا عزم آن‌ها همچنان استوار است."
+        }
+      ]
+    }
+  ]
+}

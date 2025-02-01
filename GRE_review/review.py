@@ -142,7 +142,7 @@ class ReviewApp:
             if last_reviewed:
                 last_reviewed = datetime.strptime(last_reviewed, r"%Y-%m-%d %H:%M:%S")
                 days_since_reviewed = (datetime.now() - last_reviewed).days
-                time_weight = max(1, days_since_reviewed)  # حداقل وزن: 1
+                time_weight =  max(1, days_since_reviewed)  # حداقل وزن: 1
             
             # وزن نهایی = difficulty_weight * time_weight
             weights.append(difficulty_weight * time_weight)

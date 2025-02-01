@@ -1,0 +1,675 @@
+{
+    "examples": [
+        {
+            "word": "zenith",
+            "meaning": "peak (starts with z)",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The artist's career reached its zenith when her work was exhibited in the world's most prestigious galleries, earning her global acclaim.",
+                    "persian": "حرفه هنرمند زمانی به اوج خود رسید که آثارش در معتبرترین گالری‌های جهان به نمایش گذاشته شد و تحسین جهانی را برای او به ارمغان آورد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the company continues to innovate, it will reach the zenith of its industry, surpassing all competitors in both revenue and influence.",
+                    "persian": "اگر شرکت به نوآوری ادامه دهد، به اوج صنعت خود خواهد رسید و از همه رقبا در زمینه درآمد و نفوذ پیشی خواهد گرفت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The civilization, which had once reached its zenith in cultural and scientific achievements, eventually declined due to internal conflicts.",
+                    "persian": "تمدن، که زمانی در دستاوردهای فرهنگی و علمی به اوج خود رسیده بود، در نهایت به دلیل درگیری‌های داخلی رو به افول گذاشت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If we had invested more in research, we might have reached the zenith of technological advancement by now.'",
+                    "persian": "او گفت: 'اگر بیشتر در تحقیق سرمایه‌گذاری کرده بودیم، ممکن بود تا الان به اوج پیشرفت تکنولوژیکی رسیده باشیم.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the team has reached the zenith of its performance, it continues to strive for even greater achievements in the future.",
+                    "persian": "اگرچه تیم به اوج عملکرد خود رسیده است، همچنان برای دستیابی به موفقیت‌های حتی بزرگتر در آینده تلاش می‌کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "summit",
+            "meaning": "peak (starts with s)",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The climbers, who have trained for years, are finally attempting to reach the summit of the world's highest mountain, despite the risks.",
+                    "persian": "کوهنوردانی که سال‌ها تمرین کرده‌اند، بالاخره در حال تلاش برای رسیدن به قله بلندترین کوه جهان هستند، علیرغم خطرات.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the negotiations at the summit are successful, they could lead to a historic agreement that benefits all participating nations.",
+                    "persian": "اگر مذاکرات در اجلاس موفقیت‌آمیز باشد، ممکن است به یک توافق تاریخی منجر شود که به همه کشورهای شرکت‌کننده سود برساند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The summit, which had been hailed as a turning point in diplomatic relations, ultimately failed to produce any tangible results.",
+                    "persian": "اجلاس، که به عنوان نقطه عطفی در روابط دیپلماتیک مورد تحسین قرار گرفته بود، در نهایت نتوانست نتایج ملموسی به همراه آورد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If we had prepared more thoroughly, we might have reached the summit before the weather turned dangerous.'",
+                    "persian": "او گفت: 'اگر با دقت بیشتری آماده شده بودیم، ممکن بود قبل از اینکه هوا خطرناک شود، به قله رسیده باشیم.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the team has reached the summit of the mountain, they must now focus on a safe descent to avoid potential hazards.",
+                    "persian": "اگرچه تیم به قله کوه رسیده است، اکنون باید بر فرود ایمن تمرکز کنند تا از خطرات احتمالی جلوگیری کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "acme",
+            "meaning": "peak (starts with ac)",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The scientist's groundbreaking discovery represents the acme of her career, marking a turning point in the field of medical research.",
+                    "persian": "کشف انقلابی دانشمند، اوج حرفه او را نشان می‌دهد و نقطه عطفی در زمینه تحقیقات پزشکی است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the project is completed on time, it will be regarded as the acme of engineering excellence, setting new standards for future endeavors.",
+                    "persian": "اگر پروژه به موقع تکمیل شود، به عنوان اوج برتری مهندسی در نظر گرفته می‌شود و استانداردهای جدیدی برای تلاش‌های آینده تعیین می‌کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The acme of the empire's power, which had been achieved through decades of expansion, was followed by a period of gradual decline.",
+                    "persian": "اوج قدرت امپراتوری، که از طریق دهه‌ها گسترش به دست آمده بود، با دوره‌ای از افول تدریجی همراه شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If we had focused more on innovation, we might have reached the acme of our industry much sooner.'",
+                    "persian": "او گفت: 'اگر بیشتر بر نوآوری تمرکز کرده بودیم، ممکن بود خیلی زودتر به اوج صنعت خود رسیده باشیم.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the company has reached the acme of its success, it continues to explore new markets and opportunities for growth.",
+                    "persian": "اگرچه شرکت به اوج موفقیت خود رسیده است، همچنان به کاوش در بازارها و فرصت‌های جدید برای رشد ادامه می‌دهد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "apex",
+            "meaning": "peak (starts with ap)",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The apex of the mountain, which is shrouded in clouds, remains one of the most challenging and sought-after climbs for adventurers.",
+                    "persian": "قله کوه، که در ابرها پوشیده شده است، همچنان یکی از چالش‌برانگیزترین و مورد توجه‌ترین صعودها برای ماجراجویان است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the team reaches the apex of their performance, they will undoubtedly secure a place in the finals of the competition.",
+                    "persian": "اگر تیم به اوج عملکرد خود برسد، بدون شک جایگاهی در فینال مسابقات به دست خواهد آورد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The apex of the organization's influence, which had been achieved through strategic alliances, began to wane as internal conflicts arose.",
+                    "persian": "اوج نفوذ سازمان، که از طریق اتحادهای استراتژیک به دست آمده بود، با بروز درگیری‌های داخلی شروع به کاهش کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If we had maintained our focus, we might have reached the apex of our potential by now.'",
+                    "persian": "او گفت: 'اگر تمرکز خود را حفظ کرده بودیم، ممکن بود تا الان به اوج پتانسیل خود رسیده باشیم.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the athlete has reached the apex of her career, she continues to train rigorously to maintain her competitive edge.",
+                    "persian": "اگرچه ورزشکار به اوج حرفه خود رسیده است، همچنان به شدت تمرین می‌کند تا برتری رقابتی خود را حفظ کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "apogee",
+            "meaning": "the highest point or culmination of something",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The apogee of the composer's career came when his symphony was performed by the world's most renowned orchestra, earning universal praise.",
+                    "persian": "اوج حرفه آهنگساز زمانی فرا رسید که سمفونی او توسط معروف‌ترین ارکستر جهان اجرا شد و تحسین جهانی را به دست آورد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the project reaches its apogee, it will revolutionize the industry and set a new benchmark for future innovations.",
+                    "persian": "اگر پروژه به اوج خود برسد، صنعت را متحول خواهد کرد و معیار جدیدی برای نوآوری‌های آینده تعیین خواهد کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The apogee of the empire's territorial expansion, which had been achieved through military conquests, was followed by a period of instability.",
+                    "persian": "اوج گسترش قلمروی امپراتوری، که از طریق فتوحات نظامی به دست آمده بود، با دوره‌ای از بی‌ثباتی همراه شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If we had invested more in research, we might have reached the apogee of technological advancement by now.'",
+                    "persian": "او گفت: 'اگر بیشتر در تحقیق سرمایه‌گذاری کرده بودیم، ممکن بود تا الان به اوج پیشرفت تکنولوژیکی رسیده باشیم.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the company has reached the apogee of its success, it continues to explore new markets and opportunities for growth.",
+                    "persian": "اگرچه شرکت به اوج موفقیت خود رسیده است، همچنان به کاوش در بازارها و فرصت‌های جدید برای رشد ادامه می‌دهد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "apotheosis",
+            "meaning": "the highest point in the development of something",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The apotheosis of the artist's work is widely regarded as her final masterpiece, which encapsulates the essence of her creative vision.",
+                    "persian": "اوج کار هنرمند به طور گسترده‌ای به عنوان شاهکار نهایی او در نظر گرفته می‌شود، که جوهره دیدگاه خلاقانه او را در بر می‌گیرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the movement achieves its apotheosis, it will transform societal norms and redefine the cultural landscape for generations to come.",
+                    "persian": "اگر جنبش به اوج خود برسد، هنجارهای اجتماعی را متحول خواهد کرد و چشمانداز فرهنگی را برای نسل‌های آینده بازتعریف خواهد کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The apotheosis of the philosopher's ideas, which had been celebrated for centuries, was eventually challenged by new schools of thought.",
+                    "persian": "اوج ایده‌های فیلسوف، که برای قرن‌ها مورد تحسین قرار گرفته بود، در نهایت توسط مکاتب فکری جدید به چالش کشیده شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If we had embraced innovation earlier, we might have reached the apotheosis of our industry by now.'",
+                    "persian": "او گفت: 'اگر نوآوری را زودتر پذیرفته بودیم، ممکن بود تا الان به اوج صنعت خود رسیده باشیم.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the project has reached its apotheosis, the team continues to refine and improve its outcomes to ensure lasting impact.",
+                    "persian": "اگرچه پروژه به اوج خود رسیده است، تیم همچنان به اصلاح و بهبود نتایج خود ادامه می‌دهد تا تأثیر ماندگار را تضمین کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "nadir",
+            "meaning": "the lowest point of someone's career",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The nadir of the politician's career came when he was implicated in a major scandal, leading to a dramatic fall from public favor.",
+                    "persian": "پایین‌ترین نقطه حرفه سیاستمدار زمانی فرا رسید که در یک رسوایی بزرگ متهم شد و منجر به سقوط چشمگیر از محبوبیت عمومی شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the company does not address its current challenges, it risks reaching the nadir of its existence, potentially leading to bankruptcy.",
+                    "persian": "اگر شرکت به چالش‌های فعلی خود نپردازد، خطر رسیدن به پایین‌ترین نقطه وجود خود را دارد و ممکن است منجر به ورشکستگی شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The nadir of the organization's reputation, which had been tarnished by mismanagement, was eventually overcome through transparency and reform.",
+                    "persian": "پایین‌ترین نقطه اعتبار سازمان، که به دلیل سوءمدیریت لکه‌دار شده بود، در نهایت از طریق شفافیت و اصلاحات برطرف شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-02-01 11:43:45"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If we had acted sooner, we might have avoided the nadir of our financial crisis and its devastating consequences.'",
+                    "persian": "او گفت: 'اگر زودتر اقدام کرده بودیم، ممکن بود از پایین‌ترین نقطه بحران مالی و عواقب ویرانگر آن اجتناب کنیم.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the team has experienced the nadir of its performance, it remains determined to rebuild and achieve future success.",
+                    "persian": "اگرچه تیم پایین‌ترین نقطه عملکرد خود را تجربه کرده است، مصمم است تا بازسازی کند و در آینده به موفقیت برسد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "untoward",
+            "meaning": "not favorable, inconvenient; troublesome",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The untoward weather conditions, which have disrupted travel plans, are expected to persist for several more days, causing further delays.",
+                    "persian": "شرایط آب‌وهوایی نامساعد، که برنامه‌های سفر را مختل کرده است، انتظار می‌رود برای چند روز دیگر ادامه یابد و باعث تأخیرهای بیشتر شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the untoward circumstances are not addressed promptly, they could escalate into a full-blown crisis, jeopardizing the entire project.",
+                    "persian": "اگر شرایط نامساعد به موقع رسیدگی نشود، ممکن است به یک بحران تمام‌عیار تبدیل شود و کل پروژه را به خطر بیندازد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The untoward incident, which had been overlooked by the authorities, eventually led to widespread public outrage and demands for accountability.",
+                    "persian": "حادثه نامساعد، که توسط مقامات نادیده گرفته شده بود، در نهایت منجر به خشم عمومی گسترده و درخواست‌ها برای پاسخگویی شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If we had anticipated the untoward consequences, we might have taken preventive measures to avoid this situation.'",
+                    "persian": "او گفت: 'اگر عواقب نامساعد را پیش‌بینی کرده بودیم، ممکن بود اقدامات پیشگیرانه‌ای برای جلوگیری از این وضعیت انجام داده باشیم.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the team has faced untoward challenges, they remain committed to achieving their goals despite the obstacles.",
+                    "persian": "اگرچه تیم با چالش‌های نامساعد مواجه شده است، آن‌ها همچنان مصمم به دستیابی به اهداف خود علیرغم موانع هستند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "upbraid",
+            "meaning": "to scold or berate",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The manager, who often upbraids employees for minor mistakes, has created a tense and demoralizing work environment.",
+                    "persian": "مدیری که اغلب کارمندان را به خاطر اشتباهات کوچک سرزنش می‌کند، محیط کاری پرتنش و دلسردکننده‌ای ایجاد کرده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the teacher continues to upbraid students harshly, it may discourage them from participating actively in class discussions.",
+                    "persian": "اگر معلم به سرزنش شدید دانش‌آموزان ادامه دهد، ممکن است آن‌ها را از مشارکت فعال در بحث‌های کلاسی دلسرد کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The employee, who had been upbraided in front of his colleagues, felt humiliated and eventually resigned from his position.",
+                    "persian": "کارمندی که در مقابل همکارانش سرزنش شده بود، احساس تحقیر کرد و در نهایت از سمت خود استعفا داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 11:43:02"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If I had not upbraided her so harshly, she might not have left the team and sought opportunities elsewhere.'",
+                    "persian": "او گفت: 'اگر او را اینقدر شدید سرزنش نکرده بودم، ممکن بود تیم را ترک نکرده و فرصت‌های دیگری را جستجو نمی‌کرد.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the coach has upbraided the team for their poor performance, he also provides constructive feedback to help them improve.",
+                    "persian": "اگرچه مربی تیم را به دلیل عملکرد ضعیف سرزنش کرده است، اما بازخورد سازنده‌ای نیز ارائه می‌دهد تا به آن‌ها در بهبود کمک کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "underwrite",
+            "meaning": "to support financially",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The venture capital firm, which underwrites innovative startups, plays a crucial role in fostering entrepreneurship and technological advancement.",
+                    "persian": "شرکت سرمایه‌گذاری خطرپذیر، که از استارت‌آپ‌های نوآورانه حمایت مالی می‌کند، نقش مهمی در پرورش کارآفرینی و پیشرفت تکنولوژیکی دارد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the government agrees to underwrite the infrastructure project, it will stimulate economic growth and create thousands of jobs.",
+                    "persian": "اگر دولت موافقت کند که از پروژه زیرساخت حمایت مالی کند، این امر رشد اقتصادی را تحریک کرده و هزاران شغل ایجاد خواهد کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The initiative, which had been underwritten by a consortium of investors, successfully transformed the struggling community into a thriving hub.",
+                    "persian": "ابتکاری که توسط یک کنسرسیوم از سرمایه‌گذاران حمایت مالی شده بود، با موفقیت جامعه در حال تقلا را به یک مرکز پررونق تبدیل کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If we had not underwritten the research, the groundbreaking discoveries might never have been made.'",
+                    "persian": "او گفت: 'اگر از تحقیق حمایت مالی نکرده بودیم، ممکن بود کشفیات انقلابی هرگز انجام نشده باشد.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the organization has underwritten numerous projects, it remains committed to identifying and supporting new opportunities for innovation.",
+                    "persian": "اگرچه سازمان از پروژه‌های متعددی حمایت مالی کرده است، همچنان متعهد به شناسایی و حمایت از فرصت‌های جدید برای نوآوری است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "overweening",
+            "meaning": "to be presumptuously arrogant",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The overweening attitude of the executive, who dismisses the opinions of others, has alienated many colleagues and hindered collaboration.",
+                    "persian": "نگرش متکبرانه مدیر اجرایی، که نظرات دیگران را رد می‌کند، بسیاری از همکاران را دور کرده و همکاری را مختل کرده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the leader's overweening confidence is not tempered, it may lead to poor decision-making and the eventual downfall of the organization.",
+                    "persian": "اگر اعتماد به نفس متکبرانه رهبر تعدیل نشود، ممکن است منجر به تصمیم‌گیری ضعیف و سقوط نهایی سازمان شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The overweening ambition that had driven the politician to seek power at any cost ultimately led to his public disgrace and resignation.",
+                    "persian": "جاه‌طلبی متکبرانه‌ای که سیاستمدار را به هر قیمتی به دنبال قدرت می‌کشید، در نهایت منجر به رسوایی عمومی و استعفای او شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If I had not been so overweening in my approach, I might have gained the trust and support of my team.'",
+                    "persian": "او گفت: 'اگر در رویکردم اینقدر متکبر نبودم، ممکن بود اعتماد و حمایت تیمم را به دست آورده باشم.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the entrepreneur's overweening pride has been criticized, it has also driven him to achieve remarkable success in his field.",
+                    "persian": "اگرچه غرور متکبرانه کارآفرین مورد انتقاد قرار گرفته است، اما او را به دستیابی به موفقیت‌های قابل توجه در حوزه خود سوق داده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,979 @@
+{
+    "examples": [
+        {
+            "word": "cadaverous",
+            "pronunciation": {
+                "british": "/kəˈdav(ə)rəs/",
+                "usa": "/kəˈdævərəs/"
+            },
+            "meaning": "skinny or emaciated (so much that they look like a dead person)",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "adverb clause"
+                    ],
+                    "english": "The cadaverous figure, who has been starving for weeks, stumbled into the room, barely able to stand.",
+                    "persian": "فرد نحیف و مرده‌مانند، که هفته‌ها گرسنه بوده است، به زحمت به داخل اتاق قدم برداشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:53:48"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If he were not so cadaverous, one might assume he was in good health, but his appearance suggests otherwise.",
+                    "persian": "اگر او این‌قدر نحیف نبود، ممکن بود فرض کنیم که سالم است، اما ظاهرش چیز دیگری را نشان می‌دهد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:19:22"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The cadaverous man, who was often seen wandering the streets, has been taken to a hospital, where he is being treated.",
+                    "persian": "مرد نحیف، که اغلب در خیابان‌ها دیده می‌شد، به بیمارستان منتقل شده و در حال درمان است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:39:12"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "adverb clause",
+                        "so...that"
+                    ],
+                    "english": "By next month, the patient will be looking even more cadaverous, so much so that his family might not recognize him.",
+                    "persian": "تا ماه آینده، بیمار حتی نحیف‌تر به نظر خواهد رسید، آن‌قدر که خانواده‌اش ممکن است او را نشناسند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:45:37"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "though",
+                        "participle clause"
+                    ],
+                    "english": "Though he had been cadaverous for years, his sudden weight loss shocked everyone, leaving them speechless.",
+                    "persian": "اگرچه او سال‌ها نحیف بود، کاهش ناگهانی وزنش همه را شوکه کرد و آن‌ها را مبهوت گذاشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:45:22"
+                }
+            ]
+        },
+        {
+            "word": "macabre",
+            "pronunciation": {
+                "british": "/məˈkɑːbrə/",
+                "usa": "/məˈkɑːbrə/"
+            },
+            "meaning": "filled with gruesome details about death and horror",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The macabre painting, which depicts a scene of carnage, has been unsettling viewers since its unveiling.",
+                    "persian": "نقاشی دهشت‌آور، که صحنه‌ای از کشتار را به تصویر می‌کشد، از زمان رونمایی بینندگان را آشفته کرده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:45:48"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you explore the macabre details of the story, you might find it difficult to sleep tonight.",
+                    "persian": "اگر جزئیات دهشت‌آور داستان را بررسی کنید، ممکن است امشب به خواب رفتن برایتان سخت باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:55:22"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The macabre tale, which was written centuries ago, has been adapted into a film that terrifies modern audiences.",
+                    "persian": "داستان دهشت‌آور، که قرن‌ها پیش نوشته شده است، به فیلمی تبدیل شده که مخاطبان امروزی را می‌ترساند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:49:24"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "such...that"
+                    ],
+                    "english": "By the end of the play, the macabre atmosphere will have become so intense that some audience members might leave.",
+                    "persian": "تا پایان نمایش، فضای دهشت‌آور آن‌قدر شدید خواهد شد که برخی از تماشاگران ممکن است سالن را ترک کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:22:12"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "although",
+                        "participle clause"
+                    ],
+                    "english": "Although the macabre scene was unfolding before their eyes, the detectives remained calm, analyzing every detail.",
+                    "persian": "اگرچه صحنه دهشت‌آور در مقابل چشمانشان در حال وقوع بود، کارآگاهان آرامش خود را حفظ کردند و هر جزئیات را تحلیل کردند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:44:12"
+                }
+            ]
+        },
+        {
+            "word": "goosebumps",
+            "pronunciation": {
+                "british": "/ˈɡuːs.bʌmps/",
+                "usa": "/ˈɡuːs.bʌmps/"
+            },
+            "meaning": "the sensation on the skin when one becomes frightened",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The eerie silence in the haunted house gives me goosebumps, making it impossible to stay for long.",
+                    "persian": "سکوت وحشت‌آور خانه جن‌زده باعث می‌شود پوست بدنم گزگز کند و ماندن در آنجا غیرممکن شود.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:19:29"
+                },
+                {
+                    "grammar": [
+                        "conditional type 0",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you hear that chilling sound, you will get goosebumps, as it is universally unsettling.",
+                    "persian": "اگر آن صدای وحشت‌آور را بشنوید، پوست بدنتان گزگز می‌کند، زیرا این صدا به طور جهانی ناراحت‌کننده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:54:01"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The story, which was told in a whisper, gave everyone goosebumps, leaving them in stunned silence.",
+                    "persian": "داستان، که به آرامی تعریف شد، باعث شد پوست بدن همه گزگز کند و آن‌ها را در سکوتی مبهوت گذاشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:54:49"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "adverb clause",
+                        "so...that"
+                    ],
+                    "english": "By the time the movie ends, you will be covered in goosebumps, so intense is its climax.",
+                    "persian": "تا زمانی که فیلم به پایان برسد، پوست بدن شما گزگز خواهد کرد، چرا که اوج آن بسیار شدید است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:19:18"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "even though",
+                        "participle clause"
+                    ],
+                    "english": "Even though she had heard the story before, it still gave her goosebumps, reminding her of its horror.",
+                    "persian": "اگرچه او قبلاً این داستان را شنیده بود، باز هم پوست بدنش گزگز کرد و وحشت آن را به یادش آورد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:57:10"
+                }
+            ]
+        },
+        {
+            "word": "diabolical",
+            "pronunciation": {
+                "british": "/ˌdaɪəˈbɒlɪk(ə)l/",
+                "usa": "/ˌdaɪəˈbɑːlɪk(ə)l/"
+            },
+            "meaning": "to be extremely wicked",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The diabolical plan, which involves betraying his closest allies, has shocked everyone who knows him.",
+                    "persian": "نقشه شیطانی، که شامل خیانت به نزدیک‌ترین متحدانش است، همه کسانی که او را می‌شناسند را شوکه کرده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:43:52"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If he carries out his diabolical scheme, the consequences will be catastrophic, affecting countless lives.",
+                    "persian": "اگر او نقشه شیطانی خود را اجرا کند، عواقب آن فاجعه‌بار خواهد بود و زندگی‌های بی‌شماری را تحت تأثیر قرار خواهد داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:58:58"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The diabolical act, which was committed in broad daylight, has been condemned by all who witnessed it.",
+                    "persian": "عمل شیطانی، که در روشنایی روز انجام شد، توسط همه کسانی که شاهد آن بودند محکوم شده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:14:30"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "such...that"
+                    ],
+                    "english": "By the time the truth is revealed, his diabolical nature will have become so apparent that no one will trust him.",
+                    "persian": "تا زمانی که حقیقت آشکار شود، طبیعت شیطانی او آن‌قدر آشکار خواهد شد که هیچ‌کس به او اعتماد نخواهد کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:58:07"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "although",
+                        "participle clause"
+                    ],
+                    "english": "Although the diabolical villain was plotting his next move, the hero remained one step ahead, anticipating his actions.",
+                    "persian": "اگرچه شرور شیطانی در حال برنامه‌ریزی برای حرکت بعدی خود بود، قهرمان یک قدم جلوتر بود و اقدامات او را پیش‌بینی می‌کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:41:56"
+                }
+            ]
+        },
+        {
+            "word": "phantasmagorical",
+            "pronunciation": {
+                "british": "/ˌfantazməˈɡɒrɪk(ə)l/",
+                "usa": "/ˌfænˌtæzməˈɡɔːrɪk(ə)l/"
+            },
+            "meaning": "a series of images that seem as though they are from a dream",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The phantasmagorical landscape, which shifts and changes like a dream, leaves visitors in awe of its surreal beauty.",
+                    "persian": "منظره خیال‌انگیز، که مانند یک رویا تغییر می‌کند، بازدیدکنندگان را مبهوت زیبایی سوررئال خود می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:44:33"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you were to experience this phantasmagorical world, you might question the nature of reality itself.",
+                    "persian": "اگر این دنیای خیال‌انگیز را تجربه کنید، ممکن است ماهیت واقعیت را زیر سؤال ببرید.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:45:14"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The phantasmagorical scenes, which were created by the artist, have been described as both mesmerizing and unsettling.",
+                    "persian": "صحنه‌های خیال‌انگیز، که توسط هنرمند خلق شده‌اند، هم به عنوان مسحورکننده و هم ناراحت‌کننده توصیف شده‌اند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:36:40"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "adverb clause",
+                        "so...that"
+                    ],
+                    "english": "By the end of the exhibition, the phantasmagorical imagery will be so vivid that it will feel like a waking dream.",
+                    "persian": "تا پایان نمایشگاه، تصاویر خیال‌انگیز آن‌قدر زنده خواهند بود که مانند یک رویای بیداری به نظر خواهند رسید.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:06:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "even though",
+                        "participle clause"
+                    ],
+                    "english": "Even though the phantasmagorical visions had faded, their impact lingered, leaving a lasting impression on all who saw them.",
+                    "persian": "اگرچه تصاویر خیال‌انگیز محو شده بودند، تأثیر آن‌ها باقی ماند و تأثیری ماندگار بر همه کسانی که آن‌ها را دیده بودند گذاشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-06 00:14:13"
+                }
+            ]
+        },
+        {
+            "word": "gregarious",
+            "pronunciation": {
+                "british": "/ɡrɪˈɡɛːrɪəs/",
+                "usa": "/ɡrəˈɡɛriəs/"
+            },
+            "meaning": "likely to socialize with others",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The gregarious professor, who thrives in social settings, is always surrounded by students eager to learn from him.",
+                    "persian": "پروفسور معاشرتی، که در محیط‌های اجتماعی رشد می‌کند، همیشه توسط دانش‌آموزانی احاطه شده است که مشتاق یادگیری از او هستند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:19:19"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you attend the party, you will meet the gregarious host, who ensures everyone feels included and entertained.",
+                    "persian": "اگر به مهمانی بروید، با میزبان معاشرتی ملاقات خواهید کرد، که مطمئن می‌شود همه احساس کنند که در جمع حضور دارند و سرگرم هستند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:16:47"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The gregarious nature of the team leader, which was evident from the start, has been instrumental in building team morale.",
+                    "persian": "طبیعت معاشرتی رهبر تیم، که از ابتدا آشکار بود، در ایجاد روحیه تیمی بسیار مؤثر بوده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:45:41"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "such...that"
+                    ],
+                    "english": "By the end of the conference, the gregarious speaker will have made such an impression that everyone will remember him fondly.",
+                    "persian": "تا پایان کنفرانس، سخنران معاشرتی آن‌قدر تأثیرگذار خواهد بود که همه او را به گرمی به یاد خواهند آورد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:11:06"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "although",
+                        "participle clause"
+                    ],
+                    "english": "Although the gregarious guest was engaging everyone in conversation, he still managed to listen attentively to each person.",
+                    "persian": "اگرچه مهمان معاشرتی همه را درگیر گفتگو می‌کرد، اما همچنان به هر فرد با دقت گوش می‌داد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:17:54"
+                }
+            ]
+        },
+        {
+            "word": "ingenuous",
+            "pronunciation": {
+                "british": "/ɪnˈdʒɛnjʊəs/",
+                "usa": "/ɪnˈdʒɛnjuəs/"
+            },
+            "meaning": "naive and innocent",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The ingenuous child, who believes in the goodness of everyone, often surprises adults with her pure-hearted questions.",
+                    "persian": "کودک ساده‌دل، که به خوبی همه اعتقاد دارد، اغلب با سؤالات خالصانه‌اش بزرگسالان را شگفت‌زده می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:59:40"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you were as ingenuous as she is, you might see the world as a place full of wonder and kindness.",
+                    "persian": "اگر شما هم مانند او ساده‌دل بودید، ممکن بود دنیا را به عنوان مکانی پر از شگفتی و مهربانی ببینید.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:52:43"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The ingenuous remark, which was made without any malice, has been interpreted as a profound truth by many.",
+                    "persian": "اظهار نظر ساده‌دلانه، که بدون هیچ بدخواهی بیان شد، توسط بسیاری به عنوان حقیقتی عمیق تفسیر شده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:19:27"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "adverb clause",
+                        "so...that"
+                    ],
+                    "english": "By the time she grows up, her ingenuous nature will have become so rare that it will be cherished by all who know her.",
+                    "persian": "تا زمانی که او بزرگ شود، طبیعت ساده‌دلانه‌اش آن‌قدر نادر خواهد شد که توسط همه کسانی که او را می‌شناسند گرامی داشته خواهد شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:20:03"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "even though",
+                        "participle clause"
+                    ],
+                    "english": "Even though the ingenuous boy had been warned about the dangers, he still approached the situation with trust and optimism.",
+                    "persian": "اگرچه به پسر ساده‌دل در مورد خطرات هشدار داده شده بود، او همچنان با اعتماد و خوش‌بینی به موقعیت نزدیک شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:08:16"
+                }
+            ]
+        },
+        {
+            "word": "peruse",
+            "pronunciation": {
+                "british": "/pəˈruːz/",
+                "usa": "/pəˈruːz/"
+            },
+            "meaning": "to read very carefully",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The lawyer peruses the contract, which contains critical details, to ensure there are no hidden clauses.",
+                    "persian": "وکیل قرارداد را که شامل جزئیات حیاتی است، با دقت بررسی می‌کند تا مطمئن شود هیچ بند پنهانی وجود ندارد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:41:16"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you peruse the document thoroughly, you might discover errors that others have overlooked.",
+                    "persian": "اگر سند را با دقت بررسی کنید، ممکن است اشتباهاتی را کشف کنید که دیگران از قلم انداخته‌اند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:52:40"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The manuscript, which was perused by the editor, has been praised for its meticulous attention to detail.",
+                    "persian": "دست‌نوشته، که توسط ویراستار با دقت بررسی شده است، به دلیل توجه دقیق به جزئیات مورد تحسین قرار گرفته است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:45:50"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "so...that"
+                    ],
+                    "english": "By the time the report is published, it will have been perused so thoroughly that no mistakes will remain.",
+                    "persian": "تا زمانی که گزارش منتشر شود، آن‌قدر با دقت بررسی شده است که هیچ اشتباهی باقی نخواهد ماند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:37:55"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "although",
+                        "participle clause"
+                    ],
+                    "english": "Although the researcher was perusing the ancient text, she still found new insights that had been previously overlooked.",
+                    "persian": "اگرچه محقق در حال بررسی متن باستانی بود، اما همچنان بینش‌های جدیدی پیدا کرد که قبلاً نادیده گرفته شده بودند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:44:22"
+                }
+            ]
+        },
+        {
+            "word": "disabuse",
+            "pronunciation": {
+                "british": "/ˌdɪsəˈbjuːz/",
+                "usa": "/ˌdɪsəˈbjuːz/"
+            },
+            "meaning": "to persuade someone that his or her belief is not valid",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The teacher disabuses the student of his misconception, which has been hindering his progress in the subject.",
+                    "persian": "معلم دانش‌آموز را از تصور اشتباهش آگاه می‌کند، که پیشرفت او در این موضوع را مختل کرده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:53:39"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you disabuse him of his false beliefs, he might finally understand the truth and change his perspective.",
+                    "persian": "اگر او را از باورهای نادرستش آگاه کنید، ممکن است بالاخره حقیقت را درک کند و دیدگاهش را تغییر دهد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:41:01"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The myth, which was disabused by the scientist, has been replaced with a more accurate understanding of the phenomenon.",
+                    "persian": "افسانه، که توسط دانشمند رد شده است، با درک دقیق‌تری از پدیده جایگزین شده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:58:04"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "so...that"
+                    ],
+                    "english": "By the end of the debate, the audience will have been disabused of their misconceptions, so clear is the evidence presented.",
+                    "persian": "تا پایان مناظره، مخاطبان از تصورات اشتباه خود آگاه خواهند شد، چرا که شواهد ارائه شده بسیار واضح هستند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:42:34"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "even though",
+                        "participle clause"
+                    ],
+                    "english": "Even though the expert had disabused them of their errors, some still clung to their outdated beliefs.",
+                    "persian": "اگرچه متخصص آن‌ها را از اشتباهاتشان آگاه کرده بود، برخی همچنان به باورهای قدیمی خود چسبیده بودند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:41:33"
+                }
+            ]
+        },
+        {
+            "word": "mettlesome",
+            "pronunciation": {
+                "british": "/ˈmɛtls(ə)m/",
+                "usa": "/ˈmɛtlsəm/"
+            },
+            "meaning": "having strong spirit or mettle; courageous",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The mettlesome athlete, who never backs down from a challenge, inspires her teammates to push their limits.",
+                    "persian": "ورزشکار شجاع، که هرگز از چالش کنار نمی‌کشد، هم‌تیمی‌هایش را تشویق می‌کند تا محدودیت‌های خود را پشت سر بگذارند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:14:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you were as mettlesome as she is, you might take on challenges that others consider impossible.",
+                    "persian": "اگر شما هم مانند او شجاع بودید، ممکن بود چالش‌هایی را بپذیرید که دیگران غیرممکن می‌دانند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:09:10"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "relative clause (non-definitive)",
+                        "connective relative clause"
+                    ],
+                    "english": "The mettlesome leader, who was admired by all, has been remembered for her unwavering courage in the face of adversity.",
+                    "persian": "رهبر شجاع، که مورد تحسین همه بود، به دلیل شجاعت بی‌تزلزلش در مواجهه با سختی‌ها به یادگار مانده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-06 00:13:22"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "adverb clause",
+                        "so...that"
+                    ],
+                    "english": "By the time the competition ends, the mettlesome competitor will have become so renowned that her name will be synonymous with bravery.",
+                    "persian": "تا زمانی که مسابقه به پایان برسد، رقیب شجاع آن‌قدر معروف خواهد شد که نام او مترادف با شجاعت خواهد بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:41:24"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "although",
+                        "participle clause"
+                    ],
+                    "english": "Although the mettlesome soldier had faced countless dangers, he still volunteered for the most perilous missions.",
+                    "persian": "اگرچه سرباز شجاع با خطرات بی‌شماری روبرو شده بود، اما همچنان برای خطرناک‌ترین مأموریت‌ها داوطلب می‌شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-06 00:03:17"
+                }
+            ]
+        },
+        {
+            "word": "amiable",
+            "pronunciation": {
+                "british": "/ˈeɪ.mi.ə.bəl/",
+                "usa": "/ˈeɪ.mi.ə.bəl/"
+            },
+            "meaning": "friendly referring to relationships",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "She is being amiable, which is unusual for her, as she typically avoids social gatherings.",
+                    "persian": "او در حال حاضر دوستانه رفتار می‌کند، که برای او غیرمعمول است، زیرا معمولاً از جمع‌های اجتماعی دوری می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:58:21"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "conditional type 2 (reverse)",
+                        "noun clause"
+                    ],
+                    "english": "If he had been more amiable, the negotiations might have concluded successfully, but his demeanor hindered progress.",
+                    "persian": "اگر او دوستانه‌تر رفتار می‌کرد، مذاکرات ممکن بود با موفقیت به پایان برسد، اما رفتارش مانع پیشرفت شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:40:41"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The new policy will be implemented in an amiable manner, ensuring that all stakeholders feel respected and valued.",
+                    "persian": "سیاست جدید به روشی دوستانه اجرا خواهد شد، به گونه‌ای که همه ذینفعان احساس احترام و ارزش کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:59:19"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "modals",
+                        "connective relative clause"
+                    ],
+                    "english": "He had been amiable throughout the meeting, which had surprised everyone, as he was known for his stern attitude.",
+                    "persian": "او در طول جلسه بسیار دوستانه رفتار کرده بود، که همه را متعجب کرده بود، زیرا به خاطر رفتار جدی‌اش شناخته شده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:45:33"
+                },
+                {
+                    "grammar": [
+                        "present simple",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "She says, 'I try to remain amiable even in difficult situations, as it helps to diffuse tension.'",
+                    "persian": "او می‌گوید: 'من سعی می‌کنم حتی در شرایط سخت هم دوستانه رفتار کنم، زیرا این کار به کاهش تنش کمک می‌کند.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:42:01"
+                }
+            ]
+        },
+        {
+            "word": "affable",
+            "pronunciation": {
+                "british": "/ˈæf.ə.bəl/",
+                "usa": "/ˈæf.ə.bəl/"
+            },
+            "meaning": "likable, easy to approach/talk to",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The affable professor, who always greets students warmly, creates an inclusive learning environment.",
+                    "persian": "پروفسور خوش‌برخورد، که همیشه دانشجویان را به گرمی سلام می‌کند، محیطی فراگیر برای یادگیری ایجاد می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:42:30"
+                },
+                {
+                    "grammar": [
+                        "conditional type 0",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you are affable, people will naturally gravitate toward you, seeking your advice and companionship.",
+                    "persian": "اگر خوش‌برخورد باشید، مردم به طور طبیعی به سمت شما جذب می‌شوند و به دنبال مشورت و همراهی شما خواهند بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:36:47"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The new manager will be affably addressing the team, ensuring that everyone feels heard and appreciated.",
+                    "persian": "مدیر جدید به طور دوستانه با تیم صحبت خواهد کرد و اطمینان حاصل می‌کند که همه احساس شنیده شدن و قدردانی کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:04:17"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "indirect speech",
+                        "connective relative clause"
+                    ],
+                    "english": "He mentioned that the affable receptionist had made his visit pleasant, which was a rare experience for him.",
+                    "persian": "او اشاره کرد که منشی خوش‌برخورد باعث شده بود بازدیدش لذت‌بخش باشد، که برای او تجربه‌ای نادر بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:43:50"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "conditional type 1",
+                        "adverb clause"
+                    ],
+                    "english": "If she has been affable during the interview, she will likely secure the job, as her demeanor leaves a lasting impression.",
+                    "persian": "اگر او در طول مصاحبه خوش‌برخورد بوده باشد، احتمالاً شغل را به دست خواهد آورد، زیرا رفتارش تأثیر ماندگاری می‌گذارد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:44:29"
+                }
+            ]
+        },
+        {
+            "word": "amenable",
+            "pronunciation": {
+                "british": "/əˈmiː.nə.bəl/",
+                "usa": "/əˈmiː.nə.bəl/"
+            },
+            "meaning": "easily persuaded",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The team, which is highly amenable, often adapts quickly to new strategies, ensuring smooth transitions.",
+                    "persian": "تیم، که بسیار انعطاف‌پذیر است، اغلب به سرعت با استراتژی‌های جدید سازگار می‌شود و انتقال‌های روان را تضمین می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-06 00:06:45"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If he were more amenable, the project would progress faster, but his resistance is causing delays.",
+                    "persian": "اگر او انعطاف‌پذیرتر بود، پروژه سریع‌تر پیش می‌رفت، اما مقاومت او باعث تأخیر می‌شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:28:11"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "By next year, the policy will have been amended to be more amenable, addressing the concerns of all stakeholders.",
+                    "persian": "تا سال آینده، سیاست اصلاح خواهد شد تا انعطاف‌پذیرتر باشد و نگرانی‌های همه ذینفعان را برطرف کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-06 00:07:54"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'I was being amenable to their suggestions, but they still rejected my proposal without consideration.'",
+                    "persian": "او گفت: 'من به پیشنهادهای آنها انعطاف‌پذیر بودم، اما آنها همچنان پیشنهاد من را بدون توجه رد کردند.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:19:16"
+                },
+                {
+                    "grammar": [
+                        "present perfect continuous",
+                        "conditional type 3 (reverse)",
+                        "adverb clause"
+                    ],
+                    "english": "If they had been more amenable, the negotiations would have concluded successfully, but their rigidity led to a stalemate.",
+                    "persian": "اگر آنها انعطاف‌پذیرتر بودند، مذاکرات با موفقیت به پایان می‌رسید، اما انعطاف‌ناپذیری آنها به بن‌بست منجر شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:41:57"
+                }
+            ]
+        },
+        {
+            "word": "attenuate",
+            "pronunciation": {
+                "british": "/əˈten.ju.eɪt/",
+                "usa": "/əˈten.ju.eɪt/"
+            },
+            "meaning": "to weaken in terms of intensity",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The new drug attenuates the symptoms of the disease, which significantly improves the quality of life for patients.",
+                    "persian": "داروی جدید علائم بیماری را کاهش می‌دهد، که به طور قابل توجهی کیفیت زندگی بیماران را بهبود می‌بخشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:21:33"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the treatment attenuates the pain effectively, patients will likely adhere to the prescribed regimen without hesitation.",
+                    "persian": "اگر درمان به طور مؤثر درد را کاهش دهد، بیماران احتمالاً بدون تردید به رژیم تجویز شده پایبند خواهند بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:42:55"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The intensity of the storm will be attenuated by the time it reaches the coast, minimizing potential damage.",
+                    "persian": "شدت طوفان تا زمانی که به ساحل برسد کاهش خواهد یافت و آسیب‌های احتمالی را به حداقل می‌رساند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:13:53"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "indirect speech",
+                        "connective relative clause"
+                    ],
+                    "english": "He mentioned that the noise had been attenuated by the new soundproofing, which made the office environment more pleasant.",
+                    "persian": "او اشاره کرد که سر و صدا توسط عایق‌بندی صوتی جدید کاهش یافته بود، که محیط دفتر را دل‌پذیرتر کرده بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:19:11"
+                },
+                {
+                    "grammar": [
+                        "present continuous",
+                        "conditional type 2 (reverse)",
+                        "adverb clause"
+                    ],
+                    "english": "If the measures were attenuating the effects of climate change, we would see a noticeable improvement in global temperatures.",
+                    "persian": "اگر اقدامات تأثیرات تغییرات آب‌وهوایی را کاهش می‌دادند، ما شاهد بهبود قابل توجهی در دمای جهانی می‌بودیم.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:00:13"
+                }
+            ]
+        },
+        {
+            "word": "animosity",
+            "pronunciation": {
+                "british": "/ˌæn.ɪˈmɒs.ɪ.ti/",
+                "usa": "/ˌæn.ɪˈmɑː.sə.ti/"
+            },
+            "meaning": "intense hostility",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The animosity between the two leaders, which has persisted for years, undermines any chance of diplomatic resolution.",
+                    "persian": "دشمنی بین دو رهبر، که سال‌ها ادامه داشته است، هر گونه شانس حل دیپلماتیک را تضعیف می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:41:09"
+                },
+                {
+                    "grammar": [
+                        "conditional type 0",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If animosity exists within a team, productivity will inevitably decline, as collaboration becomes nearly impossible.",
+                    "persian": "اگر در یک تیم دشمنی وجود داشته باشد، بهره‌وری به طور اجتناب‌ناپذیری کاهش می‌یابد، زیرا همکاری تقریباً غیرممکن می‌شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:44:39"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "By next year, the animosity will have been resolved through mediation, allowing the teams to work together harmoniously.",
+                    "persian": "تا سال آینده، دشمنی از طریق میانجی‌گری حل خواهد شد و به تیم‌ها اجازه می‌دهد به طور هماهنگ با هم کار کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:59:23"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "direct speech",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'The animosity between the departments was palpable, which made cross-functional projects extremely challenging.'",
+                    "persian": "او گفت: 'دشمنی بین بخش‌ها محسوس بود، که باعث می‌شد پروژه‌های بین‌کارکردی بسیار چالش‌برانگیز شوند.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:45:35"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "conditional type 3",
+                        "adverb clause"
+                    ],
+                    "english": "If the animosity had been addressed earlier, the conflict would not have escalated to such a destructive level.",
+                    "persian": "اگر دشمنی زودتر مورد توجه قرار می‌گرفت، درگیری به چنین سطح مخربی افزایش نمی‌یافت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:19:25"
+                }
+            ]
+        }
+    ]
+}

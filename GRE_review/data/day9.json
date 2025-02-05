@@ -1,0 +1,1008 @@
+{
+    "examples": [
+        {
+            "word": "thrifty",
+            "meaning": "wise with money",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The thrifty entrepreneur, who always seeks cost-effective solutions, has managed to build a successful business without excessive spending.",
+                    "persian": "کارآفرین مقتصد، که همیشه به دنبال راه‌حل‌های مقرون‌به‌صرفه است، توانسته بدون هزینه‌های اضافی یک کسب‌وکار موفق ایجاد کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-04 17:58:59"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If you adopt a thrifty lifestyle, you will not only save money but also reduce unnecessary waste and environmental impact.",
+                    "persian": "اگر سبک زندگی مقتصدانه را در پیش بگیرید، نه تنها پول پس‌انداز می‌کنید، بلکه ضایعات غیرضروری و تأثیرات محیطی را نیز کاهش می‌دهید.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:27:18"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The thrifty habits that had been instilled in her from childhood allowed her to navigate financial crises with remarkable ease.",
+                    "persian": "عادت‌های مقتصدانه‌ای که از کودکی در او نهادینه شده بود، به او اجازه داد تا بحران‌های مالی را با سهولت قابل توجهی پشت سر بگذارد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:33:31"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If I were not so thrifty, I would have struggled to afford the education that shaped my career.'",
+                    "persian": "او گفت: 'اگر اینقدر مقتصد نبودم، برای تأمین هزینه تحصیلی که مسیر شغلی‌ام را شکل داد، دچار مشکل می‌شدم.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:06"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although she has been thrifty all her life, she never hesitates to spend on experiences that enrich her personal growth.",
+                    "persian": "اگرچه او تمام عمرش مقتصد بوده، هرگز در هزینه‌کردن برای تجربیاتی که رشد شخصی‌اش را غنی می‌کند، تردید نمی‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:22:26"
+                }
+            ]
+        },
+        {
+            "word": "spendthrift",
+            "meaning": "one who spends money wastefully",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The spendthrift heir, who is currently squandering his inheritance, is likely to face financial ruin within a few years.",
+                    "persian": "وارث ولخرج، که در حال حاضر میراث خود را هدر می‌دهد، احتمالاً طی چند سال آینده با ورشکستگی مالی مواجه خواهد شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:24:15"
+                },
+                {
+                    "grammar": [
+                        "conditional type 3",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the spendthrift had invested his money wisely, he might have secured a comfortable future instead of facing bankruptcy.",
+                    "persian": "اگر ولخرج پول خود را عاقلانه سرمایه‌گذاری کرده بود، ممکن بود آینده‌ای راحت داشته باشد به جای اینکه با ورشکستگی مواجه شود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:23:40"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The fortune that had been amassed by his ancestors was quickly depleted by the spendthrift, who showed no regard for financial prudence.",
+                    "persian": "ثروتی که توسط اجدادش جمع‌آوری شده بود، به سرعت توسط ولخرجی که هیچ توجهی به احتیاط مالی نداشت، از بین رفت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:33:43"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 0",
+                        "connective relative clause"
+                    ],
+                    "english": "He remarked, 'If a spendthrift continues to live beyond his means, he will inevitably fall into debt and financial despair.'",
+                    "persian": "او اظهار کرد: 'اگر یک ولخرج به زندگی فراتر از توان مالی‌اش ادامه دهد، به طور حتم به بدهی و ناامیدی مالی دچار خواهد شد.'",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:08:12"
+                },
+                {
+                    "grammar": [
+                        "despite",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Despite having been warned about his spendthrift habits, he continues to indulge in extravagant purchases, ignoring the consequences.",
+                    "persian": "علیرغم هشدار در مورد عادت‌های ولخرجی‌اش، او همچنان به خریدهای افراطی ادامه می‌دهد و عواقب آن را نادیده می‌گیرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:33:55"
+                }
+            ]
+        },
+        {
+            "word": "parsimonious",
+            "meaning": "unwilling to spend money; extremely frugal (negative connotation)",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The parsimonious landlord, who refuses to repair the building, has been criticized for prioritizing profit over tenant safety.",
+                    "persian": "صاحب‌خانه خسیس، که از تعمیر ساختمان امتناع می‌کند، به دلیل اولویت دادن به سود بر ایمنی مستأجران مورد انتقاد قرار گرفته است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:59:32"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the CEO were less parsimonious, the company might attract better talent by offering competitive salaries and benefits.",
+                    "persian": "اگر مدیرعامل کمتر خسیس بود، شرکت ممکن بود با ارائه حقوق و مزایای رقابتی، استعدادهای بهتری را جذب کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:24:02"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The parsimonious policies that were being implemented by the government led to widespread dissatisfaction among public sector employees.",
+                    "persian": "سیاست‌های خسیسانه‌ای که توسط دولت اجرا می‌شد، منجر به نارضایتی گسترده در میان کارمندان بخش عمومی شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:23:10"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 1",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If the organization remains parsimonious, it will struggle to retain skilled employees and maintain productivity.'",
+                    "persian": "او گفت: 'اگر سازمان خسیس باقی بماند، برای حفظ کارکنان ماهر و حفظ بهره‌وری دچار مشکل خواهد شد.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 17:34:30"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "past perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the parsimonious investor had accumulated significant wealth, he lived in near poverty, refusing to spend even on basic comforts.",
+                    "persian": "اگرچه سرمایه‌گذار خسیس ثروت قابل توجهی جمع‌آوری کرده بود، در نزدیکی فقر زندگی می‌کرد و از هزینه‌کردن حتی برای راحتی‌های اولیه امتناع می‌کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:44:04"
+                }
+            ]
+        },
+        {
+            "word": "sybarite",
+            "meaning": "one dedicated to a life of pleasure; someone who indulges in luxury",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The sybarite, who is currently vacationing in an exotic locale, spares no expense in pursuing the most luxurious experiences available.",
+                    "persian": "شخص عیاش، که در حال حاضر در یک منطقه عجیب و غریب در حال تعطیلات است، هیچ هزینه‌ای برای دنبال کردن تجربیات لوکس موجود دریغ نمی‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 18:34:30"
+                },
+                {
+                    "grammar": [
+                        "conditional type 3",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the sybarite had invested his wealth rather than squandering it on indulgence, he might have secured a stable financial future.",
+                    "persian": "اگر عیاش ثروت خود را به جای هدر دادن آن بر روی خوش‌گذرانی سرمایه‌گذاری کرده بود، ممکن بود آینده مالی پایدارتری داشته باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:10"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The fortune that had been inherited by the sybarite was quickly depleted, leaving him in financial distress despite his earlier opulence.",
+                    "persian": "ثروتی که توسط عیاش به ارث رسیده بود، به سرعت از بین رفت و او را علیرغم ثروت قبلی‌اش در تنگناهای مالی قرار داد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 13:34:29"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 0",
+                        "connective relative clause"
+                    ],
+                    "english": "He remarked, 'If a sybarite continues to prioritize luxury over responsibility, he will inevitably face financial ruin.'",
+                    "persian": "او اظهار کرد: 'اگر یک عیاش به اولویت دادن به تجملات بر مسئولیت‌ها ادامه دهد، به طور حتم با ورشکستگی مالی مواجه خواهد شد.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 18:23:51"
+                },
+                {
+                    "grammar": [
+                        "despite",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Despite having been warned about his sybaritic tendencies, he continues to indulge in extravagance, ignoring the long-term consequences.",
+                    "persian": "علیرغم هشدار در مورد تمایلات عیاشانه‌اش، او همچنان به افراط‌گری ادامه می‌دهد و عواقب بلندمدت آن را نادیده می‌گیرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-04 12:21:34"
+                }
+            ]
+        },
+        {
+            "word": "impecunious",
+            "meaning": "poor; having little money",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The impecunious artist, who struggles to make ends meet, relies on the generosity of patrons to continue his creative work.",
+                    "persian": "هنرمند بی‌پول، که برای تأمین معاش خود تلاش می‌کند، به سخاوت حامیانش برای ادامه کار خلاقانه‌اش متکی است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:23:16"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the impecunious student receives a scholarship, she will be able to pursue her education without the burden of financial stress.",
+                    "persian": "اگر دانش‌آموز بی‌پول بورسیه دریافت کند، قادر خواهد بود تحصیلات خود را بدون بار استرس مالی ادامه دهد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-04 12:51:49"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The impecunious family, which had been struggling for years, finally received assistance from a charitable organization.",
+                    "persian": "خانواده بی‌پول، که سال‌ها در حال تلاش بود، بالاخره از یک سازمان خیریه کمک دریافت کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:10:33"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If I were not so impecunious, I would have traveled the world and experienced different cultures by now.'",
+                    "persian": "او گفت: 'اگر اینقدر بی‌پول نبودم، تا حالا دنیا را گشته و فرهنگ‌های مختلف را تجربه کرده بودم.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 17:48:37"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the impecunious writer has published several books, she still struggles to earn a sustainable income from her work.",
+                    "persian": "اگرچه نویسنده بی‌پول چندین کتاب منتشر کرده است، هنوز برای کسب درآمد پایدار از کارش تلاش می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 08:28:43"
+                }
+            ]
+        },
+        {
+            "word": "penurious",
+            "meaning": "poor; having little money",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The penurious farmer, who can barely afford seeds for planting, faces an uncertain future due to rising agricultural costs.",
+                    "persian": "کشاورز فقیر، که به سختی می‌تواند بذر برای کاشت بخرد، به دلیل افزایش هزینه‌های کشاورزی با آینده‌ای نامشخص مواجه است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:00:44"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the penurious community receives adequate support, it will be able to rebuild after the devastating effects of the natural disaster.",
+                    "persian": "اگر جامعه فقیر حمایت کافی دریافت کند، قادر خواهد بود پس از اثرات ویرانگر بلایای طبیعی بازسازی کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:07:13"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The penurious conditions that had plagued the region for decades were finally addressed through international aid and development programs.",
+                    "persian": "شرایط فقیرانه‌ای که دهه‌ها این منطقه را درگیر کرده بود، بالاخره از طریق کمک‌های بین‌المللی و برنامه‌های توسعه مورد توجه قرار گرفت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 15:46:34"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If the government were not so indifferent, the penurious population would not have to suffer in such dire conditions.'",
+                    "persian": "او گفت: 'اگر دولت اینقدر بی‌تفاوت نبود، جمعیت فقیر مجبور نبود در چنین شرایط وحشتناکی رنج بکشد.'",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:10:34"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the penurious family has received some assistance, they still struggle to meet their basic needs due to systemic poverty.",
+                    "persian": "اگرچه خانواده فقیر مقداری کمک دریافت کرده‌اند، هنوز به دلیل فقر سیستماتیک برای تأمین نیازهای اولیه خود تلاش می‌کنند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:32:01"
+                }
+            ]
+        },
+        {
+            "word": "affluent",
+            "meaning": "abundance of wealth/ property",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The affluent neighborhood, which is known for its luxurious homes and high-end amenities, attracts wealthy residents from around the world.",
+                    "persian": "محله مرفه، که به خانه‌های مجلل و امکانات لوکسش معروف است، ساکنان ثروتمند از سراسر جهان را جذب می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:56:11"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the affluent businessman invests in sustainable projects, he could significantly contribute to environmental conservation efforts.",
+                    "persian": "اگر تاجر مرفه در پروژه‌های پایدار سرمایه‌گذاری کند، می‌تواند به طور قابل توجهی به تلاش‌های حفاظت از محیط زیست کمک کند.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-02-05 23:39:19"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The affluent lifestyle that had been enjoyed by the family for generations was suddenly disrupted by an unexpected financial crisis.",
+                    "persian": "سبک زندگی مرفه‌ای که خانواده برای نسل‌ها از آن لذت می‌برد، ناگهان توسط یک بحران مالی غیرمنتظره مختل شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:14:30"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She remarked, 'If the affluent class were more philanthropic, many social issues could be alleviated through their contributions.'",
+                    "persian": "او اظهار کرد: 'اگر طبقه مرفه انسان‌دوست‌تر بود، بسیاری از مسائل اجتماعی از طریق کمک‌های آنها کاهش می‌یافت.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:57:12"
+                },
+                {
+                    "grammar": [
+                        "despite",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Despite having been born into an affluent family, she has chosen to live a modest life, dedicating her wealth to charitable causes.",
+                    "persian": "علیرغم اینکه در یک خانواده مرفه به دنیا آمده است، او زندگی ساده‌ای را انتخاب کرده و ثروت خود را به امور خیریه اختصاص داده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:56:51"
+                }
+            ]
+        },
+        {
+            "word": "profligate",
+            "meaning": "wasteful in spending money; spending recklessly to the point of immorality",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The profligate CEO, who is currently under scrutiny for his extravagant spending, has been accused of mismanaging company funds.",
+                    "persian": "مدیرعامل ولخرج، که در حال حاضر به دلیل هزینه‌های افراطی‌اش تحت بررسی است، به سوءمدیریت منابع شرکت متهم شده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:22:36"
+                },
+                {
+                    "grammar": [
+                        "conditional type 3",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the profligate government had not squandered public funds, the country might have avoided the economic collapse it now faces.",
+                    "persian": "اگر دولت ولخرج منابع عمومی را هدر نمی‌داد، کشور ممکن بود از فروپاشی اقتصادی که اکنون با آن مواجه است، اجتناب کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:50:14"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The profligate policies that had been implemented by the administration led to widespread public outrage and calls for reform.",
+                    "persian": "سیاست‌های ولخرجانه‌ای که توسط دولت اجرا شده بود، منجر به خشم عمومی گسترده و درخواست‌ها برای اصلاحات شد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:20:55"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 0",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If profligate spending continues unchecked, it will inevitably lead to financial ruin and social instability.'",
+                    "persian": "او گفت: 'اگر هزینه‌های ولخرجانه بدون کنترل ادامه یابد، به طور حتم منجر به ورشکستگی مالی و بی‌ثباتی اجتماعی خواهد شد.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:04:06"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the profligate heir has been warned about his reckless spending, he continues to live a life of excess and indulgence.",
+                    "persian": "اگرچه وارث ولخرج در مورد هزینه‌های بی‌پروای خود هشدار داده شده است، او همچنان به زندگی افراطی و خوش‌گذرانی ادامه می‌دهد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:06:50"
+                }
+            ]
+        },
+        {
+            "word": "prodigal",
+            "meaning": "spending money or resources freely or recklessly",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The prodigal son, who has spent his inheritance on lavish parties and luxury cars, now faces the harsh reality of financial ruin.",
+                    "persian": "پسر ولخرج، که میراث خود را بر مهمانی‌های مجلل و ماشین‌های لوکس خرج کرده است، اکنون با واقعیت سخت ورشکستگی مالی مواجه است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:33:35"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the prodigal entrepreneur had managed his resources more wisely, he might have built a sustainable business instead of losing everything.",
+                    "persian": "اگر کارآفرین ولخرج منابع خود را عاقلانه‌تر مدیریت می‌کرد، ممکن بود به جای از دست دادن همه چیز، یک کسب‌وکار پایدار ایجاد کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:12:42"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The fortune that had been inherited by the prodigal heir was quickly squandered, leaving him in dire financial straits.",
+                    "persian": "ثروتی که توسط وارث ولخرج به ارث رسیده بود، به سرعت هدر رفت و او را در تنگناهای مالی وحشتناکی قرار داد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:02:59"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 1",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If the prodigal spending continues, the company will soon face bankruptcy and irreversible damage to its reputation.'",
+                    "persian": "او گفت: 'اگر هزینه‌های ولخرجانه ادامه یابد، شرکت به زودی با ورشکستگی و آسیب جبران‌ناپذیر به اعتبارش مواجه خواهد شد.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 12:45:15"
+                },
+                {
+                    "grammar": [
+                        "despite",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Despite having been warned about his prodigal habits, he continues to spend recklessly, ignoring the looming financial crisis.",
+                    "persian": "علیرغم هشدار در مورد عادت‌های ولخرجی‌اش، او همچنان به بی‌پروایی خرج می‌کند و بحران مالی قریب‌الوقوع را نادیده می‌گیرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 15:28:29"
+                }
+            ]
+        },
+        {
+            "word": "avarice",
+            "meaning": "greed, desire to hoard wealth",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The avarice of the corporation, which prioritizes profit over ethical considerations, has led to widespread criticism and public backlash.",
+                    "persian": "حرص شرکت، که سود را بر ملاحظات اخلاقی اولویت می‌دهد، منجر به انتقادات گسترده و واکنش‌های عمومی شده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:54:25"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the avarice of the wealthy elite is not curbed, it will exacerbate income inequality and deepen social divisions.",
+                    "persian": "اگر حرص طبقه ثروتمند مهار نشود، نابرابری درآمد را تشدید کرده و تقسیمات اجتماعی را عمیق‌تر خواهد کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 17:58:44"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The avarice that had driven the businessman to exploit his workers was eventually exposed, leading to legal consequences and public outrage.",
+                    "persian": "حرصی که تاجر را به استثمار کارگرانش واداشته بود، در نهایت افشا شد و منجر به عواقب قانونی و خشم عمومی شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:06:07"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He remarked, 'If avarice were not so prevalent among the powerful, the world would be a more equitable and just place.'",
+                    "persian": "او اظهار کرد: 'اگر حرص در میان قدرتمندان اینقدر شایع نبود، جهان مکانی عادلانه‌تر و منصفانه‌تر می‌بود.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 13:42:03"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the avarice of the ruling class has been widely condemned, little has been done to address the systemic issues it perpetuates.",
+                    "persian": "اگرچه حرص طبقه حاکم به طور گسترده محکوم شده است، کار کمی برای حل مسائل سیستماتیکی که تداوم می‌یابد، انجام شده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:13:36"
+                }
+            ]
+        },
+        {
+            "word": "cupidity",
+            "meaning": "greed for money",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The cupidity of the corrupt officials, who embezzle public funds, has undermined trust in the government and its institutions.",
+                    "persian": "حرص مقامات فاسد، که منابع عمومی را اختلاس می‌کنند، اعتماد به دولت و نهادهای آن را تضعیف کرده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-31 21:26:40"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the cupidity of corporate leaders is not addressed, it will lead to further exploitation of workers and environmental degradation.",
+                    "persian": "اگر حرص رهبران شرکت‌ها مورد توجه قرار نگیرد، منجر به استثمار بیشتر کارگران و تخریب محیط زیست خواهد شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:16:15"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The cupidity that had fueled the financial scandal was eventually uncovered, leading to the downfall of several high-profile executives.",
+                    "persian": "حرصی که رسوایی مالی را تغذیه کرده بود، در نهایت افشا شد و منجر به سقوط چندین مدیر بلندپایه شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:23:09"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If cupidity were not so deeply ingrained in the system, we might have a fairer and more transparent society.'",
+                    "persian": "او گفت: 'اگر حرص اینقدر در سیستم ریشه‌دار نبود، ممکن بود جامعه‌ای عادلانه‌تر و شفاف‌تر داشته باشیم.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:06:53"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the cupidity of the elite has been widely criticized, it continues to drive policies that favor the wealthy at the expense of the poor.",
+                    "persian": "اگرچه حرص نخبگان به طور گسترده مورد انتقاد قرار گرفته است، همچنان سیاست‌هایی را هدایت می‌کند که به نفع ثروتمندان و به ضرر فقرا است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-02 14:06:31"
+                }
+            ]
+        },
+        {
+            "word": "defray",
+            "meaning": "to help pay the cost of, in part or full",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The scholarship program, which defrays the cost of tuition for underprivileged students, has enabled many to pursue higher education.",
+                    "persian": "برنامه بورسیه، که هزینه تحصیل دانش‌آموزان محروم را تأمین می‌کند، به بسیاری امکان داده است تا تحصیلات عالی را دنبال کنند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:20:08"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the government defrays the expenses of renewable energy projects, it will encourage more companies to adopt sustainable practices.",
+                    "persian": "اگر دولت هزینه‌های پروژه‌های انرژی تجدیدپذیر را تأمین کند، شرکت‌های بیشتری را به اتخاذ روش‌های پایدار تشویق خواهد کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:08:58"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The funds that had been allocated to defray the costs of the disaster relief effort were quickly exhausted due to the scale of the crisis.",
+                    "persian": "وجوهی که برای تأمین هزینه‌های عملیات امداد فاجعه اختصاص داده شده بود، به دلیل وسعت بحران به سرعت تمام شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:31:26"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If the organization defrayed the costs of research, we could make significant breakthroughs in medical science.'",
+                    "persian": "او گفت: 'اگر سازمان هزینه‌های تحقیق را تأمین کند، می‌توانیم پیشرفت‌های قابل توجهی در علم پزشکی ایجاد کنیم.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:12:34"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the grant has defrayed some of the expenses, the project still requires additional funding to reach completion.",
+                    "persian": "اگرچه کمک‌هزینه برخی از هزینه‌ها را تأمین کرده است، پروژه هنوز به بودجه بیشتری برای تکمیل نیاز دارد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:11:15"
+                }
+            ]
+        },
+        {
+            "word": "stipend",
+            "meaning": "a regular sum of money",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The research assistant, who receives a modest stipend, relies on additional part-time work to cover living expenses.",
+                    "persian": "دستیار تحقیق، که حقوقی ناچیز دریافت می‌کند، برای تأمین هزینه‌های زندگی به کار پاره‌وقت اضافی متکی است.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:24:08"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the stipend were increased, it would alleviate the financial burden on students and allow them to focus more on their studies.",
+                    "persian": "اگر حقوق افزایش یابد، بار مالی دانش‌آموزان را کاهش داده و به آن‌ها اجازه می‌دهد بیشتر بر روی تحصیلات خود تمرکز کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:51:56"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The stipend that had been promised to the interns was delayed due to bureaucratic inefficiencies, causing frustration among the recipients.",
+                    "persian": "حقوقی که به کارآموزان وعده داده شده بود، به دلیل ناکارآمدی‌های بوروکراتیک به تأخیر افتاد و باعث ناامیدی در میان دریافت‌کنندگان شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:46:01"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If the stipend were more substantial, I would not have to juggle multiple jobs while pursuing my degree.'",
+                    "persian": "او گفت: 'اگر حقوق بیشتر بود، مجبور نبودم در حین تحصیل چندین کار را همزمان انجام دهم.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:24:14"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the stipend has been helpful, it is insufficient to cover the rising cost of living in the city.",
+                    "persian": "اگرچه حقوق مفید بوده است، برای پوشش هزینه‌های رو به افزایش زندگی در شهر کافی نیست.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:21:23"
+                }
+            ]
+        },
+        {
+            "word": "pittance",
+            "meaning": "a small amount of money; minuscule wage",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The workers, who are paid a pittance for their labor, struggle to make ends meet despite their long hours and hard work.",
+                    "persian": "کارگران، که دستمزد ناچیزی برای کار خود دریافت می‌کنند، علیرغم ساعات طولانی و کار سخت، برای تأمین معاش خود تلاش می‌کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 17:34:13"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the company paid more than a pittance, it would improve employee morale and reduce the high turnover rate.",
+                    "persian": "اگر شرکت بیش از دستمزد ناچیز پرداخت کند، روحیه کارکنان را بهبود می‌بخشد و نرخ بالای جابجایی را کاهش می‌دهد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:09:31"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The pittance that had been offered to the workers was deemed unacceptable, leading to strikes and demands for fair wages.",
+                    "persian": "دستمزد ناچیزی که به کارگران پیشنهاد شده بود، غیرقابل قبول تلقی شد و منجر به اعتصابات و درخواست‌ها برای دستمزد عادلانه شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:52:33"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If the pittance were not so meager, the workers would not have to live in such dire conditions.'",
+                    "persian": "او گفت: 'اگر دستمزد ناچیز اینقدر کم نبود، کارگران مجبور نبودند در چنین شرایط وحشتناکی زندگی کنند.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:28:13"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the pittance has been slightly increased, it remains insufficient to lift workers out of poverty.",
+                    "persian": "اگرچه دستمزد ناچیز کمی افزایش یافته است، هنوز برای خارج کردن کارگران از فقر کافی نیست.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:17:52"
+                }
+            ]
+        },
+        {
+            "word": "dupe",
+            "meaning": "to trick or swindle",
+            "examples": [
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If I had known the truth, I would not have been duped into investing in that fraudulent scheme.'",
+                    "persian": "او گفت: 'اگر حقیقت را می‌دانستم، فریب نمی‌خوردم و در آن طرح کلاهبرداری سرمایه‌گذاری نمی‌کردم.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 11:48:50"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the authorities have issued warnings about the scam, many people continue to be duped by its sophisticated tactics.",
+                    "persian": "اگرچه مقامات در مورد این کلاهبرداری هشدار داده‌اند، بسیاری از مردم همچنان توسط تاکتیک‌های پیچیده آن فریب می‌خورند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:10:27"
+                }
+            ]
+        },
+        {
+            "word": "mulct",
+            "meaning": "to swindle or defraud someone",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The corrupt official, who mulcts taxpayers through illegal fees, has been under investigation for years but remains unpunished.",
+                    "persian": "مقام فاسد، که از طریق هزینه‌های غیرقانونی از مالیات‌دهندگان کلاهبرداری می‌کند، سال‌هاست تحت بررسی است اما بدون مجازات مانده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:06:05"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the government cracks down on those who mulct public funds, it will restore some measure of trust in the system.",
+                    "persian": "اگر دولت با کسانی که از منابع عمومی کلاهبرداری می‌کنند برخورد کند، مقداری از اعتماد به سیستم را بازگرداند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:22:22"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The businessman, who had mulcted millions from unsuspecting investors, was finally arrested after a lengthy investigation.",
+                    "persian": "تاجری که میلیون‌ها دلار از سرمایه‌گذاران بی‌گناه کلاهبرداری کرده بود، پس از یک بررسی طولانی بالاخره دستگیر شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:36:24"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "He said, 'If the laws were stricter, it would be much harder for criminals to mulct innocent people out of their savings.'",
+                    "persian": "او گفت: 'اگر قوانین سخت‌گیرانه‌تر بودند، برای مجرمان بسیار سخت‌تر می‌شد که از پس‌انداز مردم بی‌گناه کلاهبرداری کنند.'",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:13:46"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the organization has been accused of mulcting donations, it continues to operate under the guise of charity.",
+                    "persian": "اگرچه سازمان به کلاهبرداری از کمک‌های مالی متهم شده است، همچنان تحت پوشش خیریه فعالیت می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 08:37:54"
+                }
+            ]
+        },
+        {
+            "word": "fleece",
+            "meaning": "to swindle or dupe",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The fraudulent company, which fleeces customers with hidden fees, has been the subject of numerous complaints and lawsuits.",
+                    "persian": "شرکت کلاهبرداری، که با هزینه‌های پنهان از مشتریان کلاهبرداری می‌کند، موضوع شکایات و دعاوی متعدد بوده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:22:45"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If consumers were more aware of their rights, it would be harder for businesses to fleece them with deceptive practices.",
+                    "persian": "اگر مصرف‌کنندگان بیشتر از حقوق خود آگاه بودند، برای کسب‌وکارها سخت‌تر می‌شد که با روش‌های فریب‌آمیز از آن‌ها کلاهبرداری کنند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:21:39"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "adjective clause"
+                    ],
+                    "english": "The tourists, who had been fleeced by unscrupulous vendors, reported the incidents to local authorities in hopes of justice.",
+                    "persian": "گردشگرانی که توسط فروشندگان بی‌وجدان کلاهبرداری شده بودند، این حوادث را به مقامات محلی گزارش دادند تا امیدوار به عدالت باشند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:29:12"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "conditional type 2",
+                        "connective relative clause"
+                    ],
+                    "english": "She said, 'If I had known about the scam, I would not have been fleeced out of my hard-earned money.'",
+                    "persian": "او گفت: 'اگر در مورد کلاهبرداری می‌دانستم، پول سخت‌کسب‌شده‌ام را از دست نمی‌دادم.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:24:28"
+                },
+                {
+                    "grammar": [
+                        "although",
+                        "present perfect",
+                        "participle clause"
+                    ],
+                    "english": "Although the company has been exposed for fleecing customers, it continues to operate under a new name and branding.",
+                    "persian": "اگرچه شرکت به دلیل کلاهبرداری از مشتریان افشا شده است، همچنان تحت نام و برند جدید فعالیت می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:23:55"
+                }
+            ]
+        }
+    ]
+}

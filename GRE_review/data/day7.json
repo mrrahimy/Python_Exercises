@@ -1,0 +1,619 @@
+{
+    "examples": [
+        {
+            "word": "protean",
+            "meaning": "adj. readily assuming different forms or characters; very versatile",
+            "examples": [
+                {
+                    "grammar": "Present perfect, adjective clause, adverb clause, yet",
+                    "english": "She has yet to meet a challenge that her protean intellect could not swiftly unravel, proving her adaptability in even the most intricate scenarios.",
+                    "persian": "او هنوز با چالشی مواجه نشده است که ذهن پرتغییرش نتواند به‌سرعت آن را حل کند، که نشان‌دهنده‌ی سازگاری‌اش در پیچیده‌ترین موقعیت‌هاست.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 20:17:23"
+                },
+                {
+                    "grammar": "Future passive, relative clause (definitive), noun clause, however",
+                    "english": "The protean nature of artificial intelligence, which will be harnessed in diverse fields, raises the question of how humanity will adapt, however unpredictable the advancements may be.",
+                    "persian": "ماهیت پرتغییر هوش مصنوعی، که در زمینه‌های گوناگون به کار گرفته خواهد شد، این پرسش را مطرح می‌کند که چگونه بشریت تطبیق خواهد یافت، هرچند که پیشرفت‌ها غیرقابل پیش‌بینی باشند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:53"
+                },
+                {
+                    "grammar": "Second conditional, indirect speech, countable/uncountable nouns, despite",
+                    "english": "If he possessed a protean skill set, they said he would navigate the volatile job market effortlessly, despite the ever-evolving economic landscape.",
+                    "persian": "اگر او مجموعه مهارت‌هایی پرتغییر داشت، آن‌ها گفتند که می‌توانست بازار کار ناپایدار را به‌راحتی مدیریت کند، علیرغم چشم‌انداز اقتصادی همواره در حال تغییر.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:29:10"
+                },
+                {
+                    "grammar": "Present continuous, direct speech, participle clause, so that",
+                    "english": "He is constantly refining his protean abilities, saying, 'I must evolve so that I remain indispensable in an era of rapid transformation.'",
+                    "persian": "او دائماً توانایی‌های پرتغییر خود را تقویت می‌کند و می‌گوید: «باید تکامل یابم تا در عصری که تغییرات سریع رخ می‌دهد، ضروری باقی بمانم.»",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 18:28:55"
+                },
+                {
+                    "grammar": "Past perfect, wh-clause, adverb clause, in addition",
+                    "english": "She had mastered various disciplines by the time she entered academia, which is why her protean expertise was in high demand; in addition, her capacity to innovate set her apart from her peers.",
+                    "persian": "او تا زمانی که وارد دانشگاه شد، در رشته‌های مختلف مهارت یافته بود، به همین دلیل تخصص پرتغییرش بسیار مورد نیاز بود؛ علاوه بر این، توانایی نوآوری‌اش او را از همتایانش متمایز می‌کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:08:48"
+                }
+            ]
+        },
+        {
+            "word": "sartorial",
+            "meaning": "adj. relating to clothing or the way that one dresses",
+            "examples": [
+                {
+                    "grammar": "Present perfect, relative clause (definitive), noun clause, despite",
+                    "english": "His sartorial choices, which have been praised by renowned fashion critics, have nevertheless failed to gain widespread recognition, despite their exquisite craftsmanship.",
+                    "persian": "انتخاب‌های پوشاک او که توسط منتقدان مشهور مد تحسین شده‌اند، با این حال نتواسته‌اند توجه گسترده‌ای جلب کنند، علیرغم دقت و ظرافت در ساخت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-03 17:57:13"
+                },
+                {
+                    "grammar": "Future perfect, conditional form (zero), adverb clause, however",
+                    "english": "By the time he becomes a well-established designer, his sartorial influence, which will have been felt in both haute couture and streetwear, will have revolutionized modern fashion, however elusive his methods may be.",
+                    "persian": "تا زمانی که او به یک طراح معتبر تبدیل شود، تأثیر پوشاکی‌اش که هم در مد عالی و هم در پوشاک خیابانی احساس خواهد شد، مدرنیسم مد را متحول خواهد کرد، هرچند روش‌های او غیرقابل دسترس باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-02 21:46:34"
+                },
+                {
+                    "grammar": "Second conditional, direct speech, participle clause, too",
+                    "english": "If she had embraced sartorial elegance, she would have said, 'A well-chosen outfit can speak volumes about your identity,' though many believe it is too superficial to matter.",
+                    "persian": "اگر او ظرافت پوشاک را پذیرفته بود، می‌گفت: «یک لباس انتخاب‌شده به‌خوبی می‌تواند حرف‌های زیادی درباره هویت شما بزند»، هرچند بسیاری معتقدند که این امر خیلی سطحی است تا اهمیت داشته باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:51:04"
+                },
+                {
+                    "grammar": "Past continuous, noun clause, adverb clause, in addition",
+                    "english": "He was wearing an impeccable suit when he stated that sartorial finesse, in addition to intellectual prowess, is the key to commanding attention in high society.",
+                    "persian": "او در حالی که یک دست کت و شلوار بی‌عیب و نقص می‌پوشید، اظهار داشت که ظرافت پوشاک، علاوه بر هوش فکری، کلید جلب توجه در جامعه اشرافی است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:22:50"
+                },
+                {
+                    "grammar": "Present continuous, relative clause (non-definitive), adverb clause, though",
+                    "english": "She is frequently seen in sartorial masterpieces, which have earned her a reputation as a style icon, though some argue that fashion should not be such a public spectacle.",
+                    "persian": "او اغلب در آثار هنری پوشاک دیده می‌شود که به او شهرتی به عنوان نماد سبک داده‌اند، هرچند برخی معتقدند که مد نباید چنین نمایشی عمومی باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:36:25"
+                }
+            ]
+        },
+        {
+            "word": "saturnine",
+            "meaning": "adj. slow and gloomy",
+            "examples": [
+                {
+                    "grammar": "Present perfect, adverb clause, yet",
+                    "english": "Her saturnine demeanor has yet to be fully understood, as she remains withdrawn, reflecting a quiet sorrow that is hard to interpret.",
+                    "persian": "رفتار ساکت و غمگین او هنوز به‌طور کامل درک نشده است، زیرا او همچنان گوشه‌گیر باقی مانده و اندوهی خاموش را که دشوار است تفسیر شود، بازتاب می‌دهد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:41:19"
+                },
+                {
+                    "grammar": "Future passive, relative clause (definitive), participle clause, however",
+                    "english": "The saturnine nature of the philosopher, whose lectures often delved into existential despair, will be highlighted in his upcoming biography; however, few will understand the depth of his introspection.",
+                    "persian": "طبیعت غمگین فیلسوف، که سخنرانی‌هایش اغلب به ناامیدی هستی‌شناسانه می‌پرداخت، در بیوگرافی آینده‌اش برجسته خواهد شد؛ با این حال، تعداد کمی عمق درون‌نگری او را درک خواهند کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:14:37"
+                },
+                {
+                    "grammar": "Second conditional, indirect speech, adverb clause, despite",
+                    "english": "If he had a saturnine disposition, they said, he would have been far less engaging in social settings, despite his profound intellect and eloquent speech.",
+                    "persian": "اگر او خلق‌وخوی غمگینی داشت، آن‌ها گفته بودند که او در محیط‌های اجتماعی بسیار کم‌حضورتر می‌شد، علیرغم هوش عمیق و سخنرانی فصیحش.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:31:40"
+                },
+                {
+                    "grammar": "Past perfect, noun clause, in addition",
+                    "english": "By the time he was interviewed, his saturnine personality had already been a topic of much speculation, which made his rare public appearances all the more intriguing; in addition, his few words were always loaded with meaning.",
+                    "persian": "تا زمانی که از او مصاحبه گرفته شد، شخصیت غمگین او پیش‌تر موضوع گمانه‌زنی‌های زیادی شده بود، که حضورهای عمومی نادرش را جالب‌تر می‌کرد؛ علاوه بر این، سخنان کم‌اهمیت او همیشه پر از معنا بود.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-04 16:19:53"
+                },
+                {
+                    "grammar": "Present continuous, direct speech, adjective clause, despite",
+                    "english": "He is adopting a saturnine posture during the meeting, stating, 'I cannot find joy in this discussion, despite the optimism that others try to convey.'",
+                    "persian": "او در طول جلسه، ژستی غمگین اتخاذ می‌کند و می‌گوید: «من در این بحث شادی نمی‌توانم پیدا کنم، علیرغم خوش‌بینی‌ای که دیگران سعی در انتقال آن دارند.»",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:41:18"
+                }
+            ]
+        },
+        {
+            "word": "mercurial",
+            "meaning": "adj. a person with sudden or unpredictable changes of mood",
+            "examples": [
+                {
+                    "grammar": "Present perfect continuous, relative clause (definitive), adverb clause, yet",
+                    "english": "She has been struggling with her mercurial temperament for years, yet those who truly understand her recognize that her volatility stems from an unrelenting torrent of emotions and thoughts.",
+                    "persian": "او سال‌هاست که با خلق‌وخوی مرکوریال خود دست‌وپنجه نرم می‌کند، با این حال کسانی که واقعاً او را درک می‌کنند می‌دانند که ناپایداری‌اش از جریان بی‌وقفه‌ای از احساسات و افکار سرچشمه می‌گیرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:24:38"
+                },
+                {
+                    "grammar": "Future passive, conditional (reverse), participle clause, however",
+                    "english": "Should his mercurial nature be misjudged as capriciousness, he will inevitably be regarded as unreliable; however, his erratic moods often conceal a deeply intuitive and perceptive mind.",
+                    "persian": "اگر طبیعت مرکوریال او به‌عنوان دمدمی‌مزاجی نادرست قضاوت شود، ناگزیر فردی غیرقابل‌اعتماد تلقی خواهد شد؛ با این حال، تغییرات غیرمنتظره‌ی خلق‌وخویش اغلب ذهنی عمیقاً شهودی و درک‌کننده را پنهان می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:23:45"
+                },
+                {
+                    "grammar": "Second conditional, indirect speech, noun clause, despite",
+                    "english": "If she exhibited more emotional stability, they claimed she would find it easier to sustain long-term relationships, despite her undeniable charm and magnetism.",
+                    "persian": "اگر او ثبات احساسی بیشتری نشان می‌داد، آن‌ها ادعا می‌کردند که حفظ روابط بلندمدت برایش آسان‌تر می‌شد، علیرغم جذابیت و کشش انکارناپذیرش.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 12:36:16"
+                },
+                {
+                    "grammar": "Past perfect, wh-clause, adverb clause, in addition",
+                    "english": "By the time he attained prominence, he had already learned to harness his mercurial impulses, which is why his brilliance remained untainted by self-destructive tendencies; in addition, his unpredictability became an asset in high-stakes negotiations.",
+                    "persian": "تا زمانی که به شهرت رسید، او پیش‌تر یاد گرفته بود که امیال مرکوریال خود را مهار کند، به همین دلیل نبوغش از گرایش‌های خودویرانگرانه مصون ماند؛ علاوه بر این، غیرقابل‌پیش‌بینی بودنش در مذاکرات حساس به یک امتیاز تبدیل شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 12:07:25"
+                },
+                {
+                    "grammar": "Present continuous, direct speech, adjective clause, so that",
+                    "english": "He is embracing his mercurial tendencies, stating, 'I refuse to suppress my ever-shifting emotions so that I may experience life in its rawest and most authentic form.'",
+                    "persian": "او گرایش‌های مرکوریال خود را می‌پذیرد و می‌گوید: «من از سرکوب احساسات همیشه در تغییر خود امتناع می‌کنم تا بتوانم زندگی را در خالص‌ترین و اصیل‌ترین شکلش تجربه کنم.»",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:06:07"
+                }
+            ]
+        },
+        {
+            "word": "supercilious",
+            "meaning": "adj. looking down on others; proud and scornful; thinking they are superior to others",
+            "examples": [
+                {
+                    "grammar": "Present perfect, relative clause (definitive), adverb clause, yet",
+                    "english": "He has cultivated a supercilious attitude over the years, yet those who have observed him closely recognize that his arrogance conceals a profound insecurity.",
+                    "persian": "او در طول سال‌ها نگرشی متکبرانه در خود پرورانده است، با این حال کسانی که او را از نزدیک زیر نظر گرفته‌اند، می‌دانند که غرورش ناامنی عمیقی را پنهان می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:16:44"
+                },
+                {
+                    "grammar": "Future passive, conditional (reverse), participle clause, however",
+                    "english": "Should her supercilious demeanor be tolerated in professional settings, she will inevitably alienate her colleagues; however, her condescending manner masks an acute fear of inadequacy.",
+                    "persian": "اگر رفتار متکبرانه‌ی او در محیط‌های حرفه‌ای تحمل شود، ناگزیر همکارانش را از خود دور خواهد کرد؛ با این حال، لحن تحقیرآمیزش ترسی عمیق از ناکافی بودن را پنهان می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:33:18"
+                },
+                {
+                    "grammar": "Second conditional, indirect speech, noun clause, despite",
+                    "english": "If he displayed a modicum of humility, they claimed he would command genuine respect rather than mere deference, despite his undeniable achievements.",
+                    "persian": "اگر او ذره‌ای فروتنی نشان می‌داد، آن‌ها ادعا می‌کردند که به‌جای احترام صرفاً ظاهری، تحسین واقعی دریافت می‌کرد، علیرغم دستاوردهای غیرقابل‌انکارش.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:07:55"
+                },
+                {
+                    "grammar": "Past perfect, wh-clause, adverb clause, in addition",
+                    "english": "By the time she ascended to a position of power, she had already perfected her supercilious façade, which is why few dared to challenge her authority; in addition, her feigned omniscience left little room for dissent.",
+                    "persian": "تا زمانی که به موقعیت قدرت رسید، او پیش‌تر نقاب متکبرانه‌ی خود را به کمال رسانده بود، به همین دلیل معدود افرادی جرأت به چالش کشیدن اقتدارش را داشتند؛ علاوه بر این، تظاهر به دانایی مطلقش، جایی برای مخالفت باقی نمی‌گذاشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 14:28:27"
+                },
+                {
+                    "grammar": "Present continuous, direct speech, adjective clause, so that",
+                    "english": "He is meticulously crafting an air of supercilious detachment, stating, 'I must remain impervious to mediocrity so that I do not dilute my own excellence.'",
+                    "persian": "او با دقت در حال ساختن چهره‌ای از بی‌اعتنایی متکبرانه است و می‌گوید: «باید در برابر ابتذال نفوذناپذیر بمانم تا برتری خود را کم‌رنگ نکنم.»",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-02 21:48:53"
+                }
+            ]
+        },
+        {
+            "word": "jaundice",
+            "meaning": "n. cowardice; a state of being fearful or lacking courage",
+            "examples": [
+                {
+                    "grammar": "Present perfect, noun clause, despite",
+                    "english": "His actions have been driven by a jaundice of the heart, a fear that has clouded his judgment, despite his remarkable intellect.",
+                    "persian": "اعمال او تحت تأثیر جبن قلبی بوده است، ترسی که قضاوت او را تحت‌الشعاع قرار داده، علیرغم هوش چشمگیرش.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:41:35"
+                },
+                {
+                    "grammar": "Second conditional, adjective clause, passive voice, in addition",
+                    "english": "If he had not been afflicted by jaundice of spirit, his talents would have been fully realized and celebrated, in addition to earning him the respect he deserved.",
+                    "persian": "اگر او به جبن روحی دچار نمی‌شد، استعدادهایش به طور کامل شناخته و جشن گرفته می‌شدند، علاوه بر اینکه احترام شایسته‌اش را کسب می‌کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 16:33:05"
+                },
+                {
+                    "grammar": "First conditional, relative clause (definitive), adverb clause, though",
+                    "english": "If he faces the confrontation with jaundice, which has plagued him for years, he will shrink from standing up, though the challenge is not as daunting as he perceives.",
+                    "persian": "اگر او با جبن روبرو شود، که سال‌هاست او را آزار می‌دهد، از ایستادگی خودداری خواهد کرد، هرچند که چالش به اندازه‌ای که او تصور می‌کند ترسناک نیست.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:43:12"
+                },
+                {
+                    "grammar": "Past perfect, indirect speech, adverb clause, so that",
+                    "english": "She had told him that his jaundice would never allow him to achieve greatness, so that his achievements, despite their merit, were always tempered by fear.",
+                    "persian": "او به او گفته بود که جبنش هیچ‌گاه اجازه نخواهد داد که به عظمت دست یابد، به‌طوری که دستاوردهایش، علیرغم شایستگی‌شان، همیشه تحت تأثیر ترس قرار می‌گرفت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:09:46"
+                },
+                {
+                    "grammar": "Present continuous, conditional form (zero), wh-clause, however",
+                    "english": "He is continually avoiding risky situations, exhibiting a jaundice that prevents him from pursuing opportunities, however promising they may be.",
+                    "persian": "او مداوم از موقعیت‌های پرخطر اجتناب می‌کند و جبنی از خود نشان می‌دهد که مانع از پیگیری فرصت‌ها می‌شود، هرچند که این فرصت‌ها چقدر هم که امیدوارکننده باشند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:17:57"
+                }
+            ]
+        },
+        {
+            "word": "jejune",
+            "meaning": "adj. dull, insipid, lacking flavor",
+            "examples": [
+                {
+                    "grammar": "Present perfect, noun clause, adverb clause, despite",
+                    "english": "The speaker's jejune presentation, which failed to engage the audience, was nonetheless delivered with great conviction, despite its lack of depth.",
+                    "persian": "ارائه‌ی بی‌روح سخنران که نتواست مخاطبان را جذب کند، با این حال با اعتقاد زیادی ارائه شد، علیرغم عدم عمق آن.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:58"
+                },
+                {
+                    "grammar": "First conditional, relative clause (definitive), adverb clause, however",
+                    "english": "If you choose the jejune dish that lacks seasoning, you will find it tasteless, however, it might still be a healthier option.",
+                    "persian": "اگر غذایی بی‌مزه که فاقد چاشنی است را انتخاب کنید، آن را بی‌طعم خواهید یافت، هرچند ممکن است هنوز گزینه‌ای سالم‌تر باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:24:31"
+                },
+                {
+                    "grammar": "Past perfect, conditional form (second), adjective clause, in addition",
+                    "english": "By the time the critic had tasted the jejune wine, he would have preferred a richer blend, in addition to its lack of complexity.",
+                    "persian": "تا زمانی که منتقد شراب بی‌مزه را چشیده بود، او یک ترکیب غنی‌تر ترجیح می‌داد، علاوه بر اینکه پیچیدگی آن را نداشت.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:36:59"
+                },
+                {
+                    "grammar": "Present continuous, noun clause, so that, even though",
+                    "english": "She is currently reading a jejune book, so that she might find inspiration, even though the plot lacks any intriguing development.",
+                    "persian": "او در حال حاضر کتابی بی‌روح می‌خواند تا شاید الهام بگیرد، هرچند که داستان هیچ‌گونه پیشرفت جالبی ندارد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:25:49"
+                },
+                {
+                    "grammar": "Past continuous, wh-clause, despite, though",
+                    "english": "He was preparing a jejune speech, which failed to captivate his listeners, despite his earnest effort, though he hoped for a positive reception.",
+                    "persian": "او در حال آماده‌سازی سخنرانی بی‌روحی بود که نتواست شنوندگانش را جذب کند، علیرغم تلاش صادقانه‌اش، هرچند که امیدوار بود بازخورد مثبتی بگیرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:29:40"
+                }
+            ]
+        },
+        {
+            "word": "bilious",
+            "meaning": "adj. to be constantly irritable; bad-tempered",
+            "examples": [
+                {
+                    "grammar": "Present perfect, noun clause, despite",
+                    "english": "His bilious demeanor, which has soured his relationships over time, has yet to diminish, despite his attempts at self-reflection and improvement.",
+                    "persian": "خلق و خوی بداخلاق او که روابطش را در طول زمان تلخ کرده، هنوز کاهش نیافته است، علیرغم تلاش‌های او برای تأمل و بهبود خود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:12:32"
+                },
+                {
+                    "grammar": "First conditional, adverb clause, though",
+                    "english": "If he doesn't address his bilious tendencies, his career will likely suffer, though he might not acknowledge the connection between his mood and his work environment.",
+                    "persian": "اگر او به تمایلات بداخلاق خود رسیدگی نکند، احتمالاً شغلش آسیب خواهد دید، هرچند که ممکن است ارتباط بین خلق و خو و محیط کار خود را نپذیرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:14:06"
+                },
+                {
+                    "grammar": "Second conditional, direct speech, noun clause, in addition",
+                    "english": "If she were less bilious, she would say, 'A calm mind is essential for success,' in addition to her usual scathing critiques of others.",
+                    "persian": "اگر او کمتر بداخلاق بود، می‌گفت: «یک ذهن آرام برای موفقیت ضروری است»، علاوه بر نقدهای تند همیشگی‌اش از دیگران.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 17:37:51"
+                },
+                {
+                    "grammar": "Past continuous, relative clause (definitive), adverb clause, so that",
+                    "english": "He was constantly exhibiting a bilious attitude, which alienated his colleagues, so that his contributions, despite their quality, were often overlooked.",
+                    "persian": "او مداوم نگرش بداخلاقی از خود نشان می‌داد که همکارانش را بیگانه می‌کرد، به‌طوری که مشارکت‌هایش، علیرغم کیفیتشان، اغلب نادیده گرفته می‌شد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:22:50"
+                },
+                {
+                    "grammar": "Present continuous, noun clause, though, despite",
+                    "english": "She is currently dealing with her bilious outbursts, which frequently disrupt her interactions, though she refuses to admit that her temperament is a source of tension, despite the evidence.",
+                    "persian": "او در حال حاضر با انفجارهای بداخلاقانه خود دست و پنجه نرم می‌کند که به‌طور مکرر تعاملاتش را مختل می‌کند، هرچند که او از پذیرش این که خلق و خویش منبع تنش است، امتناع می‌کند، علیرغم شواهد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:14:53"
+                }
+            ]
+        },
+        {
+            "word": "choleric",
+            "meaning": "adj. hot-tempered; irritable",
+            "examples": [
+                {
+                    "grammar": "Present perfect, noun clause, despite",
+                    "english": "His choleric nature, which has led to numerous arguments, has not improved over time, despite his conscious efforts to remain calm.",
+                    "persian": "طبع عصبی او که به مشاجرات متعددی منجر شده، با گذشت زمان بهبود نیافته است، علیرغم تلاش‌های آگاهانه‌اش برای حفظ آرامش.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:42:32"
+                },
+                {
+                    "grammar": "Second conditional, adverb clause, in addition",
+                    "english": "If she were less choleric, she might be more effective in her leadership role, in addition to fostering better relations with her team.",
+                    "persian": "اگر او کمتر عصبی بود، ممکن بود در نقش رهبری خود مؤثرتر باشد، علاوه بر اینکه روابط بهتری با تیمش برقرار کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:14:14"
+                },
+                {
+                    "grammar": "First conditional, relative clause (definitive), adverb clause, so that",
+                    "english": "If he lets his choleric tendencies take control, the discussions will become heated, so that his team may struggle to achieve consensus.",
+                    "persian": "اگر او اجازه دهد که تمایلات عصبی‌اش کنترل را به دست بگیرند، بحث‌ها داغ خواهد شد، به‌طوری که تیمش ممکن است در دستیابی به اجماع با مشکل مواجه شود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:06:55"
+                },
+                {
+                    "grammar": "Past continuous, noun clause, despite, though",
+                    "english": "He was constantly exhibiting a choleric temper, which often caused tension in meetings, despite his attempts to keep his emotions in check, though his frustration was palpable.",
+                    "persian": "او دائماً خلق و خوی عصبی از خود نشان می‌داد که اغلب باعث تنش در جلسات می‌شد، علیرغم تلاش‌هایش برای کنترل احساساتش، هرچند که عصبانیتش کاملاً محسوس بود.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-01 13:37:00"
+                },
+                {
+                    "grammar": "Present continuous, wh-clause, however, even though",
+                    "english": "She is frequently displaying a choleric response to pressure, which makes it difficult for others to approach her, however, she does try to manage it, even though it remains a challenge.",
+                    "persian": "او به‌طور مکرر در برابر فشار واکنش‌های عصبی نشان می‌دهد که نزدیک شدن به او را برای دیگران دشوار می‌کند، هرچند که او تلاش می‌کند آن را مدیریت کند، حتی اگر هنوز چالشی باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:51:50"
+                }
+            ]
+        },
+        {
+            "word": "sanguine",
+            "meaning": "adj. confident; cheerful, optimistic",
+            "examples": [
+                {
+                    "grammar": "Present perfect, noun clause, despite",
+                    "english": "Her sanguine outlook, which has buoyed the team through difficult times, has not waned, despite the ongoing challenges they face.",
+                    "persian": "نگرش خوش‌بینانه او که تیم را در دوران‌های سخت به پیش می‌برد، هنوز کاهش نیافته است، علیرغم چالش‌های مداومی که با آن‌ها روبه‌رو هستند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:16:52"
+                },
+                {
+                    "grammar": "Second conditional, relative clause (definitive), adverb clause, in addition",
+                    "english": "If he were more sanguine about the future, he would take more risks, in addition to pursuing opportunities that others might shy away from.",
+                    "persian": "اگر او نسبت به آینده خوش‌بین‌تر بود، خطرات بیشتری را می‌پذیرفت، علاوه بر اینکه به دنبال فرصت‌هایی می‌رفت که دیگران ممکن بود از آن‌ها دوری کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:51:01"
+                },
+                {
+                    "grammar": "First conditional, noun clause, though",
+                    "english": "If she maintains her sanguine attitude, she will inspire her colleagues to remain optimistic, though the current situation may seem bleak.",
+                    "persian": "اگر او نگرش خوش‌بینانه خود را حفظ کند، همکارانش را به ماندن در حالت خوش‌بینی الهام خواهد بخشید، هرچند که وضعیت کنونی ممکن است ناامیدکننده به نظر برسد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 12:35:14"
+                },
+                {
+                    "grammar": "Past perfect, direct speech, adverb clause, so that",
+                    "english": "He had remained sanguine throughout the crisis, saying, 'There is always a silver lining,' so that his optimism was contagious among his peers.",
+                    "persian": "او در طول بحران خوش‌بین باقی مانده بود و می‌گفت: «همیشه یک جنبه مثبت وجود دارد»، به‌طوری که خوش‌بینی‌اش میان همکارانش مسری شده بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 17:49:52"
+                },
+                {
+                    "grammar": "Present continuous, relative clause (non-definitive), adverb clause, however",
+                    "english": "She is currently exhibiting a sanguine perspective, which has helped her overcome setbacks, however, she remains cautious about the potential risks ahead.",
+                    "persian": "او در حال حاضر دیدگاه خوش‌بینانه‌ای از خود نشان می‌دهد که به او در غلبه بر شکست‌ها کمک کرده است، هرچند که همچنان در مورد خطرات احتمالی آینده محتاط است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:52:24"
+                }
+            ]
+        },
+        {
+            "word": "martinet",
+            "meaning": "n. a strict disciplinarian; a hard taskmaster; a stickler for rules; one who demands absolute adherence to rules",
+            "examples": [
+                {
+                    "grammar": "Present perfect, relative clause (definitive), noun clause, despite",
+                    "english": "The manager, who has been a notorious martinet in the office, fails to understand that enforcing discipline too rigidly stifles creativity, despite his intentions to maintain order.",
+                    "persian": "مدیری که در دفتر به‌عنوان یک منضبط سخت‌گیر شناخته شده است، درک نمی‌کند که اجرای بیش از حد سختگیرانه‌ی انضباط، خلاقیت را سرکوب می‌کند، علیرغم نیت او برای حفظ نظم.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 17:54:51"
+                },
+                {
+                    "grammar": "Future perfect, conditional form (zero), adverb clause, however",
+                    "english": "By the time the new regulations take effect, the martinet in charge will have already imposed additional restrictions, however, his subordinates may find ways to work around them.",
+                    "persian": "تا زمانی که قوانین جدید اجرایی شوند، فرد منضبطی که مسئول است، محدودیت‌های بیشتری اعمال کرده خواهد بود، هرچند که زیردستانش ممکن است راه‌هایی برای دور زدن آن‌ها پیدا کنند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:13:55"
+                },
+                {
+                    "grammar": "Second conditional, direct speech, participle clause, too",
+                    "english": "If the professor were not such a martinet, he might say, 'Education requires both discipline and flexibility,' rather than imposing too many rigid rules on his students.",
+                    "persian": "اگر استاد چنین فرد منضبط سخت‌گیری نبود، ممکن بود بگوید: «آموزش هم به انضباط نیاز دارد و هم به انعطاف‌پذیری»، به‌جای آنکه قوانین بیش‌ازحد سختی بر دانشجویانش تحمیل کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:38:01"
+                },
+                {
+                    "grammar": "Past continuous, noun clause, adverb clause, in addition",
+                    "english": "He was enforcing every minor rule meticulously, believing that strict discipline was the foundation of excellence, in addition to fostering a culture of responsibility.",
+                    "persian": "او هر قانون جزئی را با دقت اجرا می‌کرد و معتقد بود که انضباط سختگیرانه پایه‌ی تعالی است، علاوه بر اینکه فرهنگی از مسئولیت‌پذیری را پرورش می‌دهد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:57:08"
+                },
+                {
+                    "grammar": "Present continuous, relative clause (non-definitive), adverb clause, though",
+                    "english": "She is acting as a martinet, which has caused resentment among her team members, though she insists that rules must be followed without exception.",
+                    "persian": "او به‌عنوان فردی بسیار سخت‌گیر رفتار می‌کند که باعث نارضایتی اعضای تیمش شده است، هرچند که او اصرار دارد که قوانین باید بدون استثنا رعایت شوند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:34:44"
+                }
+            ]
+        },
+        {
+            "word": "curmudgeon",
+            "meaning": "n. someone who is always sulking; a perpetually irritable and grumpy person",
+            "examples": [
+                {
+                    "grammar": "Present perfect continuous, relative clause (definitive), noun clause, despite",
+                    "english": "He has been behaving like a curmudgeon for years, which has alienated even his closest friends, despite their unwavering patience with his perpetual complaints.",
+                    "persian": "او سال‌هاست که مانند فردی عبوس رفتار می‌کند که حتی نزدیک‌ترین دوستانش را از خود دور کرده است، علیرغم صبر بی‌پایان آن‌ها در برابر شکایات مداومش.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 17:38:36"
+                },
+                {
+                    "grammar": "Future continuous, conditional form (first), participle clause, however",
+                    "english": "If she continues to be such a curmudgeon, she will be grumbling about trivial matters well into her old age, however exhausting it may be for those around her.",
+                    "persian": "اگر او همچنان چنین فرد عبوسی باشد، تا دوران پیری درباره‌ی مسائل جزئی غر خواهد زد، هرچند که این کار برای اطرافیانش خسته‌کننده باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:13:39"
+                },
+                {
+                    "grammar": "Third conditional, direct speech, adverb clause, too",
+                    "english": "Had he realized how insufferable his curmudgeonly demeanor was, he might have said, 'Perhaps I should learn to be more accommodating,' instead of being too quick to criticize others.",
+                    "persian": "اگر او متوجه شده بود که رفتار عبوسش چقدر غیرقابل‌تحمل است، ممکن بود بگوید: «شاید باید یاد بگیرم که سازگارتر باشم»، به‌جای آنکه بیش از حد سریع دیگران را نقد کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 17:21:18"
+                },
+                {
+                    "grammar": "Past perfect continuous, noun clause, connective relative clause, in addition",
+                    "english": "He had been muttering under his breath for hours, which made it clear that his curmudgeonly disposition was not merely a temporary annoyance but, in addition, a deeply ingrained habit.",
+                    "persian": "او ساعت‌ها زیر لب غر می‌زد که نشان می‌داد خلق و خوی عبوسش نه‌تنها یک مزاحمت موقتی بلکه علاوه بر آن، عادتی عمیقاً ریشه‌دار است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:28:42"
+                },
+                {
+                    "grammar": "Present continuous, relative clause (non-definitive), adverb clause, though",
+                    "english": "She is acting like a curmudgeon, which frustrates her colleagues immensely, though they recognize that her irritability stems from years of unresolved disappointment.",
+                    "persian": "او مانند فردی عبوس رفتار می‌کند که همکارانش را عمیقاً ناامید می‌کند، هرچند که آن‌ها می‌دانند بدخلقی‌اش ناشی از سال‌ها ناامیدی حل‌نشده است.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:22:17"
+                }
+            ]
+        },
+        {
+            "word": "misanthrope",
+            "meaning": "n. someone who hates mankind; a person who distrusts or despises humanity",
+            "examples": [
+                {
+                    "grammar": "Present perfect, relative clause (definitive), noun clause, although",
+                    "english": "He has long been a misanthrope who avoids social gatherings, although many believe that his disdain for people stems from past betrayals rather than an inherent aversion.",
+                    "persian": "او مدت‌هاست که فردی انسان‌گریز بوده که از تجمعات اجتماعی دوری می‌کند، هرچند که بسیاری معتقدند بیزاری او از مردم ناشی از خیانت‌های گذشته است و نه یک انزجار ذاتی.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:00:19"
+                },
+                {
+                    "grammar": "Future perfect, first conditional, adverb clause, however",
+                    "english": "If she continues on this path, she will have completely isolated herself within a decade, however much she insists that human interactions are unnecessary.",
+                    "persian": "اگر او این مسیر را ادامه دهد، طی یک دهه کاملاً خود را منزوی کرده خواهد بود، هرچند که اصرار داشته باشد که تعاملات انسانی غیرضروری است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 17:27:56"
+                },
+                {
+                    "grammar": "Second conditional, direct speech, participle clause, too",
+                    "english": "If he were not such a misanthrope, he might say, 'Perhaps people are not as insufferable as I think,' rather than being too eager to shun all social contact.",
+                    "persian": "اگر او چنین فرد انسان‌گریزی نبود، ممکن بود بگوید: «شاید مردم آن‌قدر که فکر می‌کنم غیرقابل‌تحمل نباشند»، به‌جای آنکه بیش از حد مشتاق دوری از هرگونه ارتباط اجتماعی باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:04:12"
+                },
+                {
+                    "grammar": "Past perfect continuous, noun clause, connective relative clause, despite",
+                    "english": "He had been harboring a deep-seated hatred for society, which explained his reclusive nature, despite his past attempts at forming meaningful relationships.",
+                    "persian": "او مدتی طولانی نفرتی عمیق از جامعه را در دل داشت که ماهیت منزوی او را توضیح می‌داد، علیرغم تلاش‌های گذشته‌اش برای ایجاد روابط معنادار.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:12:49"
+                },
+                {
+                    "grammar": "Present continuous, relative clause (non-definitive), adverb clause, yet",
+                    "english": "She is embracing her misanthropic tendencies, which have made her increasingly cynical, yet she occasionally longs for companionship, even if she refuses to admit it.",
+                    "persian": "او تمایلات انسان‌گریزانه‌ی خود را پذیرفته است که او را روزبه‌روز بدبین‌تر کرده است، با این حال، گاهی اوقات دلتنگ همراهی می‌شود، حتی اگر حاضر به اعتراف آن نباشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 15:57:23"
+                }
+            ]
+        },
+        {
+            "word": "reprobate",
+            "meaning": "n. the recipient of disapproval; someone hardened in sin; an unprincipled person",
+            "examples": [
+                {
+                    "grammar": "Present perfect continuous, relative clause (definitive), noun clause, though",
+                    "english": "He has been living as a reprobate for years, which has led his family to despair, though he insists that morality is a matter of perspective.",
+                    "persian": "او سال‌ها به‌عنوان فردی فاسد زندگی کرده است که خانواده‌اش را به ناامیدی کشانده، هرچند که اصرار دارد اخلاقیات موضوعی نسبی است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:15:04"
+                },
+                {
+                    "grammar": "Future continuous, first conditional, adverb clause, however",
+                    "english": "If he continues down this path, he will be facing increasing condemnation from his peers, however indifferent he may appear to their judgment.",
+                    "persian": "اگر او این مسیر را ادامه دهد، با محکومیت فزاینده‌ای از سوی همسالانش مواجه خواهد شد، هرچند که نسبت به قضاوت آن‌ها بی‌تفاوت به نظر برسد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 12:08:30"
+                },
+                {
+                    "grammar": "Third conditional, direct speech, participle clause, so that",
+                    "english": "Had she realized how far her actions had pushed her into reprobation, she might have said, 'Perhaps I should reconsider my choices,' so that she could regain some semblance of respectability.",
+                    "persian": "اگر او متوجه شده بود که اقداماتش چقدر او را به سمت فساد کشانده‌اند، ممکن بود بگوید: «شاید باید انتخاب‌هایم را بازبینی کنم»، تا بتواند اندکی از اعتبار خود را بازگرداند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:45:51"
+                },
+                {
+                    "grammar": "Past perfect, noun clause, connective relative clause, despite",
+                    "english": "He had gained notoriety as a reprobate, which reinforced his estrangement from society, despite his occasional attempts at redemption.",
+                    "persian": "او به‌عنوان فردی فاسد بدنام شده بود که این امر انزوای او را از جامعه تشدید کرد، علیرغم تلاش‌های گهگاهی‌اش برای جبران.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 16:09:48"
+                },
+                {
+                    "grammar": "Present continuous, relative clause (non-definitive), adverb clause, even though",
+                    "english": "She is embracing her reputation as a reprobate, which has made her an outcast, even though she secretly longs for acceptance.",
+                    "persian": "او شهرت خود را به‌عنوان فردی فاسد پذیرفته است که باعث شده از جامعه طرد شود، هرچند که در خفا آرزوی پذیرفته شدن را دارد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:18"
+                }
+            ]
+        },
+        {
+            "word": "virago",
+            "meaning": "n. an ill-tempered and violent woman",
+            "examples": [
+                {
+                    "grammar": "Present perfect, relative clause (definitive), noun clause, although",
+                    "english": "She has gained a reputation as a virago who relentlessly berates her subordinates, although many suspect that her aggression masks deep-seated insecurities.",
+                    "persian": "او به‌عنوان زنی تندخو که بی‌وقفه زیردستانش را سرزنش می‌کند، شهرت یافته است، هرچند که بسیاری گمان می‌کنند پرخاشگری او پوششی برای ناامنی‌های عمیقش است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:20:11"
+                },
+                {
+                    "grammar": "Future continuous, second conditional, adverb clause, however",
+                    "english": "If she were more self-aware, she would be working to temper her virago-like tendencies, however deeply ingrained they may be.",
+                    "persian": "اگر او خودآگاهی بیشتری داشت، در جهت مهار گرایش‌های تندخویانه‌ی خود تلاش می‌کرد، هرچند که این ویژگی‌ها چقدر در وجودش ریشه دوانده باشند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:07:52"
+                },
+                {
+                    "grammar": "Past perfect, direct speech, participle clause, so that",
+                    "english": "She had terrorized the household for years, shouting, 'You will all obey me!' so that no one dared to challenge her authority.",
+                    "persian": "او سال‌ها خانه را در وحشت فرو برده بود و فریاد می‌زد: «همه باید از من اطاعت کنید!» تا کسی جرأت نکند اقتدارش را به چالش بکشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:58:28"
+                },
+                {
+                    "grammar": "Present continuous, relative clause (non-definitive), noun clause, despite",
+                    "english": "She is behaving like a virago, which has alienated even her most loyal friends, despite their previous willingness to tolerate her outbursts.",
+                    "persian": "او مانند زنی تندخو رفتار می‌کند که حتی وفادارترین دوستانش را از خود رانده است، علیرغم تمایل پیشین آن‌ها برای تحمل طغیان‌هایش.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:03:00"
+                },
+                {
+                    "grammar": "Passive voice, first conditional, adverb clause, yet",
+                    "english": "If her behavior is not addressed, she will be regarded as a virago in every social circle, yet she refuses to acknowledge the damage she has caused.",
+                    "persian": "اگر به رفتار او رسیدگی نشود، در هر محفل اجتماعی به‌عنوان زنی خشن شناخته خواهد شد، با این حال او از پذیرش آسیبی که ایجاد کرده، امتناع می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:00:17"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1764 @@
+{
+    "examples": [
+        {
+            "word": "omit",
+            "pronunciation": {
+                "british": "/əʊˈmɪt/",
+                "usa": "/oʊˈmɪt/"
+            },
+            "meaning": "to leave out or exclude",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "passive voice",
+                        "adverb clause"
+                    ],
+                    "english": "The crucial data has been omitted from the report, which may lead to misleading conclusions.",
+                    "persian": "داده‌های حیاتی از گزارش حذف شده‌اند، که ممکن است به نتیجه‌گیری‌های گمراه‌کننده منجر شود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:24:39"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the author were to omit these details, the narrative would lose its depth and authenticity.",
+                    "persian": "اگر نویسنده این جزئیات را حذف کند، روایت عمق و اصالت خود را از دست خواهد داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:09:35"
+                }
+            ]
+        },
+        {
+            "word": "sparseness",
+            "pronunciation": {
+                "british": "/ˈspɑːsnəs/",
+                "usa": "/ˈspɑːrsnəs/"
+            },
+            "meaning": "the quality of being thinly dispersed or scattered",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The sparseness of vegetation in the desert, which is a result of minimal rainfall, creates a stark landscape.",
+                    "persian": "کمبود پوشش گیاهی در بیابان، که نتیجه بارش کم است، مناظری خشن ایجاد می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:06:01"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "By next year, the sparseness of resources will have intensified so much that survival will become challenging.",
+                    "persian": "تا سال آینده، کمبود منابع آنقدر تشدید خواهد شد که بقا دشوار خواهد شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 13:27:52"
+                }
+            ]
+        },
+        {
+            "word": "obscure",
+            "pronunciation": {
+                "british": "/əbˈskjʊə/",
+                "usa": "/əbˈskjʊr/"
+            },
+            "meaning": "not discovered or known about; uncertain",
+            "examples": [
+                {
+                    "grammar": [
+                        "past continuous",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The origins of the ancient manuscript were still being obscured by conflicting theories when new evidence emerged.",
+                    "persian": "منشأ دستنوشته باستانی هنوز با نظریه‌های متضاد پنهان مانده بود که شواهد جدیدی ظاهر شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:56:31"
+                },
+                {
+                    "grammar": [
+                        "conditional type 0",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the facts are obscured, it becomes impossible to reach a logical conclusion.",
+                    "persian": "اگر حقایق پنهان بمانند، رسیدن به یک نتیجه‌گیری منطقی غیرممکن می‌شود.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:28:39"
+                }
+            ]
+        },
+        {
+            "word": "underscore",
+            "pronunciation": {
+                "british": "/ˌʌndəˈskɔː/",
+                "usa": "/ˌʌndərˈskɔːr/"
+            },
+            "meaning": "to emphasize or highlight",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "despite"
+                    ],
+                    "english": "The study underscores the importance of early education, despite the challenges in implementation.",
+                    "persian": "این مطالعه اهمیت آموزش اولیه را تأکید می‌کند، علیرغم چالش‌های اجرایی.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:17:55"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in spite of"
+                    ],
+                    "english": "The conference will underscore the need for innovation, in spite of the current economic downturn.",
+                    "persian": "کنفرانس نیاز به نوآوری را تأکید خواهد کرد، علیرغم رکود اقتصادی فعلی.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:30:08"
+                }
+            ]
+        },
+        {
+            "word": "entitlement",
+            "pronunciation": {
+                "british": "/ɪnˈtaɪtlmənt/",
+                "usa": "/ɪnˈtaɪtlmənt/"
+            },
+            "meaning": "the fact of having a right to something",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The entitlement to free healthcare, which has been a cornerstone of the policy, is now under threat.",
+                    "persian": "حق برخورداری از مراقبت‌های بهداشتی رایگان، که سنگ بنای این سیاست بوده، اکنون در معرض تهدید است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:21:43"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the government revokes this entitlement, many citizens will struggle to afford medical treatment.",
+                    "persian": "اگر دولت این حق را لغو کند، بسیاری از شهروندان برای پرداخت هزینه‌های درمانی دچار مشکل خواهند شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 11:29:05"
+                }
+            ]
+        },
+        {
+            "word": "superficiality",
+            "pronunciation": {
+                "british": "/ˌsuːpəfɪʃiˈælɪti/",
+                "usa": "/ˌsuːpərfɪʃiˈælɪti/"
+            },
+            "meaning": "lack of depth or thoroughness",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "though"
+                    ],
+                    "english": "The superficiality of the analysis, though initially unnoticed, becomes apparent upon closer examination.",
+                    "persian": "سطحی‌بودن تحلیل، اگرچه در ابتدا نادیده گرفته می‌شود، با بررسی دقیق‌تر آشکار می‌شود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:52:28"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "adverb clause",
+                        "even though"
+                    ],
+                    "english": "Even though the report had been praised, its superficiality was later criticized by experts.",
+                    "persian": "اگرچه گزارش مورد تحسین قرار گرفته بود، سطحی‌بودن آن بعداً توسط کارشناسان مورد انتقاد قرار گرفت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:28:41"
+                }
+            ]
+        },
+        {
+            "word": "prone",
+            "pronunciation": {
+                "british": "/prəʊn/",
+                "usa": "/proʊn/"
+            },
+            "meaning": "likely to suffer from or do something undesirable",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "Children who are prone to allergies often require special care during pollen season.",
+                    "persian": "کودکانی که مستعد آلرژی هستند، اغلب در فصل گرده‌افشانی به مراقبت ویژه نیاز دارند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:09:43"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the area were not prone to earthquakes, the construction standards would be less stringent.",
+                    "persian": "اگر منطقه مستعد زلزله نبود، استانداردهای ساخت‌وساز کمتر سخت‌گیرانه می‌بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:22:43"
+                }
+            ]
+        },
+        {
+            "word": "eminence",
+            "pronunciation": {
+                "british": "/ˈɛmɪnəns/",
+                "usa": "/ˈɛmɪnəns/"
+            },
+            "meaning": "fame or recognized superiority",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "Although his eminence in the field is undisputed, he remains approachable and humble.",
+                    "persian": "اگرچه برتری او در این زمینه غیرقابل انکار است، او همچنان قابل دسترس و فروتن است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:33:29"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in addition"
+                    ],
+                    "english": "In addition to his eminence as a scientist, he will also be remembered for his philanthropic efforts.",
+                    "persian": "علاوه بر برتری او به عنوان یک دانشمند، او به خاطر تلاش‌های بشردوستانه‌اش نیز به یاد خواهد ماند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 10:55:36"
+                }
+            ]
+        },
+        {
+            "word": "tumultuous",
+            "pronunciation": {
+                "british": "/tjuːˈmʌltjʊəs/",
+                "usa": "/tuːˈmʌltʃuəs/"
+            },
+            "meaning": "full of commotion and uproar",
+            "examples": [
+                {
+                    "grammar": [
+                        "past continuous",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The tumultuous crowd, which had gathered in protest, was eventually dispersed by the authorities.",
+                    "persian": "جمعیت پرآشوب، که برای اعتراض جمع شده بود، در نهایت توسط مقامات متفرق شد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:03:09"
+                },
+                {
+                    "grammar": [
+                        "conditional type 3",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the meeting had not been so tumultuous, a consensus might have been reached.",
+                    "persian": "اگر جلسه اینقدر پرآشوب نبود، ممکن بود به اجماع رسیده باشند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 13:20:43"
+                }
+            ]
+        },
+        {
+            "word": "providential",
+            "pronunciation": {
+                "british": "/ˌprɒvɪˈdɛnʃ(ə)l/",
+                "usa": "/ˌprɑːvɪˈdɛnʃ(ə)l/"
+            },
+            "meaning": "occurring at a favorable time; opportune",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "though"
+                    ],
+                    "english": "The providential arrival of the rescue team, though unexpected, saved the stranded hikers.",
+                    "persian": "ورود به موقع تیم نجات، اگرچه غیرمنتظره بود، کوهنوردان گرفتار را نجات داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:17:42"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "adverb clause",
+                        "even though"
+                    ],
+                    "english": "Even though the storm had been severe, the providential timing of the evacuation prevented casualties.",
+                    "persian": "اگرچه طوفان شدید بود، زمان‌بندی به موقع تخلیه از تلفات جلوگیری کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 13:13:32"
+                }
+            ]
+        },
+        {
+            "word": "dispassionate",
+            "pronunciation": {
+                "british": "/dɪsˈpæʃ(ə)nət/",
+                "usa": "/dɪsˈpæʃ(ə)nət/"
+            },
+            "meaning": "not influenced by strong emotion; impartial",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "A dispassionate analysis of the data, which is essential for objectivity, often leads to more accurate conclusions.",
+                    "persian": "تحلیل بی‌طرفانه داده‌ها، که برای عینیت ضروری است، اغلب به نتیجه‌گیری‌های دقیق‌تری منجر می‌شود.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:59:08"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the judge remains dispassionate, the verdict will likely be fair and just.",
+                    "persian": "اگر قاضی بی‌طرف بماند، احتمالاً حکم عادلانه و منصفانه خواهد بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:51:01"
+                }
+            ]
+        },
+        {
+            "word": "precariously",
+            "pronunciation": {
+                "british": "/prɪˈkɛərɪəsli/",
+                "usa": "/prɪˈkɛriəsli/"
+            },
+            "meaning": "in a way that is uncertain or dependent on chance",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "The economy is precariously balanced, although policymakers are attempting to stabilize it.",
+                    "persian": "اقتصاد به شکلی نامطمئن در تعادل است، اگرچه سیاست‌گذاران در تلاش هستند آن را تثبیت کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:34:55"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of the risks, the project will proceed precariously, with no guarantee of success.",
+                    "persian": "علیرغم خطرات، پروژه به شکلی نامطمئن ادامه خواهد یافت، بدون هیچ تضمینی برای موفقیت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:45:47"
+                }
+            ]
+        },
+        {
+            "word": "imperceptibly",
+            "pronunciation": {
+                "british": "/ˌɪmpəˈsɛptɪbli/",
+                "usa": "/ˌɪmpərˈsɛptɪbli/"
+            },
+            "meaning": "in a way that is so slight as to be barely noticeable",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The changes in the ecosystem are occurring imperceptibly, which makes them difficult to monitor.",
+                    "persian": "تغییرات در اکوسیستم به شکلی نامحسوس در حال رخ دادن است، که نظارت بر آنها را دشوار می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 11:27:53"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the temperature were to rise imperceptibly, the long-term effects could still be catastrophic.",
+                    "persian": "اگر دما به شکلی نامحسوس افزایش یابد، اثرات بلندمدت آن همچنان می‌تواند فاجعه‌بار باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:37:28"
+                }
+            ]
+        },
+        {
+            "word": "orthodox",
+            "pronunciation": {
+                "british": "/ˈɔːθədɒks/",
+                "usa": "/ˈɔːrθədɑːks/"
+            },
+            "meaning": "conforming to established doctrines or practices",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "Although the orthodox approach is widely accepted, some researchers advocate for alternative methods.",
+                    "persian": "اگرچه رویکرد متعارف به طور گسترده پذیرفته شده است، برخی از محققان از روش‌های جایگزین حمایت می‌کنند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:11"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in addition"
+                    ],
+                    "english": "In addition to orthodox treatments, the patient will also explore experimental therapies.",
+                    "persian": "علاوه بر درمان‌های متعارف، بیمار همچنین درمان‌های آزمایشی را بررسی خواهد کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:26:38"
+                }
+            ]
+        },
+        {
+            "word": "eccentric",
+            "pronunciation": {
+                "british": "/ɪkˈsɛntrɪk/",
+                "usa": "/ɪkˈsɛntrɪk/"
+            },
+            "meaning": "unconventional and slightly strange",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The eccentric artist, who rarely follows trends, has gained a cult following for his unique style.",
+                    "persian": "هنرمند عجیب‌وغریب، که به ندرت از trends پیروی می‌کند، به خاطر سبک منحصر به فردش طرفداران پر و پا قرصی پیدا کرده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:53:26"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the eccentric theory proves correct, it could revolutionize our understanding of physics.",
+                    "persian": "اگر نظریه عجیب و غریب درست باشد، می‌تواند درک ما از فیزیک را متحول کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:04:41"
+                }
+            ]
+        },
+        {
+            "word": "trifling",
+            "pronunciation": {
+                "british": "/ˈtraɪflɪŋ/",
+                "usa": "/ˈtraɪflɪŋ/"
+            },
+            "meaning": "unimportant or trivial",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "though"
+                    ],
+                    "english": "Though the error seems trifling, it could have significant consequences in the long run.",
+                    "persian": "اگرچه خطا بی‌اهمیت به نظر می‌رسد، ممکن است در درازمدت پیامدهای قابل توجهی داشته باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 13:28:17"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "adverb clause",
+                        "even though"
+                    ],
+                    "english": "Even though the issue appeared trifling, it had already caused considerable damage.",
+                    "persian": "اگرچه مسئله بی‌اهمیت به نظر می‌رسید، قبلاً خسارات قابل توجهی ایجاد کرده بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:11:10"
+                }
+            ]
+        },
+        {
+            "word": "counterproductive",
+            "pronunciation": {
+                "british": "/ˌkaʊntəprəˈdʌktɪv/",
+                "usa": "/ˌkaʊntərprəˈdʌktɪv/"
+            },
+            "meaning": "having the opposite of the desired effect",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The new policy, which was intended to boost productivity, has proven counterproductive in practice.",
+                    "persian": "سیاست جدید، که قرار بود بهره‌وری را افزایش دهد، در عمل نتیجه معکوس داده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:46:11"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the strategy is counterproductive, it will need to be revised immediately.",
+                    "persian": "اگر استراتژی نتیجه معکوس داشته باشد، باید بلافاصله بازنگری شود.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:16:54"
+                }
+            ]
+        },
+        {
+            "word": "ameliorate",
+            "pronunciation": {
+                "british": "/əˈmiːlɪəreɪt/",
+                "usa": "/əˈmiːliəreɪt/"
+            },
+            "meaning": "to make something better or improve",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "Although efforts to ameliorate the situation have been made, the results are not yet visible.",
+                    "persian": "اگرچه تلاش‌هایی برای بهبود وضعیت انجام شده است، نتایج هنوز قابل مشاهده نیست.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:17:33"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in addition"
+                    ],
+                    "english": "In addition to medical treatment, lifestyle changes will ameliorate the patient's condition over time.",
+                    "persian": "علاوه بر درمان پزشکی، تغییرات سبک زندگی به مرور زمان وضعیت بیمار را بهبود می‌بخشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:11:15"
+                }
+            ]
+        },
+        {
+            "word": "exacerbate",
+            "pronunciation": {
+                "british": "/ɪɡˈzæsəbeɪt/",
+                "usa": "/ɪɡˈzæsərbeɪt/"
+            },
+            "meaning": "to make a problem or situation worse",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The lack of communication, which is already a problem, tends to exacerbate conflicts within the team.",
+                    "persian": "کمبود ارتباطات، که از قبل یک مشکل است، تمایل دارد تنش‌ها را در تیم تشدید کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:33:32"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the government were to cut funding, it would exacerbate the existing economic crisis.",
+                    "persian": "اگر دولت بودجه را کاهش دهد، بحران اقتصادی موجود را تشدید خواهد کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:44:27"
+                }
+            ]
+        },
+        {
+            "word": "escalate",
+            "pronunciation": {
+                "british": "/ˈɛskəleɪt/",
+                "usa": "/ˈɛskəleɪt/"
+            },
+            "meaning": "to increase in intensity or magnitude",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "adjective clause",
+                        "though"
+                    ],
+                    "english": "Though the negotiations are ongoing, tensions continue to escalate between the two parties.",
+                    "persian": "اگرچه مذاکرات در جریان است، تنش‌ها بین دو طرف همچنان در حال افزایش است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 13:28:48"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of diplomatic efforts, the conflict will likely escalate into a full-blown war.",
+                    "persian": "علیرغم تلاش‌های دیپلماتیک، احتمالاً درگیری به یک جنگ تمام‌عیار تبدیل خواهد شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 12:56:42"
+                }
+            ]
+        },
+        {
+            "word": "interference",
+            "pronunciation": {
+                "british": "/ˌɪntəˈfɪərəns/",
+                "usa": "/ˌɪntərˈfɪrəns/"
+            },
+            "meaning": "the act of interfering or getting involved in something",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The interference of external factors, which complicates the process, often leads to delays.",
+                    "persian": "مداخله عوامل خارجی، که فرآیند را پیچیده می‌کند، اغلب منجر به تأخیر می‌شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:13:43"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the interference continues, it will undermine the integrity of the investigation.",
+                    "persian": "اگر مداخله ادامه یابد، به تمامیت تحقیق آسیب خواهد رساند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 10:57:53"
+                }
+            ]
+        },
+        {
+            "word": "intensification",
+            "pronunciation": {
+                "british": "/ɪnˌtɛnsɪfɪˈkeɪʃ(ə)n/",
+                "usa": "/ɪnˌtɛnsəfəˈkeɪʃ(ə)n/"
+            },
+            "meaning": "the act of becoming more intense or stronger",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "Although the intensification of efforts is evident, the desired outcomes have not yet been achieved.",
+                    "persian": "اگرچه تشدید تلاش‌ها مشهود است، نتایج مطلوب هنوز حاصل نشده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:44:34"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in addition"
+                    ],
+                    "english": "In addition to the current measures, further intensification of resources will be required.",
+                    "persian": "علاوه بر اقدامات فعلی، تشدید بیشتر منابع مورد نیاز خواهد بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:44:40"
+                }
+            ]
+        },
+        {
+            "word": "improvisation",
+            "pronunciation": {
+                "british": "/ˌɪmprəvaɪˈzeɪʃ(ə)n/",
+                "usa": "/ɪmˌprɑːvəˈzeɪʃ(ə)n/"
+            },
+            "meaning": "the act of creating or performing spontaneously",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The improvisation of the musician, which captivates the audience, is a testament to his creativity.",
+                    "persian": "بداهه‌نوازی موزیسین، که مخاطبان را مجذوب می‌کند، گواهی بر خلاقیت او است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 11:21:23"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the actor had relied less on improvisation, the performance might have been more structured.",
+                    "persian": "اگر بازیگر کمتر به بداهه‌گویی تکیه می‌کرد، اجرا ممکن بود ساختارمندتر باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 13:16:08"
+                }
+            ]
+        },
+        {
+            "word": "harbinger",
+            "pronunciation": {
+                "british": "/ˈhɑːbɪndʒə/",
+                "usa": "/ˈhɑːrbɪndʒər/"
+            },
+            "meaning": "a sign or indicator of something to come",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "though"
+                    ],
+                    "english": "Though the early frost is a harbinger of winter, it also brings a unique beauty to the landscape.",
+                    "persian": "اگرچه یخ‌بندان زودرس نشانه‌ای از زمستان است، اما زیبایی منحصر به فردی به مناظر می‌بخشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:20:25"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of its ominous reputation, the comet will be seen as a harbinger of change.",
+                    "persian": "علیرغم شهرت شومش، ستاره دنباله‌دار به عنوان نشانه‌ای از تغییر دیده خواهد شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:22:34"
+                }
+            ]
+        },
+        {
+            "word": "prophetic",
+            "pronunciation": {
+                "british": "/prəˈfɛtɪk/",
+                "usa": "/prəˈfɛtɪk/"
+            },
+            "meaning": "accurately predicting or foreshadowing future events",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The prophetic words of the philosopher, which were once dismissed, now seem eerily accurate.",
+                    "persian": "کلمات پیشگویانه فیلسوف، که زمانی رد شده بود، اکنون به طرز عجیبی دقیق به نظر می‌رسد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:18:33"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the prediction proves prophetic, it will have profound implications for the future.",
+                    "persian": "اگر پیش‌بینی پیشگویانه باشد، پیامدهای عمیقی برای آینده خواهد داشت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:13:50"
+                }
+            ]
+        },
+        {
+            "word": "monotonous",
+            "pronunciation": {
+                "british": "/məˈnɒtənəs/",
+                "usa": "/məˈnɑːtənəs/"
+            },
+            "meaning": "lacking in variety and interest",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "Although the job is monotonous, it provides a steady income and job security.",
+                    "persian": "اگرچه کار یکنواخت است، اما درآمد ثابت و امنیت شغلی فراهم می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 12:57:32"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in addition"
+                    ],
+                    "english": "In addition to being monotonous, the task will also require meticulous attention to detail.",
+                    "persian": "علاوه بر یکنواخت بودن، این کار همچنین به توجه دقیق به جزئیات نیاز خواهد داشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:26:32"
+                }
+            ]
+        },
+        {
+            "word": "justifiable",
+            "pronunciation": {
+                "british": "/ˈdʒʌstɪfaɪəbl/",
+                "usa": "/ˈdʒʌstɪfaɪəbl/"
+            },
+            "meaning": "able to be shown to be right or reasonable",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The decision to delay the project, which is justifiable under the circumstances, has been met with mixed reactions.",
+                    "persian": "تصمیم به تأخیر انداختن پروژه، که در این شرایط قابل توجیه است، با واکنش‌های متفاوتی مواجه شده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 10:56:16"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the action were not justifiable, it would likely face widespread criticism.",
+                    "persian": "اگر اقدام قابل توجیه نباشد، احتمالاً با انتقادات گسترده‌ای مواجه خواهد شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 10:58:09"
+                }
+            ]
+        },
+        {
+            "word": "apathy",
+            "pronunciation": {
+                "british": "/ˈæpəθi/",
+                "usa": "/ˈæpəθi/"
+            },
+            "meaning": "lack of interest, enthusiasm, or concern",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "though"
+                    ],
+                    "english": "Though the apathy of the voters is concerning, it reflects a broader disillusionment with politics.",
+                    "persian": "اگرچه بی‌تفاوتی رای‌دهندگان نگران‌کننده است، اما نشان‌دهنده سرخوردگی گسترده‌تری از سیاست است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:23:37"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of efforts to engage the public, apathy will likely persist in the upcoming election.",
+                    "persian": "علیرغم تلاش‌ها برای جلب مشارکت عمومی، بی‌تفاوتی احتمالاً در انتخابات آینده ادامه خواهد یافت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-06 00:16:12"
+                }
+            ]
+        },
+        {
+            "word": "affability",
+            "pronunciation": {
+                "british": "/ˌæfəˈbɪlɪti/",
+                "usa": "/ˌæfəˈbɪlɪti/"
+            },
+            "meaning": "the quality of being friendly and easy to approach",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The affability of the host, which puts guests at ease, is one of the event's highlights.",
+                    "persian": "خوش‌برخوردی میزبان، که مهمانان را راحت می‌کند، یکی از نکات برجسته رویداد است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:30:02"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the manager's affability increases, it will improve team morale significantly.",
+                    "persian": "اگر خوش‌برخوردی مدیر افزایش یابد، روحیه تیم را به طور قابل توجهی بهبود می‌بخشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 13:29:26"
+                }
+            ]
+        },
+        {
+            "word": "devote",
+            "pronunciation": {
+                "british": "/dɪˈvəʊt/",
+                "usa": "/dɪˈvoʊt/"
+            },
+            "meaning": "to give time or resources to a particular purpose",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "Although she has devoted her life to research, she remains humble and approachable.",
+                    "persian": "اگرچه او زندگی خود را وقف تحقیق کرده است، اما همچنان فروتن و قابل دسترس است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:44:13"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in addition"
+                    ],
+                    "english": "In addition to his current projects, he will devote more time to mentoring young scientists.",
+                    "persian": "علاوه بر پروژه‌های فعلی، او زمان بیشتری را به راهنمایی دانشمندان جوان اختصاص خواهد داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:32:34"
+                }
+            ]
+        },
+        {
+            "word": "deceitful",
+            "pronunciation": {
+                "british": "/dɪˈsiːtf(ə)l/",
+                "usa": "/dɪˈsiːtf(ə)l/"
+            },
+            "meaning": "guilty of deception or misleading others",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The deceitful practices of the company, which have been exposed, have damaged its reputation irreparably.",
+                    "persian": "روش‌های فریبکارانه شرکت، که افشا شده است، شهرت آن را به طور جبران‌ناپذیری آسیب زده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:55:58"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the employee were not so deceitful, the trust within the team would remain intact.",
+                    "persian": "اگر کارمند اینقدر فریبکار نبود، اعتماد درون تیم دست‌نخورده باقی می‌ماند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:21:50"
+                }
+            ]
+        },
+        {
+            "word": "presumptive",
+            "pronunciation": {
+                "british": "/prɪˈzʌm(p)tɪv/",
+                "usa": "/prɪˈzʌm(p)tɪv/"
+            },
+            "meaning": "based on presumption or probability",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "though"
+                    ],
+                    "english": "Though the presumptive evidence is strong, it is not sufficient to secure a conviction.",
+                    "persian": "اگرچه شواهد احتمالی قوی است، برای اثبات جرم کافی نیست.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:18:24"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of the presumptive diagnosis, further tests will be required to confirm the condition.",
+                    "persian": "علیرغم تشخیص احتمالی، آزمایشات بیشتری برای تأیید وضعیت مورد نیاز خواهد بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:25:12"
+                }
+            ]
+        },
+        {
+            "word": "sham",
+            "pronunciation": {
+                "british": "/ʃæm/",
+                "usa": "/ʃæm/"
+            },
+            "meaning": "something false or fake",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The sham agreement, which was designed to deceive the public, has been exposed by investigative journalists.",
+                    "persian": "توافق ساختگی، که برای فریب عموم طراحی شده بود، توسط روزنامه‌نگاران تحقیقی افشا شده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:10:42"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the scheme is revealed as a sham, it will lead to widespread outrage.",
+                    "persian": "اگر طرح به عنوان یک فریب آشکار شود، منجر به خشم گسترده خواهد شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:40:15"
+                }
+            ]
+        },
+        {
+            "word": "prodigy",
+            "pronunciation": {
+                "british": "/ˈprɒdɪdʒi/",
+                "usa": "/ˈprɑːdɪdʒi/"
+            },
+            "meaning": "a young person with exceptional abilities",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "Although the prodigy is only ten years old, she has already mastered advanced mathematical concepts.",
+                    "persian": "اگرچه این نابغه تنها ده سال دارد، او قبلاً مفاهیم پیشرفته ریاضی را تسلط یافته است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 10:51:20"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "in addition"
+                    ],
+                    "english": "In addition to her academic achievements, the prodigy will also pursue her passion for music.",
+                    "persian": "علاوه بر دستاوردهای علمی، این نابغه همچنین به دنبال علاقه خود به موسیقی خواهد رفت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:19:42"
+                }
+            ]
+        },
+        {
+            "word": "enduring",
+            "pronunciation": {
+                "british": "/ɪnˈdjʊərɪŋ/",
+                "usa": "/ɪnˈdʊrɪŋ/"
+            },
+            "meaning": "lasting over a long period of time",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The enduring legacy of the artist, which continues to inspire generations, is a testament to his genius.",
+                    "persian": "میراث ماندگار هنرمند، که همچنان الهام‌بخش نسل‌ها است، گواهی بر نبوغ او است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:08:55"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the theory were not so enduring, it would have been forgotten by now.",
+                    "persian": "اگر نظریه اینقدر ماندگار نبود، تا حالا فراموش شده بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 13:28:26"
+                }
+            ]
+        },
+        {
+            "word": "discrepancy",
+            "pronunciation": {
+                "british": "/dɪˈskrɛpənsi/",
+                "usa": "/dɪˈskrɛpənsi/"
+            },
+            "meaning": "a difference between conflicting facts, claims, or opinions",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The discrepancy in the financial reports, which has been overlooked for months, might lead to severe consequences if not addressed promptly.",
+                    "persian": "اختلاف در گزارش‌های مالی، که ماه‌ها نادیده گرفته شده است، در صورت عدم رسیدگی فوری ممکن است به عواقب شدیدی منجر شود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:00:35"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If there were no discrepancy between the experimental data and the theoretical predictions, scientists could ascribe the results to a single cause.",
+                    "persian": "اگر هیچ اختلافی بین داده‌های تجربی و پیش‌بینی‌های نظری وجود نداشت، دانشمندان می‌توانستند نتایج را به یک علت واحد نسبت دهند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 12:55:44"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "pronunciation": {
+                "british": "/daɪˈkɒtəmi/",
+                "usa": "/daɪˈkɑːtəmi/"
+            },
+            "meaning": "a division or contrast between two things that are entirely different",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The dichotomy between urban and rural lifestyles, which is becoming increasingly pronounced, has significant implications for social policy.",
+                    "persian": "دوگانگی بین سبک‌های زندگی شهری و روستایی، که به طور فزاینده‌ای آشکار می‌شود، پیامدهای مهمی برای سیاست اجتماعی دارد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:09:41"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 0",
+                        "modals",
+                        "adverb clause"
+                    ],
+                    "english": "If a dichotomy exists between theory and practice, it often indicates a need for further research and refinement of methodologies.",
+                    "persian": "اگر دوگانگی بین نظریه و عمل وجود داشته باشد، اغلب نشان‌دهنده نیاز به تحقیقات بیشتر و اصلاح روش‌ها است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:21:18"
+                }
+            ]
+        },
+        {
+            "word": "acknowledgment",
+            "pronunciation": {
+                "british": "/əkˈnɒlɪdʒmənt/",
+                "usa": "/əkˈnɑːlɪdʒmənt/"
+            },
+            "meaning": "acceptance of the truth or existence of something",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The acknowledgment of the error, which came after weeks of denial, was a crucial step toward resolving the crisis.",
+                    "persian": "پذیرش اشتباه، که پس از هفته‌ها انکار صورت گرفت، گامی حیاتی برای حل بحران بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:15:16"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the acknowledgment of climate change is not universal, global efforts to mitigate its effects will remain fragmented and ineffective.",
+                    "persian": "اگر پذیرش تغییرات آب‌وهوایی جهانی نباشد، تلاش‌های جهانی برای کاهش اثرات آن همچنان پراکنده و بی‌اثر باقی خواهد ماند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:09:45"
+                }
+            ]
+        },
+        {
+            "word": "odd with",
+            "pronunciation": {
+                "british": "/ɒd wɪð/",
+                "usa": "/ɑːd wɪð/"
+            },
+            "meaning": "strange or unusual in relation to something",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The results are odd with what we expected, which suggests that our initial hypothesis might be flawed.",
+                    "persian": "نتایج با آنچه انتظار داشتیم عجیب است، که نشان می‌دهد فرضیه اولیه ما ممکن است نادرست باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:12:54"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 2",
+                        "modals",
+                        "adjective clause"
+                    ],
+                    "english": "If the data were not odd with the established theories, scientists would not need to reconsider their assumptions.",
+                    "persian": "اگر داده‌ها با نظریه‌های تثبیت‌شده عجیب نبودند، دانشمندان نیازی به تجدید نظر در فرضیات خود نداشتند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:01:03"
+                }
+            ]
+        },
+        {
+            "word": "preternatural",
+            "pronunciation": {
+                "british": "/ˌpriːtəˈnætʃərəl/",
+                "usa": "/ˌpriːtərˈnætʃərəl/"
+            },
+            "meaning": "beyond what is normal or natural",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The preternatural calm that enveloped the city before the storm was both eerie and unsettling.",
+                    "persian": "آرامش غیرطبیعی که قبل از طوفان شهر را فرا گرفت، هم عجیب و هم نگران‌کننده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:05:34"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 3",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the preternatural abilities of the species had been discovered earlier, it might have revolutionized our understanding of biology.",
+                    "persian": "اگر توانایی‌های غیرطبیعی این گونه زودتر کشف شده بود، ممکن بود درک ما از زیست‌شناسی را متحول کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 10:59:46"
+                }
+            ]
+        },
+        {
+            "word": "milieu",
+            "pronunciation": {
+                "british": "/ˈmiːljɜː/",
+                "usa": "/mɪlˈjuː/"
+            },
+            "meaning": "the social or cultural environment",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The artist's work has been profoundly influenced by the milieu in which she grew up, which is evident in her use of traditional motifs.",
+                    "persian": "کار هنرمند به شدت تحت تأثیر محیطی است که در آن بزرگ شده است، که در استفاده او از موتیف‌های سنتی مشهود است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 10:52:46"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 1",
+                        "modals",
+                        "adjective clause"
+                    ],
+                    "english": "If the milieu of the experiment is not carefully controlled, the results may be skewed by external factors.",
+                    "persian": "اگر محیط آزمایش به دقت کنترل نشود، نتایج ممکن است تحت تأثیر عوامل خارجی تحریف شوند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:05:56"
+                }
+            ]
+        },
+        {
+            "word": "ascribe",
+            "pronunciation": {
+                "british": "/əˈskraɪb/",
+                "usa": "/əˈskraɪb/"
+            },
+            "meaning": "attribute something to a cause",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The success of the project was ascribed to the meticulous planning, which ensured that every detail was accounted for.",
+                    "persian": "موفقیت پروژه به برنامه‌ریزی دقیق نسبت داده شد، که اطمینان می‌داد هر جزئیاتی در نظر گرفته شده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:13:55"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If we were to ascribe the phenomenon to natural causes, it would challenge the existing scientific paradigms.",
+                    "persian": "اگر بخواهیم این پدیده را به علل طبیعی نسبت دهیم، این کار پارادایم‌های علمی موجود را به چالش می‌کشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 12:56:59"
+                }
+            ]
+        },
+        {
+            "word": "infer",
+            "pronunciation": {
+                "british": "/ɪnˈfɜː/",
+                "usa": "/ɪnˈfɜːr/"
+            },
+            "meaning": "deduce or conclude something from evidence and reasoning",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "From the data, we can infer that the population is declining, which raises concerns about the species' survival.",
+                    "persian": "از داده‌ها می‌توانیم استنباط کنیم که جمعیت در حال کاهش است، که نگرانی‌هایی درباره بقای گونه ایجاد می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:21:54"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 1",
+                        "modals",
+                        "adjective clause"
+                    ],
+                    "english": "If we infer too much from limited evidence, our conclusions may be flawed and unreliable.",
+                    "persian": "اگر از شواهد محدود بیش از حد استنباط کنیم، نتیجه‌گیری‌های ما ممکن است نادرست و غیرقابل اعتماد باشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:30:09"
+                }
+            ]
+        },
+        {
+            "word": "incongruous",
+            "pronunciation": {
+                "british": "/ɪnˈkɒŋɡruəs/",
+                "usa": "/ɪnˈkɑːŋɡruəs/"
+            },
+            "meaning": "not in harmony with the surroundings or other elements",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The modern architecture appears incongruous with the historic district, which has sparked a debate about urban development.",
+                    "persian": "معماری مدرن با منطقه تاریخی ناهماهنگ به نظر می‌رسد، که بحث‌هایی درباره توسعه شهری ایجاد کرده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:00:34"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the design were not so incongruous with its surroundings, it might be more readily accepted by the community.",
+                    "persian": "اگر طراحی با محیط اطرافش این‌قدر ناهماهنگ نبود، ممکن بود راحت‌تر توسط جامعه پذیرفته شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:55:05"
+                }
+            ]
+        },
+        {
+            "word": "fortuitous",
+            "pronunciation": {
+                "british": "/fɔːˈtjuːɪtəs/",
+                "usa": "/fɔːrˈtuːɪtəs/"
+            },
+            "meaning": "happening by a lucky chance",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The fortuitous discovery of the ancient manuscript, which had been lost for centuries, provided new insights into medieval history.",
+                    "persian": "کشف اتفاقی نسخه خطی باستانی، که قرن‌ها گم شده بود، بینش‌های جدیدی درباره تاریخ قرون وسطی ارائه داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:28:55"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 3",
+                        "modals",
+                        "adjective clause"
+                    ],
+                    "english": "If the meeting had not been fortuitous, the collaboration between the two scientists might never have occurred.",
+                    "persian": "اگر ملاقات اتفاقی نبود، همکاری بین دو دانشمند ممکن بود هرگز اتفاق نیفتد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:53:26"
+                }
+            ]
+        },
+        {
+            "word": "discrepancy",
+            "pronunciation": {
+                "british": "/dɪˈskrɛpənsi/",
+                "usa": "/dɪˈskrɛpənsi/"
+            },
+            "meaning": "a difference between conflicting facts, claims, or opinions",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The discrepancy in the financial reports, which has been overlooked for months, might lead to severe consequences if not addressed promptly.",
+                    "persian": "اختلاف در گزارش‌های مالی، که ماه‌ها نادیده گرفته شده است، در صورت عدم رسیدگی فوری ممکن است به عواقب شدیدی منجر شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 10:50:32"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If there were no discrepancy between the experimental data and the theoretical predictions, scientists could ascribe the results to a single cause.",
+                    "persian": "اگر هیچ اختلافی بین داده‌های تجربی و پیش‌بینی‌های نظری وجود نداشت، دانشمندان می‌توانستند نتایج را به یک علت واحد نسبت دهند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:18:36"
+                }
+            ]
+        },
+        {
+            "word": "dichotomy",
+            "pronunciation": {
+                "british": "/daɪˈkɒtəmi/",
+                "usa": "/daɪˈkɑːtəmi/"
+            },
+            "meaning": "a division or contrast between two things that are entirely different",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The dichotomy between urban and rural lifestyles, which is becoming increasingly pronounced, has significant implications for social policy.",
+                    "persian": "دوگانگی بین سبک‌های زندگی شهری و روستایی، که به طور فزاینده‌ای آشکار می‌شود، پیامدهای مهمی برای سیاست اجتماعی دارد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:39:56"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 0",
+                        "modals",
+                        "adverb clause"
+                    ],
+                    "english": "If a dichotomy exists between theory and practice, it often indicates a need for further research and refinement of methodologies.",
+                    "persian": "اگر دوگانگی بین نظریه و عمل وجود داشته باشد، اغلب نشان‌دهنده نیاز به تحقیقات بیشتر و اصلاح روش‌ها است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:03:28"
+                }
+            ]
+        },
+        {
+            "word": "acknowledgment",
+            "pronunciation": {
+                "british": "/əkˈnɒlɪdʒmənt/",
+                "usa": "/əkˈnɑːlɪdʒmənt/"
+            },
+            "meaning": "acceptance of the truth or existence of something",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The acknowledgment of the error, which came after weeks of denial, was a crucial step toward resolving the crisis.",
+                    "persian": "پذیرش اشتباه، که پس از هفته‌ها انکار صورت گرفت، گامی حیاتی برای حل بحران بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:26:41"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the acknowledgment of climate change is not universal, global efforts to mitigate its effects will remain fragmented and ineffective.",
+                    "persian": "اگر پذیرش تغییرات آب‌وهوایی جهانی نباشد، تلاش‌های جهانی برای کاهش اثرات آن همچنان پراکنده و بی‌اثر باقی خواهد ماند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:31:30"
+                }
+            ]
+        },
+        {
+            "word": "odd with",
+            "pronunciation": {
+                "british": "/ɒd wɪð/",
+                "usa": "/ɑːd wɪð/"
+            },
+            "meaning": "strange or unusual in relation to something",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The results are odd with what we expected, which suggests that our initial hypothesis might be flawed.",
+                    "persian": "نتایج با آنچه انتظار داشتیم عجیب است، که نشان می‌دهد فرضیه اولیه ما ممکن است نادرست باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:00:26"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 2",
+                        "modals",
+                        "adjective clause"
+                    ],
+                    "english": "If the data were not odd with the established theories, scientists would not need to reconsider their assumptions.",
+                    "persian": "اگر داده‌ها با نظریه‌های تثبیت‌شده عجیب نبودند، دانشمندان نیازی به تجدید نظر در فرضیات خود نداشتند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:16:35"
+                }
+            ]
+        },
+        {
+            "word": "preternatural",
+            "pronunciation": {
+                "british": "/ˌpriːtəˈnætʃərəl/",
+                "usa": "/ˌpriːtərˈnætʃərəl/"
+            },
+            "meaning": "beyond what is normal or natural",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The preternatural calm that enveloped the city before the storm was both eerie and unsettling.",
+                    "persian": "آرامش غیرطبیعی که قبل از طوفان شهر را فرا گرفت، هم عجیب و هم نگران‌کننده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 13:27:25"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 3",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the preternatural abilities of the species had been discovered earlier, it might have revolutionized our understanding of biology.",
+                    "persian": "اگر توانایی‌های غیرطبیعی این گونه زودتر کشف شده بود، ممکن بود درک ما از زیست‌شناسی را متحول کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:10:38"
+                }
+            ]
+        },
+        {
+            "word": "milieu",
+            "pronunciation": {
+                "british": "/ˈmiːljɜː/",
+                "usa": "/mɪlˈjuː/"
+            },
+            "meaning": "the social or cultural environment",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The artist's work has been profoundly influenced by the milieu in which she grew up, which is evident in her use of traditional motifs.",
+                    "persian": "کار هنرمند به شدت تحت تأثیر محیطی است که در آن بزرگ شده است، که در استفاده او از موتیف‌های سنتی مشهود است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:13:51"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 1",
+                        "modals",
+                        "adjective clause"
+                    ],
+                    "english": "If the milieu of the experiment is not carefully controlled, the results may be skewed by external factors.",
+                    "persian": "اگر محیط آزمایش به دقت کنترل نشود، نتایج ممکن است تحت تأثیر عوامل خارجی تحریف شوند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:44:24"
+                }
+            ]
+        },
+        {
+            "word": "ascribe",
+            "pronunciation": {
+                "british": "/əˈskraɪb/",
+                "usa": "/əˈskraɪb/"
+            },
+            "meaning": "attribute something to a cause",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The success of the project was ascribed to the meticulous planning, which ensured that every detail was accounted for.",
+                    "persian": "موفقیت پروژه به برنامه‌ریزی دقیق نسبت داده شد، که اطمینان می‌داد هر جزئیاتی در نظر گرفته شده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:22:19"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If we were to ascribe the phenomenon to natural causes, it would challenge the existing scientific paradigms.",
+                    "persian": "اگر بخواهیم این پدیده را به علل طبیعی نسبت دهیم، این کار پارادایم‌های علمی موجود را به چالش می‌کشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:06:54"
+                }
+            ]
+        },
+        {
+            "word": "infer",
+            "pronunciation": {
+                "british": "/ɪnˈfɜː/",
+                "usa": "/ɪnˈfɜːr/"
+            },
+            "meaning": "deduce or conclude something from evidence and reasoning",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "From the data, we can infer that the population is declining, which raises concerns about the species' survival.",
+                    "persian": "از داده‌ها می‌توانیم استنباط کنیم که جمعیت در حال کاهش است، که نگرانی‌هایی درباره بقای گونه ایجاد می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:25:05"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 1",
+                        "modals",
+                        "adjective clause"
+                    ],
+                    "english": "If we infer too much from limited evidence, our conclusions may be flawed and unreliable.",
+                    "persian": "اگر از شواهد محدود بیش از حد استنباط کنیم، نتیجه‌گیری‌های ما ممکن است نادرست و غیرقابل اعتماد باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 10:54:35"
+                }
+            ]
+        },
+        {
+            "word": "incongruous",
+            "pronunciation": {
+                "british": "/ɪnˈkɒŋɡruəs/",
+                "usa": "/ɪnˈkɑːŋɡruəs/"
+            },
+            "meaning": "not in harmony with the surroundings or other elements",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The modern architecture appears incongruous with the historic district, which has sparked a debate about urban development.",
+                    "persian": "معماری مدرن با منطقه تاریخی ناهماهنگ به نظر می‌رسد، که بحث‌هایی درباره توسعه شهری ایجاد کرده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 13:15:53"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the design were not so incongruous with its surroundings, it might be more readily accepted by the community.",
+                    "persian": "اگر طراحی با محیط اطرافش این‌قدر ناهماهنگ نبود، ممکن بود راحت‌تر توسط جامعه پذیرفته شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 11:21:08"
+                }
+            ]
+        },
+        {
+            "word": "fortuitous",
+            "pronunciation": {
+                "british": "/fɔːˈtjuːɪtəs/",
+                "usa": "/fɔːrˈtuːɪtəs/"
+            },
+            "meaning": "happening by a lucky chance",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The fortuitous discovery of the ancient manuscript, which had been lost for centuries, provided new insights into medieval history.",
+                    "persian": "کشف اتفاقی نسخه خطی باستانی، که قرن‌ها گم شده بود، بینش‌های جدیدی درباره تاریخ قرون وسطی ارائه داد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:04:58"
+                },
+                {
+                    "grammar_structures": [
+                        "conditional type 3",
+                        "modals",
+                        "adjective clause"
+                    ],
+                    "english": "If the meeting had not been fortuitous, the collaboration between the two scientists might never have occurred.",
+                    "persian": "اگر ملاقات اتفاقی نبود، همکاری بین دو دانشمند ممکن بود هرگز اتفاق نیفتد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:04:59"
+                }
+            ]
+        }
+    ]
+}

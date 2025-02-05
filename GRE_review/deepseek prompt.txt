@@ -1,13 +1,12 @@
-in this chat I want to learn about 15 word. want to use this grammar parts in your samples:
+in this chat I want to use this grammar parts in your samples:
 tenses (continues, perfect, present, future, passive), modals, conditional forms (0,1,2 and reverse), direct, indirect speech, countable and uncountable, wh words, relative pronouns and clauses (definitive and non- definitive), connective relative clauses, adjective/ participle clauses, noun clauses, adjectives, adverbs, so, such, too, enough, neither, either, still, yet, anymore, any longer, adverb clauses, so that, despite, in spite of, though, although, even though, furthermore, in addition, however
 for the first word
-give 5 advanced samples (grammar and vocab) for each word
+give 3 advanced samples (grammar and vocab) for each word
 
 use advanced and sophisticated academic vocabs in moderation
 with Persian translation 
 don't forget offer advance sentences- less common word and use scientific terms in moderation 
 complex or compound sentences
-around  15 words
 
 at first of each sample tell me which grammar structures you used
 give response as a json like this structure:
@@ -28,5 +27,18 @@ give response as a json like this structure:
 Generate for all mentioned words in my prepared list
 put all of them together in a single json
 Words list and their meanings:
-cow
-to use intimidation to make someone give in
+Abate
+subside
+altruistic
+forthright
+enfeeble
+incapacitate
+sap
+Engender
+Gullible
+credulous
+Hackneyed
+clichéd
+trite
+banal
+Impetuous

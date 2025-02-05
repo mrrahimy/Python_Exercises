@@ -1,0 +1,494 @@
+{
+    "examples": [
+        {
+            "word": "peremptory",
+            "examples": [
+                {
+                    "english": "The CEO issued a peremptory directive, demanding that all departments submit their quarterly reports by the end of the day, leaving no room for negotiation or delay.",
+                    "persian": "مدیر عامل دستوری قاطع صادر کرد و خواستار ارائه گزارش‌های فصلی تمامی بخش‌ها تا پایان روز شد، بدون اینکه فضایی برای مذاکره یا تأخیر باقی بگذارد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:00:20"
+                },
+                {
+                    "english": "Her peremptory tone during the meeting, underscored by an almost dictatorial insistence on compliance, alienated several team members who valued collaborative decision-making.",
+                    "persian": "لحن قاطعانه‌ی او در جلسه، که با اصرار تقریباً دیکتاتورگونه‌ای بر اطاعت همراه بود، چندین عضو تیم را که به تصمیم‌گیری مشارکتی اهمیت می‌دادند، از خود دور کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:43:49"
+                },
+                {
+                    "english": "The judge’s peremptory dismissal of the defense’s objection, delivered with an air of incontrovertible authority, left the courtroom in stunned silence.",
+                    "persian": "رد قاطعانه‌ی قاضی به اعتراض وکیل مدافع، که با حالتی از اقتدار غیرقابل انکار همراه بود، سالن دادگاه را در سکوت مبهوت فرو برد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-04 16:55:32"
+                },
+                {
+                    "english": "In a peremptory manner, the scientist demanded the immediate cessation of the experiment, citing potential biohazard risks that could not be ignored.",
+                    "persian": "به شیوه‌ای قاطع، دانشمند خواستار توقف فوری آزمایش شد و به خطرات بالقوه‌ی زیستی اشاره کرد که نمی‌توانستند نادیده گرفته شوند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:44:25"
+                },
+                {
+                    "english": "The general’s peremptory orders, delivered with an imperiousness that brooked no dissent, were executed with alacrity by the troops, despite their underlying reservations.",
+                    "persian": "دستورات قاطعانه‌ی ژنرال، که با اقتداری همراه بود که هیچ مخالفتی را برنمی‌تابید، با سرعت توسط سربازان اجرا شد، علیرغم تردیدهای پنهان آنها.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:07:59"
+                }
+            ]
+        },
+        {
+            "word": "indigent",
+            "examples": [
+                {
+                    "english": "The nonprofit organization dedicated its resources to providing free legal aid to indigent individuals who could not afford representation in court.",
+                    "persian": "سازمان غیرانتفاعی منابع خود را وقف ارائه کمک‌های حقوقی رایگان به افراد نیازمند کرد که توانایی پرداخت هزینه‌های وکالت در دادگاه را نداشتند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-04 12:53:08"
+                },
+                {
+                    "english": "Despite the city’s economic growth, a significant portion of its population remains indigent, living in squalid conditions without access to basic healthcare.",
+                    "persian": "علیرغم رشد اقتصادی شهر، بخش قابل توجهی از جمعیت آن در فقر به سر می‌برند و در شرایط نامناسب و بدون دسترسی به خدمات بهداشتی اولیه زندگی می‌کنند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:20:33"
+                },
+                {
+                    "english": "The study revealed a correlation between indigent communities and higher rates of preventable diseases, underscoring the need for targeted public health interventions.",
+                    "persian": "مطالعه نشان داد که بین جوامع فقیر و نرخ بالاتر بیماری‌های قابل پیشگیری ارتباط وجود دارد، که این موضوع نیاز به مداخلات هدفمند در حوزه بهداشت عمومی را برجسته می‌سازد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:38:03"
+                },
+                {
+                    "english": "The philanthropist established a foundation to support indigent students, offering scholarships and mentorship programs to help them overcome systemic barriers to education.",
+                    "persian": "خیّر بنیادی تأسیس کرد تا از دانش‌آموزان نیازمند حمایت کند و با ارائه بورسیه‌ها و برنامه‌های راهنمایی، به آنها کمک کند تا بر موانع سیستماتیک در مسیر تحصیل غلبه کنند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-02 14:22:02"
+                },
+                {
+                    "english": "In his research on urban poverty, the sociologist argued that indigent populations are often disproportionately affected by policies that fail to address structural inequality.",
+                    "persian": "در تحقیقات خود درباره فقر شهری، جامعه‌شناس استدلال کرد که جمعیت‌های فقیر اغلب به طور نامتناسبی تحت تأثیر سیاست‌هایی قرار می‌گیرند که به نابرابری‌های ساختاری توجهی نمی‌کنند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-04 15:33:55"
+                }
+            ]
+        },
+        {
+            "word": "indignant",
+            "examples": [
+                {
+                    "english": "She was indignant at the blatant disregard for ethical guidelines during the clinical trial, expressing her outrage in a scathing letter to the review board.",
+                    "persian": "او از بی‌اعتنایی آشکار به دستورالعمل‌های اخلاقی در طول آزمایش بالینی خشمگین بود و خشم خود را در نامه‌ای تند به هیئت بازبینی ابراز کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:13:45"
+                },
+                {
+                    "english": "The employees grew increasingly indignant when they discovered that management had been withholding critical information about impending layoffs.",
+                    "persian": "کارمندان به طور فزاینده‌ای خشمگین شدند وقتی متوجه شدند که مدیریت اطلاعات حیاتی درباره تعدیل‌های قریب‌الوقوع را پنهان کرده بود.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-30 19:30:48"
+                },
+                {
+                    "english": "His indignant response to the accusation, though impassioned, lacked the factual rigor needed to refute the claims effectively.",
+                    "persian": "پاسخ خشمگین او به اتهام، اگرچه پرشور بود، فاقد استحکام واقع‌بینانه‌ای بود که برای رد مؤثر ادعاها لازم بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:58:54"
+                },
+                {
+                    "english": "The activist’s voice trembled with indignant fury as she recounted the systemic injustices faced by marginalized communities.",
+                    "persian": "صدای فعال اجتماعی از خشم برآمده از احساس بی‌عدالتی می‌لرزید در حالی که از بی‌عدالتی‌های سیستماتیک مواجه جوامع حاشیه‌نشین سخن می‌گفت.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:59:14"
+                },
+                {
+                    "english": "Despite his usual composure, he could not suppress an indignant retort when his integrity was called into question during the debate.",
+                    "persian": "علیرغم خونسردی معمولش، نتوانست از پاسخ تند و خشمگین خود جلوگیری کند وقتی که صداقت او در طول مناظره زیر سؤال رفت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:08:51"
+                }
+            ]
+        },
+        {
+            "word": "errant",
+            "examples": [
+                {
+                    "english": "The errant satellite, having deviated from its intended orbit, posed a significant risk to other spacecraft in the vicinity.",
+                    "persian": "ماهواره سرگردان، که از مدار مورد نظر خود منحرف شده بود، خطر قابل توجهی برای سایر فضاپیماهای اطراف ایجاد کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:33:42"
+                },
+                {
+                    "english": "The knight embarked on a quest to capture the errant dragon that had been terrorizing villages far and wide.",
+                    "persian": "شوالیه مأموریتی را برای شکار اژدهای سرگردان آغاز کرد که روستاهای دور و نزدیک را به وحشت انداخته بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:44:34"
+                },
+                {
+                    "english": "The professor’s errant thoughts during the lecture often led to fascinating, albeit tangential, discussions that captivated his students.",
+                    "persian": "افکار سرگردان استاد در طول سخنرانی اغلب به بحث‌های جذاب، اگرچه حاشیه‌ای، منجر می‌شد که دانشجویانش را مجذوب خود می‌کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-01-30 11:57:17"
+                },
+                {
+                    "english": "The errant behavior of the particles in the experiment baffled the researchers, prompting them to reconsider their initial hypotheses.",
+                    "persian": "رفتار سرگردان ذرات در آزمایش محققان را گیج کرد و آنها را وادار کرد تا فرضیه‌های اولیه خود را بازبینی کنند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:44:03"
+                },
+                {
+                    "english": "The shepherd spent hours searching for the errant sheep that had wandered away from the flock, only to find it grazing peacefully in a distant meadow.",
+                    "persian": "چوپان ساعات زیادی را به جستجوی گوسفند سرگردان سپری کرد که از گله دور شده بود، و در نهایت آن را در حال چریدن آرام در یک چمنزار دورافتاده پیدا کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:16:57"
+                }
+            ]
+        },
+        {
+            "word": "arrant",
+            "examples": [
+                {
+                    "english": "The politician’s arrant hypocrisy was exposed when investigative journalists revealed his private dealings, which starkly contradicted his public statements.",
+                    "persian": "ریاکاری کامل سیاستمدار زمانی آشکار شد که روزنامه‌نگاران تحقیقی معاملات خصوصی او را فاش کردند، که به شدت با اظهارات عمومی او در تضاد بود.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 22:58:56"
+                },
+                {
+                    "english": "The scientist dismissed the theory as arrant nonsense, citing a complete lack of empirical evidence to support its outlandish claims.",
+                    "persian": "دانشمند این نظریه را به عنوان مزخرف محض رد کرد و به فقدان کامل شواهد تجربی برای حمایت از ادعاهای عجیب و غریب آن اشاره کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:29:16"
+                },
+                {
+                    "english": "The CEO’s arrant disregard for employee welfare led to widespread dissatisfaction and an unprecedented wave of resignations within the company.",
+                    "persian": "بی‌اعتنایی کامل مدیر عامل به رفاه کارکنان منجر به نارضایتی گسترده و موج بی‌سابقه‌ای از استعفاها در شرکت شد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:13:33"
+                },
+                {
+                    "english": "Historians have often described the dictator’s regime as an arrant failure, marked by economic collapse, social unrest, and international isolation.",
+                    "persian": "مورخان اغلب رژیم دیکتاتور را یک شکست کامل توصیف کرده‌اند که با فروپاشی اقتصادی، ناآرامی‌های اجتماعی و انزوای بین‌المللی مشخص می‌شد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:03:21"
+                },
+                {
+                    "english": "The film critic lambasted the director’s latest work as an arrant waste of talent, accusing it of being both artistically hollow and narratively incoherent.",
+                    "persian": "منتقد فیلم آخرین اثر کارگردان را به عنوان هدر رفت کامل استعداد مورد انتقاد شدید قرار داد و آن را از نظر هنری توخالی و از نظر روایی ناهماهنگ دانست.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:58:59"
+                }
+            ]
+        },
+        {
+            "word": "artful",
+            "examples": [
+                {
+                    "english": "The artful diplomat navigated the tense negotiations with such finesse that both parties left the table feeling victorious, unaware of the subtle concessions they had made.",
+                    "persian": "دیپلمات ماهر با چنان مهارتی مذاکرات پرتنش را هدایت کرد که هر دو طرف میز مذاکره را با احساس پیروزی ترک کردند، بدون اینکه از امتیازات ظریفی که داده بودند آگاه باشند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:16:58"
+                },
+                {
+                    "english": "Her artful brushstrokes and masterful use of color transformed the blank canvas into a breathtaking landscape that seemed to come alive under the gallery lights.",
+                    "persian": "ضربه‌های قلم مو ماهرانه و استفاده استادانه‌اش از رنگ، بوم خالی را به یک منظره نفس‌گیر تبدیل کرد که زیر نور گالری زنده به نظر می‌رسید.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-01-29 00:25:48"
+                },
+                {
+                    "english": "The artful manipulation of data by the corporation allowed it to present a rosy financial picture to investors, concealing the underlying instability of its operations.",
+                    "persian": "دستکاری ماهرانه داده‌ها توسط شرکت به آن اجازه داد تا تصویری زیبا از وضعیت مالی خود به سرمایه‌گذاران ارائه دهد و بی‌ثباتی نهفته در عملیات خود را پنهان کند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:45:23"
+                },
+                {
+                    "english": "The novelist’s artful storytelling wove together multiple timelines and perspectives, creating a narrative so intricate that readers were captivated until the very last page.",
+                    "persian": "داستان‌سرایی ماهرانه رمان‌نویس، چندین خط زمانی و دیدگاه را در هم تنید و روایتی چنان پیچیده خلق کرد که خوانندگان تا آخرین صفحه مجذوب آن شدند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 22:52:26"
+                },
+                {
+                    "english": "Despite his artful excuses and seemingly genuine apologies, his colleagues remained skeptical, knowing all too well his history of evading responsibility.",
+                    "persian": "علیرغم بهانه‌های ماهرانه و عذرخواهی‌های به ظاهر صادقانه‌اش، همکارانش همچنان مشکوک بودند، زیرا به خوبی از سابقه‌اش در فرار از مسئولیت آگاه بودند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-01 17:39:06"
+                }
+            ]
+        },
+        {
+            "word": "artless",
+            "examples": [
+                {
+                    "english": "Her artless demeanor and genuine curiosity made her an instant favorite among the villagers, who were unaccustomed to such unpretentious sincerity.",
+                    "persian": "رفتار ساده و بی‌آلایش او و کنجکاوی صادقانه‌اش باعث شد که به سرعت مورد علاقه روستاییان قرار گیرد، که به چنین صداقت بی‌تظاهری عادت نداشتند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 22:46:10"
+                },
+                {
+                    "english": "The critic dismissed the painting as artless, noting its clumsy composition and lack of emotional depth, despite the artist’s evident enthusiasm.",
+                    "persian": "منتقد این نقاشی را فاقد هنر دانست و به ترکیب ناشیانه و فقدان عمق احساسی آن اشاره کرد، علیرغم اشتیاق آشکار هنرمند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-04 17:36:43"
+                },
+                {
+                    "english": "His artless confession, delivered with a childlike honesty, moved the jury to reconsider their initial impression of him as a hardened criminal.",
+                    "persian": "اعتراف ساده و بی‌آلایش او، که با صداقتی کودکانه بیان شد، هیئت ژوری را بر آن داشت تا برداشت اولیه خود از او به عنوان یک مجرم hardened را بازبینی کنند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:13:37"
+                },
+                {
+                    "english": "The poet’s artless verses, though lacking in technical sophistication, resonated deeply with readers who appreciated their raw emotional honesty.",
+                    "persian": "اشعار ساده و بی‌پیرایه شاعر، اگرچه فاقد پیچیدگی فنی بودند، با خوانندگانی که صداقت احساسی خام آن را تحسین می‌کردند، طنین انداز شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:12:50"
+                },
+                {
+                    "english": "Despite her artless approach to diplomacy, her straightforwardness and lack of guile earned her the trust of even the most skeptical foreign delegates.",
+                    "persian": "علیرغم رویکرد ساده و بی‌آلایش او به دیپلماسی، رک‌گویی و عدم حیله‌گری‌اش اعتماد حتی مشکوک‌ترین نمایندگان خارجی را جلب کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:44:35"
+                }
+            ]
+        },
+        {
+            "word": "artifice",
+            "examples": [
+                {
+                    "english": "The magician’s performance was a masterclass in artifice, as he skillfully deceived the audience with illusions that defied logic and perception.",
+                    "persian": "اجرای شعبده‌باز نمونه‌ای عالی از فریبکاری بود، چرا که او با مهارت تماشاگران را با توهماتی که منطق و ادراک را به چالش می‌کشید، فریب داد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:20:26"
+                },
+                {
+                    "english": "The politician’s speech was laden with artifice, carefully crafted to manipulate public opinion while concealing his true intentions.",
+                    "persian": "سخنرانی سیاستمدار پر از حیله‌گری بود و با دقت طراحی شده بود تا افکار عمومی را دستکاری کند، در حالی که نیات واقعی او را پنهان می‌کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:01:04"
+                },
+                {
+                    "english": "The novel’s plot relied heavily on artifice, with twists and turns that kept readers guessing until the very last page.",
+                    "persian": "طرح رمان به شدت به حیله‌گری متکی بود، با پیچ‌و‌خم‌هایی که خوانندگان را تا آخرین صفحه در حدس و گمان نگه می‌داشت.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-04 14:23:25"
+                },
+                {
+                    "english": "The artist’s use of light and shadow was not mere artifice but a profound expression of the interplay between reality and illusion.",
+                    "persian": "استفاده هنرمند از نور و سایه صرفاً یک حیله نبود، بلکه بیان عمیقی از تعامل بین واقعیت و توهم بود.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:43:38"
+                },
+                {
+                    "english": "Despite the company’s claims of transparency, their financial reports were riddled with artifice, designed to obscure the true state of their declining profits.",
+                    "persian": "علیرغم ادعاهای شرکت درباره شفافیت، گزارش‌های مالی آنان مملو از حیله‌گری بود و به گونه‌ای طراحی شده بود که وضعیت واقعی سودهای کاهشی‌شان را پنهان کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:21:55"
+                }
+            ]
+        },
+        {
+            "word": "expurgate",
+            "examples": [
+                {
+                    "english": "The publisher decided to expurgate the controversial chapter from the novel, fearing that its inclusion would lead to public outcry and censorship.",
+                    "persian": "ناشر تصمیم گرفت فصل جنجالی رمان را حذف کند، از این ترس که شامل کردن آن باعث اعتراض عمومی و سانسور شود.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:59:36"
+                },
+                {
+                    "english": "The historian argued that to expurgate primary sources is to distort history, as even the most offensive materials provide valuable insights into the past.",
+                    "persian": "مورخ استدلال کرد که حذف بخش‌هایی از منابع اولیه تحریف تاریخ است، زیرا حتی جنجالی‌ترین مطالب نیز بینش‌های ارزشمندی درباره گذشته ارائه می‌دهند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:12:02"
+                },
+                {
+                    "english": "The school board faced criticism for its decision to expurgate certain passages from the curriculum, with opponents claiming it amounted to intellectual censorship.",
+                    "persian": "هیئت مدرسه به دلیل تصمیم به حذف برخی بخش‌ها از برنامه درسی با انتقاد مواجه شد، و مخالفان ادعا کردند که این کار معادل سانسور فکری است.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:58:08"
+                },
+                {
+                    "english": "The director’s cut of the film was heavily expurgated to meet the studio’s demands, stripping away much of the raw emotion and social commentary that defined the original version.",
+                    "persian": "نسخه کارگردانی فیلم به شدت ویرایش شد تا خواسته‌های استودیو برآورده شود، و بسیاری از احساسات خام و نقد اجتماعی که نسخه اصلی را تعریف می‌کرد، از آن حذف شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:34:22"
+                },
+                {
+                    "english": "Scholars have debated whether it is ethical to expurgate classical texts to align with modern sensibilities, as doing so risks erasing the cultural context in which they were written.",
+                    "persian": "محققان بحث کرده‌اند که آیا اخلاقی است متون کلاسیک را برای همسو کردن با احساسات مدرن ویرایش کرد، زیرا این کار خطر پاک کردن زمینه فرهنگی‌ای که در آن نوشته شده‌اند را دارد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-04 18:46:58"
+                }
+            ]
+        },
+        {
+            "word": "expunge",
+            "examples": [
+                {
+                    "english": "The court ordered that the defendant’s criminal record be expunged, granting them a fresh start and the opportunity to rebuild their life without the stigma of past mistakes.",
+                    "persian": "دادگاه دستور داد که سابقه کیفری متهم پاک شود، به او فرصتی برای شروع دوباره و بازسازی زندگی‌اش بدون داغ اشتباهات گذشته داد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:11:03"
+                },
+                {
+                    "english": "The government’s attempt to expunge all traces of the dissident’s writings from public archives was met with fierce resistance from historians and free speech advocates.",
+                    "persian": "تلاش دولت برای پاک کردن تمام آثار نوشته‌های مخالف از آرشیوهای عمومی با مقاومت شدید مورخان و مدافعان آزادی بیان مواجه شد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-01-30 20:23:17"
+                },
+                {
+                    "english": "The scientist worked tirelessly to expunge errors from the dataset, knowing that even the smallest inaccuracies could compromise the integrity of the research.",
+                    "persian": "دانشمند به طور خستگی‌ناپذیری برای حذف خطاها از مجموعه داده‌ها تلاش کرد، زیرا می‌دانست که حتی کوچک‌ترین نادرستی‌ها می‌تواند به اعتبار تحقیق آسیب بزند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:10:24"
+                },
+                {
+                    "english": "The author revised the manuscript multiple times, striving to expunge any passages that might be deemed offensive or irrelevant to the central theme of the book.",
+                    "persian": "نویسنده بارها نسخه خطی را بازبینی کرد و تلاش کرد هر بخشی که ممکن است توهین‌آمیز یا نامربوط به موضوع اصلی کتاب تلقی شود، حذف کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:24:29"
+                },
+                {
+                    "english": "The company’s reputation was severely damaged by the scandal, and despite their efforts to expunge all references to it from their official communications, the public’s trust remained eroded.",
+                    "persian": "اعتبار شرکت به دلیل رسوایی به شدت آسیب دید، و علیرغم تلاش‌هایشان برای حذف تمام اشاره‌ها به آن از ارتباطات رسمی‌شان، اعتماد عمومی همچنان از بین رفته بود.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:12:09"
+                }
+            ]
+        },
+        {
+            "word": "censure",
+            "examples": [
+                {
+                    "english": "The senator faced censure from her colleagues after her inflammatory remarks were deemed to undermine the integrity of the legislative process.",
+                    "persian": "سناتور با سرزنش شدید همکارانش مواجه شد پس از اینکه اظهارات تحریک‌آمیز او تهدیدی برای یکپارچگی فرایند قانون‌گذاری تلقی شد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 22:44:41"
+                },
+                {
+                    "english": "The editorial board issued a formal censure of the journalist for violating ethical guidelines, emphasizing the importance of maintaining public trust in media.",
+                    "persian": "هیئت تحریریه یک سرزنش رسمی علیه روزنامه‌نگار به دلیل نقض دستورالعمل‌های اخلاقی صادر کرد و بر اهمیت حفظ اعتماد عمومی به رسانه‌ها تأکید کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:31:57"
+                },
+                {
+                    "english": "Despite the artist’s attempts to defend his controversial work, it was met with widespread censure from critics who accused him of promoting harmful stereotypes.",
+                    "persian": "علیرغم تلاش‌های هنرمند برای دفاع از اثر جنجالی‌اش، کار او با سرزنش گسترده منتقدان مواجه شد که او را به ترویج کلیشه‌های مضر متهم کردند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:23:47"
+                },
+                {
+                    "english": "The committee’s decision to censure the CEO for his mismanagement of company funds sent a clear message about the consequences of financial negligence.",
+                    "persian": "تصمیم کمیته برای سرزنش مدیر عامل به دلیل سوء مدیریت منابع شرکت، پیام روشنی درباره پیامدهای بی‌توجهی مالی ارسال کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 12:22:16"
+                },
+                {
+                    "english": "In a rare display of unity, members of both political parties joined forces to censure the official whose actions were seen as a blatant abuse of power.",
+                    "persian": "در نمایشی نادر از اتحاد، اعضای هر دو حزب سیاسی برای سرزنش مقام مسئولی که اقداماتش سوء استفاده آشکار از قدرت تلقی می‌شد، متحد شدند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:16:14"
+                }
+            ]
+        },
+        {
+            "word": "censor",
+            "examples": [
+                {
+                    "english": "The government’s decision to censor critical news articles sparked widespread protests, with citizens demanding greater transparency and freedom of the press.",
+                    "persian": "تصمیم دولت برای سانسور مقالات خبری انتقادی، اعتراضات گسترده‌ای را برانگیخت و شهروندان خواستار شفافیت بیشتر و آزادی مطبوعات شدند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 22:46:25"
+                },
+                {
+                    "english": "The filmmaker refused to allow the studio to censor her work, insisting that the raw and unfiltered portrayal of the story was essential to its impact.",
+                    "persian": "کارگردان فیلم از اجازه دادن به استودیو برای سانسور اثرش خودداری کرد و اصرار داشت که نمایش خام و بدون سانسور داستان برای تأثیر آن ضروری است.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-28 23:53:41"
+                },
+                {
+                    "english": "Social media platforms have been criticized for their inconsistent policies on whether to censor harmful content, with some accusing them of prioritizing profit over public safety.",
+                    "persian": "پلتفرم‌های رسانه‌های اجتماعی به دلیل سیاست‌های ناسازگارشان در مورد سانسور محتوای مضر مورد انتقاد قرار گرفته‌اند، و برخی آنها را متهم می‌کنند که سود را بر ایمنی عمومی ترجیح می‌دهند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:21:44"
+                },
+                {
+                    "english": "The school board faced backlash after it attempted to censor certain books from the library, with parents and educators arguing that students should have access to diverse perspectives.",
+                    "persian": "هیئت مدرسه پس از تلاش برای سانسور برخی کتاب‌ها از کتابخانه با واکنش منفی مواجه شد، و والدین و مربیان استدلال کردند که دانش‌آموزان باید به دیدگاه‌های متنوع دسترسی داشته باشند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 16:26:33"
+                },
+                {
+                    "english": "Historians have expressed concern that attempts to censor or alter historical records risk distorting our understanding of the past and its lessons for the future.",
+                    "persian": "مورخان نگرانی خود را ابراز کرده‌اند که تلاش‌ها برای سانسور یا تغییر اسناد تاریخی، خطر تحریف درک ما از گذشته و درس‌های آن برای آینده را به همراه دارد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:49:25"
+                }
+            ]
+        },
+        {
+            "word": "ponderous",
+            "examples": [
+                {
+                    "english": "The ponderous bureaucracy of the government agency made it nearly impossible for small businesses to navigate the permitting process efficiently.",
+                    "persian": "بوروکراسی سنگین و دست‌وپاگیر سازمان دولتی، انجام فرآیند اخذ مجوز را برای کسب‌وکارهای کوچک تقریباً غیرممکن کرده بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-26 11:43:54"
+                },
+                {
+                    "english": "The novel’s ponderous prose, though rich in detail, often left readers feeling overwhelmed and struggling to maintain interest in the plot.",
+                    "persian": "نثر سنگین و پرجزئیات رمان، اگرچه غنی از جزئیات بود، اغلب باعث می‌شد خوانندگان احساس خستگی کنند و در حفظ علاقه به داستان مشکل داشته باشند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:06:51"
+                },
+                {
+                    "english": "The ponderous weight of the ancient oak door required the combined strength of three men to open, its hinges creaking under the strain.",
+                    "persian": "وزن سنگین در قدیمی بلوط به قدری بود که برای باز کردن آن به نیروی سه مرد نیاز بود و لولاهای آن زیر فشار جیغ می‌کشید.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:45:46"
+                },
+                {
+                    "english": "The CEO’s ponderous decision-making process, characterized by endless meetings and indecision, delayed the company’s response to the rapidly changing market.",
+                    "persian": "فرآیند تصمیم‌گیری سنگین و طولانی مدیر عامل، که با جلسات بی‌پایان و بلاتکلیفی همراه بود، پاسخ شرکت به تغییرات سریع بازار را به تأخیر انداخت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 17:27:03"
+                },
+                {
+                    "english": "The ponderous atmosphere of the courtroom, filled with tension and the weight of the impending verdict, made it difficult for even the most seasoned lawyers to remain composed.",
+                    "persian": "فضای سنگین و پرتنش دادگاه، که تحت تأثیر وزن حکم قریب‌الوقوع بود، حتی برای باتجربه‌ترین وکلا نیز حفظ آرامش را دشوار می‌کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:23:48"
+                }
+            ]
+        },
+        {
+            "word": "imponderable",
+            "examples": [
+                {
+                    "english": "The long-term effects of climate change on global ecosystems remain imponderable, leaving scientists to grapple with a future full of uncertainties.",
+                    "persian": "اثرات بلندمدت تغییرات آب‌وهوایی بر اکوسیستم‌های جهانی همچنان غیرقابل پیش‌بینی است و دانشمندان را با آینده‌ای پر از عدم قطعیت مواجه کرده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:11:20"
+                },
+                {
+                    "english": "The philosopher argued that the nature of human consciousness is an imponderable mystery, one that may never be fully understood despite advances in neuroscience.",
+                    "persian": "فیلسوف استدلال کرد که ماهیت هوشیاری انسان یک راز غیرقابل درک است، رازی که ممکن است علیرغم پیشرفت‌های علوم اعصاب هرگز به طور کامل درک نشود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:20:54"
+                },
+                {
+                    "english": "The economic repercussions of the pandemic were initially imponderable, as policymakers struggled to predict the scale and duration of its impact.",
+                    "persian": "پیامدهای اقتصادی همه‌گیری در ابتدا غیرقابل پیش‌بینی بود، زیرا تصمیم‌گیرندگان در پیش‌بینی مقیاس و مدت تأثیر آن با مشکل مواجه بودند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-01-27 04:28:26"
+                },
+                {
+                    "english": "The artist’s work often explores the imponderable aspects of existence, using abstract forms to evoke questions about life, death, and the universe.",
+                    "persian": "آثار هنرمند اغلب به جنبه‌های غیرقابل درک وجود می‌پردازد و از فرم‌های انتزاعی برای برانگیختن پرسش‌هایی درباره زندگی، مرگ و جهان استفاده می‌کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:27:00"
+                },
+                {
+                    "english": "In the face of such imponderable odds, the team’s victory seemed almost miraculous, defying all logical expectations and statistical predictions.",
+                    "persian": "در مواجهه با چنین احتمالات غیرقابل پیش‌بینی، پیروزی تیم تقریباً معجزه‌آسا به نظر می‌رسید و تمام انتظارات منطقی و پیش‌بینی‌های آماری را نقض می‌کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:17:14"
+                }
+            ]
+        }
+    ]
+}

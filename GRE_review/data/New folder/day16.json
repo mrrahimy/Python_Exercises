@@ -1,0 +1,719 @@
+{
+    "examples": [
+        {
+            "word": "excoriate",
+            "pronunciation": {
+                "british": "/ɪkˈskɔːrɪeɪt/",
+                "usa": "/ɪkˈskɔːriˌeɪt/"
+            },
+            "meaning": "to criticize very harshly",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "passive voice",
+                        "adverb clause"
+                    ],
+                    "english": "The controversial policy has been excoriated by experts, who argue that it exacerbates social inequality.",
+                    "persian": "سیاست بحث‌برانگیز توسط کارشناسان مورد انتقاد شدید قرار گرفته است، که استدلال می‌کنند این سیاست نابرابری اجتماعی را تشدید می‌کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the government were to ignore public opinion, it would be excoriated for its lack of accountability.",
+                    "persian": "اگر دولت نظر عمومی را نادیده بگیرد، به دلیل عدم پاسخگویی مورد انتقاد شدید قرار خواهد گرفت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "direct speech",
+                        "present continuous",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "She is excoriating the report, which, she claims, contains numerous inaccuracies and biases.",
+                    "persian": "او در حال انتقاد شدید از گزارش است، که به گفته او حاوی اشتباهات و سوگیری‌های فراوانی است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "connective relative clause",
+                        "adverb"
+                    ],
+                    "english": "The journalist had excoriated the corporation so vehemently that it filed a defamation lawsuit.",
+                    "persian": "روزنامه‌نگار به قدری شدید از شرکت انتقاد کرده بود که شرکت شکایت افترا تنظیم کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adjective clause",
+                        "so that"
+                    ],
+                    "english": "By next year, the opposition will have excoriated the administration so thoroughly that its reputation will be irreparably damaged.",
+                    "persian": "تا سال آینده، مخالفان آنقدر شدید از دولت انتقاد خواهند کرد که شهرت آن به طور جبران‌ناپذیری آسیب خواهد دید.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "extenuating",
+            "pronunciation": {
+                "british": "/ɪkˈstɛnjʊeɪtɪŋ/",
+                "usa": "/ɪkˈstɛnjuˌeɪtɪŋ/"
+            },
+            "meaning": "good excuse; more forgivable",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The judge considered the extenuating circumstances, which included the defendant’s mental health struggles, before passing the sentence.",
+                    "persian": "قاضی شرایط تخفیف‌دهنده، که شامل مشکلات سلامت روان متهم بود، را قبل از صدور حکم در نظر گرفت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 0",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If there are extenuating factors, the committee may reduce the penalty, provided that the evidence is compelling.",
+                    "persian": "اگر عوامل تخفیف‌دهنده وجود داشته باشد، کمیته ممکن است مجازات را کاهش دهد، به شرطی که شواهد قانع‌کننده باشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "The lawyer argued, 'My client’s actions were influenced by extenuating circumstances, which should be taken into account.'",
+                    "persian": "وکیل استدلال کرد: 'اقدامات موکل من تحت تأثیر شرایط تخفیف‌دهنده بوده است، که باید در نظر گرفته شود.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "connective relative clause",
+                        "despite"
+                    ],
+                    "english": "Despite the extenuating evidence presented, the jury has remained unconvinced of the defendant’s innocence.",
+                    "persian": "علیرغم شواهد تخفیف‌دهنده ارائه شده، هیئت منصفه از بی‌گناهی متهم متقاعد نشده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "The court will consider the extenuating factors so that a fair and just verdict can be reached.",
+                    "persian": "دادگاه عوامل تخفیف‌دهنده را در نظر خواهد گرفت تا یک حکم عادلانه و منصفانه صادر شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "execrate",
+            "pronunciation": {
+                "british": "/ˈɛksɪkreɪt/",
+                "usa": "/ˈɛksəˌkreɪt/"
+            },
+            "meaning": "feel or express great loathing for",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The activist execrates the corporation, which she believes is responsible for environmental degradation.",
+                    "persian": "فعال از شرکت متنفر است، که به اعتقاد او مسئول تخریب محیط زیست است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the public learns about the scandal, they will execrate the politician for his unethical behavior.",
+                    "persian": "اگر مردم از رسوایی مطلع شوند، از سیاستمدار به دلیل رفتار غیراخلاقی‌اش متنفر خواهند شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "She was execrating the decision, which she described as 'utterly deplorable and unjust.'",
+                    "persian": "او از تصمیم متنفر بود، که آن را 'کاملاً تأسف‌بار و ناعادلانه' توصیف کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "connective relative clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of the apologies offered, the community had execrated the leader for his role in the crisis.",
+                    "persian": "علیرغم عذرخواهی‌های ارائه شده، جامعه از رهبر به دلیل نقش او در بحران متنفر شده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "By the end of the trial, the public will have execrated the defendant so thoroughly that his reputation will be ruined.",
+                    "persian": "تا پایان دادگاه، مردم آنقدر از متهم متنفر خواهند شد که شهرت او نابود خواهد شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "exegesis",
+            "pronunciation": {
+                "british": "/ˌɛksɪˈdʒiːsɪs/",
+                "usa": "/ˌɛksəˈdʒisɪs/"
+            },
+            "meaning": "a critical interpretation of scholarly or religious texts",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The professor’s exegesis of the ancient text, which has been widely debated, offers a fresh perspective on its meaning.",
+                    "persian": "تفسیر استاد از متن باستانی، که به طور گسترده مورد بحث قرار گرفته است، دیدگاه جدیدی در مورد معنای آن ارائه می‌دهد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the scholar were to publish his exegesis, it might challenge the traditional interpretations of the scripture.",
+                    "persian": "اگر محقق تفسیر خود را منتشر کند، ممکن است تفسیرهای سنتی از کتاب مقدس را به چالش بکشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "The theologian stated, 'My exegesis of the text, which took years to complete, reveals its underlying philosophical themes.'",
+                    "persian": "متکلم گفت: 'تفسیر من از متن، که سال‌ها طول کشید تا کامل شود، مضامین فلسفی زیربنایی آن را آشکار می‌کند.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "connective relative clause",
+                        "despite"
+                    ],
+                    "english": "Despite the controversy surrounding his exegesis, the author has defended his interpretation as academically sound.",
+                    "persian": "علیرغم جنجال‌های پیرامون تفسیر او، نویسنده تفسیر خود را از نظر علمی معتبر دفاع کرده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "The scholar will present his exegesis at the conference so that it can be scrutinized by his peers.",
+                    "persian": "محقق تفسیر خود را در کنفرانس ارائه خواهد داد تا توسط همتایانش مورد بررسی قرار گیرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "exhort",
+            "pronunciation": {
+                "british": "/ɪɡˈzɔːt/",
+                "usa": "/ɪɡˈzɔːrt/"
+            },
+            "meaning": "to strongly urge on",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The coach exhorts the team, which has been underperforming, to push beyond their limits in the upcoming match.",
+                    "persian": "مربی تیم را، که عملکرد ضعیفی داشته است، تشویق می‌کند تا در بازی آینده فراتر از محدودیت‌های خود تلاش کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the leader exhorts the citizens to act, they might unite to address the pressing environmental issues.",
+                    "persian": "اگر رهبر شهروندان را به اقدام تشویق کند، ممکن است آنها برای حل مسائل فوری محیط زیست متحد شوند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "She was exhorting the audience, which seemed disengaged, to take immediate action against climate change.",
+                    "persian": "او در حال تشویق حضار، که به نظر بی‌علاقه بودند، به اقدام فوری علیه تغییرات آب و هوایی بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "connective relative clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of the warnings, the activist had exhorted the crowd to continue protesting until their demands were met.",
+                    "persian": "علیرغم هشدارها، فعال جمعیت را تشویق کرده بود که به اعتراضات ادامه دهند تا خواسته‌هایشان برآورده شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "By the end of the campaign, the leader will have exhorted the public so effectively that widespread change will be inevitable.",
+                    "persian": "تا پایان کمپین، رهبر آنقدر مؤثر مردم را تشویق خواهد کرد که تغییر گسترده اجتناب‌ناپذیر خواهد بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "insufferable",
+            "pronunciation": {
+                "british": "/ɪnˈsʌf(ə)rəb(ə)l/",
+                "usa": "/ɪnˈsʌfərəb(ə)l/"
+            },
+            "meaning": "too extreme to bear",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The insufferable heat, which has persisted for weeks, has caused widespread discomfort and health issues.",
+                    "persian": "گرمای غیرقابل تحمل، که هفته‌ها ادامه داشته است، باعث ناراحتی گسترده و مشکلات سلامتی شده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the noise levels were to increase, the situation would become insufferable for the residents living nearby.",
+                    "persian": "اگر سطح سر و صدا افزایش یابد، وضعیت برای ساکنان اطراف غیرقابل تحمل خواهد شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "The traveler complained, 'The insufferable delays, which were caused by mismanagement, ruined our entire trip.'",
+                    "persian": "مسافر شکایت کرد: 'تأخیرهای غیرقابل تحمل، که ناشی از سوء مدیریت بود، کل سفر ما را خراب کرد.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "connective relative clause",
+                        "despite"
+                    ],
+                    "english": "Despite the insufferable conditions, the workers have continued to labor tirelessly to meet the deadline.",
+                    "persian": "علیرغم شرایط غیرقابل تحمل، کارگران به طور خستگی‌ناپذیر برای رسیدن به مهلت مقرر ادامه داده‌اند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "The government will address the insufferable traffic congestion so that the city can function more efficiently.",
+                    "persian": "دولت ترافیک غیرقابل تحمل را برطرف خواهد کرد تا شهر بتواند به طور کارآمدتری عمل کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "impertinent",
+            "pronunciation": {
+                "british": "/ɪmˈpɜːtɪnənt/",
+                "usa": "/ɪmˈpɜːrtənənt/"
+            },
+            "meaning": "not showing the proper respect; cheeky",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The impertinent student, who often interrupts the lectures, has been warned about his behavior multiple times.",
+                    "persian": "دانشجوی بی‌ادب، که اغلب سخنرانی‌ها را قطع می‌کند، چندین بار در مورد رفتارش هشدار دریافت کرده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the employee continues to make impertinent remarks, he might face disciplinary action from the management.",
+                    "persian": "اگر کارمند به اظهارات بی‌ادبانه ادامه دهد، ممکن است با اقدامات انضباطی از سوی مدیریت مواجه شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "The manager was reprimanding the intern, saying, 'Your impertinent attitude, which is unacceptable, must change immediately.'",
+                    "persian": "مدیر در حال توبیخ کارآموز بود و گفت: 'نگرش بی‌ادبانه شما، که غیرقابل قبول است، باید فوراً تغییر کند.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "connective relative clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of the impertinent comments made during the meeting, the speaker had maintained her composure throughout.",
+                    "persian": "علیرغم نظرات بی‌ادبانه‌ای که در جلسه مطرح شد، سخنران در طول جلسه آرامش خود را حفظ کرده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "The teacher will address the impertinent behavior in class so that a respectful learning environment can be maintained.",
+                    "persian": "معلم رفتار بی‌ادبانه در کلاس را برطرف خواهد کرد تا محیط یادگیری محترمانه‌ای حفظ شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "unconscionable",
+            "pronunciation": {
+                "british": "/ʌnˈkɒnʃ(ə)nəb(ə)l/",
+                "usa": "/ʌnˈkɑːnʃ(ə)nəb(ə)l/"
+            },
+            "meaning": "horrible and deplorable; unreasonably excessive",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The unconscionable exploitation of workers, which has been documented extensively, must be addressed by policymakers.",
+                    "persian": "استثمار غیرقابل قبول کارگران، که به طور گسترده مستند شده است، باید توسط سیاست‌گذاران مورد توجه قرار گیرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the company were to continue its unconscionable practices, it would face severe backlash from the public.",
+                    "persian": "اگر شرکت به اقدامات غیرقابل قبول خود ادامه دهد، با واکنش شدید عمومی مواجه خواهد شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "The journalist wrote, 'The unconscionable decision, which ignored the welfare of thousands, has sparked widespread outrage.'",
+                    "persian": "روزنامه‌نگار نوشت: 'تصمیم غیرقابل قبول، که رفاه هزاران نفر را نادیده گرفت، خشم گسترده‌ای را برانگیخته است.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "connective relative clause",
+                        "despite"
+                    ],
+                    "english": "Despite the unconscionable delays in the project, the team has managed to deliver some results on time.",
+                    "persian": "علیرغم تأخیرهای غیرقابل قبول در پروژه، تیم توانسته است برخی نتایج را به موقع ارائه دهد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "The government will take action against unconscionable pricing practices so that consumers are protected from exploitation.",
+                    "persian": "دولت علیه روش‌های قیمت‌گذاری غیرقابل قبول اقدام خواهد کرد تا مصرف‌کنندگان از استثمار محافظت شوند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "immaterial",
+            "pronunciation": {
+                "british": "/ˌɪməˈtɪərɪəl/",
+                "usa": "/ˌɪməˈtɪriəl/"
+            },
+            "meaning": "not significant or relevant",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The immaterial details, which do not affect the outcome, should be omitted from the final report.",
+                    "persian": "جزئیات بی‌اهمیت، که بر نتیجه تأثیری ندارند، باید از گزارش نهایی حذف شوند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the evidence is deemed immaterial, the court may dismiss it as irrelevant to the case.",
+                    "persian": "اگر شواهد بی‌اهمیت تلقی شوند، دادگاه ممکن است آن را به عنوان نامربوط به پرونده رد کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "The lawyer was arguing, 'The immaterial facts, which the prosecution has highlighted, should not influence the jury’s decision.'",
+                    "persian": "وکیل استدلال می‌کرد: 'حقایق بی‌اهمیت، که دادستان برجسته کرده است، نباید بر تصمیم هیئت منصفه تأثیر بگذارد.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "connective relative clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of the immaterial objections raised, the committee had approved the proposal unanimously.",
+                    "persian": "علیرغم اعتراضات بی‌اهمیت مطرح شده، کمیته پیشنهاد را به طور یک‌صدا تأیید کرده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "The editor will remove immaterial information from the article so that it remains concise and focused.",
+                    "persian": "ویراستار اطلاعات بی‌اهمیت را از مقاله حذف خواهد کرد تا مختصر و متمرکز باقی بماند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "inflammable",
+            "pronunciation": {
+                "british": "/ɪnˈflaməb(ə)l/",
+                "usa": "/ɪnˈflæməb(ə)l/"
+            },
+            "meaning": "easily lit on fire",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The inflammable materials, which are stored in the warehouse, pose a significant risk to the surrounding area.",
+                    "persian": "مواد قابل اشتعال، که در انبار نگهداری می‌شوند، خطر قابل توجهی برای منطقه اطراف ایجاد می‌کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the inflammable substances were to ignite, the entire facility could be engulfed in flames within minutes.",
+                    "persian": "اگر مواد قابل اشتعال آتش بگیرند، کل تأسیسات می‌تواند در عرض چند دقیقه در شعله‌ها غرق شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "The firefighter warned, 'The inflammable chemicals, which were improperly stored, caused the rapid spread of the fire.'",
+                    "persian": "آتش‌نشان هشدار داد: 'مواد شیمیایی قابل اشتعال، که به درستی ذخیره نشده بودند، باعث گسترش سریع آتش شدند.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "connective relative clause",
+                        "despite"
+                    ],
+                    "english": "Despite the inflammable nature of the materials, the workers have managed to handle them safely for years.",
+                    "persian": "علیرغم ماهیت قابل اشتعال مواد، کارگران توانسته‌اند سال‌ها آنها را به طور ایمن مدیریت کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "The company will implement stricter safety protocols for inflammable substances so that accidents can be prevented.",
+                    "persian": "شرکت پروتکل‌های ایمنی سخت‌گیرانه‌تری برای مواد قابل اشتعال اجرا خواهد کرد تا از حوادث جلوگیری شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "unnerve",
+            "pronunciation": {
+                "british": "/ʌnˈnɜːv/",
+                "usa": "/ʌnˈnɜːrv/"
+            },
+            "meaning": "make (someone) lose courage or confidence",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The constant criticism, which is intended to unnerve the opponent, has only strengthened her resolve to succeed.",
+                    "persian": "انتقاد مداوم، که هدف آن تضعیف روحیه حریف است، فقط عزم او را برای موفقیت تقویت کرده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the pressure continues to unnerve the team, their performance in the next match may suffer significantly.",
+                    "persian": "اگر فشار به تضعیف روحیه تیم ادامه دهد، عملکرد آنها در بازی بعدی ممکن است به شدت آسیب ببیند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adjective clause"
+                    ],
+                    "english": "The coach was reassuring the players, saying, 'Do not let the opponent’s tactics unnerve you, which are designed to distract.'",
+                    "persian": "مربی به بازیکنان اطمینان می‌داد و گفت: 'اجازه ندهید تاکتیک‌های حریف، که برای حواس‌پرتی طراحی شده‌اند، شما را تضعیف کنند.'",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "connective relative clause",
+                        "in spite of"
+                    ],
+                    "english": "In spite of the attempts to unnerve her, the speaker had delivered her presentation with confidence and clarity.",
+                    "persian": "علیرغم تلاش‌ها برای تضعیف روحیه او، سخنران ارائه خود را با اعتماد به نفس و وضوح ارائه کرده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "so that"
+                    ],
+                    "english": "The mentor will help the candidate prepare for the interview so that the challenging questions do not unnerve her.",
+                    "persian": "مربی به کاندیدا کمک می‌کند تا برای مصاحبه آماده شود تا سؤالات چالش‌برانگیز او را تضعیف نکند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,821 @@
+{
+    "examples": [
+        {
+            "word": "Abate",
+            "pronunciation": {
+                "british": "əˈbeɪt",
+                "usa": "əˈbeɪt"
+            },
+            "meaning": "to become less intense or widespread",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "passive voice",
+                        "adverb clause"
+                    ],
+                    "english": "The storm has finally abated, although it continues to cause damage in some areas.",
+                    "persian": "طوفان بالاخره فروکش کرده است، هرچند که هنوز در برخی مناطق باعث آسیب می‌شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:33:35"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "conditional 1",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "If the noise abates, we will be able to focus on our work, which requires full attention.",
+                    "persian": "اگر سر و صدا فروکش کند، ما قادر خواهیم بود بر کار خود تمرکز کنیم که نیاز به توجه کامل دارد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:51:18"
+                },
+                {
+                    "grammar": [
+                        "present continuous",
+                        "so that",
+                        "noun clause"
+                    ],
+                    "english": "The government is taking action so that the effects of climate change can abate in the coming years.",
+                    "persian": "دولت در حال اقدام است تا اثرات تغییرات اقلیمی در سال‌های آینده کاهش یابد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:57:50"
+                }
+            ]
+        },
+        {
+            "word": "Subside",
+            "pronunciation": {
+                "british": "səbˈsaɪd",
+                "usa": "səbˈsaɪd"
+            },
+            "meaning": "to become less strong or intense",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adverb clause",
+                        "so"
+                    ],
+                    "english": "Once the pain subsides, you will feel much better, so you can resume your normal activities.",
+                    "persian": "وقتی که درد کاهش یابد، احساس بهتری خواهید داشت، بنابراین می‌توانید فعالیت‌های عادی خود را از سر بگیرید.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:14:57"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "The effects of the storm had subsided by the time emergency teams arrived, although some regions were still affected.",
+                    "persian": "تأثیرات طوفان تا زمانی که تیم‌های اضطراری رسیدند کاهش یافته بود، هرچند که برخی مناطق هنوز تحت تأثیر قرار داشتند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:20:18"
+                },
+                {
+                    "grammar": [
+                        "conditional 2",
+                        "modals",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "If the floodwaters subsided, the community would have been able to rebuild the homes that were destroyed.",
+                    "persian": "اگر آب‌های سیلاب کاهش می‌یافت، جامعه می‌توانست خانه‌هایی را که تخریب شده بودند، بازسازی کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:33:19"
+                }
+            ]
+        },
+        {
+            "word": "Altruistic",
+            "pronunciation": {
+                "british": "ˌæl.truˈɪs.tɪk",
+                "usa": "ˌæl.truˈɪs.tɪk"
+            },
+            "meaning": "showing a selfless concern for others",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "Her altruistic behavior, which consistently prioritizes others' needs, has made a significant impact in the community.",
+                    "persian": "رفتار نوع‌دوستانه او، که همواره نیازهای دیگران را در اولویت قرار می‌دهد، تأثیر زیادی در جامعه گذاشته است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:08:15"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "modals",
+                        "so that"
+                    ],
+                    "english": "She was volunteering at the shelter so that the less fortunate could receive the help they needed.",
+                    "persian": "او در پناهگاه داوطلبانه فعالیت می‌کرد تا افراد کم‌بخت کمک مورد نیازشان را دریافت کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:53:43"
+                },
+                {
+                    "grammar": [
+                        "conditional 1",
+                        "passive voice",
+                        "noun clause"
+                    ],
+                    "english": "If more people adopt an altruistic mindset, social inequality will be reduced, leading to a more harmonious society.",
+                    "persian": "اگر افراد بیشتری ذهنیت نوع‌دوستانه را بپذیرند، نابرابری اجتماعی کاهش خواهد یافت و به جامعه‌ای هماهنگ‌تر منتهی خواهد شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:18:01"
+                }
+            ]
+        },
+        {
+            "word": "Forthright",
+            "pronunciation": {
+                "british": "ˈfɔːθraɪt",
+                "usa": "ˈfɔːrθraɪt"
+            },
+            "meaning": "direct and outspoken",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "so that"
+                    ],
+                    "english": "His forthright manner, which often causes discomfort in formal settings, is appreciated in open discussions so that issues are addressed promptly.",
+                    "persian": "روش صریح او، که اغلب در محیط‌های رسمی ناراحتی ایجاد می‌کند، در بحث‌های باز ارزیابی می‌شود تا مسائل سریعاً حل شوند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:17:32"
+                },
+                {
+                    "grammar": [
+                        "conditional 2",
+                        "adverb clause",
+                        "too"
+                    ],
+                    "english": "If he were more forthright, he could have avoided such misunderstandings, which are too frequent in ambiguous communications.",
+                    "persian": "اگر او صریح‌تر بود، می‌توانست از چنین سوءتفاهم‌هایی که در ارتباطات مبهم بسیار رایج است، اجتناب کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:58:47"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "indirect speech",
+                        "noun clause"
+                    ],
+                    "english": "He had said that his forthright approach had been misunderstood by his colleagues, who preferred more indirect methods.",
+                    "persian": "او گفته بود که رویکرد صریح او توسط همکارانش که روش‌های غیرمستقیم‌تر را ترجیح می‌دادند، سوءتفاهم شده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:41:58"
+                }
+            ]
+        },
+        {
+            "word": "Enfeeble",
+            "pronunciation": {
+                "british": "ɪnˈfiːbəl",
+                "usa": "ɪnˈfiːbəl"
+            },
+            "meaning": "to make weak or feeble",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "modals",
+                        "so that"
+                    ],
+                    "english": "The excessive workload has enfeebled the workers, so they need more rest in order to continue performing effectively.",
+                    "persian": "بار کاری زیاد کارگران را ضعیف کرده است، بنابراین آنها به استراحت بیشتری نیاز دارند تا بتوانند به طور مؤثر ادامه دهند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:04:40"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "adverb clause",
+                        "although"
+                    ],
+                    "english": "The disease was enfeebling her body, although her determination to recover remained strong.",
+                    "persian": "بیماری بدن او را ضعیف می‌کرد، هرچند که اراده‌اش برای بهبودی همچنان قوی باقی مانده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:13:27"
+                },
+                {
+                    "grammar": [
+                        "conditional 0",
+                        "passive voice",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "If the body is enfeebled by the lack of nutrients, its ability to fight infections is significantly reduced.",
+                    "persian": "اگر بدن به دلیل کمبود مواد مغذی ضعیف شود، توانایی آن برای مبارزه با عفونت‌ها به طور قابل توجهی کاهش می‌یابد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:05:07"
+                }
+            ]
+        },
+        {
+            "word": "Incapacitate",
+            "pronunciation": {
+                "british": "ɪnˈkæpɪˌteɪt",
+                "usa": "ɪnˈkæpɪˌteɪt"
+            },
+            "meaning": "to prevent from functioning in normal ways",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "conditional 2",
+                        "adverb clause"
+                    ],
+                    "english": "The accident incapacitated him for several months, which prevented him from returning to his regular activities.",
+                    "persian": "حادثه او را برای چندین ماه ناتوان کرد که او را از بازگشت به فعالیت‌های معمولش باز داشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:28:44"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (non-definitive)",
+                        "although"
+                    ],
+                    "english": "The policy changes have incapacitated many workers, although some have adapted to the new conditions.",
+                    "persian": "تغییرات سیاست‌ها بسیاری از کارگران را ناتوان کرده است، هرچند که برخی از آنها به شرایط جدید سازگار شده‌اند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:45:34"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "so that",
+                        "adjective clause"
+                    ],
+                    "english": "The new safety protocols will be implemented so that they incapacitate fewer workers and ensure better protection.",
+                    "persian": "پروتکل‌های ایمنی جدید به اجرا در خواهند آمد تا تعداد کمتری از کارگران را ناتوان کنند و محافظت بهتری را تضمین کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:23:12"
+                }
+            ]
+        },
+        {
+            "word": "Sap",
+            "pronunciation": {
+                "british": "sæp",
+                "usa": "sæp"
+            },
+            "meaning": "to drain or deplete strength or energy",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "adverb clause",
+                        "so"
+                    ],
+                    "english": "The constant stress at work saps her energy, so she often feels fatigued by the end of the day.",
+                    "persian": "استرس مداوم در کار انرژی او را می‌کاهد، بنابراین او اغلب در پایان روز احساس خستگی می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:09:31"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "The excessive workload had sapped his enthusiasm, despite his initial excitement for the project.",
+                    "persian": "بار کاری زیاد شور و شوق او را کاهش داده بود، با وجود هیجان اولیه‌اش برای پروژه.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:54:17"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adjective clause",
+                        "so that"
+                    ],
+                    "english": "The long hours will sap your motivation, so it is essential to take regular breaks so that you remain productive.",
+                    "persian": "ساعات طولانی انگیزه شما را می‌کاهد، بنابراین ضروری است که استراحت‌های منظم داشته باشید تا همچنان مولد باقی بمانید.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:23:48"
+                }
+            ]
+        },
+        {
+            "word": "Engender",
+            "pronunciation": {
+                "british": "ɪnˈdʒɛndə",
+                "usa": "ɪnˈdʒɛndər"
+            },
+            "meaning": "to cause or give rise to a feeling, situation, or condition",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "so that"
+                    ],
+                    "english": "The new policy engenders feelings of discontent among employees, so the management is considering revising it.",
+                    "persian": "سیاست جدید احساس نارضایتی را در میان کارمندان ایجاد می‌کند، بنابراین مدیریت در حال بررسی تغییر آن است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:43:35"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "indirect speech",
+                        "although"
+                    ],
+                    "english": "The recent changes in leadership engendered widespread skepticism, although many were hopeful for a better future.",
+                    "persian": "تغییرات اخیر در رهبری شک و تردید گسترده‌ای را ایجاد کرد، هرچند که بسیاری امیدوار به آینده‌ای بهتر بودند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:47:55"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "noun clause",
+                        "so that"
+                    ],
+                    "english": "The reforms will have engendered a more positive work environment by the time the new strategy is implemented, so that all employees can thrive.",
+                    "persian": "اصلاحات تا زمانی که استراتژی جدید به اجرا درآید، محیط کاری مثبت‌تری ایجاد خواهد کرد، به طوری که همه کارمندان بتوانند رشد کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:39:24"
+                }
+            ]
+        },
+        {
+            "word": "Gullible",
+            "pronunciation": {
+                "british": "ˈɡʌlɪbəl",
+                "usa": "ˈɡʌlɪbəl"
+            },
+            "meaning": "easily deceived or tricked",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "conditional 1",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "Gullible individuals are often targeted by scammers, who exploit their naivety for personal gain.",
+                    "persian": "افراد ساده‌لوح اغلب توسط کلاهبرداران هدف قرار می‌گیرند که از بی‌پولی آنها برای منافع شخصی سوءاستفاده می‌کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:46:22"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "modals",
+                        "so"
+                    ],
+                    "english": "He had been so gullible that he believed every piece of fake news, causing confusion among his peers.",
+                    "persian": "او آنقدر ساده‌لوح بود که هر خبری را کهجعلی بود باور می‌کرد، که موجب سردرگمی در میان همکارانش شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:34:08"
+                },
+                {
+                    "grammar": [
+                        "conditional 2",
+                        "passive voice",
+                        "so that"
+                    ],
+                    "english": "If the gullible customer were better informed, they would not have been manipulated by the deceptive advertising, so they could make more rational decisions.",
+                    "persian": "اگر مشتری ساده‌لوح بهتر آگاه می‌بود، توسط تبلیغات فریبکارانه دستکاری نمی‌شد، بنابراین می‌توانست تصمیمات منطقی‌تری بگیرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:26:14"
+                }
+            ]
+        },
+        {
+            "word": "Credulous",
+            "pronunciation": {
+                "british": "ˈkrɛdʒʊləs",
+                "usa": "ˈkrɛdʒələs"
+            },
+            "meaning": "having too much trust in others and therefore being easily deceived",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (non-definitive)",
+                        "though"
+                    ],
+                    "english": "Credulous people, though well-meaning, often fall victim to fraudulent schemes, which can have disastrous consequences.",
+                    "persian": "افراد ساده‌دل، هرچند با نیت خوب، اغلب قربانی طرح‌های تقلبی می‌شوند که می‌تواند پیامدهای فاجعه‌باری داشته باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:52:23"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "so that",
+                        "noun clause"
+                    ],
+                    "english": "The credulous shopper was being misled by exaggerated claims so that they bought unnecessary products.",
+                    "persian": "خریدار ساده‌دل توسط ادعاهای اغراق‌آمیز فریب می‌خورد تا کالاهای غیرضروری بخرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:53:02"
+                },
+                {
+                    "grammar": [
+                        "conditional 1",
+                        "passive voice",
+                        "so"
+                    ],
+                    "english": "If the credulous audience were more skeptical, they would not have been swayed by the biased opinions presented in the media, so they could form independent judgments.",
+                    "persian": "اگر مخاطبان ساده‌دل کمی شکاک‌تر بودند، تحت تأثیر نظرات مغرضانه‌ای که در رسانه‌ها ارائه شده بود قرار نمی‌گرفتند، بنابراین می‌توانستند قضاوت‌های مستقل‌تری داشته باشند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:38:29"
+                }
+            ]
+        },
+        {
+            "word": "Hackneyed",
+            "pronunciation": {
+                "british": "ˈhæknid",
+                "usa": "ˈhæknid"
+            },
+            "meaning": "lacking originality due to overuse; cliché",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The hackneyed phrases used in his speech, which had been repeated countless times before, failed to engage the audience, although they were meant to inspire.",
+                    "persian": "عبارات کهنه‌ای که در سخنرانی او استفاده شده بود، که بارها قبلاً تکرار شده بودند، نتوانستند مخاطب را جذب کنند، هرچند که قرار بود الهام‌بخش باشند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:51:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "passive voice",
+                        "so that"
+                    ],
+                    "english": "By the end of the workshop, the hackneyed ideas will have been replaced with fresh, innovative concepts so that participants are better equipped for the challenges ahead.",
+                    "persian": "تا پایان کارگاه، ایده‌های کهنه با مفاهیم نو و خلاقانه جایگزین خواهند شد تا شرکت‌کنندگان بهتر برای چالش‌های پیش رو آماده شوند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:42:59"
+                },
+                {
+                    "grammar": [
+                        "conditional 2",
+                        "adjective clause",
+                        "so"
+                    ],
+                    "english": "If the hackneyed clichés were avoided, the presentation would have been more impactful, so the organizers will revise their content.",
+                    "persian": "اگر از کلیشه‌های کهنه اجتناب می‌شد، ارائه تأثیرگذارتر می‌بود، بنابراین برگزارکنندگان محتوای خود را بازبینی خواهند کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:48:55"
+                }
+            ]
+        },
+        {
+            "word": "Cliché",
+            "pronunciation": {
+                "british": "ˈkliːʃeɪ",
+                "usa": "ˈkliːʃeɪ"
+            },
+            "meaning": "an idea or phrase that has been overused to the point of losing its original meaning",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "relative clause (definitive)",
+                        "so"
+                    ],
+                    "english": "The movie relied heavily on clichés, which made it predictable and unoriginal, so viewers quickly lost interest.",
+                    "persian": "فیلم به شدت به کلیشه‌ها تکیه کرده بود، که آن را پیش‌بینی‌پذیر و غیراصیل می‌کرد، بنابراین بینندگان به سرعت علاقه خود را از دست دادند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:32:46"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "passive voice",
+                        "though"
+                    ],
+                    "english": "The idea of destiny has been clichéd in literature, though it still resonates with readers seeking comfort in the face of uncertainty.",
+                    "persian": "ایده سرنوشت در ادبیات به کلیشه تبدیل شده است، هرچند که هنوز با خوانندگانی که در برابر عدم اطمینان به دنبال آرامش هستند، ارتباط برقرار می‌کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:52:32"
+                },
+                {
+                    "grammar": [
+                        "conditional 1",
+                        "adverb clause",
+                        "so"
+                    ],
+                    "english": "If the author had avoided the clichéd tropes, their work would have felt more authentic, so it would have appealed to a wider audience.",
+                    "persian": "اگر نویسنده از عناصر کلیشه‌ای اجتناب کرده بود، کار او اصیل‌تر به نظر می‌رسید، بنابراین برای مخاطبان بیشتری جذابیت پیدا می‌کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:31:53"
+                }
+            ]
+        },
+        {
+            "word": "Trite",
+            "pronunciation": {
+                "british": "traɪt",
+                "usa": "traɪt"
+            },
+            "meaning": "overused and consequently lacking in originality or freshness",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "noun clause",
+                        "so"
+                    ],
+                    "english": "The trite expressions used in the debate are so predictable that the audience lost interest quickly.",
+                    "persian": "عبارات تکراری که در مناظره استفاده شد آنقدر پیش‌بینی‌پذیر بودند که مخاطبان به سرعت علاقه خود را از دست دادند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:50:23"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "conditional 2",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "The speakers had used trite arguments, which, if avoided, might have resulted in a more engaging and productive discussion.",
+                    "persian": "سخنرانان از استدلال‌های کلیشه‌ای استفاده کرده بودند که اگر اجتناب می‌شد، ممکن بود به یک بحث جذاب‌تر و مولدتر منتهی شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:41:34"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "By the time the seminar ends, the speaker will still be using trite phrases, although they could have chosen more innovative language.",
+                    "persian": "تا زمانی که سمینار تمام شود، سخنران هنوز از عبارات تکراری استفاده خواهد کرد، هرچند که می‌توانست زبان نوآورانه‌تری را انتخاب کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:47:36"
+                }
+            ]
+        },
+        {
+            "word": "Banal",
+            "pronunciation": {
+                "british": "bəˈnɑːl",
+                "usa": "bəˈnæl"
+            },
+            "meaning": "lacking originality, freshness, or novelty; dull",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "relative clause (definitive)",
+                        "although"
+                    ],
+                    "english": "The writer has produced a banal piece of work, which, although technically well-executed, fails to engage the reader.",
+                    "persian": "نویسنده اثر بی‌روحی تولید کرده است که هرچند از نظر فنی خوب اجرا شده است، اما نتواسته مخاطب را جذب کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:19:35"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "passive voice",
+                        "so that"
+                    ],
+                    "english": "The ideas presented will be regarded as banal, so that the committee will likely reject the proposal.",
+                    "persian": "ایده‌های ارائه‌شده به عنوان ایده‌های بی‌روح در نظر گرفته خواهند شد، بنابراین احتمالاً کمیته پیشنهاد را رد خواهد کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:25:47"
+                },
+                {
+                    "grammar": [
+                        "conditional 1",
+                        "adverb clause",
+                        "so"
+                    ],
+                    "english": "If the artist avoids using banal imagery, the artwork will be more impactful, so it will attract more viewers.",
+                    "persian": "اگر هنرمند از تصاویر بی‌روح اجتناب کند، اثر هنری تأثیرگذارتر خواهد بود، بنابراین بینندگان بیشتری را جذب خواهد کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:56:05"
+                }
+            ]
+        },
+        {
+            "word": "Impetuous",
+            "pronunciation": {
+                "british": "ɪmˈpɛtʃʊəs",
+                "usa": "ɪmˈpɛtʃʊəs"
+            },
+            "meaning": "acting or done quickly without thought or care",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "adjective clause",
+                        "so"
+                    ],
+                    "english": "His impetuous decision, which was made without consulting anyone, led to unforeseen consequences, so he regretted it later.",
+                    "persian": "تصمیم شتابزده او که بدون مشورت با کسی گرفته شده بود، به عواقب پیش‌بینی‌نشده منجر شد، بنابراین بعداً از آن پشیمان شد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:04:03"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "conditional 2",
+                        "although"
+                    ],
+                    "english": "His impetuous actions have resulted in various problems, although if he had taken a moment to think, he could have avoided them.",
+                    "persian": "اقدامات شتابزده او منجر به مشکلات مختلفی شده است، هرچند که اگر زمانی برای فکر کردن می‌داشت، می‌توانست از آن‌ها اجتناب کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:35:28"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "so that",
+                        "in spite of"
+                    ],
+                    "english": "By the time the project is completed, the impetuous decisions made during the planning phase will have been rectified, so that the final product meets the original expectations in spite of early setbacks.",
+                    "persian": "تا زمانی که پروژه تکمیل شود، تصمیمات شتابزده‌ای که در مرحله برنامه‌ریزی گرفته شده بود، اصلاح خواهند شد، به طوری که محصول نهایی علیرغم مشکلات اولیه با انتظارات اولیه همخوانی خواهد داشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:06:48"
+                }
+            ]
+        },
+        {
+            "word": "Lethargic",
+            "pronunciation": {
+                "british": "lɪˈθɑːdʒɪk",
+                "usa": "lɪˈθɑːrdʒɪk"
+            },
+            "meaning": "sluggish and lacking energy",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "so"
+                    ],
+                    "english": "The lethargic employee, who has been working long hours, often struggles to maintain focus, so productivity suffers.",
+                    "persian": "کارمند سست و بی‌حوصله، که ساعت‌های طولانی کار کرده است، اغلب در حفظ تمرکز مشکل دارد، بنابراین تولید کاهش می‌یابد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:45:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "He had felt lethargic all week, although he was able to push through and complete his tasks on time.",
+                    "persian": "او تمام هفته احساس کسلی می‌کرد، هرچند توانست از عهده کارهای خود برآید و آن‌ها را به موقع تکمیل کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:12:35"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "noun clause",
+                        "so"
+                    ],
+                    "english": "By tomorrow, the lethargic symptoms will be diminishing, so he will be able to return to work without any issues.",
+                    "persian": "تا فردا، علائم کسلی کاهش خواهد یافت، بنابراین او قادر خواهد بود بدون هیچ مشکلی به کار خود بازگردد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-02-05 14:34:42"
+                }
+            ]
+        },
+        {
+            "word": "Listless",
+            "pronunciation": {
+                "british": "ˈlɪstlɪs",
+                "usa": "ˈlɪstləs"
+            },
+            "meaning": "showing no energy or enthusiasm",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "adverb clause",
+                        "although"
+                    ],
+                    "english": "She is feeling listless today, although she had been full of energy the previous day.",
+                    "persian": "او امروز احساس بی‌حالی می‌کند، هرچند که روز گذشته پر از انرژی بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:59:25"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "He was acting listless, so that everyone around him became concerned about his well-being, although he denied any health issues.",
+                    "persian": "او بی‌حوصله رفتار می‌کرد، به طوری که همه اطرافیانش نگران سلامتی‌اش شدند، هرچند که او هر گونه مشکل سلامتی را انکار کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:36:58"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "conditional 2",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "By the time the meeting is held, she will have overcome her listlessness, which will allow her to contribute more effectively to the discussion.",
+                    "persian": "تا زمانی که جلسه برگزار شود، او کسلی خود را پشت سر گذاشته خواهد بود، که به او این امکان را می‌دهد تا مؤثرتر در بحث شرکت کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:00:36"
+                }
+            ]
+        },
+        {
+            "word": "Sluggish",
+            "pronunciation": {
+                "british": "ˈslʌɡɪʃ",
+                "usa": "ˈslʌɡɪʃ"
+            },
+            "meaning": "slow-moving or lacking in energy",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adverb clause",
+                        "so"
+                    ],
+                    "english": "The sluggish response from the server has caused delays, so the project is behind schedule.",
+                    "persian": "پاسخ کند از سرور باعث تأخیر شده است، بنابراین پروژه از برنامه عقب افتاده است.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 15:54:59"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "conditional 2",
+                        "so"
+                    ],
+                    "english": "The team’s sluggish performance led to a lost opportunity, so they should have worked harder to meet the deadline.",
+                    "persian": "عملکرد کند تیم به از دست دادن فرصتی منجر شد، بنابراین باید سخت‌تر کار می‌کردند تا ضرب‌الاجل را رعایت کنند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 14:54:34"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "so that",
+                        "adjective clause"
+                    ],
+                    "english": "The system will be running sluggishly during the update, so that users can expect some delays in processing.",
+                    "persian": "سیستم در طول به‌روزرسانی به آرامی اجرا خواهد شد، بنابراین کاربران می‌توانند انتظار برخی تأخیرات در پردازش داشته باشند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:49:51"
+                }
+            ]
+        },
+        {
+            "word": "Languid",
+            "pronunciation": {
+                "british": "ˈlæŋɡwɪd",
+                "usa": "ˈlæŋɡwɪd"
+            },
+            "meaning": "weak or faint from illness or exhaustion",
+            "examples": [
+                {
+                    "grammar": [
+                        "past perfect",
+                        "relative clause (non-definitive)",
+                        "although"
+                    ],
+                    "english": "The languid condition of the patient, although not life-threatening, required immediate medical attention.",
+                    "persian": "وضعیت ضعیف بیمار، هرچند که تهدیدی برای زندگی نداشت، نیاز به توجه فوری پزشکی داشت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:02:45"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "conditional 1",
+                        "so that"
+                    ],
+                    "english": "By next week, the languid symptoms will have improved so that she can resume her normal activities without difficulty.",
+                    "persian": "تا هفته آینده، علائم ضعیف بهبود خواهد یافت تا او بتواند به فعالیت‌های معمول خود بدون مشکل ادامه دهد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:27:45"
+                },
+                {
+                    "grammar": [
+                        "present simple",
+                        "passive voice",
+                        "so"
+                    ],
+                    "english": "The languid mood of the office is often caused by the long hours, so the management plans to implement a better work-life balance.",
+                    "persian": "فضای بی‌حال اداره اغلب به دلیل ساعات طولانی کار است، بنابراین مدیریت قصد دارد تعادل بهتری بین کار و زندگی برقرار کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 15:15:48"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,529 @@
+{
+    "examples": [
+        {
+            "word": "intimate",
+            "examples": [
+                {
+                    "english": "She intimated her disapproval through a series of carefully chosen words, leaving no room for direct confrontation but making her stance unmistakably clear.",
+                    "persian": "او با انتخاب دقیق کلمات، مخالفت خود را به طور غیرمستقیم بیان کرد، بدون اینکه به رویارویی مستقیم منجر شود، اما موضع خود را به وضوح مشخص کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 12:50:48"
+                },
+                {
+                    "english": "His tone, though ostensibly neutral, intimated a deeper dissatisfaction with the current state of affairs, hinting at underlying tensions.",
+                    "persian": "با اینکه لحن او ظاهراً بیطرف بود، نارضایتی عمیقتری از وضعیت فعلی را القا میکرد و به تنشهای پنهان اشاره داشت.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:22:46"
+                },
+                {
+                    "english": "The artist’s use of shadow and light in the painting intimated a sense of melancholy, subtly evoking emotions that words could scarcely capture.",
+                    "persian": "استفاده هنرمند از سایه و نور در نقاشی، حس غمگینی را به طور غیرمستقیم القا میکرد و به ظرافت احساساتی را برمیانگیخت که کلمات به سختی میتوانستند بیان کنند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-01 17:30:25"
+                },
+                {
+                    "english": "Through a series of veiled remarks, the diplomat intimated that the negotiations might not proceed as smoothly as initially anticipated.",
+                    "persian": "دیپلمات با مجموعهای از اظهارات غیرمستقیم، این موضوع را القا کرد که مذاکرات ممکن است آنطور که در ابتدا انتظار میرفت، به آرامی پیش نرود.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:24:37"
+                },
+                {
+                    "english": "The novel’s protagonist never explicitly stated her fears, but the author intimated them through fragmented memories and elusive imagery.",
+                    "persian": "شخصیت اصلی رمان هرگز ترسهای خود را به صراحت بیان نکرد، اما نویسنده آنها را از طریق خاطرات پراکنده و تصاویر مبهم به طور غیرمستقیم القا کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:04:14"
+                }
+            ]
+        },
+        {
+            "word": "telling",
+            "examples": [
+                {
+                    "english": "The subtle shift in her demeanor was telling, revealing an underlying anxiety that she had tried so hard to conceal.",
+                    "persian": "تغییر نامحسوس در رفتارش گویا بود و اضطراب پنهانی را که سعی کرده بود پنهان کند، آشکار میکرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:12:39"
+                },
+                {
+                    "english": "The worn-out pages of the journal were telling, revealing the countless nights he had spent pouring his thoughts onto paper.",
+                    "persian": "صفحات فرسودهٔ دفتر خاطرات گویا بود و شبهای بیشماری را که او به افکارش روی کاغذ میریخت، آشکار میکرد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-02-04 14:21:53"
+                },
+                {
+                    "english": "The hesitation in his voice was telling, revealing a lack of confidence in the plan he was presenting.",
+                    "persian": "تعلل در صدایش گویا بود و عدم اطمینان به برنامهای که ارائه میداد را آشکار میکرد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-30 20:26:00"
+                },
+                {
+                    "english": "The way she avoided eye contact during the conversation was telling, revealing her discomfort with the topic at hand.",
+                    "persian": "طوری که او در طول گفتگو از تماس چشمی اجتناب میکرد، گویا بود و ناراحتی او را نسبت به موضوع مورد بحث آشکار میکرد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-02-01 17:28:59"
+                },
+                {
+                    "english": "The deliberate omission of certain details in his report was telling, revealing a calculated attempt to steer the narrative in his favor.",
+                    "persian": "حذف عمدی جزئیات خاص در گزارشش گویا بود و تلاش حسابشدهای را برای هدایت روایت به نفع خودش آشکار میکرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:57:31"
+                }
+            ]
+        },
+        {
+            "word": "start",
+            "examples": [
+                {
+                    "english": "The cat started at the slightest rustle of leaves, darting toward the bushes with a speed that betrayed its calm demeanor moments before.",
+                    "persian": "گربه با کوچکترین صدای برگها به حرکت درآمد و با سرعتی که آرامش ظاهریاش را نقض میکرد، به سمت بوتهها شتافت.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:17:51"
+                },
+                {
+                    "english": "As the thunderclap echoed through the valley, the herd of deer started, darting in all directions like scattered shadows.",
+                    "persian": "همانطور که صدای رعد در دره طنینانداز شد، گله گوزنها به حرکت درآمدند و مانند سایههای پراکنده به همه جهات شتافتند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:11:18"
+                },
+                {
+                    "english": "The child started at the sudden burst of laughter, darting behind his mother’s legs as if seeking refuge from the unexpected sound.",
+                    "persian": "کودک با صدای ناگهانی خنده به حرکت درآمد و پشت پای مادرش پناه گرفت، گویی از آن صدای غیرمنتظره پناه میجست.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-30 20:24:00"
+                },
+                {
+                    "english": "The bird started from its perch, darting into the sky with a swiftness that left the onlookers in awe of its grace and agility.",
+                    "persian": "پرنده از جایگاه خود به حرکت درآمد و با چابکی به آسمان شتافت، به طوری که تماشاگران را مبهوت ظرافت و چالاکیاش کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:21:09"
+                },
+                {
+                    "english": "He started at the sound of his name being called, darting toward the door with a sense of urgency that suggested he had been waiting for this moment.",
+                    "persian": "او با شنیدن نامش به حرکت درآمد و با احساسی از فوریت به سمت در شتافت، گویی که منتظر این لحظه بوده است.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:22:59"
+                }
+            ]
+        },
+        {
+            "word": "wax",
+            "examples": [
+                {
+                    "english": "As the night wore on, the enthusiasm of the crowd began to wax, their cheers growing louder and more fervent with each passing moment.",
+                    "persian": "همانطور که شب پیش میرفت، اشتیاق جمعیت شروع به افزایش کرد و تشویقهایشان با گذشت هر لحظه بلندتر و پرشورتر میشد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:23:00"
+                },
+                {
+                    "english": "Her confidence seemed to wax with every successful presentation, transforming her from a hesitant speaker to a commanding presence.",
+                    "persian": "اعتماد به نفس او با هر ارائه موفقیتآمیز افزایش مییافت و او را از یک سخنران مردد به فردی با حضور مسلط تبدیل میکرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:52:46"
+                },
+                {
+                    "english": "The moon's glow began to wax, casting a silvery light over the landscape that grew brighter as the hours passed.",
+                    "persian": "نور ماه شروع به افزایش کرد و نوری نقرهای بر مناظر انداخت که با گذشت ساعات درخشانتر میشد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:14:01"
+                },
+                {
+                    "english": "His influence in the company continued to wax, his ideas gaining traction and his voice becoming more authoritative in boardroom discussions.",
+                    "persian": "نفوذ او در شرکت همچنان در حال افزایش بود، ایدههایش مقبولیت بیشتری پیدا میکرد و صدایش در بحثهای اتاق جلسات اقتدار بیشتری مییافت.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:22:37"
+                },
+                {
+                    "english": "As the festival approached, the excitement among the villagers began to wax, with preparations reaching a feverish pitch.",
+                    "persian": "همانطور که جشنواره نزدیک میشد، هیجان میان روستاییان شروع به افزایش کرد و آمادهسازیها به اوج خود رسید.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:59:34"
+                }
+            ]
+        },
+        {
+            "word": "qualify",
+            "examples": [
+                {
+                    "english": "While she praised the overall performance, she was quick to qualify her statement by pointing out the lack of attention to detail in certain scenes.",
+                    "persian": "در حالی که او از عملکرد کلی تمجید کرد، سریعاً نظر خود را با اشاره به کمتوجهی به جزئیات در برخی صحنهها محدود کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:17:13"
+                },
+                {
+                    "english": "He agreed with the proposal in principle but felt the need to qualify his support by emphasizing the importance of further research.",
+                    "persian": "او در اصل با پیشنهاد موافق بود اما احساس کرد باید حمایت خود را با تأکید بر اهمیت تحقیقات بیشتر محدود کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:43:55"
+                },
+                {
+                    "english": "The author’s argument was compelling, though she took care to qualify her conclusions by acknowledging the limitations of her data.",
+                    "persian": "استدلال نویسنده قانعکننده بود، اگرچه او دقت کرد که نتیجهگیریهای خود را با پذیرش محدودیتهای دادههایش محدود کند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:10:36"
+                },
+                {
+                    "english": "While the results were promising, the scientist chose to qualify her findings by noting that the sample size was too small to be definitive.",
+                    "persian": "در حالی که نتایج امیدوارکننده بود، دانشمند تصمیم گرفت یافتههای خود را با اشاره به اینکه حجم نمونه برای قطعی بودن بسیار کوچک است، محدود کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 12:09:24"
+                },
+                {
+                    "english": "The politician’s speech was well-received, though he made sure to qualify his promises by stating they were contingent on economic stability.",
+                    "persian": "سخنرانی سیاستمدار مورد استقبال قرار گرفت، اگرچه او اطمینان حاصل کرد که وعدههای خود را با بیان اینکه مشروط به ثبات اقتصادی هستند، محدود کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-01-31 18:54:07"
+                }
+            ]
+        },
+        {
+            "word": "miserly",
+            "examples": [
+                {
+                    "english": "His miserly habits were evident in the way he reused tea bags and turned off the heating even on the coldest winter nights.",
+                    "persian": "عادات خستگانه او در نحوه استفاده مجدد از چای کیسهای و خاموش کردن بخاری حتی در سردترین شبهای زمستان آشکار بود.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:11:16"
+                },
+                {
+                    "english": "The landlord’s miserly attitude became a source of frustration for the tenants, as he refused to spend even a penny on essential repairs.",
+                    "persian": "نگاه خستگانه صاحبخانه به منبع ناامیدی مستاجران تبدیل شد، زیرا او حتی یک پول خرد هم برای تعمیرات ضروری خرج نمیکرد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-29 00:00:28"
+                },
+                {
+                    "english": "Despite his considerable wealth, his miserly nature led him to haggle over the price of a simple cup of coffee.",
+                    "persian": "علیرغم ثروت قابل توجهش، طبیعت خستگانه او باعث میشد که بر سر قیمت یک فنجان قهوه ساده چانه بزند.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-29 08:33:35"
+                },
+                {
+                    "english": "Her miserly tendencies extended to her gift-giving, as she often presented friends with items she no longer wanted rather than buying something new.",
+                    "persian": "تمایلات خستگانه او حتی در هدیه دادن هم دیده میشد، زیرا اغلب به جای خرید چیزی جدید، وسایلی که دیگر نمیخواست را به دوستانش هدیه میداد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:18:26"
+                },
+                {
+                    "english": "The company’s miserly approach to employee benefits resulted in low morale and a high turnover rate.",
+                    "persian": "رویکرد خستگانه شرکت به مزایای کارمندان منجر به روحیه پایین و نرخ بالای ترک کار شد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-28 23:55:24"
+                }
+            ]
+        },
+        {
+            "word": "frugal",
+            "examples": [
+                {
+                    "english": "Her frugal lifestyle allowed her to save a significant portion of her income, ensuring financial stability even in uncertain times.",
+                    "persian": "سبک زندگی اقتصادی او به او امکان داد بخش قابل توجهی از درآمدش را پسانداز کند و ثبات مالی خود را حتی در دوران نامطمئن حفظ کند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-04 16:40:40"
+                },
+                {
+                    "english": "Despite his high earnings, he remained frugal, opting to repair his old car rather than splurging on a new one.",
+                    "persian": "علیرغم درآمد بالایش، او همچنان مقتصد بود و ترجیح داد ماشین قدیمیاش را تعمیر کند تا اینکه برای خرید یک ماشین جدید هزینه گزاف کند.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-28 22:25:20"
+                },
+                {
+                    "english": "The frugal use of resources in the project not only reduced costs but also minimized waste, aligning with their commitment to sustainability.",
+                    "persian": "استفاده اقتصادی از منابع در پروژه نه تنها هزینهها را کاهش داد، بلکه ضایعات را نیز به حداقل رساند و با تعهد آنها به پایداری همسو بود.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:07:58"
+                },
+                {
+                    "english": "She was known for her frugal shopping habits, always waiting for sales and using coupons to stretch her budget as far as possible.",
+                    "persian": "او به خاطر عادات خرید اقتصادیاش معروف بود، همیشه منتظر حراجها میماند و از کوپنها استفاده میکرد تا بودجهاش را تا حد ممکن گسترش دهد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:01:01"
+                },
+                {
+                    "english": "His frugal approach to life extended to his diet, as he preferred home-cooked meals over expensive restaurant dining.",
+                    "persian": "رویکرد اقتصادی او به زندگی حتی به رژیم غذاییاش نیز گسترش یافت، زیرا او ترجیح میداد به جای غذاخوردن در رستورانهای گران، غذاهای خانگی بخورد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:06:04"
+                }
+            ]
+        },
+        {
+            "word": "prevaricate",
+            "examples": [
+                {
+                    "english": "When questioned about the missing funds, the manager began to prevaricate, offering vague answers and shifting the blame to others.",
+                    "persian": "وقتی دربارهٔ وجوه گمشده از او سؤال شد، مدیر شروع به لفافهگویی کرد و پاسخهای مبهم داد و تقصیر را به گردن دیگران انداخت.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:49:18"
+                },
+                {
+                    "english": "The politician’s tendency to prevaricate during interviews made it difficult for journalists to pin down his actual stance on the issue.",
+                    "persian": "تمایل سیاستمدار به لفافهگویی در مصاحبهها باعث میشد خبرنگاران نتوانند موضع واقعی او را دربارهٔ موضوع مشخص کنند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:06:02"
+                },
+                {
+                    "english": "Sensing her discomfort, he tried to prevaricate by changing the subject, but she immediately noticed his evasion and pressed for a direct answer.",
+                    "persian": "با احساس ناراحتی او، سعی کرد با تغییر موضوع لفافهگویی کند، اما او بلافاصله متوجه طفره رفتنش شد و برای پاسخ مستقیم اصرار کرد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-02-04 16:43:11"
+                },
+                {
+                    "english": "The witness’s attempt to prevaricate under cross-examination only deepened the suspicion that he was hiding crucial information.",
+                    "persian": "تلاش شاهد برای لفافهگویی در بازجویی فقط این شک را تقویت کرد که او اطلاعات مهمی را پنهان میکند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 22:59:00"
+                },
+                {
+                    "english": "Instead of admitting his mistake, he chose to prevaricate, weaving a web of half-truths that eventually unraveled under scrutiny.",
+                    "persian": "به جای اعتراف به اشتباهش، او تصمیم گرفت لفافهگویی کند و تارهایی از نیمهحقایق ببافد که در نهایت زیر ذرهبین بررسی از هم گسست.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 22:39:47"
+                }
+            ]
+        },
+        {
+            "word": "variance",
+            "examples": [
+                {
+                    "english": "The variance in architectural styles across the city reflects its rich history, with modern skyscrapers standing alongside centuries-old cathedrals.",
+                    "persian": "تنوع در سبکهای معماری در سراسر شهر، تاریخ غنی آن را نشان میدهد، با آسمانخراشهای مدرنی که در کنار کلیساهای چندصدساله ایستادهاند.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-28 23:59:00"
+                },
+                {
+                    "english": "The chef’s menu showcased a delightful variance in flavors, blending traditional recipes with innovative culinary techniques.",
+                    "persian": "منوی سرآشپز تنوع لذتبخشی از طعمها را به نمایش گذاشت و دستورهای سنتی را با تکنیکهای نوآورانه آشپزی ترکیب کرد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-28 22:16:13"
+                },
+                {
+                    "english": "The variance in student performance highlighted the need for a more personalized approach to education.",
+                    "persian": "تنوع در عملکرد دانشآموزان نیاز به یک رویکرد شخصیسازیشدهتر در آموزش را برجسته کرد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-28 23:57:43"
+                },
+                {
+                    "english": "The garden’s beauty lay in its variance, with flowers of every color and size creating a vibrant tapestry throughout the seasons.",
+                    "persian": "زیبایی باغ در تنوع آن بود، با گلهایی از هر رنگ و اندازه که در طول فصلها یک تابلوی پرجنبوجوش خلق میکردند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:14:25"
+                },
+                {
+                    "english": "The variance in opinions during the meeting underscored the complexity of the issue, as no single solution seemed to satisfy everyone.",
+                    "persian": "تنوع نظرات در جلسه پیچیدگی موضوع را نشان داد، زیرا هیچ راهحل واحدی به نظر نمیرسید که همه را راضی کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:52:30"
+                }
+            ]
+        },
+        {
+            "word": "histrionic",
+            "examples": [
+                {
+                    "english": "Her histrionic outburst during the meeting seemed more like a performance than a genuine expression of frustration.",
+                    "persian": "واکنش نمایشی او در طول جلسه بیشتر شبیه یک اجرا بود تا بیان واقعی ناامیدی.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:59:12"
+                },
+                {
+                    "english": "The actor’s histrionic gestures and exaggerated tone made the play feel more like a parody than a serious drama.",
+                    "persian": "حرکات نمایشی بازیگر و لحن اغراقآمیزش باعث شد نمایش بیشتر شبیه یک پارودی باشد تا یک درام جدی.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-04 15:49:12"
+                },
+                {
+                    "english": "He was known for his histrionic personality, often turning even the simplest conversations into dramatic monologues.",
+                    "persian": "او به خاطر شخصیت نمایشیاش معروف بود و اغلب حتی سادهترین گفتگوها را به مونولوگهای دراماتیک تبدیل میکرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-02 14:25:23"
+                },
+                {
+                    "english": "The politician’s histrionic speech, complete with tears and grand gestures, failed to convince the skeptical audience.",
+                    "persian": "سخنرانی نمایشی سیاستمدار، همراه با اشک و حرکات بزرگ، نتوانست مخاطبان شکاک را متقاعد کند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:21:07"
+                },
+                {
+                    "english": "Her histrionic reaction to the minor inconvenience—complete with gasps and hand-waving—left everyone around her rolling their eyes.",
+                    "persian": "واکنش نمایشی او به یک ناراحتی کوچک—که شامل نفسهای بریده و تکان دادن دستها بود—باعث شد اطرافیان چشمغره بروند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:31:56"
+                }
+            ]
+        },
+        {
+            "word": "demur",
+            "examples": [
+                {
+                    "english": "When asked to take on the additional workload without compensation, she demurred, citing her already packed schedule.",
+                    "persian": "وقتی از او خواسته شد حجم کار بیشتری را بدون حقوق اضافی بپذیرد، ابراز تردید کرد و به برنامه شلوغ خود اشاره کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:53:33"
+                },
+                {
+                    "english": "He demurred at the suggestion of cutting corners on the project, insisting that quality should never be compromised.",
+                    "persian": "او به پیشنهاد انجام سریع و بیدقت پروژه ابراز تردید کرد و اصرار داشت که کیفیت هرگز نباید قربانی شود.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:22:31"
+                },
+                {
+                    "english": "Despite the team’s enthusiasm, she demurred, expressing concerns about the feasibility of the proposed plan.",
+                    "persian": "علیرغم اشتیاق تیم، او ابراز تردید کرد و نگرانیهای خود را دربارهٔ عملی بودن طرح پیشنهادی بیان کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:13:27"
+                },
+                {
+                    "english": "The board members demurred when the CEO proposed a risky investment, arguing that the potential losses outweighed the benefits.",
+                    "persian": "اعضای هیئت مدیره وقتی مدیرعامل یک سرمایهگذاری پرخطر را پیشنهاد کرد، ابراز تردید کردند و استدلال کردند که ضررهای احتمالی بیشتر از مزایا است.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-28 23:50:34"
+                },
+                {
+                    "english": "Though tempted by the offer, he demurred, unwilling to commit without further details and assurances.",
+                    "persian": "اگرچه با پیشنهاد وسوسه شد، ابراز تردید کرد و تمایلی نداشت بدون جزئیات و تضمینهای بیشتر تعهد دهد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:17:59"
+                }
+            ]
+        },
+        {
+            "word": "demure",
+            "examples": [
+                {
+                    "english": "Her demure smile and lowered gaze gave her an air of quiet elegance, captivating everyone in the room without a single word.",
+                    "persian": "لبخند محجوب و نگاه پایینانداختهاش به او حالتی از ظرافت آرام میداد و همه را در اتاق بدون حتی یک کلمه مجذوب خود میکرد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-02-04 16:58:34"
+                },
+                {
+                    "english": "Dressed in a simple, flowing dress, she appeared demure, yet there was a subtle confidence in the way she carried herself.",
+                    "persian": "با لباس ساده و روانی که پوشیده بود، ظاهری محجوب داشت، اما در نحوه راه رفتنش اعتماد به نفس ظریفی دیده میشد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-01-31 16:23:25"
+                },
+                {
+                    "english": "The demure charm of the old library, with its soft lighting and hushed whispers, made it the perfect place for quiet reflection.",
+                    "persian": "ظاهر محجوب و جذاب کتابخانه قدیمی، با نور ملایم و زمزمههای آرامش، آن را به مکانی عالی برای تفکر آرام تبدیل کرده بود.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:13:51"
+                },
+                {
+                    "english": "He found her demure demeanor intriguing, a contrast to the bold personalities he usually encountered, and it drew him in like a mystery waiting to be unraveled.",
+                    "persian": "او رفتار محجوب او را جذاب یافت، در تضاد با شخصیتهای جسوری که معمولاً با آنها روبرو میشد، و این او را مانند یک راز حلنشده به خود جذب کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:52:26"
+                },
+                {
+                    "english": "The demure beauty of the garden at dawn, with its dew-kissed flowers and gentle rustling leaves, felt like a secret shared only with those who rose early.",
+                    "persian": "زیبایی محجوب باغ در سپیدهدم، با گلهای شبنمزده و برگهای زمزمهکنندهاش، مانند رازی بود که فقط با کسانی که زود بیدار میشدند تقسیم میشد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:21:38"
+                }
+            ]
+        },
+        {
+            "word": "beatific",
+            "examples": [
+                {
+                    "english": "The monk’s beatific smile radiated a sense of inner peace, as if he had transcended the worries of the mortal world.",
+                    "persian": "لبخند آرامشبخش راهب حس آرامش درونی را منتشر میکرد، گویی که از نگرانیهای دنیای مادی فراتر رفته بود.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:22:25"
+                },
+                {
+                    "english": "The child’s beatific expression as she held the newborn puppy was a pure reflection of untainted joy.",
+                    "persian": "چهره آرامشبخش کودک وقتی تولهسگ تازه متولد شده را در آغوش گرفت، بازتابی خالص از شادی بیآلایش بود.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-01-30 14:29:04"
+                },
+                {
+                    "english": "The painting captured the Virgin Mary with a beatific glow, her serene face embodying divine grace and compassion.",
+                    "persian": "نقاشی مریم مقدس را با نوری آرامشبخش به تصویر کشیده بود، چهره آرامشبخش او تجسمی از لطف و مهربانی الهی بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:33"
+                },
+                {
+                    "english": "As the sun set over the ocean, casting golden hues across the water, the couple shared a beatific moment, lost in the beauty of nature.",
+                    "persian": "همانطور که خورشید بر فراز اقیانوس غروب میکرد و رنگهای طلایی را بر روی آب میانداخت، زوج لحظهای آرامشبخش را تجربه کردند، گمشده در زیبایی طبیعت.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:13:13"
+                },
+                {
+                    "english": "The old man’s beatific demeanor, even in the face of hardship, inspired everyone around him to find joy in the simplest of things.",
+                    "persian": "رفتار آرامشبخش مرد مسن، حتی در مواجهه با سختیها، به همه اطرافیانش الهام بخشید تا شادی را در سادهترین چیزها پیدا کنند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 22:44:06"
+                }
+            ]
+        },
+        {
+            "word": "perfunctory",
+            "examples": [
+                {
+                    "english": "His perfunctory greeting, a quick nod and a mumbled 'hello,' made it clear he wasn’t in the mood for conversation.",
+                    "persian": "سلام و علیک سرسری او، یک تکان سریع سر و یک 'سلام' نامفهوم، نشان میداد که او حال و حوصله گفتگو ندارد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-31 23:38:41"
+                },
+                {
+                    "english": "The teacher’s perfunctory review of the homework suggested she had little interest in engaging with the students’ efforts.",
+                    "persian": "بررسی سرسری معلم از تکالیف نشان میداد که او علاقه کمی به توجه به تلاشهای دانشآموزان دارد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-29 08:36:48"
+                },
+                {
+                    "english": "She gave the report a perfunctory glance, barely skimming the pages before signing off on it.",
+                    "persian": "او به گزارش نگاهی سرسری انداخت و به سختی صفحات را مرور کرد قبل از اینکه آن را امضا کند.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-29 00:01:05"
+                },
+                {
+                    "english": "The waiter’s perfunctory service—dropping off menus without a word and disappearing for long stretches—left the diners unimpressed.",
+                    "persian": "خدمت سرسری پیشخدمت—گذاشتن منوها بدون یک کلمه و ناپدید شدن برای مدت طولانی—باعث شد مشتریان تحت تأثیر قرار نگیرند.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-30 00:11:54"
+                },
+                {
+                    "english": "His apology felt perfunctory, as if he were simply going through the motions without any real remorse.",
+                    "persian": "عذرخواهی او سرسری به نظر میرسید، گویی که او فقط برای رفع تکلیف این کار را میکرد بدون هیچ پشیمانی واقعی.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-04 17:41:55"
+                }
+            ]
+        },
+        {
+            "word": "preemptive",
+            "examples": [
+                {
+                    "english": "The company launched a preemptive marketing campaign to counter the potential backlash from the upcoming product recall.",
+                    "persian": "شرکت یک کمپین بازاریابی پیشگیرانه راهاندازی کرد تا واکنشهای احتمالی ناشی از فراخوان محصول آینده را خنثی کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 22:50:07"
+                },
+                {
+                    "english": "The government took preemptive measures by evacuating coastal areas ahead of the predicted hurricane.",
+                    "persian": "دولت اقدامات پیشگیرانه انجام داد و مناطق ساحلی را قبل از طوفان پیشبینی شده تخلیه کرد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-29 08:35:35"
+                },
+                {
+                    "english": "She made a preemptive apology before presenting her controversial idea, hoping to soften the audience’s reaction.",
+                    "persian": "او قبل از ارائه ایده جنجالی خود عذرخواهی پیشگیرانه کرد، به امید اینکه واکنش مخاطبان را ملایمتر کند.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-31 18:58:55"
+                },
+                {
+                    "english": "The team’s preemptive strategy of securing key partnerships early in the project ensured their dominance in the market.",
+                    "persian": "استراتژی پیشگیرانه تیم برای ایجاد شراکتهای کلیدی در اوایل پروژه، تسلط آنها را در بازار تضمین کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 23:22:20"
+                },
+                {
+                    "english": "He sent a preemptive email to clarify his position before the rumors could spread further, aiming to control the narrative.",
+                    "persian": "او یک ایمیل پیشگیرانه فرستاد تا موضع خود را قبل از گسترش بیشتر شایعات روشن کند، با هدف کنترل روایت.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-01-30 14:45:26"
+                }
+            ]
+        }
+    ]
+}

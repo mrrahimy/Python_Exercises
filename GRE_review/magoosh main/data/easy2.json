@@ -1,0 +1,821 @@
+{
+    "examples": [
+        {
+            "word": "Scrupulous",
+            "pronunciation": {
+                "british": "ˈskruːpjʊləs",
+                "usa": "ˈskruːpjələs"
+            },
+            "meaning": "having high moral standards and being very careful about doing things correctly",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "so"
+                    ],
+                    "english": "The scrupulous researcher, who follows ethical guidelines meticulously, ensures that all data is accurately recorded so that the results are reliable.",
+                    "persian": "محقق دقیق، که دستورالعمل‌های اخلاقی را به دقت دنبال می‌کند، اطمینان حاصل می‌کند که تمام داده‌ها به درستی ثبت شده‌اند تا نتایج قابل اعتماد باشند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "adjective clause",
+                        "so that"
+                    ],
+                    "english": "The scrupulous review of the manuscript was conducted so that the final publication met the highest academic standards.",
+                    "persian": "بررسی دقیق مقاله انجام شد تا انتشار نهایی با بالاترین استانداردهای علمی هم‌راستا باشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "conditional 1",
+                        "passive voice",
+                        "so"
+                    ],
+                    "english": "If scrupulous care is taken in the execution of the plan, the project will be completed successfully, so it will be considered a model for future projects.",
+                    "persian": "اگر در اجرای طرح دقت زیادی به کار رود، پروژه با موفقیت به پایان خواهد رسید، بنابراین به عنوان مدلی برای پروژه‌های آینده در نظر گرفته خواهد شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Painstaking",
+            "pronunciation": {
+                "british": "ˈpeɪnsteɪkɪŋ",
+                "usa": "ˈpeɪnˌsteɪkɪŋ"
+            },
+            "meaning": "requiring or involving a lot of effort and careful attention",
+            "examples": [
+                {
+                    "grammar": [
+                        "past simple",
+                        "relative clause (definitive)",
+                        "although"
+                    ],
+                    "english": "The painstaking research, although time-consuming, yielded significant results that will contribute to the field of medicine.",
+                    "persian": "تحقیقات دقیق، هرچند که زمان‌بر بود، نتایج قابل توجهی به دست آورد که به پیشرفت در زمینه پزشکی کمک خواهد کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "present continuous",
+                        "conditional 2",
+                        "so"
+                    ],
+                    "english": "The team is doing painstaking work on the project, so they could have avoided some earlier mistakes with more careful planning.",
+                    "persian": "تیم در حال انجام کار دقیق بر روی پروژه است، بنابراین با برنامه‌ریزی دقیق‌تر می‌توانستند از برخی اشتباهات اولیه جلوگیری کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "By the end of the semester, the painstaking revisions will have been completed, so that the final draft meets the professor’s expectations.",
+                    "persian": "تا پایان ترم، اصلاحات دقیق تکمیل خواهد شد، بنابراین پیش‌نویس نهایی با انتظارات استاد هماهنگ خواهد بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Novice",
+            "pronunciation": {
+                "british": "ˈnɒvɪs",
+                "usa": "ˈnɑːvɪs"
+            },
+            "meaning": "a beginner or someone new to a particular field or activity",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "conditional 1",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "The novice player, who practices every day, is improving rapidly so that she will be ready for the competition.",
+                    "persian": "بازیکن مبتدی که هر روز تمرین می‌کند، به سرعت در حال پیشرفت است تا برای مسابقه آماده شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "adjective clause",
+                        "so"
+                    ],
+                    "english": "The novice chef had prepared the meal, so the guests were impressed by the creativity, despite his lack of experience.",
+                    "persian": "آشپز مبتدی غذا را آماده کرده بود، بنابراین مهمان‌ها از خلاقیت او تحت تأثیر قرار گرفتند، علیرغم اینکه تجربه‌ای نداشت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-02-05 16:13:44"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "so that",
+                        "although"
+                    ],
+                    "english": "By the end of the year, the novice programmer will have mastered the basics, although there will still be much to learn so that she can develop advanced applications.",
+                    "persian": "تا پایان سال، برنامه‌نویس مبتدی اصول پایه را فرا خواهد گرفت، هرچند که هنوز چیزهای زیادی برای یادگیری وجود خواهد داشت تا بتواند برنامه‌های پیشرفته توسعه دهد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Obstinate",
+            "pronunciation": {
+                "british": "ˈɒbstɪnət",
+                "usa": "ˈɑːbstɪnət"
+            },
+            "meaning": "stubbornly refusing to change one's opinion or course of action",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "conditional 1",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "The obstinate student, who refuses to follow instructions, often fails to meet expectations, so his academic progress is hindered.",
+                    "persian": "دانش‌آموز لجباز که از پیروی از دستورالعمل‌ها امتناع می‌کند، اغلب نمی‌تواند انتظارات را برآورده کند، بنابراین پیشرفت تحصیلی‌اش مختل می‌شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "The obstinate decision made by the leader had already been implemented, so that despite the objections, the plan proceeded.",
+                    "persian": "تصمیم سرسختانه‌ای که توسط رهبر گرفته شده بود، قبلاً اجرا شده بود، بنابراین علی‌رغم اعتراضات، طرح ادامه یافت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "passive voice",
+                        "although"
+                    ],
+                    "english": "The obstinate behavior will be addressed by the team, although it will take some time to resolve the underlying issues.",
+                    "persian": "رفتار سرسختانه توسط تیم بررسی خواهد شد، هرچند که حل مسائل اساسی زمان‌بر خواهد بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Unyielding",
+            "pronunciation": {
+                "british": "ʌnˈjiːldɪŋ",
+                "usa": "ʌnˈjiːldɪŋ"
+            },
+            "meaning": "not giving way under pressure; firm or resolute",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "so"
+                    ],
+                    "english": "Her unyielding determination, which she developed over years of hardship, helped her overcome the obstacles, so she achieved her goals.",
+                    "persian": "عزم راسخ او که طی سال‌ها سختی به وجود آمده بود، به او کمک کرد تا موانع را پشت سر بگذارد، بنابراین به اهدافش دست یافت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "so that",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "While the unyielding team was working on the project, they encountered challenges that were not anticipated, so that they had to revise their approach.",
+                    "persian": "در حالی که تیم سرسخت در حال کار بر روی پروژه بود، با چالش‌هایی مواجه شدند که پیش‌بینی نشده بودند، بنابراین مجبور شدند رویکرد خود را بازنگری کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "adverb clause",
+                        "despite"
+                    ],
+                    "english": "By the time the report is finalized, the unyielding efforts of the researchers will have paid off, despite the many setbacks they encountered.",
+                    "persian": "تا زمانی که گزارش نهایی شود، تلاش‌های سرسختانه محققان نتیجه خواهد داد، علیرغم مشکلات زیادی که با آن مواجه شدند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Parched",
+            "pronunciation": {
+                "british": "pɑːtʃt",
+                "usa": "pɑːrtʃt"
+            },
+            "meaning": "extremely thirsty, dried out by heat",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "After a long day in the sun, he is feeling parched, so that he is rushing to get a drink of water.",
+                    "persian": "بعد از یک روز طولانی در زیر آفتاب، او احساس تشنگی شدید می‌کند، بنابراین برای نوشیدن آب عجله دارد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "adjective clause",
+                        "although"
+                    ],
+                    "english": "The parched landscape, which had not seen rain for months, looked barren, although the weather was improving.",
+                    "persian": "منظره خشک که برای ماه‌ها باران نخورده بود، بی‌برگ به نظر می‌رسید، هرچند که وضعیت هوا در حال بهبود بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "so that",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "By the end of the trip, we will be parched from the heat, so that we will need to rest and rehydrate for the next leg of the journey.",
+                    "persian": "تا پایان سفر، از گرما تشنه خواهیم شد، بنابراین نیاز به استراحت و آبرسانی مجدد برای مرحله بعدی سفر خواهیم داشت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Arid",
+            "pronunciation": {
+                "british": "ˈærɪd",
+                "usa": "ˈærɪd"
+            },
+            "meaning": "lacking sufficient water or rainfall; dry and barren",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "conditional 2",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "The arid climate, which is typical of desert regions, makes it difficult for plants to grow, so agriculture is limited.",
+                    "persian": "آب و هوای خشک که ویژگی مناطق بیابانی است، رشد گیاهان را دشوار می‌کند، بنابراین کشاورزی محدود است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "The arid land was being cultivated, so that the farmers hoped to improve the crop yield, although the chances were slim.",
+                    "persian": "زمین خشک در حال کشت بود، به طوری که کشاورزان امیدوار بودند محصول بیشتری برداشت کنند، هرچند که شانس‌ها کم بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "passive voice",
+                        "so"
+                    ],
+                    "english": "By the time the project is completed, the arid areas will have been irrigated, so they will support more vegetation in the future.",
+                    "persian": "تا زمانی که پروژه تکمیل شود، مناطق خشک آبیاری خواهند شد، بنابراین در آینده گیاهان بیشتری را حمایت خواهند کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Quandary",
+            "pronunciation": {
+                "british": "ˈkwɒndəri",
+                "usa": "ˈkwɑːndəri"
+            },
+            "meaning": "a state of uncertainty or perplexity, especially as requiring a choice between equally undesirable alternatives",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "conditional 1",
+                        "so"
+                    ],
+                    "english": "The team has been in a quandary over whether to accept the proposal, so they will likely seek external advice before making a decision.",
+                    "persian": "تیم در مورد پذیرش پیشنهاد در وضعیت بلاتکلیفی قرار داشته است، بنابراین احتمالاً قبل از تصمیم‌گیری از مشاوره خارجی استفاده خواهند کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "adverb clause",
+                        "although"
+                    ],
+                    "english": "She was in a quandary when she had to choose between two excellent job offers, although both had their own set of challenges.",
+                    "persian": "او در وضعیت بلاتکلیفی قرار داشت زمانی که باید بین دو پیشنهاد شغلی عالی یکی را انتخاب می‌کرد، هرچند که هر دو چالش‌های خاص خود را داشتند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "so that",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "By the time the decision is made, the team will have resolved their quandary, so they will be ready to move forward with confidence.",
+                    "persian": "تا زمانی که تصمیم گرفته شود، تیم وضعیت بلاتکلیفی خود را حل کرده خواهد بود، بنابراین آماده خواهند بود تا با اطمینان پیش بروند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Rhetoric",
+            "pronunciation": {
+                "british": "ˈrɛtərɪk",
+                "usa": "ˈrɛtərɪk"
+            },
+            "meaning": "the art of effective or persuasive speaking or writing",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "noun clause",
+                        "so that"
+                    ],
+                    "english": "Rhetoric is often used in political speeches so that the speaker can sway public opinion with compelling arguments.",
+                    "persian": "بلاغت معمولاً در سخنرانی‌های سیاسی استفاده می‌شود تا سخنران بتواند با استدلال‌های قانع‌کننده، نظر عموم مردم را تغییر دهد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "adverb clause",
+                        "although"
+                    ],
+                    "english": "Rhetoric will play a crucial role in the debate, although the underlying facts will still be the deciding factor in the outcome.",
+                    "persian": "بلاغت نقش حیاتی در مناظره ایفا خواهد کرد، هرچند که حقایق پایه‌ای همچنان عامل تصمیم‌گیری در نتیجه خواهند بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "passive voice",
+                        "despite"
+                    ],
+                    "english": "The rhetoric used in the campaign had been carefully crafted, despite the fact that some of it lacked substantial evidence.",
+                    "persian": "بلاغت استفاده‌شده در کمپین به دقت طراحی شده بود، علی‌رغم اینکه برخی از آن فاقد شواهد کافی بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Tenuous",
+            "pronunciation": {
+                "british": "ˈtɛnjʊəs",
+                "usa": "ˈtɛnjʊəs"
+            },
+            "meaning": "very weak or slight",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "so that",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "The tenuous link between the two theories, which has not been substantiated by further research, has led to skepticism in the scientific community.",
+                    "persian": "رابطه ضعیف بین دو نظریه که توسط تحقیقات بیشتر تأیید نشده است، باعث تردید در جامعه علمی شده است.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "so",
+                        "adverb clause"
+                    ],
+                    "english": "By the time the report is reviewed, the tenuous evidence will have been presented so that its credibility can be examined.",
+                    "persian": "تا زمانی که گزارش بررسی شود، شواهد ضعیف ارائه خواهد شد تا اعتبار آن مورد بررسی قرار گیرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "although",
+                        "conditional 1"
+                    ],
+                    "english": "The tenuous argument was being presented during the meeting, although it could not stand up to scrutiny if challenged.",
+                    "persian": "استدلال ضعیف در حین جلسه ارائه می‌شد، هرچند که اگر به چالش کشیده می‌شد، نمی‌توانست مورد بررسی دقیق قرار گیرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Vacillate",
+            "pronunciation": {
+                "british": "ˈvæsɪˌleɪt",
+                "usa": "ˈvæsɪˌleɪt"
+            },
+            "meaning": "to waver between different opinions or actions; to be indecisive",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "He is vacillating between two job offers, so that he cannot make a decision until he is absolutely sure.",
+                    "persian": "او بین دو پیشنهاد شغلی در حال تردید است، بنابراین نمی‌تواند تصمیم بگیرد تا زمانی که کاملاً مطمئن نشود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "so",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "She had vacillated for weeks, so her decision, which was long overdue, caused frustration among her colleagues.",
+                    "persian": "او برای هفته‌ها در تردید بود، بنابراین تصمیم او که مدت‌ها به تأخیر افتاده بود، باعث ناامیدی همکارانش شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "although",
+                        "passive voice"
+                    ],
+                    "english": "By the time the decision is finalized, the vacillating opinions will have been resolved, although it may take some time.",
+                    "persian": "تا زمانی که تصمیم نهایی شود، نظرات متذبذب حل شده خواهند بود، هرچند ممکن است کمی زمان ببرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Vigilant",
+            "pronunciation": {
+                "british": "ˈvɪdʒɪlənt",
+                "usa": "ˈvɪdʒɪlənt"
+            },
+            "meaning": "watchful; alert to danger or trouble",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "The security team is vigilant during the night shift so that they can prevent any possible intrusions.",
+                    "persian": "تیم امنیتی در طول شیفت شب بیدار و هوشیار است تا از هرگونه نفوذ احتمالی جلوگیری کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "although",
+                        "noun clause"
+                    ],
+                    "english": "The vigilant soldiers were patrolling the area, although they did not expect that a breach would occur so soon.",
+                    "persian": "سربازان هوشیار در حال گشت‌زنی در منطقه بودند، هرچند که انتظار نداشتند که نقض امنیتی به این زودی اتفاق بیفتد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "so",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "By the time the event takes place, the vigilant officers will have ensured that all safety protocols are in place so that there will be no risk.",
+                    "persian": "تا زمانی که رویداد برگزار شود، افسران هوشیار اطمینان حاصل خواهند کرد که تمام پروتکل‌های ایمنی در محل قرار دارند تا هیچ خطری وجود نداشته باشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Predicament",
+            "pronunciation": {
+                "british": "prɪˈdɪkəmənt",
+                "usa": "prɪˈdɪkəmənt"
+            },
+            "meaning": "a difficult, unpleasant, or embarrassing situation",
+            "examples": [
+                {
+                    "grammar": [
+                        "past perfect",
+                        "adjective clause",
+                        "so that"
+                    ],
+                    "english": "She had found herself in a predicament that required urgent attention, so that she had to rely on her quick thinking to resolve the issue.",
+                    "persian": "او خود را در وضعیتی دشوار پیدا کرده بود که نیاز به توجه فوری داشت، بنابراین مجبور شد به تفکر سریع خود تکیه کند تا مشکل را حل کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "relative clause (definitive)",
+                        "although"
+                    ],
+                    "english": "They will be dealing with a predicament that involves complex legal matters, although they are confident they can handle the situation effectively.",
+                    "persian": "آنها با وضعیتی دشوار مواجه خواهند بود که شامل مسائل حقوقی پیچیده است، هرچند که اطمینان دارند که می‌توانند به طور مؤثر وضعیت را مدیریت کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adverb clause",
+                        "so"
+                    ],
+                    "english": "The team has found itself in a difficult predicament, so they are seeking advice from experts to find a solution.",
+                    "persian": "تیم خود را در یک وضعیت دشوار پیدا کرده است، بنابراین در حال جستجو برای مشاوره از متخصصان هستند تا راه حلی پیدا کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Plight",
+            "pronunciation": {
+                "british": "plaɪt",
+                "usa": "plaɪt"
+            },
+            "meaning": "a dangerous, difficult, or otherwise unfortunate situation",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "so",
+                        "adverb clause"
+                    ],
+                    "english": "The community is facing a dire plight, so they are working together to find a sustainable solution.",
+                    "persian": "جامعه در حال مواجهه با وضعیت بحرانی است، بنابراین آنها در حال همکاری برای یافتن راه حل پایدار هستند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "although",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "The plight of the refugees had worsened, although many organizations had already stepped in to offer support.",
+                    "persian": "وضعیت پناهندگان بدتر شده بود، هرچند که بسیاری از سازمان‌ها قبلاً وارد شده بودند تا حمایت ارائه دهند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "so that",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "By the time the report is completed, the plight of the endangered species will have been documented so that it can be addressed in future conservation efforts.",
+                    "persian": "تا زمانی که گزارش تکمیل شود، وضعیت بحرانی گونه‌های در معرض انقراض ثبت خواهد شد تا در تلاش‌های حفاظتی آینده مورد رسیدگی قرار گیرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Oratory",
+            "pronunciation": {
+                "british": "ˈɒrətəri",
+                "usa": "ˈɔːrətɔːri"
+            },
+            "meaning": "the art or practice of formal speaking in public",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "so that",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "Oratory plays a significant role in political campaigns so that leaders can persuade voters with powerful speeches.",
+                    "persian": "بلاغت نقش مهمی در کمپین‌های سیاسی ایفا می‌کند تا رهبران بتوانند با سخنرانی‌های قوی، رأی‌دهندگان را قانع کنند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "although",
+                        "adverb clause"
+                    ],
+                    "english": "The oratory skills of the candidate were being tested, although the audience was skeptical of his ability to inspire change.",
+                    "persian": "مهارت‌های بلاغی نامزد در حال آزمایش بود، هرچند که تماشاگران نسبت به توانایی او در ایجاد تغییر شک داشتند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "so",
+                        "passive voice"
+                    ],
+                    "english": "By the end of the conference, oratory will have been used to inspire action, so that the proposed changes can be implemented effectively.",
+                    "persian": "تا پایان کنفرانس، از بلاغت برای الهام بخشیدن به اقدام استفاده خواهد شد، بنابراین تغییرات پیشنهادی به طور مؤثر پیاده‌سازی خواهند شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Eloquence",
+            "pronunciation": {
+                "british": "ˈɛləkwəns",
+                "usa": "ˈɛləkwəns"
+            },
+            "meaning": "fluent or persuasive speaking or writing",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "so that",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "Her eloquence has been recognized by many, so that she is often invited to speak at international conferences.",
+                    "persian": "بلاغت او توسط بسیاری شناخته شده است، بنابراین اغلب برای سخنرانی در کنفرانس‌های بین‌المللی دعوت می‌شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "so",
+                        "adverb clause"
+                    ],
+                    "english": "The speaker will be using eloquence during the keynote address, so that the audience will be moved by the emotional depth of his words.",
+                    "persian": "سخنران در سخنرانی اصلی از بلاغت استفاده خواهد کرد، بنابراین تماشاگران تحت تأثیر عمق احساسی سخنان او قرار خواهند گرفت.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "although",
+                        "noun clause"
+                    ],
+                    "english": "The politician's eloquence persuaded many voters, although some were still uncertain about the policies being proposed.",
+                    "persian": "بلاغت سیاستمدار بسیاری از رأی‌دهندگان را قانع کرد، هرچند که برخی هنوز در مورد سیاست‌های پیشنهادی تردید داشتند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Flimsy",
+            "pronunciation": {
+                "british": "ˈflɪmzi",
+                "usa": "ˈflɪmzi"
+            },
+            "meaning": "light, thin, and easily damaged; weak or inadequate",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "so that",
+                        "relative clause (definitive)"
+                    ],
+                    "english": "The flimsy evidence, which was based on unreliable sources, did not support the accusations, so the case was dismissed.",
+                    "persian": "شواهد ضعیف که بر اساس منابع غیرقابل اعتماد بود، اتهامات را حمایت نکرد، بنابراین پرونده رد شد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "although",
+                        "adverb clause"
+                    ],
+                    "english": "By the time the decision is made, the flimsy arguments will have been thoroughly analyzed, although it may still influence the final judgment.",
+                    "persian": "تا زمانی که تصمیم گرفته شود، استدلال‌های ضعیف به طور کامل تحلیل خواهند شد، هرچند که ممکن است هنوز تأثیری بر حکم نهایی داشته باشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "so",
+                        "noun clause"
+                    ],
+                    "english": "The flimsy bridge was being repaired, so that it could support the weight of the approaching vehicles.",
+                    "persian": "پل ضعیف در حال تعمیر بود، بنابراین می‌توانست وزن وسایل نقلیه در حال نزدیک شدن را تحمل کند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Insubstantial",
+            "pronunciation": {
+                "british": "ˌɪnsəbˈstænʃəl",
+                "usa": "ˌɪnsəbˈstænʃəl"
+            },
+            "meaning": "lacking strength or substance; weak or flimsy",
+            "examples": [
+                {
+                    "grammar": [
+                        "present continuous",
+                        "although",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "The insubstantial arguments were being presented in court, although the lawyer knew that they lacked merit.",
+                    "persian": "استدلال‌های ضعیف در دادگاه ارائه می‌شد، هرچند که وکیل می‌دانست که آنها فاقد ارزش هستند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past simple",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "The insubstantial claims were dismissed, so that the court could focus on the more substantial evidence presented.",
+                    "persian": "ادعاهای ضعیف رد شدند، بنابراین دادگاه توانست بر روی شواهد قوی‌تر متمرکز شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "although",
+                        "passive voice"
+                    ],
+                    "english": "By the time the investigation concludes, the insubstantial evidence will have been disregarded, although it may have caused delays.",
+                    "persian": "تا زمانی که تحقیقات به پایان برسد، شواهد ضعیف نادیده گرفته خواهند شد، هرچند که ممکن است باعث تأخیرهایی شده باشد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        },
+        {
+            "word": "Oscillate",
+            "pronunciation": {
+                "british": "ˈɒsɪˌleɪt",
+                "usa": "ˈɒsɪˌleɪt"
+            },
+            "meaning": "to swing or move back and forth in a regular rhythm",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "The fan oscillates back and forth so that the room can be evenly cooled during the summer months.",
+                    "persian": "پنکه به جلو و عقب حرکت می‌کند تا اتاق در ماه‌های تابستان به طور یکنواخت خنک شود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "although",
+                        "relative clause (non-definitive)"
+                    ],
+                    "english": "The pendulum was oscillating back and forth, although its rhythm had slowed due to the resistance in the mechanism.",
+                    "persian": "پاندول به جلو و عقب حرکت می‌کرد، هرچند که ریتم آن به دلیل مقاومت در مکانیزم کند شده بود.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "so",
+                        "noun clause"
+                    ],
+                    "english": "By the time the experiment begins, the equipment will be oscillating at a controlled frequency, so the results can be accurately measured.",
+                    "persian": "تا زمانی که آزمایش آغاز شود، تجهیزات در فرکانس کنترل‌شده‌ای نوسان خواهند کرد، بنابراین نتایج می‌توانند به طور دقیق اندازه‌گیری شوند.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-01-01 08:00:00"
+                }
+            ]
+        }
+    ]
+}

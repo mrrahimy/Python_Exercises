@@ -1,0 +1,494 @@
+{
+    "examples": [
+        {
+            "word": "kowtow",
+            "examples": [
+                {
+                    "english": "Despite his elevated status, he chose to kowtow to the authoritarian regime, sacrificing his principles for fleeting security, a decision that left his peers disillusioned.",
+                    "persian": "با وجود جایگاه بلندش، او تصمیم گرفت به رژیم اقتدارگرا خضوع کند، اصولش را برای امنیت زودگذر قربانی کرد، تصمیمی که همتایانش را دلسرد کرد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 22:50:03"
+                },
+                {
+                    "english": "Had she not kowtowed to the corporate overlords, her innovative project might have flourished, but instead, it was stifled by bureaucratic compliance.",
+                    "persian": "اگر او به اربابان شرکتی تسلیم نشده بود، پروژه نوآورانه‌اش ممکن بود شکوفا شود، اما در عوض، با پیروی از بروکراسی خفه شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 15:09:22"
+                },
+                {
+                    "english": "The scientist’s refusal to kowtow to conventional theories, despite immense pressure, led to groundbreaking discoveries that redefined the field of quantum mechanics.",
+                    "persian": "امتناع دانشمند از تسلیم شدن در برابر نظریه‌های مرسوم، علیرغم فشارهای شدید، به اکتشافات انقلابی انجامید که زمینه مکانیک کوانتومی را بازتعریف کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 11:55:50"
+                },
+                {
+                    "english": "In a society that often demands kowtowing to hierarchical norms, those who dare to challenge the status quo are frequently marginalized, yet their defiance can catalyze systemic change.",
+                    "persian": "در جامعه‌ای که اغلب خضوع در برابر هنجارهای سلسله‌مراتبی را می‌طلبد، کسانی که جسارت به چالش کشیدن وضع موجود را دارند، اغلب به حاشیه رانده می‌شوند، اما مقاومت آنها می‌تواند تغییرات سیستماتیک را تسریع کند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-05 22:57:35"
+                },
+                {
+                    "english": "Were it not for the diplomat’s tendency to kowtow to foreign powers, the nation might have maintained its sovereignty, but instead, it became a puppet state, stripped of autonomy.",
+                    "persian": "اگر تمایل دیپلمات به خضوع در برابر قدرت‌های خارجی نبود، این ملت ممکن بود حاکمیت خود را حفظ کند، اما در عوض، به دولتی دست‌نشانده تبدیل شد که از خودمختاری محروم شد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:57:11"
+                }
+            ]
+        },
+        {
+            "word": "powwow",
+            "examples": [
+                {
+                    "english": "The team decided to have a quick powwow before the presentation to ensure everyone was aligned on the key points, though some argued it was merely a redundant exercise.",
+                    "persian": "تیم تصمیم گرفت یک گفت‌وگوی غیررسمی سریع قبل از ارائه داشته باشد تا مطمئن شود همه در مورد نکات کلیدی هماهنگ هستند، اگرچه برخی استدلال کردند که این فقط یک کار اضافی بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 15:57:43"
+                },
+                {
+                    "english": "During the late-night powwow, the researchers debated the implications of the new data, their voices rising and falling like waves in a stormy sea of ideas.",
+                    "persian": "در طول گفت‌وگوی غیررسمی نیمه‌شب، محققان در مورد پیامدهای داده‌های جدید بحث کردند، صدایشان مانند موج‌ها در دریای طوفانی ایده‌ها بالا و پایین می‌رفت.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:08:17"
+                },
+                {
+                    "english": "Had the board members not scheduled a last-minute powwow, the critical flaws in the proposal might have gone unnoticed, jeopardizing the entire project.",
+                    "persian": "اگر اعضای هیئت مدیره یک جلسه غیررسمی آخر دقیقه ترتیب نمی‌دادند، اشکالات حیاتی پیشنهاد ممکن بود نادیده گرفته شود و کل پروژه را به خطر بیندازد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-01-30 20:30:56"
+                },
+                {
+                    "english": "The powwow in the café, though seemingly casual, unveiled a wealth of creative solutions to the problem, proving that innovation often thrives in unstructured settings.",
+                    "persian": "گفت‌وگوی غیررسمی در کافه، اگرچه به ظاهر معمولی بود، راه‌حل‌های خلاقانه‌ای برای مشکل آشکار کرد و ثابت کرد که نوآوری اغلب در محیط‌های بدون ساختار رشد می‌کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-01 08:26:59"
+                },
+                {
+                    "english": "Were it not for the weekly powwows among the staff, the subtle tensions within the team might have escalated into full-blown conflicts, undermining productivity.",
+                    "persian": "اگر گفت‌وگوهای غیررسمی هفتگی میان کارکنان نبود، تنش‌های ظریف درون تیم ممکن بود به درگیری‌های تمام‌عیار تبدیل شود و بهره‌وری را تضعیف کند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:12:59"
+                }
+            ]
+        },
+        {
+            "word": "junta",
+            "examples": [
+                {
+                    "english": "The junta seized control of the government in a swift and brutal coup, silencing dissent and imposing martial law, which plunged the nation into chaos.",
+                    "persian": "هیئت حاکمه در یک کودتای سریع و بی‌رحم کنترل دولت را به دست گرفت، مخالفت‌ها را خاموش کرد و قانون نظامی تحمیل کرد، که کشور را در آشفتگی فرو برد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:00:22"
+                },
+                {
+                    "english": "Had the junta not consolidated its power through fear and propaganda, the citizens might have risen in unison to reclaim their democratic rights.",
+                    "persian": "اگر هیئت حاکمه قدرت خود را از طریق ترس و تبلیغات تحکیم نکرده بود، شهروندان ممکن بود متحد شده و حقوق دموکراتیک خود را بازپس گیرند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-01 17:05:23"
+                },
+                {
+                    "english": "The junta’s aggressive policies, though initially effective in suppressing opposition, ultimately sowed the seeds of rebellion, as history has shown time and again.",
+                    "persian": "سیاست‌های تهاجمی هیئت حاکمه، اگرچه در ابتدا در سرکوب مخالفان مؤثر بود، در نهایت بذر شورش را کاشت، همان‌طور که تاریخ بارها و بارها نشان داده است.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:14:36"
+                },
+                {
+                    "english": "In the aftermath of the junta’s rise to power, the economy collapsed, and international sanctions were imposed, isolating the country from the global community.",
+                    "persian": "در پی به قدرت رسیدن هیئت حاکمه، اقتصاد فروپاشید و تحریم‌های بین‌المللی اعمال شد، که کشور را از جامعه جهانی منزوی کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:25"
+                },
+                {
+                    "english": "Were it not for the junta’s iron-fisted rule, the fragile institutions of the state might have had a chance to recover, but instead, they were systematically dismantled.",
+                    "persian": "اگر حکومت مقتدرانه هیئت حاکمه نبود، نهادهای شکننده دولت ممکن بود فرصتی برای بهبود داشته باشند، اما در عوض، به طور سیستماتیک از بین رفتند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:04:16"
+                }
+            ]
+        },
+        {
+            "word": "imbroglio",
+            "examples": [
+                {
+                    "english": "The political imbroglio surrounding the leaked documents left the administration scrambling to explain, as the media dissected every inconsistency with surgical precision.",
+                    "persian": "وضعیت پیچیده و شرم‌آور سیاسی ناشی از اسناد افشا شده، دولت را وادار کرد تا برای توضیح دادن تقلا کند، در حالی که رسانه‌ها هر تناقضی را با دقت جراحی‌گونه بررسی کردند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-01-28 23:51:23"
+                },
+                {
+                    "english": "Had the CEO not intervened to resolve the imbroglio between the departments, the company’s reputation might have been irreparably damaged by the public fallout.",
+                    "persian": "اگر مدیرعامل برای حل وضعیت پیچیده بین بخش‌ها دخالت نکرده بود، ممکن بود اعتبار شرکت به دلیل عواقب عمومی به طور جبران‌ناپذیری آسیب ببیند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:21:31"
+                },
+                {
+                    "english": "The imbroglio at the gala, where two guests arrived wearing identical dresses, became the talk of the town, overshadowing the event’s intended purpose.",
+                    "persian": "وضعیت پیچیده و شرم‌آور در گالا، جایی که دو مهمان با لباس‌های یکسان arrived، به موضوع اصلی صحبت‌های شهر تبدیل شد و هدف اصلی رویداد را تحت الشعاع قرار داد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 17:05:42"
+                },
+                {
+                    "english": "In the midst of the legal imbroglio, the defendant’s contradictory statements only deepened the confusion, making it nearly impossible for the jury to reach a verdict.",
+                    "persian": "در میان وضعیت پیچیده حقوقی، اظهارات متناقض متهم فقط سردرگمی را بیشتر کرد و رسیدن به یک رأی را برای هیئت منصفه تقریباً غیرممکن ساخت.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:14:52"
+                },
+                {
+                    "english": "Were it not for the diplomat’s skillful navigation of the imbroglio, the international summit might have devolved into a diplomatic disaster, straining relations for years to come.",
+                    "persian": "اگر دیپلمات به مهارت از پس این وضعیت پیچیده برنیامده بود، اجلاس بین‌المللی ممکن بود به یک فاجعه دیپلماتیک تبدیل شود و روابط را برای سال‌های آینده تحت فشار قرار دهد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-02 21:49:12"
+                }
+            ]
+        },
+        {
+            "word": "juggernaut",
+            "examples": [
+                {
+                    "english": "The tech company became a juggernaut in the industry, its innovations so dominant that competitors struggled to survive in its overwhelming shadow.",
+                    "persian": "شرکت فناوری به یک قدرت غیرقابل توقف در صنعت تبدیل شد، نوآوری‌های آن چنان غالب بود که رقبا برای زنده ماندن در سایه سنگین آن تقلا کردند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:20:51"
+                },
+                {
+                    "english": "Had the juggernaut of public opinion not shifted in favor of the reform, the outdated policies might have persisted for decades, stifling progress.",
+                    "persian": "اگر قدرت غیرقابل توقف افکار عمومی به نفع اصلاحات تغییر نکرده بود، سیاست‌های قدیمی ممکن بود برای دهه‌ها ادامه یابد و پیشرفت را خفه کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:22:32"
+                },
+                {
+                    "english": "The juggernaut of globalization, while driving economic growth, has also marginalized local industries, leaving many communities struggling to adapt.",
+                    "persian": "قدرت غیرقابل توقف جهانی‌سازی، در حالی که رشد اقتصادی را تقویت می‌کند، صنایع محلی را نیز به حاشیه رانده و بسیاری از جوامع را در تلاش برای تطبیق باقی گذاشته است.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:15:06"
+                },
+                {
+                    "english": "In the face of the juggernaut of climate change, incremental measures are no longer sufficient; only bold, systemic action can avert catastrophe.",
+                    "persian": "در برابر قدرت غیرقابل توقف تغییرات آب‌وهوایی، اقدامات تدریجی دیگر کافی نیست؛ تنها اقدامات جسورانه و سیستماتیک می‌توانند از فاجعه جلوگیری کنند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-04 14:33:07"
+                },
+                {
+                    "english": "Were it not for the juggernaut of technological advancement, many of the conveniences we take for granted today would still be the stuff of science fiction.",
+                    "persian": "اگر قدرت غیرقابل توقف پیشرفت فناوری نبود، بسیاری از امکاناتی که امروز بدیهی می‌پنداریم، هنوز در حد داستان‌های علمی‌تخیلی باقی می‌ماندند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:14:02"
+                }
+            ]
+        },
+        {
+            "word": "schadenfreude",
+            "examples": [
+                {
+                    "english": "Though she tried to suppress it, a flicker of schadenfreude crossed her mind when her rival’s project failed spectacularly, a feeling she quickly dismissed as unworthy.",
+                    "persian": "اگرچه او سعی کرد آن را سرکوب کند، لحظه‌ای از شادی از رنج دیگران به ذهنش خطور کرد وقتی پروژه رقیبش به طور چشمگیری شکست خورد، احساسی که به سرعت آن را ناشایست دانست.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 12:44:12"
+                },
+                {
+                    "english": "The politician’s schadenfreude was evident when his opponent’s scandal broke, though he masked it with a facade of sympathy during the press conference.",
+                    "persian": "شادی از رنج دیگران سیاستمدار زمانی که رسوایی حریفش فاش شد آشکار بود، اگرچه او آن را با ظاهری از همدردی در کنفرانس مطبوعاتی پنهان کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:14:31"
+                },
+                {
+                    "english": "Had the audience not been so consumed by schadenfreude, they might have recognized the tragic irony of the comedian’s downfall, rather than reveling in his misfortune.",
+                    "persian": "اگر تماشاگران آن‌قدر در شادی از رنج دیگران غرق نشده بودند، ممکن بود به جای لذت بردن از بدبیاری‌های کمدین، به طنز غم‌انگیز سقوط او پی ببرند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:08:57"
+                },
+                {
+                    "english": "The internet’s culture of schadenfreude often amplifies public shaming, turning minor missteps into lifelong scars for those who fall victim to its relentless scrutiny.",
+                    "persian": "فرهنگ شادی از رنج دیگران در اینترنت اغلب شرم‌ساری عمومی را تشدید می‌کند و اشتباهات کوچک را به زخم‌های مادام‌العمر برای کسانی تبدیل می‌کند که قربانی بررسی بی‌امان آن می‌شوند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:20:11"
+                },
+                {
+                    "english": "Were it not for the pervasive nature of schadenfreude, humanity might have cultivated a more compassionate response to the failures of others, rather than deriving pleasure from their pain.",
+                    "persian": "اگر ماهیت فراگیر شادی از رنج دیگران نبود، بشریت ممکن بود پاسخ دلسوزانه‌تری به شکست‌های دیگران پرورش دهد، به جای اینکه از درد آنها لذت ببرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:08"
+                }
+            ]
+        },
+        {
+            "word": "amok",
+            "examples": [
+                {
+                    "english": "Amok through the crowded marketplace, the wild stallion left chaos in its wake, overturning stalls and scattering goods as terrified onlookers scrambled for safety.",
+                    "persian": "در حالی که به طور دیوانه‌وار در بازار شلوغ می‌دوید، اسب وحشی هرج و مرج به بار آورد، دکه‌ها را واژگون کرد و کالاها را پراکنده ساخت، در حالی که تماشاگران وحشت‌زده به دنبال پناهگاه بودند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:13:50"
+                },
+                {
+                    "english": "Had the security forces not intervened, the protestors might have run amok, turning what began as a peaceful demonstration into a scene of utter pandemonium.",
+                    "persian": "اگر نیروهای امنیتی مداخله نکرده بودند، معترضان ممکن بود به طور دیوانه‌وار به راه بیفتند و آنچه به عنوان یک تظاهرات صلح‌آمیز آغاز شده بود را به صحنه‌ای از هرج و مرج مطلق تبدیل کنند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:22:49"
+                },
+                {
+                    "english": "The children, high on sugar and excitement, ran amok through the house, their laughter echoing off the walls as they left a trail of toys and overturned furniture behind them.",
+                    "persian": "بچه‌ها، با انرژی ناشی از قند و هیجان، به طور دیوانه‌وار در خانه دویدند، خنده‌هایشان از دیوارها بازتاب می‌یافت در حالی که ردّی از اسباب‌بازی‌ها و مبلمان واژگون شده را از خود به جای می‌گذاشتند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:32:00"
+                },
+                {
+                    "english": "In the absence of clear leadership, the team ran amok, each member pursuing their own agenda without regard for the collective goal, resulting in a project riddled with inconsistencies.",
+                    "persian": "در غیاب رهبری واضح، تیم به طور بی‌نظم عمل کرد، هر عضو بدون توجه به هدف جمعی، برنامه خود را دنبال کرد و در نتیجه پروژه‌ای پر از تناقض‌ها به وجود آمد.",
+                    "difficulty": 0,
+                    "last_time_reviewed": "2025-02-01 08:21:29"
+                },
+                {
+                    "english": "Were it not for the calming presence of the teacher, the students, energized by the unexpected break, would have run amok through the hallways, disrupting every class in their path.",
+                    "persian": "اگر حضور آرام‌بخش معلم نبود، دانش‌آموزان، با انرژی ناشی از تعطیلی غیرمنتظره، به طور دیوانه‌وار در راهروها می‌دویدند و هر کلاسی را در مسیر خود مختل می‌کردند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 11:54:43"
+                }
+            ]
+        },
+        {
+            "word": "pariah",
+            "examples": [
+                {
+                    "english": "After the scandal, the once-celebrated actor became a pariah in the entertainment industry, shunned by colleagues and abandoned by fans who once adored him.",
+                    "persian": "پس از رسوایی، بازیگر یک‌زمان مشهور به یک منفور در صنعت سرگرمی تبدیل شد، طرد شده توسط همکاران و رها شده توسط طرفدارانی که زمانی او را تحسین می‌کردند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-01 17:33:37"
+                },
+                {
+                    "english": "The whistleblower, though hailed as a hero by some, was treated as a pariah by the company, ostracized and stripped of all professional connections.",
+                    "persian": "افشاگر، اگرچه توسط برخی به عنوان قهرمان ستایش شد، توسط شرکت به عنوان یک منفور رفتار شد، طرد شد و تمام ارتباطات حرفه‌ای‌اش قطع گردید.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:21:36"
+                },
+                {
+                    "english": "In the small village, anyone who dared to challenge tradition was labeled a pariah, forced to live on the outskirts of society, isolated and forgotten.",
+                    "persian": "در روستای کوچک، هر کس که جسارت به چالش کشیدن سنت‌ها را داشت، به عنوان یک منفور برچسب می‌خورد و مجبور می‌شد در حاشیه جامعه زندگی کند، منزوی و فراموش شده.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:17:39"
+                },
+                {
+                    "english": "The scientist’s controversial theories made him a pariah in academic circles, his work dismissed without consideration, despite its potential to revolutionize the field.",
+                    "persian": "نظریه‌های جنجالی دانشمند او را به یک منفور در محافل آکادمیک تبدیل کرد، کارش بدون توجه رد شد، علیرغم پتانسیل آن برای انقلابی در این زمینه.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:58:15"
+                },
+                {
+                    "english": "As a pariah in his own family, he found solace in distant lands, building a new life far from the judgmental eyes of those who once called him kin.",
+                    "persian": "به عنوان یک منفور در خانواده خود، او در سرزمین‌های دور آرامش یافت و زندگی جدیدی دور از چشمان قضاوت‌گر کسانی که زمانی او را از خود می‌دانستند، ساخت.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:17:54"
+                }
+            ]
+        },
+        {
+            "word": "lagniappe",
+            "examples": [
+                {
+                    "english": "The street vendor, with a warm smile, handed me a small trinket as a lagniappe, a gesture that turned an ordinary purchase into a memorable experience.",
+                    "persian": "فروشنده خیابانی، با لبخندی گرم، یک چیز کوچک به عنوان هدیه غیرمنتظره به من داد، حرکتی که یک خرید معمولی را به یک تجربه به یاد ماندنی تبدیل کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:19:56"
+                },
+                {
+                    "english": "At the end of the meal, the chef sent out a complimentary dessert, a delightful lagniappe that left the diners feeling both satisfied and pleasantly surprised.",
+                    "persian": "در پایان غذا، آشپز یک دسر مجانی فرستاد، یک هدیه غیرمنتظره دلپذیر که باعث شد مهمانان هم احساس رضایت کنند و هم خوش‌حال و غافلگیر شوند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:13:00"
+                },
+                {
+                    "english": "The bookstore included a handwritten bookmark as a lagniappe with every purchase, a small but thoughtful touch that endeared them to their customers.",
+                    "persian": "کتابفروشی یک بوک‌مارک دست‌نویس را به عنوان هدیه غیرمنتظره با هر خرید اضافه کرد، یک حرکت کوچک اما توجه‌برانگیز که آن‌ها را نزد مشتریان محبوب کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:22:48"
+                },
+                {
+                    "english": "As a lagniappe, the tour guide shared a little-known historical anecdote about the landmark, adding an extra layer of intrigue to the already fascinating excursion.",
+                    "persian": "به عنوان یک هدیه غیرمنتظره، راهنمای تور یک حکایت تاریخی کمتر شناخته شده درباره این مکان مشهور را به اشتراک گذاشت، که به سفر جذاب قبلی لایه‌ای از جذابیت اضافه کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:14:52"
+                },
+                {
+                    "english": "The artist included a small sketch as a lagniappe with the commissioned painting, a gesture that not only delighted the client but also showcased her generosity and passion.",
+                    "persian": "هنرمند یک طرح کوچک را به عنوان هدیه غیرمنتظره همراه با نقاشی سفارشی اضافه کرد، حرکتی که نه تنها مشتری را خوشحال کرد، بلکه سخاوت و اشتیاق او را نیز به نمایش گذاشت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:20"
+                }
+            ]
+        },
+        {
+            "word": "zeitgeist",
+            "examples": [
+                {
+                    "english": "The zeitgeist of the 1960s, characterized by a fervent push for civil rights and a rejection of traditional norms, left an indelible mark on art, music, and social movements worldwide.",
+                    "persian": "روح زمانه دهه 1960، که با تلاش شدید برای حقوق مدنی و رد هنجارهای سنتی مشخص می‌شد، تأثیری ماندگار بر هنر، موسیقی و جنبش‌های اجتماعی در سراسر جهان گذاشت.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 22:58:19"
+                },
+                {
+                    "english": "In the realm of technology, the current zeitgeist revolves around artificial intelligence and sustainability, driving innovation while raising ethical questions about the future.",
+                    "persian": "در قلمرو فناوری، روح زمانه کنونی حول محور هوش مصنوعی و پایداری می‌چرخد، که نوآوری را پیش می‌برد و در عین حال سؤالات اخلاقی درباره آینده مطرح می‌کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-04 11:47:43"
+                },
+                {
+                    "english": "The zeitgeist of modern literature often reflects a fragmented sense of identity, mirroring the complexities of a globalized world where cultures intersect and collide.",
+                    "persian": "روح زمانه ادبیات مدرن اغلب بازتاب‌دهنده حس هویت تکه‌تکه شده است، که پیچیدگی‌های جهان جهانی‌شده‌ای را منعکس می‌کند که در آن فرهنگ‌ها با هم تلاقی و برخورد می‌کنند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:16:15"
+                },
+                {
+                    "english": "Fashion designers, attuned to the zeitgeist, have begun incorporating eco-friendly materials into their collections, responding to the growing demand for sustainable practices.",
+                    "persian": "طراحان مد، که با روح زمانه هماهنگ هستند، شروع به استفاده از مواد سازگار با محیط زیست در مجموعه‌های خود کرده‌اند، که پاسخ به تقاضای فزاینده برای روش‌های پایدار است.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:16:48"
+                },
+                {
+                    "english": "The zeitgeist of contemporary politics is marked by polarization, as societies grapple with conflicting ideologies and the rapid dissemination of information through digital platforms.",
+                    "persian": "روح زمانه سیاست معاصر با قطبی‌شدن مشخص می‌شود، زیرا جوامع با ایدئولوژی‌های متضاد و انتشار سریع اطلاعات از طریق پلتفرم‌های دیجیتال دست و پنجه نرم می‌کنند.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:00:32"
+                }
+            ]
+        },
+        {
+            "word": "sangfroid",
+            "examples": [
+                {
+                    "english": "Despite the chaos of the courtroom, the lawyer maintained her sangfroid, delivering her closing argument with such composure that even the judge was visibly impressed.",
+                    "persian": "علیرغم هرج و مرج در دادگاه، وکیل خونسردی خود را حفظ کرد و دفاعیه نهایی خود را با چنان آرامشی ارائه داد که حتی قاضی به وضوح تحت تأثیر قرار گرفت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-28 20:04:01"
+                },
+                {
+                    "english": "The surgeon’s sangfroid during the high-stakes operation was nothing short of remarkable, her steady hands and calm demeanor ensuring the procedure’s success.",
+                    "persian": "خونسردی جراح در طول عمل پرریسک بسیار قابل توجه بود، دستان ثابت و رفتار آرام او موفقیت عمل را تضمین کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:41:30"
+                },
+                {
+                    "english": "In the face of the media frenzy, the politician displayed remarkable sangfroid, answering every question with clarity and confidence, deflecting attempts to provoke him.",
+                    "persian": "در مواجهه با هیجان رسانه‌ها، سیاستمدار خونسردی قابل توجهی از خود نشان داد، به هر سؤالی با وضوح و اطمینان پاسخ داد و تلاش‌ها برای تحریک او را خنثی کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 16:13:35"
+                },
+                {
+                    "english": "The pilot’s sangfroid averted disaster when the engine failed mid-flight, as he calmly communicated with air traffic control and guided the plane to a safe emergency landing.",
+                    "persian": "خونسردی خلبان از فاجعه جلوگیری کرد وقتی موتور در وسط پرواز از کار افتاد، او با آرامش با کنترل ترافیک هوایی ارتباط برقرار کرد و هواپیما را به یک فرود اضطراری ایمن هدایت کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 23:43:53"
+                },
+                {
+                    "english": "Even as the project deadline loomed and tensions ran high, the team leader’s sangfroid kept everyone focused, his unwavering calm serving as a stabilizing force.",
+                    "persian": "حتی زمانی که مهلت پروژه نزدیک می‌شد و تنش‌ها بالا گرفته بود، خونسردی رهبر تیم همه را متمرکز نگه داشت، آرامش ثابت او به عنوان نیروی تثبیت‌کننده عمل کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-01-30 20:20:59"
+                }
+            ]
+        },
+        {
+            "word": "parvenu",
+            "examples": [
+                {
+                    "english": "The parvenu businessman, though now a millionaire, struggled to navigate high society, his gauche remarks and flashy attire betraying his humble origins.",
+                    "persian": "تاجر تازه به دوران رسیده، اگرچه اکنون میلیونر بود، در جامعه سطح بالا مشکل داشت، اظهارات ناشیانه و لباس‌های چشم‌نوازش ریشه‌های فروتنانه‌اش را فاش می‌کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-06 00:12:03"
+                },
+                {
+                    "english": "At the gala, the parvenu’s attempts to impress with ostentatious displays of wealth only earned him sidelong glances and whispered criticisms from the established elite.",
+                    "persian": "در گالا، تلاش‌های تازه به دوران رسیده برای تحت تأثیر قرار دادن با نمایش‌های چشمگیر ثروت، فقط نگاه‌های کنایه‌آمیز و انتقادهای پچ‌پچ‌گونه از سوی نخبگان جاافتاده را برایش به ارمغان آورد.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:13:34"
+                },
+                {
+                    "english": "Though he had amassed a fortune overnight, the parvenu’s lack of refinement was evident in his brash demeanor and inability to grasp the subtleties of social etiquette.",
+                    "persian": "اگرچه او یک‌شبه ثروتی اندوخته بود، فقدان ظرافت تازه به دوران رسیده در رفتار گستاخانه‌اش و ناتوانی در درک ظرافت‌های آداب اجتماعی آشکار بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:07"
+                },
+                {
+                    "english": "The parvenu’s lavish mansion, filled with gaudy decor and oversized statues, stood in stark contrast to the understated elegance of his neighbors’ homes.",
+                    "persian": "عمارت مجلل تازه به دوران رسیده، پر از دکوراسیون زننده و مجسمه‌های بزرگ، در تضاد آشکار با ظرافت ساده خانه‌های همسایه‌هایش بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:35:42"
+                },
+                {
+                    "english": "Despite his newfound wealth, the parvenu remained an outsider among the old-money families, his attempts to buy their acceptance only deepening their disdain.",
+                    "persian": "علیرغم ثروت تازه‌یافته‌اش، تازه به دوران رسیده در میان خانواده‌های ثروتمند قدیمی یک غریبه باقی ماند، و تلاش‌هایش برای خرید پذیرش آن‌ها فقط تحقیرشان را عمیق‌تر کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 22:55:07"
+                }
+            ]
+        },
+        {
+            "word": "arriviste",
+            "examples": [
+                {
+                    "english": "The arriviste entrepreneur, known for his cutthroat business tactics, quickly rose to prominence, though his success was marred by accusations of unethical practices.",
+                    "persian": "کارآفرین تازه به ثروت رسیده، که به تاکتیک‌های بی‌رحم تجاری معروف بود، به سرعت به شهرت رسید، اگرچه موفقیت‌اش با اتهامات روش‌های غیراخلاقی خدشه‌دار شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:09:37"
+                },
+                {
+                    "english": "At the charity auction, the arriviste outbid everyone with a flamboyant display of wealth, his ostentatious behavior drawing both admiration and quiet scorn from the attendees.",
+                    "persian": "در حراج خیریه، تازه به ثروت رسیده با نمایش چشمگیر ثروت از همه پیشی گرفت، رفتار چشم‌نواز او هم تحسین و هم تحقیر آرام حاضران را برانگیخت.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:17:03"
+                },
+                {
+                    "english": "The arriviste’s rapid ascent in the corporate world was fueled by a ruthless ambition that left many colleagues questioning the cost of his meteoric rise.",
+                    "persian": "صعود سریع تازه به ثروت رسیده در دنیای شرکت‌ها با جاه‌طلبی بی‌رحمی تقویت شد که بسیاری از همکاران را به هزینه‌های صعود سریع‌اش مشکوک کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:00:21"
+                },
+                {
+                    "english": "Though the arriviste now owned a sprawling estate and a fleet of luxury cars, his inability to win the respect of the old guard revealed the limits of his newfound status.",
+                    "persian": "اگرچه تازه به ثروت رسیده اکنون صاحب یک ملک گسترده و ناوگانی از ماشین‌های لوکس بود، ناتوانی‌اش در کسب احترام نخبگان قدیمی محدودیت‌های جایگاه تازه‌یافته‌اش را آشکار کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:13:20"
+                },
+                {
+                    "english": "The arriviste’s lavish parties, attended by celebrities and socialites, were a desperate attempt to cement his place among the elite, yet whispers of his past misdeeds followed him like a shadow.",
+                    "persian": "مهمانی‌های مجلل تازه به ثروت رسیده، که توسط سلبریتی‌ها و افراد مشهور جامعه برگزار می‌شد، تلاشی ناامیدانه برای تثبیت جایگاه‌اش در میان نخبگان بود، اما پچ‌پچ‌های مربوط به خطاهای گذشته‌اش مانند سایه او را دنبال می‌کرد.",
+                    "difficulty": 2,
+                    "last_time_reviewed": "2025-02-05 22:44:04"
+                }
+            ]
+        },
+        {
+            "word": "melee",
+            "examples": [
+                {
+                    "english": "The protest escalated into a melee when clashes broke out between demonstrators and the police, turning the streets into a chaotic battleground.",
+                    "persian": "اعتراض به یک درگیری شدید تبدیل شد وقتی درگیری‌ها بین معترضان و پلیس شعله‌ور شد و خیابان‌ها را به یک میدان نبرد آشفته تبدیل کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-02 14:19:58"
+                },
+                {
+                    "english": "In the final moments of the game, a melee erupted on the field as players from both teams scrambled for the ball, their frustration boiling over into a physical altercation.",
+                    "persian": "در لحظات پایانی بازی، یک درگیری شدید در زمین به وجود آمد وقتی بازیکنان هر دو تیم برای گرفتن توپ تقلا کردند و ناامیدی‌شان به یک درگیری فیزیکی تبدیل شد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-01 17:39:59"
+                },
+                {
+                    "english": "The barroom melee began with a heated argument but quickly spiraled out of control, with chairs flying and bottles shattering as patrons joined the fray.",
+                    "persian": "درگیری شدید در بار با یک بحث داغ شروع شد اما به سرعت از کنترل خارج شد، صندلی‌ها به پرواز درآمدند و بطری‌ها شکستند وقتی مشتری‌ها به درگیری پیوستند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-06 00:00:52"
+                },
+                {
+                    "english": "During the evacuation, a melee broke out at the exits as panicked crowds pushed and shoved, each person desperate to escape the collapsing building.",
+                    "persian": "در طول تخلیه، یک درگیری شدید در خروجی‌ها به وجود آمد وقتی جمعیت وحشت‌زده هل می‌دادند و هُل می‌خوردند، هر فردی مشتاق بود از ساختمان در حال فروپاشی فرار کند.",
+                    "difficulty": 1,
+                    "last_time_reviewed": "2025-02-06 00:22:55"
+                },
+                {
+                    "english": "The political debate devolved into a melee of shouting and accusations, with neither side willing to listen, leaving the audience stunned by the lack of civility.",
+                    "persian": "مناظره سیاسی به یک درگیری شدید از فریاد و اتهام تبدیل شد، هیچ یک از طرفین تمایلی به گوش دادن نداشتند و این موضوع باعث شد حضار از فقدان ادب شوکه شوند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:12:06"
+                }
+            ]
+        }
+    ]
+}

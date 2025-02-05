@@ -1,0 +1,1044 @@
+{
+    "examples": [
+        {
+            "word": "invective",
+            "pronunciation": {
+                "british": "/ɪnˈvɛktɪv/",
+                "usa": "/ɪnˈvɛktɪv/"
+            },
+            "meaning": "harsh critical language",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "passive voice",
+                        "adverb clause"
+                    ],
+                    "english": "The politician's invective has been widely condemned, as it incites hatred rather than fostering constructive dialogue.",
+                    "persian": "انتقادات تند سیاستمدار به طور گسترده محکوم شده است، زیرا به جای ترویج گفتگوی سازنده، نفرت را برمی‌انگیزد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:21:53"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the journalist were less prone to invective, her arguments might be taken more seriously by the academic community.",
+                    "persian": "اگر روزنامه‌نگار کمتر از انتقادات تند استفاده می‌کرد، استدلال‌هایش ممکن بود بیشتر مورد توجه جامعه علمی قرار گیرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:38:23"
+                },
+                {
+                    "grammar": [
+                        "relative clause (non-definitive)",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The author, whose invective often overshadows his insights, has alienated many readers who once admired his work.",
+                    "persian": "نویسنده، که انتقادات تندش اغلب بر بینش‌هایش سایه می‌اندازد، بسیاری از خوانندگانی که زمانی کارهایش را تحسین می‌کردند را از خود دور کرده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:43:41"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "She will be delivering a speech tomorrow, in which she promises, 'I will refrain from invective and focus on solutions.'",
+                    "persian": "او فردا سخنرانی خواهد کرد و در آن قول می‌دهد: 'من از انتقادات تند خودداری کرده و روی راه‌حل‌ها تمرکز خواهم کرد.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 20:57:00"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "He had already apologized for his invective before the committee decided to take disciplinary action against him.",
+                    "persian": "او پیش از آنکه کمیته تصمیم به اقدام انضباطی علیه او بگیرد، به خاطر انتقادات تندش عذرخواهی کرده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 21:24:03"
+                }
+            ]
+        },
+        {
+            "word": "diatribe",
+            "pronunciation": {
+                "british": "/ˈdaɪətraɪb/",
+                "usa": "/ˈdaɪəˌtraɪb/"
+            },
+            "meaning": "a strong verbal attack against someone or something",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The professor's diatribe against modern technology, which he delivered during the lecture, left the students both amused and bewildered.",
+                    "persian": "انتقاد تند پروفسور علیه فناوری مدرن، که در طول سخنرانی ارائه کرد، دانشجویان را هم سرگرم و هم سردرگم کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:15:44"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the politician continues his diatribe against the media, he risks losing the support of even his most loyal followers.",
+                    "persian": "اگر سیاستمدار به انتقادات تند خود علیه رسانه‌ها ادامه دهد، خطر از دست دادن حمایت حتی وفادارترین طرفدارانش را دارد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:41:59"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "While he was delivering his diatribe, someone shouted, 'Enough! We need solutions, not accusations!'",
+                    "persian": "در حالی که او در حال بیان انتقادات تند خود بود، کسی فریاد زد: 'بس است! ما به راه‌حل نیاز داریم، نه اتهام!'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:16:19"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "By the end of the debate, she will have realized that her diatribe has only alienated potential allies.",
+                    "persian": "تا پایان مناظره، او متوجه خواهد شد که انتقادات تندش تنها متحدان بالقوه را از او دور کرده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:49:19"
+                },
+                {
+                    "grammar": [
+                        "present perfect continuous",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The activist, who has been delivering diatribes for years, is now being criticized for lacking constructive proposals.",
+                    "persian": "فعالی که سال‌هاست در حال بیان انتقادات تند است، اکنون به دلیل نداشتن پیشنهادات سازنده مورد انتقاد قرار گرفته است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:52:34"
+                }
+            ]
+        },
+        {
+            "word": "screed",
+            "pronunciation": {
+                "british": "/skriːd/",
+                "usa": "/skriːd/"
+            },
+            "meaning": "a long, tedious, speech or piece of writing",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The article, which reads like a screed, has been criticized for its lack of coherence and excessive length.",
+                    "persian": "مقاله، که شبیه یک نوشته طولانی و خسته‌کننده است، به دلیل عدم انسجام و طول بیش از حد مورد انتقاد قرار گرفته است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:00:15"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the author had avoided turning his thesis into a screed, it might have been more widely read and appreciated.",
+                    "persian": "اگر نویسنده از تبدیل پایان‌نامه خود به یک نوشته طولانی و خسته‌کننده اجتناب می‌کرد، ممکن بود بیشتر خوانده شود و مورد تحسین قرار گیرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:33:54"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "She had already written a screed before realizing that her audience preferred concise and actionable insights.",
+                    "persian": "او پیش از آنکه متوجه شود مخاطبانش بینش‌های مختصر و عملی را ترجیح می‌دهند، یک نوشته طولانی و خسته‌کننده نوشته بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:05:10"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "He will be delivering a screed at the conference, during which he plans to say, 'This issue requires more than just words.'",
+                    "persian": "او در کنفرانس یک سخنرانی طولانی و خسته‌کننده ارائه خواهد کرد و در آن قصد دارد بگوید: 'این موضوع به چیزی بیش از کلمات نیاز دارد.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:52:44"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The report, which has been dismissed as a screed, fails to address the complexities of the issue at hand.",
+                    "persian": "گزارش، که به عنوان یک نوشته طولانی و خسته‌کننده رد شده است، از پرداختن به پیچیدگی‌های موضوع مورد نظر بازمی‌ماند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:16:47"
+                }
+            ]
+        },
+        {
+            "word": "tirade",
+            "pronunciation": {
+                "british": "/tʌɪˈreɪd/",
+                "usa": "/taɪˈreɪd/"
+            },
+            "meaning": "an angry speech",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The manager's tirade, which lasted for over an hour, left the employees demoralized and unproductive for the rest of the day.",
+                    "persian": "سخنرانی عصبانی مدیر، که بیش از یک ساعت طول کشید، کارمندان را دلسرد و غیرمولد برای بقیه روز کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:49:17"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the coach delivers another tirade during practice, the players might lose respect for his leadership style.",
+                    "persian": "اگر مربی در طول تمرین سخنرانی عصبانی دیگری انجام دهد، بازیکنان ممکن است احترام خود را به سبک رهبری او از دست بدهند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:45:44"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "While he was launching into a tirade, one of the audience members interrupted, 'We've heard enough of your complaints!'",
+                    "persian": "در حالی که او در حال شروع یک سخنرانی عصبانی بود، یکی از حضار قطعش کرد و گفت: 'به اندازه کافی از شکایت‌های شما شنیده‌ایم!'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:49:19"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "By the end of the meeting, she will have realized that her tirade has only worsened the team's morale.",
+                    "persian": "تا پایان جلسه، او متوجه خواهد شد که سخنرانی عصبانی‌اش تنها روحیه تیم را بدتر کرده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:06:51"
+                },
+                {
+                    "grammar": [
+                        "present perfect continuous",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The politician, who has been delivering tirades for months, is now facing backlash for his lack of constructive proposals.",
+                    "persian": "سیاستمداری که ماه‌هاست در حال ارائه سخنرانی‌های عصبانی است، اکنون به دلیل نداشتن پیشنهادات سازنده با واکنش‌های منفی مواجه شده است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-06 00:06:49"
+                }
+            ]
+        },
+        {
+            "word": "harangue",
+            "pronunciation": {
+                "british": "/həˈraŋ/",
+                "usa": "/həˈræŋ/"
+            },
+            "meaning": "a lengthy and aggressive speech",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The activist's harangue, which lasted for hours, failed to persuade the audience due to its overly aggressive tone.",
+                    "persian": "سخنرانی طولانی و پرخاشگرانه فعال، که ساعتها طول کشید، به دلیل لحن بیش از حد تهاجمی‌اش نتوانست مخاطبان را متقاعد کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:04:06"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the speaker had avoided turning his presentation into a harangue, it might have been more effective in conveying his message.",
+                    "persian": "اگر سخنران از تبدیل ارائه خود به یک سخنرانی طولانی و پرخاشگرانه اجتناب می‌کرد، ممکن بود در انتقال پیام خود مؤثرتر باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-06 00:03:15"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "She had already delivered a harangue before realizing that her audience was more interested in dialogue than monologue.",
+                    "persian": "او پیش از آنکه متوجه شود مخاطبانش بیشتر به گفتگو علاقه‌مندند تا تک‌گویی، یک سخنرانی طولانی و پرخاشگرانه ارائه کرده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:56:26"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "He will be delivering a harangue at the rally, during which he plans to say, 'We must fight for our rights at all costs!'",
+                    "persian": "او در تجمع یک سخنرانی طولانی و پرخاشگرانه ارائه خواهد کرد و در آن قصد دارد بگوید: 'ما باید به هر قیمتی برای حقوق خود بجنگیم!'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:19:52"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The leader, whose harangues have become increasingly frequent, is now being criticized for his inability to listen to others.",
+                    "persian": "رهبری که سخنرانی‌های طولانی و پرخاشگرانه‌اش به طور فزاینده‌ای مکرر شده است، اکنون به دلیل ناتوانی در گوش دادن به دیگران مورد انتقاد قرار گرفته است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 21:26:35"
+                }
+            ]
+        },
+        {
+            "word": "vituperation",
+            "pronunciation": {
+                "british": "/vɪˌtjuːpəˈreɪʃ(ə)n/",
+                "usa": "/vɪˌtuːpəˈreɪʃ(ə)n/"
+            },
+            "meaning": "bitter and abusive language",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The critic's vituperation, which is often directed at emerging artists, has been criticized for its lack of constructive feedback.",
+                    "persian": "انتقادات تند و توهین‌آمیز منتقد، که اغلب به سمت هنرمندان نوظهور هدایت می‌شود، به دلیل عدم ارائه بازخورد سازنده مورد انتقاد قرار گرفته است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:43:07"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the author continues to face such vituperation, she might abandon her writing career altogether.",
+                    "persian": "اگر نویسنده همچنان با چنین انتقادات تند و توهین‌آمیزی مواجه شود، ممکن است به طور کلی حرفه نویسندگی را رها کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:19:58"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "While he was subjected to vituperation, one of his supporters shouted, 'This is not criticism; this is bullying!'",
+                    "persian": "در حالی که او مورد انتقادات تند و توهین‌آمیز قرار گرفته بود، یکی از حامیانش فریاد زد: 'این انتقاد نیست؛ این زورگویی است!'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:12:16"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "By the end of the debate, she will have realized that her vituperation has only alienated potential allies.",
+                    "persian": "تا پایان مناظره، او متوجه خواهد شد که انتقادات تند و توهین‌آمیزش تنها متحدان بالقوه را از او دور کرده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:31:12"
+                },
+                {
+                    "grammar": [
+                        "present perfect continuous",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The politician, who has been facing vituperation for months, is now considering withdrawing from public life.",
+                    "persian": "سیاستمداری که ماه‌هاست با انتقادات تند و توهین‌آمیز مواجه شده است، اکنون در حال بررسی خروج از زندگی عمومی است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:47:43"
+                }
+            ]
+        },
+        {
+            "word": "precipitate",
+            "pronunciation": {
+                "british": "/prɪˈsɪpɪteɪt/",
+                "usa": "/prɪˈsɪpɪteɪt/"
+            },
+            "meaning": "to be hasty or rash; to make something happen suddenly; the part of a solution left in a test tube after a reaction",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The scientist observed the precipitate, which formed at the bottom of the test tube, as evidence of a chemical reaction.",
+                    "persian": "دانشمند رسوبی را که در ته لوله آزمایش تشکیل شده بود، به عنوان شواهدی از یک واکنش شیمیایی مشاهده کرد.",
+                    "difficulty": 5,
+                    "last_time_reviewed": "2025-02-05 20:29:40"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the government had not acted in such a precipitate manner, the economic crisis might have been avoided.",
+                    "persian": "اگر دولت به این شکل عجولانه عمل نکرده بود، ممکن بود از بحران اقتصادی جلوگیری شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 22:00:59"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "She had already warned against precipitate decisions before the committee rushed into implementing the new policy.",
+                    "persian": "او پیش از آنکه کمیته عجله‌کنانه تصمیم به اجرای سیاست جدید بگیرد، در مورد تصمیمات عجولانه هشدار داده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:41:05"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "He will be analyzing the precipitate during the experiment, saying, 'This could be the key to understanding the reaction.'",
+                    "persian": "او در طول آزمایش رسوب را تحلیل خواهد کرد و می‌گوید: 'این می‌تواند کلید درک واکنش باشد.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:41:44"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The precipitate, which has been collected for further analysis, might hold the answer to the experiment's unexpected results.",
+                    "persian": "رسوبی که برای تحلیل بیشتر جمع‌آوری شده است، ممکن است پاسخ نتایج غیرمنتظره آزمایش را در خود داشته باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:59:06"
+                }
+            ]
+        },
+        {
+            "word": "amalgam",
+            "pronunciation": {
+                "british": "/əˈmalɡəm/",
+                "usa": "/əˈmælɡəm/"
+            },
+            "meaning": "a mixture of two or more things",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The city's culture, which is an amalgam of traditions from around the world, is celebrated for its diversity and vibrancy.",
+                    "persian": "فرهنگ شهر، که ترکیبی از سنت‌های سراسر جهان است، به دلیل تنوع و پویایی‌اش مورد تحسین قرار گرفته است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:16:33"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the artist continues to create such an amalgam of styles, her work might redefine contemporary art.",
+                    "persian": "اگر هنرمند به ایجاد چنین ترکیبی از سبک‌ها ادامه دهد، کارهایش ممکن است هنر معاصر را بازتعریف کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:33:45"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "While he was describing the amalgam, he remarked, 'This is not just a mixture; it's a fusion of ideas.'",
+                    "persian": "در حالی که او در حال توصیف ترکیب بود، اشاره کرد: 'این فقط یک مخلوط نیست؛ این ادغام ایده‌ها است.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:00:27"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "By the end of the project, they will have created an amalgam that combines the best elements of both designs.",
+                    "persian": "تا پایان پروژه، آنها ترکیبی ایجاد خواهند کرد که بهترین عناصر هر دو طراحی را در خود دارد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 22:00:01"
+                },
+                {
+                    "grammar": [
+                        "present perfect continuous",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The amalgam, which has been evolving over the years, now represents a unique blend of tradition and innovation.",
+                    "persian": "ترکیبی که طی سال‌ها تکامل یافته است، اکنون نشان‌دهنده ترکیبی منحصر به فرد از سنت و نوآوری است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:08:47"
+                }
+            ]
+        },
+        {
+            "word": "insolvent",
+            "pronunciation": {
+                "british": "/ɪnˈsɒlv(ə)nt/",
+                "usa": "/ɪnˈsɑːlvənt/"
+            },
+            "meaning": "to not be able to pay off one's debts",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The company, which is now insolvent, has been forced to lay off hundreds of employees to cut costs.",
+                    "persian": "شرکتی که اکنون ورشکسته است، مجبور شده صدها کارمند را به منظور کاهش هزینه‌ها اخراج کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 22:00:26"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the business had not expanded so rapidly, it might not have become insolvent during the economic downturn.",
+                    "persian": "اگر کسب‌وکار به این سرعت گسترش نمی‌یافت، ممکن بود در دوران رکود اقتصادی ورشکسته نشود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:18:34"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "He had already declared the company insolvent before the creditors could take legal action against him.",
+                    "persian": "او پیش از آنکه طلبکاران بتوانند علیه او اقدام قانونی انجام دهند، شرکت را ورشکسته اعلام کرده بود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:21:42"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "The CEO will be addressing the shareholders tomorrow, saying, 'We must find a way to avoid becoming insolvent.'",
+                    "persian": "مدیرعامل فردا در جلسه سهامداران سخنرانی خواهد کرد و می‌گوید: 'ما باید راهی برای جلوگیری از ورشکستگی پیدا کنیم.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:22:12"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The firm, which has been insolvent for months, is now seeking investors to help it recover from financial collapse.",
+                    "persian": "شرکتی که ماه‌هاست ورشکسته است، اکنون در حال جستجوی سرمایه‌گذارانی است که به آن کمک کنند تا از فروپاشی مالی بهبود یابد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:49:56"
+                }
+            ]
+        },
+        {
+            "word": "catalyst",
+            "pronunciation": {
+                "british": "/ˈkat(ə)lɪst/",
+                "usa": "/ˈkæt(ə)lɪst/"
+            },
+            "meaning": "anything that speeds up an event",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The new policy, which acts as a catalyst for change, has already inspired several innovative projects in the community.",
+                    "persian": "سیاست جدید، که به عنوان یک کاتالیزور برای تغییر عمل می‌کند، تاکنون چندین پروژه نوآورانه در جامعه الهام بخشیده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:33:56"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the discovery proves to be a catalyst for further research, it could revolutionize the field of medicine.",
+                    "persian": "اگر این کشف به عنوان کاتالیزوری برای تحقیقات بیشتر عمل کند، می‌تواند زمینه پزشکی را متحول کند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:54:47"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "While discussing the catalyst, the scientist remarked, 'This could be the breakthrough we've been waiting for.'",
+                    "persian": "در حالی که در مورد کاتالیزور بحث می‌کرد، دانشمند اشاره کرد: 'این می‌تواند پیشرفتی باشد که منتظرش بودیم.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:20:56"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "By the end of the decade, this technology will have served as a catalyst for numerous advancements in renewable energy.",
+                    "persian": "تا پایان این دهه، این فناوری به عنوان کاتالیزوری برای پیشرفت‌های متعدد در انرژی‌های تجدیدپذیر عمل خواهد کرد.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:01:02"
+                },
+                {
+                    "grammar": [
+                        "present perfect continuous",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The catalyst, which has been accelerating the reaction, is now being studied for its potential applications in other fields.",
+                    "persian": "کاتالیزوری که واکنش را تسریع کرده است، اکنون به دلیل کاربردهای بالقوه‌اش در سایر زمینه‌ها در حال مطالعه است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:17:49"
+                }
+            ]
+        },
+        {
+            "word": "slapdash",
+            "pronunciation": {
+                "british": "/ˈslapdaʃ/",
+                "usa": "/ˈslæpˌdæʃ/"
+            },
+            "meaning": "careless; hastily put together",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The report, which was prepared in a slapdash manner, has been criticized for its numerous errors and lack of detail.",
+                    "persian": "گزارشی که به صورت عجولانه تهیه شده است، به دلیل اشتباهات متعدد و عدم جزئیات مورد انتقاد قرار گرفته است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:55:28"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the team had not taken such a slapdash approach, the project might have been completed on time and within budget.",
+                    "persian": "اگر تیم چنین رویکرد عجولانه‌ای نداشت، ممکن بود پروژه به موقع و در چارچوب بودجه تکمیل شود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:21:02"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "She had already noticed the slapdash workmanship before the client pointed out the flaws in the design.",
+                    "persian": "او پیش از آنکه مشتری نقص‌های طراحی را اشاره کند، متوجه کارmanship عجولانه شده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:56:55"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "He will be addressing the team tomorrow, saying, 'We cannot afford another slapdash effort if we want to succeed.'",
+                    "persian": "او فردا در جلسه تیم سخنرانی خواهد کرد و می‌گوید: 'اگر می‌خواهیم موفق شویم، نمی‌توانیم تلاش عجولانه دیگری داشته باشیم.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:10:37"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The construction, which has been criticized for its slapdash quality, is now being reviewed by a team of experts.",
+                    "persian": "ساختمانی که به دلیل کیفیت عجولانه‌اش مورد انتقاد قرار گرفته است، اکنون توسط تیمی از کارشناسان در حال بررسی است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:47:23"
+                }
+            ]
+        },
+        {
+            "word": "heyday",
+            "pronunciation": {
+                "british": "/ˈheɪdeɪ/",
+                "usa": "/ˈheɪˌdeɪ/"
+            },
+            "meaning": "the pinnacle of a person's life, time period, or career",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The artist, whose heyday was in the 1980s, is now being rediscovered by a new generation of art enthusiasts.",
+                    "persian": "هنرمندی که اوج دورانش در دهه 1980 بود، اکنون توسط نسل جدیدی از علاقه‌مندان به هنر دوباره کشف می‌شود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 20:55:05"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the industry returns to its heyday, it could create thousands of jobs and boost the economy significantly.",
+                    "persian": "اگر صنعت به دوران اوج خود بازگردد، می‌تواند هزاران شغل ایجاد کند و اقتصاد را به طور قابل توجهی تقویت کند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:14:42"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "While reminiscing about his heyday, he said, 'Those were the days when everything seemed possible.'",
+                    "persian": "در حالی که از دوران اوج خود یاد می‌کرد، گفت: 'آن روزها زمانی بود که همه چیز ممکن به نظر می‌رسید.'",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:20:31"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "By the end of the decade, the city will have regained its heyday as a cultural and economic hub.",
+                    "persian": "تا پایان این دهه، شهر دوران اوج خود را به عنوان یک مرکز فرهنگی و اقتصادی بازخواهد یافت.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:16:21"
+                },
+                {
+                    "grammar": [
+                        "present perfect continuous",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The industry, which has been struggling since its heyday, is now showing signs of recovery due to recent innovations.",
+                    "persian": "صنعتی که از دوران اوج خود در حال تقلا بوده است، اکنون به دلیل نوآوری‌های اخیر نشانه‌هایی از بهبود را نشان می‌دهد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:54:49"
+                }
+            ]
+        },
+        {
+            "word": "hodgepodge",
+            "pronunciation": {
+                "british": "/ˈhɒdʒpɒdʒ/",
+                "usa": "/ˈhɑːdʒpɑːdʒ/"
+            },
+            "meaning": "a confusing mixture or jumble",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The museum's collection, which is a hodgepodge of artifacts from different eras, offers a fascinating glimpse into history.",
+                    "persian": "مجموعه موزه، که ترکیبی گیج‌کننده از آثار هنری از دوره‌های مختلف است، نگاهی جذاب به تاریخ ارائه می‌دهد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:21:28"
+                },
+                {
+                    "grammar": [
+                        "conditional type 2",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the book had not been such a hodgepodge of ideas, it might have been more coherent and easier to follow.",
+                    "persian": "اگر کتاب چنین ترکیبی گیج‌کننده‌ای از ایده‌ها نبود، ممکن بود منسجم‌تر و قابل فهم‌تر باشد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:34:56"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "She had already described the plan as a hodgepodge before the team realized how disorganized it truly was.",
+                    "persian": "او پیش از آنکه تیم متوجه شود چقدر برنامه بی‌نظم است، آن را به عنوان ترکیبی گیج‌کننده توصیف کرده بود.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:48:28"
+                },
+                {
+                    "grammar": [
+                        "future continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "He will be presenting the proposal tomorrow, saying, 'We need to avoid turning this into a hodgepodge of unrelated ideas.'",
+                    "persian": "او فردا پیشنهاد را ارائه خواهد کرد و می‌گوید: 'ما باید از تبدیل این به ترکیبی گیج‌کننده از ایده‌های نامرتبط اجتناب کنیم.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:08:04"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The policy, which has been criticized as a hodgepodge of conflicting measures, is now being revised to ensure greater coherence.",
+                    "persian": "سیاستی که به عنوان ترکیبی گیج‌کننده از اقدامات متضاد مورد انتقاد قرار گرفته است، اکنون برای اطمینان از انسجام بیشتر در حال بازنگری است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 22:20:53"
+                }
+            ]
+        },
+        {
+            "word": "aboveboard",
+            "pronunciation": {
+                "british": "/əˌbʌvˈbɔːd/",
+                "usa": "/əˌbʌvˈbɔːrd/"
+            },
+            "meaning": "open and honest",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The negotiations, which have been conducted in an aboveboard manner, have earned the trust of all parties involved.",
+                    "persian": "مذاکراتی که به صورت صادقانه و شفاف انجام شده است، اعتماد همه طرف‌های درگیر را جلب کرده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:58:49"
+                },
+                {
+                    "grammar": [
+                        "conditional type 1",
+                        "modals",
+                        "noun clause"
+                    ],
+                    "english": "If the company remains aboveboard in its dealings, it will continue to enjoy a strong reputation in the industry.",
+                    "persian": "اگر شرکت در معاملات خود صادقانه و شفاف باقی بماند، به داشتن شهرت قوی در صنعت ادامه خواهد داد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:59:52"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "direct speech",
+                        "adverb clause"
+                    ],
+                    "english": "While discussing the contract, he said, 'We must ensure that everything is aboveboard to avoid any legal issues.'",
+                    "persian": "در حالی که در مورد قرارداد بحث می‌کرد، گفت: 'ما باید مطمئن شویم که همه چیز صادقانه و شفاف است تا از هرگونه مشکل قانونی جلوگیری کنیم.'",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:58:17"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "indirect speech",
+                        "adverb clause"
+                    ],
+                    "english": "By the end of the investigation, they will have confirmed that all transactions were aboveboard and transparent.",
+                    "persian": "تا پایان بررسی، آنها تأیید خواهند کرد که همه معاملات صادقانه و شفاف بوده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:09:35"
+                },
+                {
+                    "grammar": [
+                        "present perfect continuous",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The organization, which has been operating aboveboard for decades, is now being recognized for its integrity and transparency.",
+                    "persian": "سازمانی که دهه‌هاست به صورت صادقانه و شفاف فعالیت می‌کند، اکنون به دلیل صداقت و شفافیت‌اش مورد تحسین قرار گرفته است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-06 00:12:46"
+                }
+            ]
+        },
+        {
+            "word": "thoroughgoing",
+            "pronunciation": {
+                "british": "/ˌθʌr.əˈɡəʊ.ɪŋ/",
+                "usa": "/ˌθɝː.oʊˈɡoʊ.ɪŋ/"
+            },
+            "meaning": "complete and thorough; absolute",
+            "examples": [
+                {
+                    "grammar": [
+                        "present perfect",
+                        "adjective clause",
+                        "connective relative clause"
+                    ],
+                    "english": "The thoroughgoing reforms, which have been implemented over the past decade, have transformed the economic landscape significantly.",
+                    "persian": "اصلاحات جامع و کامل، که در طول دهه گذشته اجرا شده‌اند، چشم‌انداز اقتصادی را به طور قابل توجهی تغییر داده‌اند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:59:33"
+                },
+                {
+                    "grammar": [
+                        "future perfect",
+                        "conditional type 2 (reverse)",
+                        "adverb clause"
+                    ],
+                    "english": "By 2030, the government will have achieved a thoroughgoing overhaul of the education system, if it were to prioritize such changes now.",
+                    "persian": "تا سال 2030، دولت یک بازنگری کامل و جامع در سیستم آموزشی انجام خواهد داد، اگر اکنون چنین تغییراتی را در اولویت قرار دهد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:41:59"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "noun clause",
+                        "despite"
+                    ],
+                    "english": "A thoroughgoing investigation into the matter is being demanded, despite the lack of evidence that has been presented so far.",
+                    "persian": "یک بررسی کامل و جامع در مورد این موضوع درخواست شده است، علیرغم فقدان شواهدی که تاکنون ارائه شده است.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:57:09"
+                },
+                {
+                    "grammar": [
+                        "present continuous",
+                        "relative clause (non-definitive)",
+                        "though"
+                    ],
+                    "english": "The committee is conducting a thoroughgoing review of the policies, though some members are still skeptical about its outcomes.",
+                    "persian": "کمیته در حال انجام یک بازبینی کامل و جامع از سیاست‌ها است، هرچند برخی از اعضا هنوز در مورد نتایج آن تردید دارند.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 20:58:08"
+                },
+                {
+                    "grammar": [
+                        "past perfect",
+                        "conditional type 0",
+                        "so that"
+                    ],
+                    "english": "The team had ensured a thoroughgoing analysis of the data so that any potential errors could be identified and corrected immediately.",
+                    "persian": "تیم یک تحلیل کامل و جامع از داده‌ها انجام داده بود تا هرگونه خطای احتمالی شناسایی و بلافاصله اصلاح شود.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:31:25"
+                }
+            ]
+        },
+        {
+            "word": "telltale",
+            "pronunciation": {
+                "british": "/ˈtel.teɪl/",
+                "usa": "/ˈtel.teɪl/"
+            },
+            "meaning": "revealing or indicating something",
+            "examples": [
+                {
+                    "grammar": [
+                        "present simple",
+                        "relative clause (non-definitive)",
+                        "adverb clause"
+                    ],
+                    "english": "The telltale signs of climate change, which are becoming increasingly evident, include rising sea levels and extreme weather patterns.",
+                    "persian": "نشانه‌های آشکار تغییرات آب‌وهوایی، که به طور فزاینده‌ای مشهود هستند، شامل افزایش سطح دریاها و الگوهای آب‌وهوایی شدید است.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:02:56"
+                },
+                {
+                    "grammar": [
+                        "future simple",
+                        "conditional type 2",
+                        "noun clause"
+                    ],
+                    "english": "If the telltale symptoms persist, the doctor will recommend further diagnostic tests to identify the underlying cause.",
+                    "persian": "اگر علائم آشکار ادامه یابد، پزشک آزمایش‌های تشخیصی بیشتری را برای شناسایی علت اصلی توصیه خواهد کرد.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-05 23:42:03"
+                },
+                {
+                    "grammar": [
+                        "passive voice",
+                        "despite",
+                        "adjective clause"
+                    ],
+                    "english": "The telltale marks on the artifact were ignored, despite their potential to reveal the object's true origin.",
+                    "persian": "نشانه‌های آشکار روی اثر باستانی نادیده گرفته شدند، علیرغم پتانسیل آن‌ها برای آشکار کردن منشأ واقعی شیء.",
+                    "difficulty": 4,
+                    "last_time_reviewed": "2025-02-04 21:46:54"
+                },
+                {
+                    "grammar": [
+                        "past continuous",
+                        "though",
+                        "connective relative clause"
+                    ],
+                    "english": "The detective was examining the telltale clues at the scene, though the evidence seemed inconclusive at first glance.",
+                    "persian": "کارآگاه در حال بررسی سرنخ‌های آشکار در صحنه بود، هرچند شواهد در نگاه اول نامشخص به نظر می‌رسید.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 23:06:04"
+                },
+                {
+                    "grammar": [
+                        "present perfect",
+                        "so that",
+                        "adverb clause"
+                    ],
+                    "english": "The researchers have documented the telltale patterns in the data so that future studies can build upon their findings.",
+                    "persian": "محققان الگوهای آشکار در داده‌ها را مستند کرده‌اند تا مطالعات آینده بتوانند بر یافته‌های آن‌ها بنا شوند.",
+                    "difficulty": 3,
+                    "last_time_reviewed": "2025-02-05 22:52:55"
+                }
+            ]
+        }
+    ]
+}
